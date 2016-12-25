@@ -1,0 +1,1 @@
+<!--hidevar password;var pass1="1060to1220";password=prompt('Please enter your password to view this page',' ');if (password==pass1)alert('Password correct. Please click OK to enter');else{window.location="../index.html";}//-->

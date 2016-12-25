@@ -1,0 +1,1832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/EM.rnc" type="compact"?>
+<!-- use stylesheet: EM-b-noSurrogate.xsl -->
+
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                     The Production and Use of English Manuscripts: 1060 to 1220
+                </title>
+                <author>
+                  Elaine Treharne 
+                </author>
+                
+            </titleStmt>     
+            
+            <publicationStmt>
+                <p></p>
+            </publicationStmt>
+            
+            <sourceDesc>
+                <p></p>
+            </sourceDesc>
+        </fileDesc>
+        
+        <revisionDesc>
+            <change when="2009-06-15" n="1" who="bwg">
+                Initial file creation - bwg; rewrite of previous file. Material taken from that file noted hereunder. 
+            </change>
+        </revisionDesc>
+        
+    </teiHeader>
+    <text>
+        <body>
+    
+            <msDesc xml:id="EM.BL.Vesp.D.xiv"> <!-- An older version of this file sets id attribute to EMMS3, 
+                                                but this is the current identifier in mss_names.htm -->
+                <msIdentifier>
+                    <country>United Kingdom</country> 
+                    <settlement>London</settlement>
+                    <repository>British Library</repository>
+                    <collection>Cotton</collection>
+                    <idno>Vespasian D. xiv</idno>
+                </msIdentifier>
+            
+            
+                <head> 
+                    <title>Homilies, etc.</title>
+                    <date notBefore="1150" notAfter="1199">s. xii<hi rend="sup">med</hi></date>            
+                </head>
+            
+                <msContents>
+                    <summary n="metatextual">
+                        <phr>A broad collection of homiletic, hagiographic and educative material, much of it drawn from
+                            the <title type="uniform">first</title> and <title type="uniform">second series of Ælfric's <hi rend="title">Catholic Homilies</hi></title>. Among the materials not attributed to Ælfric
+                            are the <title type="uniform" xml:lang="en">Anonymous Homilies
+                               , Homilies for Specified Occasions, Sanctorale: Saint Neot</title> (<ref type="item" target="44">fols 145v-51r</ref>), a <title type="uniform">homily on the Phoenix</title> (<ref type="item" target="50">fols 166r-68r</ref>), the Old English <title><hi rend="title">Dicts of Cato</hi></title> (<ref type="item" target="5">fols 7r-11v</ref>), 
+                        a collection of prognostications (<ref type="item" target="28">fol.
+                            75v</ref>), the <ref type="item" target="39"><hi rend="title">Vision of St Furseus</hi></ref>, translations of a homily by <name type="person">Ralph d'Escures</name> on the Virgin Mary (<ref type="item" target="45">fols 151v-58r</ref>), and extracts from the <title><hi rend="title">Elucidarium</hi>
+                        of Honorius Augustodunensis</title> (<ref type="item" target="47">fols
+                        159r-63v</ref>, <ref type="item" target="48">163v-65r</ref>).  Also
+                            present are portions of Ælfric's <title type="uniform">Letters: Letter to Sigefyrð</title> (<ref type="item" target="4">fol. 6v</ref>) and <title type="uniform">Letters: First Old English Letter for Wulfstan</title> (<ref type="item" target="7">fols 13v-15r</ref>, <ref type="item" target="27">75r-v</ref>), and many other short texts, some of which are extracts from longer English works, and others of which are composite texts filling previously blank parts of folios. 
+                        A copy of Isidore's <hi rend="title">Synonyma</hi> is among a number
+                        of Latin texts comprising a second volume written in a continental hand of s. ix, bound together
+                        with the twelfth-century English collection at least since <name type="person">Cotton</name>'s acquisition. The former volume has a few glosses 
+                            in English in drypoint. The first and second items in the manuscript assist in understanding the provenance of the English collection, which seems to be in the hands of an 'ancilla' by the later twelfth-century. The same hand, in the second item on fol. 4r, writes a prayer concerning <name type="person">Thomas Becket</name>, who was 'recalled from exile to our [or "his"] own church', suggesting that this prayer was written, perhaps, in <name type="place">Canterbury</name>. It may be that the writer ('ego ancilla') was a member of <name type="org">St Sepulchre's</name>, a nunnery founded by <name type="person">Anselm</name> to the south-east of <name type="place">Christ Church</name>. While the origin of Vespasian D. xiv has been variously posited as <name type="place">Christ Church</name> (see <ref target="#han157">Handley</ref> 1974) or <name type="place">Rochester</name> (see <ref target="#ric150">Richards</ref> 1979), incremental evidence does point more convincingly to <name type="place">Canterbury</name>.</phr>
+                    </summary>
+                    
+                    <!-- TODO: Add msitem for non-English items -->
+                
+
+                    <msItem class="main">
+                        <locus from="4r" to="4r">Fol. 4r/1-13</locus>
+                        <title type="supplied" xml:lang="lt"  >Prayer to the Virgin Mary</title>
+                        <rubric type="initial" xml:lang="lt">Oratio de s<expan>an</expan>c<expan>t</expan>a maria matre
+                            d<expan>omini.</expan></rubric>
+                        <incipit xml:lang="lt">O dulcissima d<expan>omi</expan>n<expan>a</expan> maria pietatis et misericordie</incipit>
+                        <explicit xml:lang="lt">Aue maria <lb/>g<expan>rat</expan>ia plena
+                                d<expan>omi</expan>nus tecu<expan>m</expan>
+                            be<expan>nedictum</expan> i<expan>n</expan> mul<expan>tis</expan></explicit>
+                        <textLang mainLang="lt">Latin</textLang>
+                        <filiation/>
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 54</bibl>
+                        </listBibl>
+                    </msItem>
+
+                    <msItem class="main">
+                        <locus from="4r" to="4r">Fol. 4r/14-19</locus>
+                        <title type="supplied" xml:lang="lt">Prayer to St. Thomas</title>
+                        <incipit xml:lang="lt">D<expan>eu</expan>s q<expan>u</expan>i
+                            beatu<expan>m</expan> Thoma<expan>m</expan>
+                                archip<expan>re</expan>sule<expan>m</expan><lb/>ab exilio
+                                reuocatu<expan>m</expan> in eccl<expan>e</expan>sia propria. </incipit>
+                        <explicit xml:lang="lt">P<expan>er</expan>
+                            d<expan>omi</expan>n<expan>u</expan>m
+                            n<expan>ost</expan>r<expan>u</expan>m Ih<expan>esu</expan>m
+                            Am<expan>en</expan>.</explicit>
+                        <textLang mainLang="lt">Latin</textLang>
+                        <filiation/>
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref> Art. 54</bibl>
+                        </listBibl>
+                    </msItem>
+                	
+                    <msItem class="main">
+                        <locus from="4v/1" to="6v/14">Fols 4v/1-6v/14</locus>
+                        <title type="uniform" xml:id="B.1.1.2">Ælfric, First Series of Homilies [Catholic Homilies I]: De Initio Creaturae</title>
+                       <!-- <title type="supplied">An adapted version of Ælfric, <hi rend="title">Catholic Homilies</hi>,
+                            <hi rend="title">De initio creaturae</hi>
+                        </title> -->
+                        <textLang mainLang="en">English</textLang>
+                        <note type="main">Text ends mid-page.</note>
+                        <incipit xml:lang="en">
+                            <locus>fol. 4v/1-2</locus>
+                            AN anginn is ealra þingen. þ<expan>æt</expan> is god<lb/> ælmihtig.                        
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 6v/13-14</locus>
+                            ˥ hine þæt gelogode. <lb/> ac he ƿearð þurh deofles sƿicdome ut adræ<lb/>fd
+                        </explicit>
+                        <listBibl>
+                        	   <bibl><ref target="#ker44">Ker 1957</ref>, Art. 1</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 1, pp. 1-3</bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, pp. 8-12</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref> pp. 178-89</bibl>
+                        </listBibl>
+                    </msItem>
+                
+                    <msItem class="main">
+                        <locus from="6v/14" to="6v/22">Fol. 6v/14-22</locus>
+                        <title type="uniform" xml:id="B.1.8.5">Ælfric, Letters: Letter to Sigefyrð</title>
+                        <textLang mainLang="en">English</textLang>                        
+                        <rubric type="initial">
+                            <locus>fol. 6v/14</locus>
+                            Emb Clænnysse þe gehadede mæn healden scy<lb/>len <!-- Thus in ASMMF; unreadable in facs. -->
+                        </rubric>
+                        <incipit xml:lang="en">
+                            <locus>fol. 6v/15</locus>
+                            Ælfric abbod gret Sigefryð.ʹ freondlice
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 6v/21-22</locus>
+                            Nu secge ic þe leofe man þ<expan>æt</expan> me is lað to tælen<lb/>
+                            ægne godes freond.ʹ gyf he godes riht drifð.
+                        </explicit>
+<note type="main">Fragment.</note>
+                    	<listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 2</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 2, p. 3</bibl>
+                            <bibl><ref target="#ass389">Assmann <hi rend="title">Angelsächsiche</hi>, 1889</ref>, p. 13</bibl>
+                            <bibl><ref target="#wil130">Wilcox 1994</ref>, p. 125, no. 8d, cf. 83-4</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="7r/1" to="11v/21">Fols 7r/1-11v/21</locus>
+                        <title type="uniform" xml:id="B.7.1" xml:lang="en">Proverbs: Distichs of Cato</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 7r/1-2</locus>
+                            Mann sceal þurh his modes snoternysse<lb/>
+                            hine sylfre geglengen to ƿisre lare.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 11v/19-21</locus>
+                        	Ne nym þu medsceattes<lb/>for heo ablændeð ƿisra
+                            manna geðancas. ˥ ƿæn<lb/>deð rihtƿisra ƿord.
+                        </explicit>
+                    	                        <listBibl>
+                    	                       <bibl><ref target="#cox572">Cox 1972</ref></bibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 2</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 2, p. 3</bibl>
+                            <bibl><ref target="#ass389">Assmann <hi rend="title">Angelsächsiche</hi>, 1889</ref>, p. 13</bibl>
+                            <bibl><ref target="#wil130">Wilcox 1994</ref>, p. 125, no. 8d, cf. 83-4</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="12r/1" to="13v/7">Fols 12r/1-13v/7</locus>
+                        <title type="uniform" xml:id="B.1.1.22" xml:lang="en">Ælfric, First Series of Homilies [Catholic Homilies I]: Feria III de fide catholica</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 12r/1-2</locus>
+                            AN Scyppend is ealra þingen geseoƿenlicre<lb/> ˥ ungeseoƿenlicre.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 13v/6-7</locus>
+                            For þan þe heo hæfeð<lb/> þry þing on hire untodælendlice ƿyrcende.
+                        </explicit>
+                    	                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 4</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 4, pp. 8-9</bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, pp. 274-76, 282, 288</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, pp. 335-36, 341-42, II. 7-38, 112-13, 185-208</bibl>
+                        </listBibl>
+                    </msItem>
+                	
+                       
+                	
+                    <msItem class="main">
+                        <locus from="13v/8" to="15r/19">Fols 13v/8-15r/19</locus>
+                        <title type="uniform" xml:id="B.1.8.3">Ælfric, Letters: Second Old English Letter for Wulfstan</title><title>extract</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 13v/8</locus>
+                            Decalogum moysi.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                           <locus>fol. 13v/9-10</locus>
+                            ƿe sculen cunnen gemyndelice ˥ mannen eac<lb/> seggen. þa ten ælice ƿord þe god tæhte moysen.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 15r/18-19</locus>
+                            ˥ us þe nu<lb/> synden.ʹ æfter 
+                            <!-- CHECK: Is this expansion correct? --><expan>christ</expan>es acænnednysse.
+                        </explicit>
+                    	<listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 5</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 5, pp. 9-11</bibl>
+                            <bibl><ref target="#feh573">Fehr 1914</ref>, pp. 189-205</bibl>
+                        </listBibl>
+                    	
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="15r/19" to="21r/20">Fols 15r/19-21r/20</locus>
+                        <title type="uniform" xml:id="B.1.6.2" xml:lang="en">Ælfric, Tracts: De Duodecim Abusivis</title>                       
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 15r/19-20</locus>
+                            De .xii. abu<lb/>siuis
+                            s<expan>e</expan>c<expan>un</expan>d<expan>em</expan>
+                            disputatione S<expan>an</expan>c<expan>t</expan>i
+                            Cipriani martyris.
+                        </rubric>
+                        <incipit xml:lang="en">
+                            <locus>fol. 15r/21-2</locus>
+                            Nu synd tƿelf abusiua . þ<expan>æt</expan> synd tƿelf unðeaƿes<lb/>
+                            þe ƿe eoƿ secgeð onleden.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 21r/18-20</locus>
+                            þ<expan>æt</expan> hé ure faƿlen un<lb/>derfo. þe he asænde to þan lichamen. by him a<lb/>
+                            ƿuldor ˥ ƿurðmynt. amen.
+                        </explicit>
+                        <textLang mainLang="en">English</textLang>
+                        <filiation/>
+                    	                        
+                    	<filiation/>
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 6</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 6, pp. 11-16</bibl>
+                            <bibl><ref target="#mor580">Morris 1867-68</ref>, pp. 299-304</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="21r/20" to="22r/19">Fols 21r/20 - 22r/19</locus>
+                        <title type="uniform" xml:id="B.1.3.17" xml:lang="en">Ælfric, Third Series of Homilies [Lives of Saints]: Memory of the Saints</title>
+                       <title>extracts</title> <textLang mainLang="en">English</textLang>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 21r/20</locus>
+                            De .via. principalib<expan>is</expan> viciis.
+                        </rubric>
+                        <incipit xml:lang="en">
+                            <locus>fol. 21r/21-22</locus>
+                            Nu syndon ehte heafodlehtres þe us on ƿinneð<lb/>sƿyðe. 
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 22r/17-19</locus>
+                            ˥ þone mann macað eac <lb/>
+                            gyf he modegað tofƿðe. þæs deofles gefere þe <lb/>
+                            feoll ær þurh heo.
+                        </explicit>
+                    	<filiation/>
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 7</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 7, pp. 16-17</bibl>
+                            <bibl><ref target="#ske153">Skeat 1881-1900</ref>, pp. 354-58, II. 267-311</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="22r/19" to="23v/20">Fols 22r/19-23v/20</locus>
+                        <title type="uniform" xml:id="B.1.3.17.2.EM" xml:lang="en">Ælfric, Third Series of Homilies [Lives of Saints]: Memory of the Saints [extracts]</title><title>extracts</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 22r/19</locus>
+                            De .via. virtutib<expan>us</expan>.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 22r/20</locus>
+                            Nu synden ehte heafodmægna.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 23v/20</locus>
+                            ámid gode sylfen gyf þe sƿincað nu her. <!-- CHECK -->
+                        </explicit>
+                        <filiation/>
+                    	<listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 8</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 8, pp. 17-19</bibl>
+                            <bibl><ref target="#ske153">Skeat 1881-1900</ref>, pp. 358-62, ll. 312-81</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="23v/21" to="25r/12">Fols 23v/21 - 25r/12</locus>
+                        <title type="uniform" xml:id="B.1.1.27">Ælfric, First Series of Homilies [Catholic Homilies I]: John the Baptist</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 23v/21</locus>
+                            Of S<expan>anctus</expan> Ioh<expan>ann</expan>e baptiste.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 23v/21-22</locus>
+                            Se Godspellere lucas <lb/>
+                            aƿrat on cristes bech beo accænnednysse<lb/>
+                        jahes þæs fulhteres þuss cƿeðende.
+                            
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 25r/12</locus>
+                            Ofet hine fedde ˥ ƿude hunig. ˥ oðre ƿaclice þing.
+                        </explicit>
+                    	<listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 9</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 9, pp. 19-20</bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, pp. 350-52</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, pp. 379-80</bibl>
+                        </listBibl>
+                    	
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="25r/13" to="25v/11">Fols 25r/13-25v/11</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.28">Ælfric, First Series of Homilies [Catholic Homilies I]: Peter and Paul</title>
+                        <title type="sub">Gospel text only</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 25r/13</locus>
+                            In Festo S<expan>an</expan>c<expan>t</expan>i Petra ap<expan>osto</expan>li.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 25r/13-15</locus>
+                            Venit ie<expan>su</expan>s in partes <lb/>
+                            cesaree philippi.ʹ ˥ rel<expan>iqua</expan>. Matheus se godspel<lb/>lere
+                            aƿrat on þære godspellice gesettnysse þuss <lb/> cƿeðende.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 25v/11</locus>
+                            þ<expan>æt</expan> byð gebunden on heofone. ˥
+                            sƿahƿætt sƿa þu unbinst <lb/>
+                        	on eorðen; 
+                        þ<expan>æt</expan> byð unbunden on heofonen.
+                        </explicit>
+                    	                        <filiation/>
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 10</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 10, p. 20</bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, p. 364</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, pp. 388, II. 1-16</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="25v/12" to="30r/10">Fols 25v/12-30r/10</locus>
+                        <title type="uniform" xml:id="B.3.3.11" xml:lang="en">Anonymous Homilies, Homilies for Specified Occasions, Sanctorale: James the Greater</title>
+                                
+                            <title>According to Ker, "Concerning James, the Brother of John".
+                        </title>
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 25v/12</locus>
+                            Of Iacobe Iohannes broðer.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 25v/13-15</locus>
+                            Ðæt iudeissce folc brohte þan hundredes eal<lb/>dren feo. for þy þ<expan>æt</expan> heo mosten jacoben sƿa <lb/> ateon sƿa heo ƿolden.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 30r/9-10</locus>
+                            ƿan sy ƿul<lb/>dor ˥ ƿurðmynt a<expan>nd</expan> on ealra ƿurlde ƿurld. am<expan>en</expan>.
+                        </explicit>
+                    	                        <filiation/>
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 11</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 11, pp.21-25</bibl>
+                            <bibl><ref target="#sch583">Schmetterer 1981</ref>, pp. 54-93</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="30r/11" to="31v/5">Fols 30r/11-31v/5</locus>
+                        <title type="uniform" xml:id="B.1.2.34" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: James and the Seven Sleepers</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 30r/11</locus>
+                            VI. k<expan>a</expan>l<expan>endes</expan> 
+                            Aug<expan>usti</expan>. S<expan>an</expan>c<expan>t</expan>o<expan>rum</expan>
+                            Septem Dormientiu<expan>m</expan>.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 30r/12-13</locus>
+                            ƿe ƿylleð eoƿ eac gereccen seortlice
+                              þ<expan>æt</expan> nu <lb/> æfter tƿam dagen is þære seofan slæpe <lb/>
+                            ran gemynd.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 31v/4-5</locus>
+                            se þe leo<lb/>fað ˥ rixeð <!-- ?? --> a<expan>nd</expan> on ecnysse. ameN.
+                        	<!-- CHECK: Facsimile is unclear -->
+                        </explicit>
+  
+                    	<listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 12</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 12, pp. 25-26</bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, pp. 274-48, II. 182-231</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="31v/5" to="33r/3">Fols 31v/5-33r/3</locus>
+                        <title type="uniform" xml:id="B.1.2.31" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: Peter and Paul</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 31v/5-6</locus>
+                            K<expan>a</expan>l<expan>endes</expan> Augusti. <lb/>
+                            Ad Vincula S<expan>an</expan>c<expan>t</expan>t Petri ap<expan>osto</expan>li
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 31v/7-10</locus>
+                            LVcas se godspellere us sæde on þysse<expan>n</expan> pistol <lb/> 
+                        	rædinge. þ<expan>æt</expan> herodes king ƿolde æfter cristes <lb/>
+                        upstige to heofone gesƿæncen sume of þære ge<lb/>
+                        	laðunge.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 33r/2-3</locus>
+                        	þiss ƿæs gedon on þysser nihte. <lb/>
+                            ˥ on þan andƿeardan dæge þe ƿe hateð hlafmæsse.
+                        </explicit>
+                    	                        
+                        <listBibl>
+                            <bibl><ref target="#ker44">Ker 1957</ref>, Art. 13</bibl>
+                            <bibl><ref target="#war127">Warner 1917 for 1915</ref>, 13, pp. 26-27</bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, pp. 221-22, ll. 1-52</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="33r/4" to="40r/5">Fols 33r/4-40r/5</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.30">Ælfric, First Series of Homilies [Catholic Homilies I]: Eleventh Sunday after Pentecost</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 33r/4</locus>
+                            D<expan>o</expan>m<expan>ini</expan>c<expan>a</expan>
+                            .xi. post Pentecosten.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="lt">
+                            <locus>fol. 33r/5</locus>
+                            Cum appropinuaret ie<expan>su</expan>s 
+                            ier<expan>usa</expan>l<expan>e</expan>m. ˥ rel<expan>iqua</expan>. On su<expan>m</expan>me<lb/>re tide ƿæs se hælend farende to ierusalem
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 40r/4-5</locus>
+                            Seo þe lof<lb/>
+                            ˥ ƿuldor on ealra ƿurlda ƿurld. amen.
+                        </explicit>
+                    	<listBibl>
+                    		<bibl>
+                                <ref target="#war127">Warner 1917 for 1915</ref>, 14, pp. 28-34</bibl>
+                                <bibl><ref target="#tho57">Thorpe 1844-46</ref>, pp. 402-14 </bibl>
+                                <bibl> <ref target="#cle112">Clemoes 1997</ref>, pp. 410-17  </bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="40r/5" to="48v/10">Fols 40r/5-48v/10</locus>
+                        <title type="uniform" xml:id="B.1.2.35" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: Twelfth Sunday after Pentecost</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 40r/5-6</locus>
+                            D<expan>o</expan>m<expan>ini</expan>c<expan>a</expan>
+                            .xii.<lb/>
+                            post Pentecosten.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="lt">
+                            <locus>fol. 40r/6-8</locus>
+                            Dixit ie<expan>su</expan>s ad<lb/>
+                            quosdam qui in se confidebant tanquam<lb/>
+                            iusti et asp<expan>er</expan>nabantur ceteros parabolam ista<expan>m</expan> ˥ reliq<expan>ua</expan>.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 48v/9-10</locus>
+                            oððæt se hae<lb/>
+                            lend crist to þussen life becom.
+                        </explicit>
+                    	<filiation/>
+                    	                        <note type="main">
+                            Concludes with the story of Daniel from Ælfric, <q>De falsis diis</q> ed. <ref target="#pop87">Pope 1967-68</ref>, 693-703, no. 21, ll. 300-496.
+                        </note>
+                    	                        
+                    	<listBibl>
+                    	<bibl><ref target="#pop87">Pope 1967-68</ref>, 693-703, no. 21, ll. 300-496</bibl>
+                    	<bibl><ref target="#war127">Warner 1917 for 1915</ref>, 34-41, no. 15 </bibl> 
+                            <bibl><ref target="#god42">Godden 1979</ref>, 249-54</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="48v/10" to="54v/3">Fols 48v/10-54v/3</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.32">Ælfric, First Series of Homilies [Catholic Homilies I]: Assumption of the Virgin</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 48v/10-11</locus>
+                            In Assumptione<lb/>
+                            S<expan>an</expan>c<expan>t</expan>e Marie.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 48v/11-13</locus>
+                            IERonim<expan>us</expan> se halge sacerd aƿrat<lb/>
+                            ænne pistol beo forðsiðe þære eadigen marien<lb/>
+                            godes cænnestre. to sumen halgen mædene.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 54v/1-3</locus>
+                            ˥ cƿ<expan>æð</expan> þ<expan>æt</expan> heo<lb/>
+                            him geðingod hæfde ƿið þone heofonlice deme hire<lb/>
+                            agene sune.
+                        </explicit>
+                    	                       
+                        
+                        <note type="main">
+                            cf. <ref type="item" target="20">fols 58r/1- 60r/18</ref> below.
+                        </note>
+                    	                  
+                        <listBibl>
+                        	<bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 41-46, no. 16 </bibl> 
+                        	<bibl><ref target="#tho57">Thorpe 1844-46</ref>, 436-48 </bibl> 
+                        	<bibl> <ref target="#cle112">Clemoes 1997</ref>, 429-36, ll. 1-198</bibl>
+                        	</listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="54v/3" to="57v/22">Fols 54v/3-57v/22</locus>
+                        <title type="uniform" xml:id="B.1.2.36" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: Assumption of the Virgin</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+
+                    	<rubric type="initial" xml:lang="en">
+                            <locus>fol. 54v/10</locus> 
+                           Omelia   </rubric>
+                    	
+                        <incipit xml:lang="en">
+                            <locus>fol. 54v/3-8</locus>
+                            Mænn þa leofeste hƿi<lb/>
+                            lon ær ƿe gerehten eoƿ þone pistol þe se halge ieroni<lb/>
+                            mus sette beo forðsiðe þære eadigen marien <expan>ch</expan>r<expan>ist</expan>es<lb/>
+                            moder þurh þone he adƿæsete þa dƿollice gesettnysse<lb/>
+                            þe samlærede mæn sæden beo hire forðsiðe.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 57v/20-22</locus>
+                            Synd sƿa<lb/>
+                            þeh get þa dƿollice bec æigðer gea on leden gea<lb/>
+                            on ænglisc.ʹ ˥ heo rædeð ungeræde mæn.
+                        </explicit>
+
+                       
+                        
+                        <note type="main">
+                            The explanatory note and pericope, fol. 54v/3-10, is written over an erased rubric and follows the preceding item without a break, but is followed by a red rubric at fol. 54v/10 and an enlarged and decorated coloured initial. Thus, <ref target="#war127">Warner</ref> (1917 for 1915) edits this as a new text, but the manuscript textual divisions on fol. 54v are ambiguous, with a large initial 'S' apparent at line 54v:11, even though Warner's item begins at line 3 on fol. 54v, with the incipit as above.
+                        </note>                    	               
+                    	<listBibl>
+                    		<bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 47-50, no. 17
+                            </bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, 255-59, ll. 1-126</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="58r/1" to="60r/18">Fols 58r/1-60r/18</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.32.1.EM">Ælfric, First Series of Homilies [Catholic Homilies I]: Assumption of the Virgin [second part]</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 58r/1-2</locus>
+                            ƿe ƿylleð eoƿ gereccen beo geændunge þæs<lb/>
+                            arleasen godes ƿiðersacan julianes.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 60r/16-18</locus>
+                            Se þe leofeð ˥ rixeð mid<lb/>
+                            fæder ˥ halgen gaste on eallre ƿurlde ƿurld.<lb/>
+                            ameN
+                        </explicit>
+                    	          
+                        <note type="main">
+                       cf. <ref type="item" target="18">fols 48v/10-54v/2</ref> above
+                        </note>
+                    	                        <listBibl><bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 50-52, no. 18                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 448-54</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, ll. 199-273</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="60r/18" to="67r/23">Fols 60r/18-67r/23</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.34">Ælfric, First Series of Homilies [Catholic Homilies I]: Decollation of St John the Baptist</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 60r/18-19</locus>
+                            .iiii. k<expan>a</expan>l<expan>endes</expan> septembr<expan>is</expan>
+                            Passio S<expan>an</expan>c<expan>t</expan>i Ioh<expan>ann</expan>is<lb/>
+                            baptiste.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="lt">
+                            <locus>fol. 60r/19-20</locus>
+                            Misit herodes ˥ tenuit ioh<expan>ann</expan>em.<lb/>
+                            et reliq<expan>ua</expan>.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 67r/21-23</locus>
+                            To þan life us gelæde se mildheorte drihten<lb/>
+                            se leofeð ˥ rixeð mid fæder ˥ mid halge gaste.<lb/>
+                            abuten ænde. am<expan>en</expan>.
+                        </explicit>
+
+                    	                        <listBibl><bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 52-58, no. 19                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 476-90</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 451-58</bibl>
+                        </listBibl>
+                    </msItem>
+                  
+                    
+                    <msItem class="main">
+                        <locus from="67v/1" to="67v/21">Fol. 67v/1-21</locus>
+                        <title type="uniform" xml:id="B.1.4.4" xml:lang="en">Ælfric, Homilies of Ælfric: Dominica III in Quadragesima</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+<note type="main">
+                        	 <q>Final two sentences, partly differentiated through a coloured initial 'S' at fol. 67/17, drawn from Ælfric, CH I. 21</q> (<ref target="#ker44">Ker</ref> 1957, Item 209).
+    <ref target="#ker44">Ker</ref> (1957) notes that this item has been added in a blank space, is <q>perhaps [of] another hand</q>,
+                            and that the last 5 lines (17-21) <q>are not part of the homily</q>; they come instead from
+    <title type="uniform" xml:id="B.1.1.23" xml:lang="en">Ælfric, First Series of Homilies [Catholic Homilies I]: Ascension</title>. See <ref target="#tho57">Thorpe</ref> 1844-46, p. 304, ll. 4-5, and <ref target="#cle112">Clemoes</ref> 1997, p. 350, ll. 146-48. (<ref target="#wil78">Wilcox</ref> 2000).
+                           
+                        </note>
+                        <incipit xml:lang="en">
+                            <locus>fol. 67v/1</locus>
+                            Se helend cƿ<expan>æð</expan> on his godspelle.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 67v/20-21</locus>
+                            's'e byð ƿyrse þone<lb/>
+                            se deofel.
+                        </explicit>
+                    	       <listBibl>
+                            <bibl>
+                              <ref target="#war127">Warner 1917 for 1915</ref>, 58-59, no. 20
+                            </bibl>
+                            <bibl><ref target="#pop87">Pope 1967-68</ref>, 267, no. 4, ll. 41-55</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="68r/1" to="70r/12">Fols 68r/1-70r/12</locus>
+                        <title type="uniform" xml:id="B.1.2.40" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: Matthew</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 68r/1</locus>
+                            In .xi. k<expan>a</expan>l<expan>endas</expan> octobr<expan>es</expan>.
+                            De S<expan>an</expan>c<expan>t</expan>o Matheo ap<expan>osto</expan>lo. 
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 68r/2-3</locus>
+                            Se godspellere matheus þe ƿe<lb/>
+                            todæig ƿurðigeð
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 70r/11-12</locus>
+                            Sy<lb/>
+                            him þæs ƿuldor aa on ecnysse. Amen.
+                        </explicit>
+                        <listBibl>
+                                                 <bibl>
+                                <ref target="#war127">Warner 1917 for 1915</ref>, 59- 61, no. 21
+                            </bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, 272-74, ll. 1-79</bibl>
+                        	</listBibl>
+                    	
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="70r/13" to="74v/11">Fols 70r/13-74v/11</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.36">Ælfric, First Series of Homilies [Catholic Homilies I]: Dedicatio ecclesiae sancti Michaelis</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 70r/13</locus>
+                            In .iii. k<expan>a</expan>l<expan>endas</expan> Octobr<expan>es</expan>.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="lt">
+                            <locus>fol. 70r/14-15</locus>
+                            Accesserunt ad ie<expan>su</expan>m discip<expan>u</expan>li dicentes. Quis<lb/>
+                            putas maior est in regno coelor<expan>um</expan>. Et rel<expan>iqua</expan>.
+                        </incipit>
+                    	<incipit xml:lang="en">
+                    	    <locus>fol. 70r/16-17</locus>
+                    		Ðiss dægðerlice godspell cƿyðð þ<expan>æt</expan> drihtenes <lb/> leorningcnihtes</incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 74v/10-11</locus>
+                            ˥ þingere on heofone to þan aelmih<lb/>tigan
+                            gode. se þe leofeð ˥ rixeð a on ecnysse. amen.
+                        </explicit>
+                    	<listBibl><bibl>
+                              <ref target="#war127">Warner 1917 for 1915</ref>, 61-65, no. 22
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 510-18</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 469-75, ll. 133-279</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="74v/12" to="74v/15">Fol. 74r/12-15</locus>
+                        <title type="uniform" xml:id="B.1.2.37.1.EM" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: First Sunday in September [partial]</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 74v/12</locus>
+                            Godes gecorene synd
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 74v/15</locus>
+                            to bitere sarnysse.
+                        </explicit>
+                        <note type="main">
+                            The full homily occurs below beginning at <ref type="item" target="43">fols 139r-145v</ref>, and these lines recur at fol. 143v/4-7. 
+                        </note>
+                    	                        <listBibl><bibl>
+                              <ref target="#war127">Warner 1917 for 1915</ref>, 65, no. 23
+                            </bibl>
+                            <bibl><ref taregt="#god42">Godden 1979</ref>: 265, ll. 157-59</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="74v/16" to="75r/5">Fols 74v/16-75r/5</locus>
+                        <title type="uniform" xml:id="B.9.8">Augustine</title>
+                            <title>Excerpt from Homilies of St Augustine
+                        </title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 74v/16</locus>
+                            Augustinus sæde on his cƿiðbocan þ<expan>æt</expan> nan mann ne <lb/> mihte asmeagan godes ǽ.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 75r/5</locus>
+                            sƿa sƿa he sylf cƿ<expan>æð</expan> on his godspelle.
+                        </explicit>
+                    	<listBibl>
+                    		    <bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 65, no. 24                             </bibl>
+                            <bibl><ref target="#sch583">Schmetterer 1981</ref>, 94-105</bibl>
+                    		</listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="75r/6" to="75v/2">Fols 75r/6 - 75v/2</locus><title type="uniform" xml:id="B.1.8.2">Ælfric, Letters: First Old English Letter for Wulfstan</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 75r/6-7</locus>
+                            Iohannes se godspellere on his gastlican gesihðe<lb/>
+                            þone hælend geseh
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 75v/2</locus>
+                            sƿa sƿa he sylf getæhte ær his þroƿunge
+                        </explicit>
+                    	<listBibl>
+                    		                            <bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 65-66, no. 25                            </bibl>
+                            <bibl><ref target="#feh573">Fehr 1914</ref>, 83-87</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="75v/3" to="75v/21">Fol. 75v/3-21</locus>
+                        <title type="uniform" xml:id="B.23.3.5">Prognostic</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 75v/3-4</locus>
+                            Ðonne forme geaƿesdæig byð sunendæig.ʹ hit<lb/>
+                            byð god ƿinter.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 75v/20-21</locus>
+                            ˥ ealle ƿæstmes yfeles geƿænde. scep<lb/>
+                            cƿelleð ˥ ealde mænn.
+                        </explicit>
+                    	                        <listBibl>
+                             <bibl>
+                           <ref target="#war127">Warner 1917 for 1915</ref>, 66, no. 26                           </bibl>
+                            <bibl><ref target="#ass389">Assmann, <hi rend="title">Angelsächsiche</hi>, 1889</ref>, 369</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="76r/1" to="76v/18">Fols 76r/1-76v/18</locus>
+                        <title type="uniform" xml:id="B.24.21">
+                            <hi rend="title">The Coming of Antichrist</hi>
+                        </title>
+                       <!-- <title type="supplied">
+                            Ker: "A piece on Antichrist and his imminent coming"
+                        </title> -->
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 76r/1-2</locus>
+                            Hit sæigð on halgen bocan. þ<expan>æt</expan> æfter gearan ymb<lb/>ryne
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 76v/17-18</locus>
+                            byð sƿyðe mycle ungeðƿærnysse. ˥ ðrahlice ƿiten <lb/>
+                            on manna bearnen.
+                        </explicit>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 66-67, no. 27                            </bibl>
+                            <bibl> <ref target="#sch583">Schmetterer 1981</ref>, 106-28</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="76v/18" to="82v/8">Fols 76v/18-82v/8</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.42">Ælfric, First Series of Homilies [Catholic Homilies I]: Second Sunday in Advent</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 76v/18</locus>
+                            D<expan>o</expan>m<expan>ini</expan>c<expan>a</expan> .ii. iN aduentu d<expan>omi</expan>ni
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="lt">
+                            <locus>fol. 76v/19</locus>
+                            Erunt signa in sole et luna. ˥ stellis. et Reliqua.
+                        </incipit>
+                    	<incipit xml:lang="en">
+                    		<locus>76v/20-21</locus>
+                    		Se godspellere lucas aƿrat on þyssen dæigðer<lb/>licen godspelle.
+                    	</incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 82v/5-8</locus>
+                            for þy brucan þæs fyr<lb/>stes
+                            þe us god forgeaf. ˥ geearnigen þ<expan>æt</expan> ece lif mid<lb/>
+                            him. se þe leofeð. ˥ rixeð on eallra ƿurlda ƿurld <lb/>
+                            ameN.
+                        </explicit>
+                    	     <listBibl>
+                            
+                            <bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 67-72, no. 28
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 608-18</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 524-30</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="82v/10" to="86v/23">Fols 82v/10-86v/23</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.38">Ælfric, First Series of Homilies [Catholic Homilies I]: All Saints</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 82v/10</locus>
+                            Secundum matheum.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="lt">
+                            <locus>fol. 82v/10</locus>
+                            Videns turbas ie<expan>su</expan>s.
+                        </incipit>
+                         <incipit xml:lang="en">
+                             <locus>fol. 82v/11-12</locus>
+                         	Ðæt halige godspell þe nu lyttle ær ætforan <lb/> eoƿ gerædd wæs.'
+                            
+                        </incipit>                  
+                        <explicit xml:lang="en">
+                            <locus>fol. 86v/21-23</locus>
+                            scyppend ˥ alysend ealre<lb/>
+                            halgena mid fæder ˥ mid þan halgen gaste. a on ecnysse.<lb/>
+                            ameN.
+                        </explicit>
+                    	 
+                        <note type="date"></note>
+                        <note type="hand"></note>
+                        <note type="main">
+                            Fol. 86v ruled for an extra line to complete this item.                        </note>
+                    	  <listBibl>
+                            
+                            <bibl>
+                                <ref target="#war127">Warner 1917 for 1915</ref>, 73-77, no. 29
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 548-56</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 491-96, ll. 147-291</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    
+                    <msItem class="main">
+                        <locus from="87r/1" to="87v/8">Fols 87r/1-87v/8</locus>
+                        <title type="uniform" xml:id="B.8.4.6.4">Gospels: John</title>
+                        <title>14:1-13</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 87r/1-2</locus>
+                            Ioh<expan>ann</expan>es se godspellere aƿrat hƿu se hælend spæc to his<lb/>
+                            leorningcnihten. ˥ cƿ<expan>æð</expan>.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 87v/7-8</locus>
+                            ˥ eall þ<expan>æt</expan> ge beseceð æt<lb/>
+                            mine fæder on minen name.ʹ eall ic hit do.
+                            
+                        </explicit>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 77, no. 30
+                            </bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="87v/9" to="100r/22">Fols 87v/9-100r/22</locus>
+                        <title type="uniform" xml:id="B.8.5.3">Apocrypha: Gospel of Nicodemus Homilies</title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 87v/9</locus>
+                            De Resurrectione d<expan>omi</expan>ni
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>87v/9-11</locus>
+                            Ðæs dæiges þe ure<lb/>
+                            hælend for ure alesednysse geðolede pine on<lb/>
+                            þær halgen rode.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 100r/22</locus>
+                            Seo drihtene lof.ʹ ˥ deofle sarege. ameN.
+                        </explicit>
+                    	               
+                        <listBibl>
+                            
+                            <bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 77-88, no. 31                            </bibl>
+                            <bibl><ref target="#hul584">Hulme 1903-04</ref></bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="100v/1" to="102r/8">Fols 100v/1-102r/8</locus>
+                        <title type="uniform" xml:id="B.8.5.4">Apocrypha: Vindicta Salvatoris</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 100v/1-3</locus>
+                            ON Tiberies dagen þæs mycele caseres hit ge<lb/>
+                            lamp binnen lyttle fæce æfter þan þe<lb/>
+                            crist ahangen ƿæs.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 102r/7-8</locus>
+                            ˥ ƿyrðmynt fæder[?]<lb/>
+                            ˥ sune. ˥ þan halgen gaste. aa buten ænde. Am<expan>em</expan>.
+                        </explicit>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                             <ref target="#war127">Warner 1917 for 1915</ref>, 88-89, no. 32
+                            </bibl>
+                            <bibl><ref target="#ass389">Assmann, <hi rend="title">Angelsächsiche</hi>, 1889</ref>, 193-94</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="102r/9" to="103v/9">Fols 102r/9-103v/9</locus>
+                       
+                        <title type="uniform" xml:id="B.24.22">
+                            <hi rend="title">The Fifteen Days Before Judgement</hi>
+                        </title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 102r/9-10</locus>
+                            On þan nexten fiftene dagen beforen domes<lb/>
+                            dæge.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 103v/9-9</locus>
+                            sƿa þ<expan>æt</expan> on mid<lb/>denearde ne belæfð naht unclænes gesene.
+                        </explicit>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                                <ref target="#war127">Warner 1917 for 1915</ref>, 89-91, no. 33
+                            </bibl>
+                            <bibl><ref target="#ass569">Assmann, 'Vorzeichen', 1889</ref></bibl>
+                        </listBibl>
+                    </msItem>
+
+                    
+                    <msItem class="main">
+                        <locus from="103v/9" to="103v/24">Fol. 103v/9-24</locus>
+                        <title type="uniform" xml:id="B.23.3.5.3.EM">Prognostic</title>
+                        <title type="ms">
+                            Emb þunre
+                        </title>
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 103v/9-10</locus>
+                            Emb<lb/>
+                            þunre                            
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 103v/9</locus>
+                            On Ianuari<expan>us</expan> monðe gyf hit þunreð.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 103v/23-24</locus>
+                            On decembre.<lb/>
+                            hit bodeð god gear on tilðe. ˥ sibb. ˥ sehte.
+                        </explicit>
+                        <note type="main">
+                            The scribe has here written two extra lines to end this item at the end of this folio, 
+                            which is the last in its quire.
+                        </note>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                                <ref target="#war127">Warner 1917 for 1915</ref>, 91, no. 34
+                            </bibl>
+                            <bibl><ref target="#ass568">Assmann 1888</ref></bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="104r/1" to="119r/20">Fols 104r/1-119r/20</locus>
+                        <title type="uniform" xml:id="B.9.7">Alcuin, De Virtutibus et Vitiis</title>
+                            <title>Translation of Alcuin, <hi rend="title">De Virtutibus et Vitiis</hi>, Chapters 1-16, each with its own rubric and textual demarcation within the manuscript.                           
+                        </title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 104r/1</locus>
+                            De Scientia.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 104r/1-3</locus>
+                            Ærest ealre þingen<lb/>
+                            æighƿylce mæn is to secene hƿæt seo se soðe ƿi<lb/>sedom.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 119r/18-19</locus>
+                            his saƿle to for<lb/>ƿyrde on ecere pine.
+                        </explicit>
+                    	
+                    	                        <note type="main">
+                     Internal rubrics are in red and followed by coloured initials, alternately green and red.
+                        </note>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 91-105, no. 35.
+                            </bibl>
+                            <bibl>
+                               <ref target="#ass571">Assmann, 'Übersetzung', 1889</ref>
+                            </bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="119r/21" to="123r/8">Fols 119r/21-123r/8</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.39">Ælfric, First Series of Homilies [Catholic Homilies I]: Clement</title>
+                        <title>abbreviated</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 119r/21-22</locus>
+                            Oft hƿonlice gelefde mænn smegeð mid<lb/>
+                            heora stunten gescade.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 123r/8-9</locus>
+                            ˥ to þan ecen life gelæde. se þe leofeð<lb/>
+                            ˥ rixeð. abuten ænde. amen.
+                        </explicit>
+                    	                        
+                        <listBibl>
+                            
+                            <bibl>
+                              <ref target="#war127">Warner 1917 for 1915</ref>, 106-9, no. 36
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 566-76</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 502-6, ll. 148-280</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="123r/8" to="130v/22">Fols 123r/8-130v/22</locus>
+                        <title type="uniform" xml:id="B.1.2.25" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: Feria III in Letania Maiore</title><title>Visio Fursei</title>
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 123r/8</locus>
+                            S<expan>anctus</expan> Furse<expan>us</expan> gesihðe.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 123r/9-10</locus>
+                            Mæn þa leofeste. Paulus se apostel eallra<lb/>
+                            þeode larðeaƿ aƿrat beo him sylfen
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 130v/22</locus>
+                            se þe is ealre leode ƿealdend.
+                        </explicit>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                           <ref target="#war127">Warner 1917 for 1915</ref>, 109-16, no. 37
+                            </bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, 190-98</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="131r/1" to="136r/14">Fols 131r/1-136r/14</locus>
+                        <title type="uniform" xml:id="B.1.2.26" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: Alia Visio</title>
+                     
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 131r/1</locus>
+                            Of Drihtelme
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 131r/1-4</locus>
+                            BEDA ure larðeaƿ aƿrat<lb/>
+                            on þære bech þe is gehaten historia<lb/>
+                            anglor<expan>um</expan> be sumes mannes æriste on þyssen<lb/>
+                            eglande.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 136r/12-14</locus>
+                            on þan mæig æighƿa beo þyssen<lb/>
+                            genihtsumlice geheren se þe heo oferræden<lb/>
+                            ƿyle. gyf he þ<expan>æt</expan> andgit understanden cann.
+                        </explicit>
+                    	
+                        <note type="main">
+                            Doxology omitted, per Ker. Note that <ref target="#ker44">Ker (1957)</ref> makes two items of this one item, breaking the text at fol. 135r/15, when the manuscript shows no indication of a new textual item. We thus retain the single item numbering here, as <ref target="#war127">Warner (1917 for 1915)</ref> item 38. 
+                        Early Modern note, <q>Liber Dialogor<expan>um</expan> gregory <lb/> Anglie habebat</q>, at the foot of fol. 136r refers to the OE at fol. 136r/9-10.
+                        </note>
+                    	                        <listBibl>
+                            
+                            <bibl>
+                              <ref target="#war127">Warner 1917 for 1915</ref>, 116-20, no. 38
+                            </bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, 199-205</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="136r/15" to="137r/7">Fols 136r/15-137r/7</locus>
+                        <title type="uniform" xml:id="B.1.1.20">Ælfric, First Series of Homilies [Catholic Homilies I]: In Letania Maiore</title>
+                        <title>extract</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 136r/15-16</locus>
+                            God spæc to anen ƿitege þe ƿæs Ionas geha<lb/>ten.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 137r/6-7</locus>
+                            for heora lehtren mid heofonlice fyre for<lb/>bærnde. sƿa sƿa þe eoƿ gereccen mugen.
+                        </explicit>
+                    	<listBibl>
+                    	<bibl><ref target="#war127">Warner 1917 for 1915</ref>, 120-21, no. 39</bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 244-46</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 317-18, ll. 14-39</bibl>
+                    	</listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="137r/8" to="139r/2">Fols 137r/8-139r/2</locus>
+                        <title type="uniform" xml:lang="en" xml:id="B.1.1.29">Ælfric, First Series of Homilies [Catholic Homilies I]: Paul</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 137r/8</locus>
+                            Soð is to secgene. þa þa ƿyreceð on godes ƿille.<lb/> þa becumeð on myrhðe. Ðæt godspell <lb/> cweðð. Ælc þære þe forlæt.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 139r/1-2</locus>
+                            ˥ geefenlæcen þan apostlen þ<expan>æt</expan> ƿe mid heom and<lb/>
+                            mid gode þ<expan>æt</expan> ece lif habben moten. Amen.
+                        </explicit>
+                    	                        <listBibl><bibl>
+                                <ref target="#war127">Warner 1917 for 1915</ref>, 121-22, no. 40                            </bibl>
+
+                        	                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="139r/3" to="145v/18">Fols 139r/3-145v/18</locus>
+                        <title type="uniform" xml:id="B.1.2.37" xml:lang="en">Ælfric, Second Series of Homilies [Catholic Homilies II]: First Sunday in September</title>
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 139r/3</locus>
+                            Forbisne of Iob.
+                        </rubric>
+                        <note type="main">The entire text of a homily, a fragment of which is also included above at fol. 74v/12.</note>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 139r/3-5</locus>
+                            Mine gebroðre. ƿe rædeð<lb/>
+                            nu æt godes þenunge beo þan eadigen ƿere<lb/>
+                            Iob.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 145v/16-18</locus>
+                            eallra his<lb/>
+                            ƿundra ˥ his ƿeldæden se þe ana is god a on <lb/>
+                            ecnysse. amen.
+                        </explicit>
+                    	
+                        
+                        <listBibl><bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 123-29, no. 41                            </bibl>
+                            <bibl><ref target="#god42">Godden 1979</ref>, 260-67</bibl>
+                        </listBibl>
+
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="145v/18" to="151r/23">Fols 145v/18-151r/23</locus>
+                        <title type="uniform" xml:id="B.3.3.28" xml:lang="en">Anonymous Homilies, Homilies for Specified Occasions, Sanctorale: Saint Neot</title>
+                        <rubric type="initial" xml:lang="en">
+                            <locus>fol. 145v/18</locus>
+                            Of Seinte Neote.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 145v/19-20</locus>
+                            Mæn þa leofeste. Ƿe ƿylleð eoƿ cyðen beo su<lb/>[?] men dæle emb þyssen halgen 
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 151r/22-23</locus>
+                            ˥ þ<expan>æt</expan> ƿe moten æfter forðsiðe<lb/>
+                            to ecere reste becumen.
+                        </explicit>
+
+                    	<note type="main">
+                            Rubric on fol. 145v is in green, unlike the red used in all other cases. The text is fitted onto fol. 151r through the addition of a half-line beneath the usual ruled space.</note>                        
+                    	<listBibl><bibl>
+                            <ref target="#war127">Warner 1917 for 1915</ref>, 129-34, no. 42                            </bibl>
+                            <bibl><ref target="#ric582">Richards 1971</ref></bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="151v/1" to="158r/12">Fols 151v/1-158r/12</locus>
+                        <title type="uniform" xml:id="B.3.3.22" xml:lang="en">Anonymous Homilies, Homilies for Specified Occasions, Sanctorale: In Festis Sancte Marie</title> <title>a translation of a Latin sermon by Ralph d'Escures
+                        </title>
+                        <rubric type="initial" xml:lang="lt">
+                            <locus>fol. 151v/1</locus>
+                            Sermo in festis S<expan>an</expan>c<expan>t</expan>e Marie virginis.
+                        </rubric>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 151v/2-4</locus>
+                            Se godspellere Lucas sæigð on þyssen<lb/>
+                            godspelle. þ<expan>æt</expan> se hælend com in to sumen<lb/>
+                            cæstele.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 158r/10-12</locus>
+                            sohten urne drihten mid sme<lb/>rigeles inne his þruge þa þa he beby<lb/>riged ƿæs
+                        </explicit>
+                    	                        <listBibl><bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 134-39, no. 43
+                            </bibl>
+                    	    <bibl><ref target="#for577">Förster 1925</ref></bibl>
+                    	    <bibl><ref target="#1586">Treharne 2006</ref></bibl>
+                    	                            
+                    	                        	
+                        </listBibl>
+                    </msItem>
+                    
+                    
+                    
+                    <msItem class="main">
+                        <locus from="158r/13" to="159r/8">Fols 158r/13-159r/8</locus>
+                        <title type="uniform" xml:id="B.24.26.2">The Age of the World</title>
+                        
+                        <title>(possibly two texts, since enlarged initial M at fol. 159r/5 is in red ink. <ref target="#ker44">Ker</ref> (1957, p. 275), decides on two textual items here.)
+                        </title>
+                        
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 158r/13-14</locus>
+                       Ƿe rædeð on bocan þ<expan>æt</expan> Nabugodonosor<lb/>
+                            geheregode ier<expan>usa</expan>l<expan>e</expan>m.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 159r/6-8</locus>
+                            Mann sægð þ<expan>æt</expan> fram þan time þe ærest Ada<expan>m</expan> gescapen ƿæs. oððe chr<expan>ist</expan>es tocyme. ƿæron<lb/>
+                            agane fif þusend. ˥ fif hundred ˥ fif ˥ <lb/>
+                            tƿentig geare. <note type="TK">[This is the whole of Ker's Art. 47.]</note>
+                        </explicit>
+                    	                        
+                    	<note type="main">
+                          <q>Darius</q> at fol. 158r/20 and 158v/15 overwrites an erasure in a different hand; D tipped with green. At fol. 158r/20, <q>Swa swa writen seggeþ</q> is written in a different hand in fading red ink. On fol. 159r/9, lines of Latin have been squeezed in, beginning 'cum sit nostra presens intentio'.
+                        </note>
+                    	                        
+                    	<listBibl>
+                    	<bibl><ref target="#war127">Warner 1917 for 1915</ref>, 139-40, no. 44</bibl>
+                            <bibl><ref target="#for574">Förster, 'Weltzeitalter', 1925</ref></bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="159r/10" to="163v/8">Fols 159r/10-163v/8</locus>
+                        <title type="uniform" xml:id="B.9.9">Honorius of Autun, Elucidarium</title>
+                            <title>Honorius Augustodunensis, <hi rend="title">Elucidarium</hi>
+                        </title>
+                        <note type="main">Condensed translation of Book 2, Chapters 1-6</note>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 159r/10</locus>
+                            Sum mann sæigð þ<expan>æt</expan> synne nis nan þing
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 163v/8</locus>
+                            heo gebideð frofre ˥ blisse.
+                        </explicit>
+                    	                        <listBibl><bibl>
+                             <ref target="#war127">Warner 1917 for 1915</ref>, 140-43, no. 45
+                            </bibl>
+                            <bibl>PL 172: 1133-38</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="163v/11" to="165r/13">Fols 163v/11-165r/13</locus>
+                        <title type="uniform" xml:id="B.9.9.1.EM">Honorius of Autun, Elucidarium [second part]</title>
+                   
+                        <note type="main">Condensed translation of Book 1, Chapters 23-25. </note>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 163v/11-12</locus>
+                            hƿy aƿas ure drihten /of deaðe\ þæs formeste dæges<lb/>
+                            þære ƿuca.ʹ
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 165r/12-13</locus>
+                            feoƿertig dagen æfter<lb/>
+                            þær pine þe heo þoligeð under ante criste;
+                        </explicit>
+                    	<note type="hand">Written in the hand of a minor scribe (see below).</note>
+                    	                        <listBibl><bibl>
+                          <ref target="#war127">Warner 1917 for 1915</ref>, 144-45, no. 46
+                            </bibl>
+                            <bibl><ref target="#for575">Förster 1901</ref></bibl>
+                            <bibl>PL 172: 1126-27</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="165r/14" to="166r/10">Fols 165r/14-166r/10</locus>
+                        <title type="uniform" xml:id="B.1.1.21" xml:lang="en">Ælfric, First Series of Homilies [Catholic Homilies I]: Feria III de dominica oratione</title>
+                        
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 165r/14-15</locus>
+                            NE becymð nan mann<lb/>
+                            to godes rice buten he sy afondod.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 166r/8-10</locus>
+                            þonne he mid soft<lb/>nesse ˥ mid yfele lusten geearnian þa ece tin<lb/>trege mid deofle on helle ƿite. aa.
+                        </explicit>
+                    	                        <note type="hand">Fols 165v/1-166r/10 are in the hand of a minor scribe (see below); fol. 165r/14-22 is in the hand of another scribe.</note>
+                    	                        <listBibl><bibl>
+                           <ref target="#war127">Warner 1917 for 1915</ref>, 145-46, no. 47
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 268-70</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 330-31, ll. 148-77</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="166r/12" to="168r/23">Fols 166r/12-168r/23</locus>
+                        <title type="uniform" xml:id="B.3.4.17" xml:lang="en">Anonymous Homilies [for unspecified occasions, published]: Kluge 1885, 474: De sancto iohanne</title>
+                            
+                        
+                        <note type="main">Known as the Homily on the Phoenix</note>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 166r/12</locus>
+                            S<expan>AN</expan>C<expan>TU</expan>S Iohannes geseh ofer garseg<lb/>
+                            sƿylc hit an land ƿære.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 168r/21-23</locus>
+                            crist us generige<lb/>
+                            þ<expan>æt</expan> ƿe on ƿynne ƿunigen móte. mid þan þe leo<lb/>feð ˥ rixeð a bute ænde. Amen.
+                        </explicit>
+                    	 <note type="date"></note>
+                        <note type="hand">In the hand of Scribe 3.</note>
+                        <note type="main">
+                           A line is added to fol. 168r to complete the item on this leaf.
+                        </note>
+                    	                        <listBibl><bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 146-48, no. 48
+                            </bibl>
+                            <bibl><ref target="#klu578">Kluge 1885</ref></bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="168v/1" to="169r/21">Fols 168v/1-169r/21</locus>
+                        <title type="uniform" xml:id="B.1.1.14">Ælfric, First Series of Homilies [Catholic Homilies I]: Annunciation</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 168v/1-2</locus>
+                            Sum æƿfest godes þeign ƿæs ge<lb/>haten zacharias.
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 169r/20-21</locus>
+                            ˥ tostenc<lb/>te þa modigan.
+                        </explicit>
+                    	<note type="hand">In the hand of Scribe 3.</note>
+                    	                        <listBibl><bibl>
+                              <ref target="#war127">Warner 1917 for 1915</ref>, 148-49, no. 49
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 202</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 287, ll. 169-90</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                    <msItem class="main">
+                        <locus from="169v/1" to="169v/21">Fol. 169v/1-21</locus>
+                        <title type="uniform" xml:id="B.1.1.11">Ælfric, First Series of Homilies [Catholic Homilies I]: Quinquagesima</title>
+                        <textLang mainLang="en">English</textLang>
+                        <incipit xml:lang="en">
+                            <locus>fol. 169v/1-2</locus>
+                            Se hælend cƿ<expan>æð</expan> on his godspelle. Ic eam<lb/>
+                            weig
+                        </incipit>
+                        <explicit xml:lang="en">
+                            <locus>fol. 169v/21</locus>
+                            Hit gelimpð gelomlice þone se mann
+                        </explicit>
+                        <note type="main">Ends imperfectly.</note>
+                    	  <listBibl><bibl>
+                               <ref target="#war127">Warner 1917 for 1915</ref>, 149, no. 50
+                            </bibl>
+                            <bibl><ref target="#tho57">Thorpe 1844-46</ref>, 154-56</bibl>
+                            <bibl><ref target="#cle112">Clemoes 1997</ref>, 261, ll. 59-71</bibl>
+                        </listBibl>
+                    </msItem>
+                    
+                   
+                    
+              
+                    
+                  <!--  <note type="team"> TODO: Add msItems for Latin texts.  Add msItem for English glosses of Isidore (class="marginalia", not sure how best to include this </note> -->
+                    <msItem>
+                    <!--	<note type="team"> part 2 of this ms is mostly outside of our time remit, so I described as below. TK </note> -->
+                    	<locus>Fols 170-224v</locus>
+                    	<note type="main">Part 2 of the manuscript is written in <date>s. ix</date>, and probably from <name type="place">Italy</name>. Texts include extracts from the Meters of Boethius's <hi rend="title">Consolatio Philosophiae</hi>, Isidore, <hi rend="title">Synonyma: De lamentatioaone animæ peccatricis</hi>. English glosses, mostly in <date>s. x</date>.
+                    	</note>
+                    	<listBibl>
+                    		<bibl><ref target="#ker44">Ker 1957</ref>, Item 210</bibl>
+                    	    <bibl><ref target="#wat88">Watson 1979</ref> 109</bibl>
+                    	</listBibl>
+                    </msItem>
+                	
+                	<msItem>
+                    <locus n="fol. 170v-mTop">Fol. 170v, top margin</locus>
+                    <quote>S.Y.</quote>
+                <note type="main">
+                    <ref target="#ker44">Ker</ref> (1957) notes that this mark may be <date>s. xii</date>. An Isidore text from <name type="place">Christ Church, Canterbury,</name> now  CUL Kk. 1. 28 has the same mark.
+                	</note>
+                                   	<listBibl>
+                    		<bibl><ref target="#ker44">Ker 1957</ref>, Item 210</bibl>
+                    	</listBibl>
+                                  </msItem>
+                
+                </msContents>
+                
+                <physDesc>
+                    <objectDesc form="Codex">
+                        <supportDesc material="vellum">
+                            <support>Substrate, probably vellum, of relatively good quality. First original folio, fol. 4, is damaged and yellowed, and has tear repaired with silk thread. Final folio, fol. 169v, is darker and shows signs of exposure, as does succeeding folio, the opening of the earlier conjoined codex. Most folios in the English part show signs of use, as corners and foredge margins are soft and dirty. Hairsides are generally very yellow and waxy. Manuscript smells smokey. Hair faces hair, flesh faces flesh throughout.</support>
+                            
+                            <extent>
+                                <locus from="4" to="169">Part 1: fols 4-169</locus>
+                                ii + 223 + iv leaves, trimmed; some marginal text cropped. The thickness of the unpressed volume is 57mm.  
+                                Not all leaves are full size: fol. 106 is 159 mm tall, fol. 144 is 104 mm wide, fol. 166 is 112 mm wide (<ref target="#wil78">Wilcox</ref> 2000).
+                                <dimensions type="leaves" scope="most">
+                                    <height>c. 159</height>
+                                    <width>c. 146</width>
+                                </dimensions>
+                            </extent>
+                            
+                            <foliation>
+                                <p>The manuscript has been foliated three times, the two erroneous foliations are now both struck through.</p>
+                            </foliation>
+                           
+                            <collation>
+                                
+                                <p n="quires">
+                                    
+                                    Part I: 1<hi rend="sup">2</hi>, 2<hi rend="sup">8</hi>, wants 2-8, 3<hi rend="sup">10</hi>, wants 1, 4-8<hi rend="sup">8</hi>, 9<hi rend="sup">10</hi>, 10<hi rend="sup">8</hi>,
+                                    11<hi rend="sup">10</hi>+1 leaf after 10, 12<hi rend="sup">8</hi>, 13<hi rend="sup">8</hi>+1 leaf after 8, 14-15<hi rend="sup">8</hi>, 16<hi rend="sup">10</hi>, 17-21<hi rend="sup">8</hi>.
+                                    Part II: 1<hi rend="sup">6</hi>+2 singletons, 2-5<hi rend="sup">8</hi>, 6<hi rend="sup">8</hi>, wants 4, 7<hi rend="sup">8</hi>
+                                </p>
+                                
+
+                             
+                                    <signatures>Quire 2, 8-13, 15 are signed respectively II, I-IV,
+                                        VIII at the foot of last versos, often trimmed and just
+                                        visible.</signatures>
+                                
+                            
+                                    
+                                 
+                            </collation>
+                            
+                            <condition>
+                            
+                                
+                                <p>The manuscript is in good condition. First original folio, fol. 4, is damaged and yellowed, and has tear repaired with silk thread. Final folio, fol. 169v, is darker and shows signs of exposure, as does succeeding folio, the opening of the earlier conjoined codex. Most folios in the English part show signs of use, as corners and foredge margins are soft and dirty. Hairsides are generally very yellow and waxy. Manuscript smells smoky. Repairs are made to damaged areas, such as fol. 4. An original repair can be seen in the outer margin of fol. 51, where it is stitched at lines 3-4. Notable is the fold across the middle of fols 4, 5, 6, the first quire, which suggests this was carried separately for some time before being joined to the manuscript.</p>
+                            </condition>
+                      
+                        </supportDesc>
+                        <layoutDesc>
+                            <!-- ker's description: '165-175 x 110 mm in 21-26 long lines and 29 lines on fols 26v-28. Ruling in plummet. Single bounding lines. Pricks in both margins of quires 5, 17-21 to guide ruling. -->
+                            <layout columns="1" writtenLines="24"><!-- xml:id="IDL01" -->
+                                
+                                <locus from="1r" to="24r">Fols 1-24r</locus>
+                                <dimensions type="written space" scope="most">
+                                    <!-- n=indicate which column if more than one -->
+                                    <height>35mm</height>
+                                    <width>27mm</width>
+                                </dimensions>
+                                <!-- <p>
+                                    <ref target="EM.one-col.jpg">image which describes the layout of the
+                                        text</ref> on <locus>fol. 59v</locus>, etc.).</p> -->
+                                <p>Written in <!--<ref target="layout/EML-1col.jpg">-->one column
+                                    throughout; 24 lines per page. Double vertical bounding lines, ruled in plummet, with top and bottom horizontal rulings extended full page width. Writing on top line. Generous interlinear spacing rendering manuscript highly legible.</p>
+                            </layout>
+                        </layoutDesc>
+                    </objectDesc>
+<handDesc hands="3">
+	<handNote n="SC1"  xml:id="EM.BL.Vesp.D.xiv.SC1" script="Late English Vernacular Minuscule" scope="major" >
+                             <p n="desc"><!--TREHARNE'S DESCRIPTION-->
+                             	
+                             	Scribe A - fols 4v-169r (except folios noted below)
+                            
+                                <locus from="4v/15" to="169r">fols
+                                    4v/15-169r</locus>
+                                 A relatively formal bookhand. This hand
+                                    is not found elsewhere, but is generally similar in aspect to the prickly script of <name type="place">Christ Church, Canterbury</name> and <name type="place">Rochester</name>.                                     </p>
+                                    <p n="char">
+      			<s type="a">Hybrid forms of single-compartment <c>a</c> with a very indistinct head. </s>
+                                    <s type="d">Tall, round-backed <c>d</c>. </s>
+                                    <s type="f">Vernacular minuscule forms of <c>f</c>. </s>
+<s type="g">8-shaped <c>g</c> (typical of mid-twelfth-century script), often ligatured by straight stroke to next letter, has a hairline stroke closing lower bowl from which an otiose tail extends from the left corner, probably contemporary, but possibly added later.</s>
+                                    <s type="h"><c>h</c> is Caroline. </s>
+                                    <s type="minim">Slightly uneven <c>minims</c>, with generous space between doubling of nasal consonants.</s> 
+                                    <s type="p"><c>p</c> has a pronounced onset stroke, with a distinctive 45º foot to the right of the descender. </s>
+                                    <s type="r">Vernacular minuscule form of <c>r</c>. </s>
+                                    <s type="s">Tall, uncial and long forms of <c>s</c>. </s>
+                                    <s type="t"><c>t</c> has a notable otiose onset stroke at 45º to the headstroke. </s>
+                                    <s type="y">Straight-limbed, dotted <c>y</c>. </s>
+                                    <s type="ð"><c>ð</c> has an exaggerated cross-stroke low on the ascender, with a flick down to the right at the end.</s>
+                                    <s type="þ">Backward leaning <c>þ</c>.</s>
+                                    <s type="ƿ"><c>ƿ</c> has a pointed bowl. </s>
+                                    <s type="ascenders">Tall <c>ascenders</c>, often wedged or split.</s>
+                                    	<s type="descenders"><c>descenders</c> taper to the left.</s>
+                                 
+                                    	<s type="other">
+                                    	    <c>bowls</c> are angular.
+                                    	</s>
+                                    </p>
+                                    <p n="ligature">Ligatures include <c>st</c>, comprosed of long or high <c>s</c> and <c>t</c>, crossed at half-way point.</p>
+	    <p n="abbreviations">Abbreviations are few, but include <c>þ</c> with angular, upward-curving stroke towards the top of the <c>ascender</c>.</p>
+                                    <p n="punctuation">Punctuation includes <c>punctus</c> on, or slightly above, line; <c>punctus elevatus</c>;  and very angular hairline <c>hyphens</c> at line-ends to show run-over of lexemes.
+                                    </p>
+                            </handNote>
+                    	
+    <handNote n="SC2" xml:id="EM.BL.Vesp.D.xiv.SC2" script="Late English Vernacular Minuscule" scope="minor" medium="ink">
+                            <p n="desc"><locus n="4v-6v/14, 67v, 165r/14-22, 166r:13-168">fols
+                                4v-6v/14, 67v, 165r/14-22, 166r/13-168</locus> Additional articles in the manuscript (). Written in a hand later than - but, arguably, identical to - the
+                                first. It has a rounded duct, and letter forms are laterally expansive. </p>
+                            <p n="char">
+                                <s type="a">
+                                    <c>a</c> is two-compartment. </s>
+                                <s type="d">Tall, round-backed <c>d</c>. </s>
+                                <s type="e"><c>e</c> often has an extended tongue in final position. </s>
+                                <s type="f">Vernacular minuscule forms of <c>f</c> where the mid-bar curves up (as opposed to Scribe 1, where it curves down). </s>
+                                <s type="g">8-shaped <c>g</c> (typical of mid-twelfth-century script), often ligatured by a straight stroke to the next letter, has a very angular hairline stroke closing lower bowl; insular <c>g</c> also occurs in final folios, used for the palatal spirant, where Caroline <c>g</c> is used for the stop. </s>
+                                <s type="h"><c>h</c> is Caroline with an exaggerated right limb, curving under the left limb. </s>
+                                <s type="minim">Slightly uneven <c>minims</c>, with generous space between doubling of nasal consonants.</s> 
+                                <s type="p"><c>p</c> has a distinctive 45º foot to the right of the descender. </s>
+                                <s type="r">Vernacular minuscule form of <c>r</c> is distinctive with its shoulder curving back towards the downstroke and occasionally closing before it curves up to the right.</s>
+                                <s type="s"> <c>s</c> is generally tall in all positions.</s>
+                                <s type="t"><c>t</c> has a notable angular onstroke at 45º to the headstroke.</s>
+                                <s type="y">Dotted <c>y</c> has limbs that turn outwards, the whole letter tipping slightly to the right.</s>
+                                <s type="ð"><c>ð</c> is formed with a wavy stroke piercing the ascender; in the latest stints, the top of the crossbar is emphatically flagged to the left.</s>
+                                <s type="þ"><c>þ</c> has a low ascender. </s>
+                                <s type="ƿ"><c>ƿ</c> has pointed bowl. </s>
+                                <s type="ascenders"><c>ascenders</c> are tall, often wedged or split.</s>
+                                <s type="descenders"><c>descenders</c> exploit the generous interlinear space and taper to the left.</s>
+                            </p>
+                            
+                            <p n="ligature">Ligatures include <c>st</c>, which occurs frequently. There is some biting  (e.g., fol. 5r/17, <q>scyppend</q>).</p>
+                            <p n="abbreviations">The <c>tironian nota</c> often sits on the line, and curves up at the bottom to the right. Abbreviations are few, but include <c>þ</c> with a cross-stroke through the ascender; <c>cw</c> with a macron over the <c>ƿ</c>; a Latin curved hook for <q>-er</q>, and an upward <c>curved macron</c> over nasal or denoting (in English) omission of nasal.</p>
+                            <p n="punctuation">Punctuation includes <c>low punctus</c>; <c>punctus elevatus</c>; and <c>hyphen</c> at varying heights and angles at line-end. 
+                                <s type="corrections">Corrections by insertion mark and interlinear addition.</s>
+                            </p> 
+
+                        </handNote>
+                    	
+    <handNote n="SC3" xml:id="EM.BL.Vesp.D.xiv.SC3" script="Late English Vernacular Minuscule" scope="minor" medium="ink">
+        <p n="desc">Additional articles in the manuscript (<locus n="163v:11-165r:13, 165v-166r:10">fols 163v/11-165r/13, 165v-166r/10</locus>). Partially written by Scribe 3 and Scribe 2. The main characteristics of Scribe 3's hand are its rounded, slightly backward-leaning aspect, and its regular duct. The script is calligraphically consistent. The scribe uses rustic capitals occasionally for Latin names.  </p>
+        <p n="char">
+            <s type="a">
+               <c>a</c> is two-compartment.</s>
+            <s type="æ"><c>æ</c> is formed with single compartment <c>a</c>, the lower part of <c>e</c> descending slightly below the line.</s>
+            <s type="d"><c>d</c> is round-backed.</s>
+            <s type="e"><c>e</c> often has an extended tongue in final position.</s>
+            <s type="f">Vernacular minuscule forms of <c>f</c> where the mid-stroke is often slightly longer than the headstroke.</s>
+            <s type="g">8-shaped <c>g</c>, often ligatured by straight stroke to next letter, has a hairline stroke closing lower bowl, with an occasional oblique stroke finishing the lower part of the tail. Insular <c>g</c> begins from the left of the headstroke and sweeps round into an angular, but controlled tail. Insular <c>g</c> is used for the spirant; Caroline, for the stop.</s>
+            <s type="h">Caroline <c>h</c>.</s>
+            <s type="minim">Even <c>minims</c>, often with slight serifs to the right.</s> 
+            <s type="p">There is a very slight 45º foot to the right of the descender of <c>p</c>.</s>
+            <s type="r">Vernacular minuscule form of <c>r</c> with very slight hook up at end of right limb.</s>
+            <s type="s"> <c>s</c> is generally long in all positions; uncial <c>s</c> occurs in Latin names.</s>
+            <s type="t"><c>t</c> has a well-formed curved downstroke.</s>
+            <s type="ð"><c>ð</c> is formed with a short curved stroke piercing the ascender.</s>
+            <s type="þ"><c>þ</c> has a curved, tapered descender.</s>
+            <s type="y"><c>y</c> is dotted, with both upper limbs turning to the left.</s>                 
+           
+            <s type="ƿ"><c>ƿ</c> has pointed bowl, but otherwise is quite similar to <c>p</c>. </s>
+            <s type="N">Rustic <c>N</c> is used at line-ends.</s>
+            <s type="ascenders">Tall <c>ascenders</c> are controlled, and often flagged to the left.</s>
+            <s type="descenders"><c>descenders</c> exploit the generous interlinear space, tapering and curving to the left.</s>
+        </p>
+        
+        <p n="ligature">Ligatures include <c>st</c>, with a narrow, high aperture, and <c>t</c> crossed through a mid-point. There is some biting.</p>
+        <p n="abbreviations">The <c>tironian nota</c> has a slightly wavy head, and usually descends below the line, but occasionally sits on the line and flicks up at the bottom to the right. Abbreviations are few, but include <c>þ</c> with a cross-stroke to the right of the ascender; Latin 9-shaped mark for <q>-us</q>, and upward curved macron over <q>sce</q> or denoting English omission of nasal.</p>
+        <p n="punctuation">Punctuation includes <c>low punctus</c>; <c>punctus elevatus</c>; <c>punctus interrogativus</c> (tipped over); and <c>punctus versus</c> at end of text. 
+            <s type="corrections">Corrections by insertion mark, interlinear addition, erasure and overwriting.</s>
+        </p>
+                        </handNote>
+
+                        
+</handDesc> 
+                    <decoDesc>
+                       
+                            <p>Frequent decorated initials in red and green to mark main items, sometimes alternating between the two colours, for example; <list>
+                                <item>
+                                    <locus>fol. 4r</locus>, <c>O</c> and <c>D</c> in red, together with the rubrics;</item>
+                                <item>
+                                    <locus>fol. 4v</locus>, red <c>A</c> with green infill and additional red splashes on particular graphs within the text;</item>
+                                <item>
+                                    <locus>fol. 7r</locus>, green <c>M</c> with red lines along the two oblique bars.</item>
+                            </list>
+                            </p>
+                        
+                    </decoDesc>
+                    
+                    <additions>
+                        <p><date>Fourteenth-century</date> pen-trials (<q>Sciant presentes</q> <q>Domine dominus noster</q>) in margins of fol. 58v; pencil scratches at bas-de-page of fol. 76r. Erased pen-trials in margins of fols 111v, 113v, 116v. <name type="person">Richard James</name>'s table of contents appears on <locus>fol. 2r</locus>
+                            and another table of contents appears on fol. 3r.</p>
+                        <p>The manuscript contains later <date>sixteenth-century</date> annotations in the hands of <name type="person">Robert Talbot</name>, <name type="person">John Joscelyn</name>, and <name type="person">Laurence Nowell</name>.
+                            </p>
+                    </additions>
+                    <bindingDesc>
+                        <p>Bound in s. xvii in brown and red leather with shield on front in gold tooling, with green leather on the spine. Number 691 at top, A at bottom. <q>Homilies of Abbat AElfric, Saxon, etc.</q> written in  a green square.</p>
+                    </bindingDesc>
+                    <accMat>
+                        <p>Added flyleaves of a printed edition of a Latin text at the beginning and
+                            the end of the manuscript.<note type="TK">[check whether it is possible to determine
+                            which text this is]</note></p>
+                    </accMat>
+                </physDesc>
+                
+                <history>
+                    
+                    <origin cert="medium" evidence="conjecture" notAfter="1335" notBefore="1225">
+                        
+                        <p>Written in the <name type="place">South-East of England</name>, almost certainly at <name type="place">Christ Church</name>, in the period 1140-1160. The manuscript seems to show a gradual accumulation of texts over time, if alterations in the various hands' letter-forms are anything to go by, including the identification of the same or a very similar hand in a Christ Church charter of the same period (<ref target="#tre1595">Treharne</ref> forthcoming).</p>
+                    </origin>
+                    <provenance>
+                        <p>Nothing is known of the manuscript's history, prior to its acquisition by <name type="person">Cotton</name>, except that it seems to have been used by a female 'ancilla' (as noted above) by the later twelfth century. Further annotations and pen-trials show the manuscript was available for users, but little else can be deduced as yet. What is known is fully detailed in <ref target="#wil567">Wilcox</ref> (2000).</p>
+                    </provenance>
+                    <acquisition notAfter="1697" notBefore="1696">
+                        <p>Given to <name type="org">British Library</name> as part of <name type="ex-libris">Cotton</name> collection.</p>
+                    </acquisition>
+                </history>
+                
+         <additional>
+         	<adminInfo>
+                        <recordHist>
+                            <source>
+                                Manuscript described by Elaine Treharne with the assistance of
+                                Orietta Da Rold, Zöe Enstone, Hollie Morgan, Owen Roberson, William
+                                Green and Takako Kato (2010; 2013).
+                                <!-- <p>Information encoded by Orietta Da Rold and Zoe Enstone on <date>10 March 2005</date>. The rest of Incipits encoded by Hollie Morgan on <date>26th June 2009</date>. William Green also edited the 2005 version. Takako Kato compiled two versions, and added the bibliography in Sep 2009. Elaine Treharne wrote the introductory matter, all of the descriptions of the hands, and added information to each textual item, particularly where our numbered items differ from Ker's (whose description differs from Warner's edition). Hollie Morgan typed up Owen Roberson's corrections, also proofread, tagged items in the introduction, tagged manuscripts and references to individual items, hid team comments and tidied up the hand descriptions (July 2010)</p> -->
+                            </source>
+                        </recordHist>
+                    </adminInfo>
+        
+             <listBibl>
+             	
+<bibl xml:id="ass389">Assmann, Bruno, ed., <hi rend="title">Angelsächsischen Homilien und Heiligenleben</hi>, Bibliotek der angelsächsischen Prosa, 13 (Kassel: Wigand, 1889; repr. 1964)</bibl>
+
+<bibl xml:id="ass568">---, 'Eine Regel über den Donner', <hi rend="title">Anglia</hi>, 10 (1888), 185</bibl>
+
+<bibl xml:id="ass570">---, 'Prophezeiungen aus dem 1. Januar für das Jahr', <hi rend="title">Anglia</hi>, 11 (1889), 369</bibl>
+
+<bibl xml:id="ass571">---, 'Übersetzung von Alcuins <hi rend="title">De virtubius et vitiis liber ad Widonem comitem</hi>', <hi rend="title">Anglia</hi>, 11 (1889), 371-91</bibl>
+
+<bibl xml:id="ass569">---, 'Vorzeichen des jüngsten Gerichts', <hi rend="title">Anglia</hi>, 11 (1889), 369-71</bibl>
+
+<bibl xml:id="cle112">Clemoes, Peter, ed., <hi rend="title">Ælfric's Catholic Homilies: The First Series. Text</hi>, EETS, SS 17 (London: Oxford University Press, 1997)</bibl>
+
+<bibl xml:id="cox572">Cox, R. S., 'The Old English Distichs of Cato', <hi rend="title">Anglia</hi>, 30 (1972), 1-42</bibl>
+
+<bibl xml:id="cra327">Crawford, S. J., ed., <hi rend="title">The Old English Version of the Heptateuch, Aelfric's Treatise on the Old and New Testament, and his Preface to Genesis</hi>, EETS, OS 160 (London: Oxford University Press, 1922)</bibl>
+
+<bibl xml:id="dav12">Davis, G. R. C., <hi rend="title">Medieval Cartularies of Great Britain: A Short Catalogue</hi> (London: Longmans Green, 1958)</bibl>
+
+<bibl xml:id="feh573">Fehr, Bernard, ed., <hi rend="title">Die Hirtenbriefe Ælfrics</hi>, Bibliothek der angelsächsicschen Prosa, 9 (Hamburg: Henri Grand, 1914; repr. with a supplement to the introduction by Peter Clemoes, Darmstadt: Wissenschaftliche Buchgesellschaft, 1966)</bibl>
+
+<bibl xml:id="for576">Förster, Max, 'Der Inhalt der altenglischen Handschrift Vespasianus D. XIV', <hi rend="title">Englische Studien</hi>, 54 (1920), 46-68</bibl>
+
+<bibl xml:id="for577">---, 'Die spätaltenglische Übersetzung der Pseudo-Anselmschen Marienpredigt', <hi rend="title">Palaestra (Anglica: untersuchungen zur englischen Philologie</hi>, 148 (1925), 8-69</bibl>
+
+<bibl xml:id="for574">---, 'Die Weltzeitalter bei den Angelsachen', in <hi rend="title">Neusprachliche Studien: Festgabe Karl Luick zu seinem 60. Geburtstage</hi>, ed. by Friedrich Wild (Marburg: Elwert, 1925), pp. 198-99</bibl>
+
+<bibl xml:id="for575">---, 'Two Notes on Old English Dialogue Literature', in <hi rend="title">An English Miscellany Presented to Dr. Furnivall</hi> (Oxford: Clarendon Press, 1901), pp. 86-106</bibl>
+
+<bibl xml:id="god42">Godden, Malcom, ed., <hi rend="title">Ælfric's Catholic Homilies: The Second Series</hi>, EETS, SS 5 (London: Oxford University Press, 1979)</bibl>
+
+<bibl xml:id="hal485">Hall, Joseph, <hi rend="title">Selections from Early Middle English, 1130-1250.</hi>, 2 vols (Oxford: Clarendon Press, 1920)</bibl>
+
+<bibl xml:id="han157">Handley, R., 'British Museum MS Cotton Vespasian D. xiv', <hi rend="title">Notes and Queries</hi>, 21 (1974), 243-50</bibl>
+
+<bibl xml:id="har465">Hardy, Thomas Duffus, <hi rend="title">Descriptive Catalogue of Materials Relating to the History of Great Britain and Ireland to the End of the reign of Henry VII</hi>, Rolls Series, 26 (London: Longman, 1871)</bibl>
+
+<bibl xml:id="hul428">Hulme, W. H., 'The Old English Version of the Gospel of Nicodemus', <hi rend="title">PMLA</hi>, 13 (1898), 471-515</bibl>
+
+<bibl xml:id="hul584">---, 'The Old English Version of the Gospel of Nicodemus', <hi rend="title">Modern Philology</hi>, 1 (1903-04), 591-610</bibl>
+ 
+<bibl xml:id="ker44">Ker, N. R., <hi rend="title">Catalogue of Manuscripts Containing Anglo-Saxon</hi> (Oxford: Clarendon Press, 1957; repr. 1990) item 209</bibl>
+ 
+<bibl xml:id="klu578">Kluge, F., 'Zu altenglischen Dichtungen', <hi rend="title">Englische Studien</hi>, 8 (1885), 474-79</bibl>
+
+<bibl xml:id="lep486">Le Patourel, John, 'The Reports on the Trial on Penendon Heath ', in <hi rend="title">Studies in Medieval History Presented to Frederick Maurice Powicke </hi>, ed. by R. W. Hunt, W. A. Pantin and R. W. Southern (Oxford: Clarendon Press, 1948)</bibl>
+
+<bibl xml:id="mer579">Meritt, Herbert Dean, 'Old English Glosses, Mostly Dry Point', <hi rend="title">Journal of English and Germanic Philology</hi>, 60 (1961), 441-50</bibl>
+
+<bibl xml:id="mor580">Morris, Richard, ed., <hi rend="title">Old English Homilies of the 12th and 13th Centuries</hi>, EETS, OS 29, 34 (London: Oxford University Press, 1867-68; repr. as one volume, 1988)</bibl>
+
+<bibl xml:id="pop581">Page, R. I., 'New Work on Old English Scrathced Glosses', in <hi rend="title">Studies in English Language and Early Literature in Honour of Paul Christophersen</hi>, ed. by P. M. Tilling, Occasiional Papers in Linguistics and Language Teaching (Coleraine: New University of Ulister, 1981)</bibl>
+
+<bibl xml:id="pop87">Pope, John C., ed., <hi rend="title">Homilies of Aelfric: a Supplementary Collection</hi>, EETS, OS 259 and 260 (London: Oxford University Press, 1967-68)</bibl>
+
+<bibl xml:id="ric582">Richards, Mary P., 'An Edition of the Old English <hi rend="title">Of Seinte Neote</hi>' (unpublished doctoral dissertation, University of Wisconsin, 1971)</bibl>
+
+<bibl xml:id="ric150">Richards, M. P., 'Innovations in Aelfrician Homiletic Manuscripts at Rochester', <hi rend="title">Annuale Medievale</hi>, 19 (1979), 13-26</bibl>
+
+<bibl xml:id="ric151">---, 'MS Cotton Vespasian A. XII: the Vespasian Homilies', <hi rend="title">Manuscripta</hi>, 22 (1978), 97-103</bibl>
+
+<bibl xml:id="ric158">---, 'On the date and provenance of MS Cotton Vespasian D. xiv, ff. 4-169', <hi rend="title">Manuscripta</hi>, 17 (1973), 31-35</bibl>
+
+<bibl xml:id="ric181">Richards, Mary P., <hi rend="title">Texts and their Traditions in the Medieval Library of Rochester Cathedral Priory</hi>, Transactions of the American Philosophical Society, 78:3 (Philadelphia: American Philosophical Society, 1988)</bibl>
+
+<bibl xml:id="rye487">Rye, W. B., 'Catalogue of the Library of the Priory of St. Andrew, Rochester A.D. 1202', in <hi rend="title">Archaelogia Cantiana: Transactions of the Kent Archaelogical Society 3 </hi>, 3 (1860), pp. 47-64</bibl>
+
+<bibl xml:id="sch583">Schmetterer, Viktor, <hi rend="title">Drei altenglische religiöe Texte aus der Handschrift Cotton Vespasianus D XIV</hi>, Dissertationen der Universität Wien, 150 (Vienna: VWGÖ, 1981)</bibl>
+
+<bibl xml:id="ske153">Skeat, W. W., ed., <hi rend="title">Ælfric’s Lives of Saints</hi>, EETS, OS 76, 82, 94, 114 (London and Oxford: Kegan Paul, Trench, Trübner, 1881-1900; repr. as 2 vols, 1966)</bibl>
+
+<bibl xml:id="stu488">Stubbs, William, <hi rend="title">The Historical Works of Master Ralph de Diceto, Dean of London</hi>, Rolls Series, 68, 2 vols (London Longman, 1876)</bibl>
+
+<bibl xml:id="tho57">Thorpe, B., ed., <hi rend="title">The Sermones Catholici or Homilies of Aelfric</hi>, Aelfric Society, 2 vols (1844-46)</bibl>
+
+<bibl xml:id="tra278">Traxel, Oliver M., <hi rend="title">Language Change, Writing and Textual Interference in Post-Conquest Old English Manuscripts: The Evidence of Cambridge, University Library, Ii.1.33</hi> (Frankfurt am Main: Peter Lang, 2004)</bibl>
+
+<bibl xml:id="tre52">Treharne, Elaine M., 'The Production and Script of Manuscripts containing English Religious Texts in the First Half of the Twelfth Century', in <hi rend="title">Rewriting Old English in the Twelfth Century</hi>, ed. by Mary Swan and Elaine M. Treharne (Cambridge: Cambridge University Press, 2000), pp. 11-39</bibl>
+                 
+<bibl xml:id="tre1586">-----------------, 'The Life of English in the Mid-Twelfth Century: Ralph D'Escures's Homily on the Virgin Mary', in <hi rend="title">Literature of the Reign of Henry II</hi>, ed. by Ruth Kennedy and Simon Meecham Jones (London: Routledge, 2006), pp. 169-86</bibl>
+                 
+<bibl xml:id="tre338">-----------------, 'Categorization, Periodization: The Silence of (the) English in the Twelfth Century ', in <hi rend="title">New Medieval Literatures, 8</hi>, ed. by Rita Copeland, Wendy Scase and David Lawton (Turnhout: Brepols, 2006), pp. 248-75</bibl>
+                 
+<bibl xml:id="tre107">------------------, 'The Form and Function of the Old English Dicts of Cato', in <hi rend="title">Journal of English and Germanic Philology 102.4</hi>, (2003), pp. 65-85</bibl>
+                 <bibl xml:id="tre1595">---------------, <hi rend="title">The Ideology of Early English, 1000-1200</hi> (Oxford: University Press, Forthcoming)</bibl>
+                 
+                 
+
+<bibl xml:id="wal178">Waller, K. M., 'The Library, Scriptorium and Community of Rochester Cathedral Priory c. 1080-1150' (unpublished doctoral dissertation, Liverpool University, 1981)</bibl>
+
+<bibl xml:id="wan470">Wanley, Humfrey, <hi rend="title">Antique literature septentrionalis liber alter</hi> (Oxford: Sheldonian Theatre, 1705)</bibl>
+
+<bibl xml:id="war127">Warner, Rubie D. N., ed., <hi rend="title">Early English Homilies from the Twelfth Century MS. Vesp. D. xiv</hi>, EETS, OS 152 (Oxford: Oxford University Press, 1917 for 1915)</bibl>
+
+<bibl xml:id="wat88">Watson, Andrew George, <hi rend="title">Catalogue of Dated and Datable Manuscripts, c.700-1600 in the Department of Manuscripts, the British Library</hi>, 2 vols (London: British Museum, 1979)</bibl>
+
+<bibl xml:id="wil130">Wilcox, Jonathan, ed., <hi rend="title">Aelfric's Prefaces</hi>, 9 (Durham: Durham Medieval Texts, 1994)</bibl>
+
+<bibl xml:id="wil567">---, 'London, British Library, Cotton Vespasian D. xiv: Homiles, etc; Isidore, "Synonyma"', in <hi rend="title">Anglo-Saxon manuscripts in Microfiche Facsimile</hi>, 8: <hi rend="title">Wulfstan Texts and Other Homiletic Materials</hi> (Tempe, AZ: Arizona Center for Medieval and Renaissance Studies, 2000), pp. 53-64</bibl>
+ </listBibl>
+             </additional>
+                   
+             
+            </msDesc>                                          
+        </body>    
+    
+    </text>
+    
+</TEI>

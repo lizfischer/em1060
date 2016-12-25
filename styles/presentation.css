@@ -1,0 +1,91 @@
+/* Presentation Stylesheet */ 
+
+ /*****************/
+ /*THE HEADER*/
+.cts_logo {position: absolute; top: 25px; left: 10px;}
+.project_logo {position: absolute; top: 25px; left: 10px;}
+.main_title {color: #000000; font-family: Garamond, sans-serif; font-weight:bolder; font-size: 2.3em; position: absolute; top: 13px; left: 250px;  width: 650px;}
+.dmu_logo {position: absolute; top: 10px; left: 700px;}
+
+.sub_title {color: #000000; font-family: Garamond, sans-serif; font-weight:bolder; font-size: 1.8em; position: absolute; top: 20px; left: 242px;  width: 600px;}
+
+.sub_sub_title {color: #000000; font-family: Garamond, sans-serif; font-weight:bolder; font-size: 24px; position: absolute; top: 20px; left: 242px;  width: 600px;}
+
+ /*****************/
+ /*Lef Column, Menu*/
+.menutitle{
+cursor:pointer;
+margin-bottom: 5px;
+background-color:#E3E4FA;
+color:#000000;
+width:140px;
+padding:2px;
+text-align:center;
+font-weight:bold;
+font-size:0.8em;
+/*/*/border:1px solid #000000;/* */
+}
+
+.submenu{
+margin-bottom: 0.5em;
+font-size: 0.7em;
+}
+
+
+ /*****************/
+/*BAR*/
+.barlinks {font-size: 0.7em;}
+
+    a:link {color: #571B7e; }
+    a:visited {color: #571B7e;}
+    a:hover {color: #787880;}
+    a:active {color: #787880;}
+
+a.noline:link {text-decoration: none; }
+   a.noline:visited {text-decoration: none; }
+    a.noline:hover {text-decoration: none; }
+    a.noline:active {text-decoration: none; }
+	
+	
+	
+/*****************/
+/*IMAGES*/
+    img {border: 0;}
+	.smalllogo {width: 145px;}
+    
+/*****************/
+/*PARAGRAPHS*/
+    p.justify {text-align: justify;}
+    p.left {text-align: left;}
+    p.right {text-align: right;}
+    p.center {text-align:center;}
+    p.totheright {padding-left: 30px;}
+    p.indent {margin-left:36.0px;}
+    p.right_small {text-align: right; font-size: x-small;}
+    p.center_small {text-align: center; font-size: x-small;}
+    p.small {font-size: 0.8em;}
+
+/*****************/
+/*LISTS*/
+    .nostyle {list-style: none;}
+
+/*****************/
+/*SPAN*/
+    /*same colour as DMU logo plus emphasis*/
+    .red {font-weight:bolder; color: #C11B17;}
+	
+    a.red:link {font-weight:bolder; color: #C11B17; text-decoration: none; }
+    a.red:visited {font-weight:bolder; color: #C11B17; text-decoration: none; }
+    a.red:hover {font-weight:bolder; color: #C11B17; text-decoration: none; }
+    a.red:active {font-weight:bolder; color: #C11B17; text-decoration: none; }
+
+/*****************/
+/*HEADERS*/
+.header1 {font-weight: bold; font-size: 1.2em; text-align: left;}
+.header2 {text-decoration: underline; font-size: 0.8em;}
+
+/*****************/
+/*LINE SPACING*/
+.halfline {line-height: 50%;}
+.single {line-height: 80%;}
+.open {line-height: 150%;}

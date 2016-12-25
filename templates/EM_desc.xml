@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?oxygen RNGSchema="../schema/EM.rng" type="compact"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>
+                    The Production and Use of English Manuscripts: 1060 to 1220
+                </title>
+            	<author>
+            		
+            	</author>
+            </titleStmt>
+            <publicationStmt>
+                <p>
+
+                </p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about elements attributes and classes are taken from P5 Guidelines at
+                    http://www.tei-c.org/release/doc/tei-p5-doc/html/MS.html. Orietta Da Rold used part of
+                    the template used by Rebecca Farnham in the West Midlands Manuscript Project.
+                    Updating the information to TEI P5 and following the discussion in Driscoll
+                    2006. Revised in the light of James Cummings' comments on 11/06. 
+                    Takako Kato extended and modified the original in January 2009.</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+
+    <!-- Issue of dating. The P5 guidelines advise to use date and places in the history within 
+                    the physical description section, however for ease of use we have also provided the date at the beginning of the description.
+                    
+                    Dating formulae:
+                    
+                    "s.xi<hi rend="sup">in</hi>" date range 1000-1010
+                    "s.xi<hi rend="sup">1</hi>" date range 1000-1050
+                    "s.xi<hi rend="sup">med</hi>" date range 1040-1060
+                    "s.xi<hi rend="sup">2</hi>" date range 1050-1099
+                    "s.xi<hi rend="sup">ex</hi>" date range 1090-1099
+                    "s.xi/xii" date range 1090-1110
+                    "s.xii<hi rend="sup">in</hi>" date range 1100-1110
+                    "s.xii<hi rend="sup">1</hi>" date range 1100-1150
+                    "s.xii<hi rend="sup">med</hi>" date range 1140-1160
+                    "s.xii<hi rend="sup">2</hi>" date range 1150-1199
+                    "s.xii<hi rend="sup">ex</hi>" date range 1190-1199
+                    "s.xii/xiii" date range 1190-1210
+                    "s.xiii<hi rend="sup">in</hi>" date range 1200-1210
+                    "s.xiii<hi rend="sup">1</hi>" date range 1200-1250
+                    "s.xiii<hi rend="sup">2</hi>" date range 1250-1299
+                    "s.xiii<hi rend="sup">ex</hi>" date range 1290-1299
+    -->
+<text>
+<body>
+
+<msDesc xml:id="xxxx"> <!-- for @xml:id: Put the EM project ID'-->
+
+                <msIdentifier>
+                    <settlement>xxxx
+                    	<!-- Contains the name of a settlement such as a city, town, or village
+                        identified as a single geo-political or administrative unit --></settlement>
+                    <repository>xxxx
+                    	<!--  Contains the name of an organization, such as a university or
+                        library, within which a manuscript repository is located--></repository>
+                    <collection>xxxx
+                    	<!--  Contains the name of a collection of manuscripts, not necessarily
+                        located within a single repository--></collection>
+                    <idno>xxxx
+                    	<!--  Supplies any standard or non-standard number used to identify a
+                        bibliographic item --></idno>
+                    <msName>xxxx
+                    	<!--  This is NOT mandatory. It contains any form of unstructured alternative name used for a
+                        manuscript, such as an ocellus nominum, or pseudonym--></msName>
+
+				<!-- 	We describe all manuscripts under their current shelfmarks. 
+					We do, however, give shelfmarks of other manuscripts that used to be a single manuscript 
+					at the beginning of Summary with a <ref> tag.
+					(See 1. Re:2.a-i of the minutes of the meeting on 24 March 2009)
+				-->
+                	
+		                	<altIdentifier>
+		                	<!-- This is NOT mandatory.  Contains an alternative or former structured 
+		                		identifier used for a manuscript, such as a former catalogue number.  -->
+		                		<settlement>xxxxx </settlement>
+		                		<repository>xxxxx</repository>
+		                		<idno> xxxxxxxxx</idno>
+		                	</altIdentifier> 
+                </msIdentifier>
+
+ <head>	<!-- Contains any type of heading, for example the title of a section, or the
+                    heading of a list, glossary, manuscript description, etc. For example: -->
+                 <title>xxxxx
+                 <!-- WRITE THE TITLE OF THE WORK, for example,
+                 	Homilies and Lives of Saints, or Gospels. 
+                 	In order to make them in italics, encolse the word(s) with <hi rend="title">Gospels</hi>  -->
+                 </title>, 
+ 			<date notAfter="xxxx" notBefore="xxxx"><!-- @notAfter and @notBefore: give a 4 digit number. -->
+	 			s.xxxx <hi rend="sup">xxxx</hi>
+	 			<!-- Write the dates of the manuscript following the style, which appears at the end of 
+	 			"http://www.le.ac.uk/english/em1060to1220/catalogue/mssportal.htm".
+	 			Superscript number or the word should be enclosed with <hi rend="sup"></hi>.-->
+ 			</date>
+                <note type="footnote" resp="">
+                		xxxx xxxx xxxx
+                		<!-- If the date of the manuscript needs to be explained, then give notes here. -->
+                </note>
+</head>
+<msContents>
+<summary n="metatextual">
+		<phr>xxxx xxxx xxxx xxxx</phr>
+	
+           <!-- Describes the intellectual content of a manuscript or manuscript part, either as a series of phrases
+           or as a series of structured manuscript items. If you want to use several phrases, use <phr></phr> tags. For example:
+           
+           <phr>The West-Saxon translation of the four gospels, <hi rend="title">Gospel of Nicodemus</hi> and <hi rend="title">Vindicta Salvatoris</hi>.</phr>
+           <phr>The manuscript originally contained a preliminary quire to receive a copy of the list of Leofric's gifts and his inscriptions, its final quire (Quire 27) had several blank pages. The preliminary quire and the blank pages of Quire 27 were filled with a series of legal documents in s. xi<hi rend="sup">2</hi>-xii<hi rend="sup">1</hi>. Five leaves from the preliminary quire and three leaves from the end of the manuscript were cut and bound at the beginning of the <hi rend="title">Exeter Book</hi> (Exeter Cathedral, 3501) before s. xvi.</phr> -->
+</summary>
+
+<!-- After the summary of the manuscript, describe all the Manuscript Items.
+	HOW TO DEFINE MANUSCRIPT ITEMS:
+	We consider any texts, i.e., main text, marginalia, annotations, corrections, additions etc. included before 1220 as 'items'.
+	Other Items added AFTER 1220 are defined as 'additions', and they will be included under
+	"physDesc/additions". See below.
+-->
+
+	
+<msItem n="xxxx" defective="xxxx" class="main">
+	<!-- @n: NOT mandatory. All the Manuscript Items will be automatically numbered.
+		It is however useful to number the items according to the kinds of text.
+		In the case of CUL.Ii.2.11, there are only 6 main items, but there are numerous supplementary items, and 
+		some of them are bound in Exeter Book. For the purpose of clarity and convenience, we numbered 
+		the main items with just numbers. Items appear in the Exeter with a prefix of "Exeter_", and so on. -->
+	<!--  @defective: identifies the text types or classifications applicable to this object.
+		It indicates whether the object described is defective, i.e. incomplete through loss or damage.  
+           It will be used ONLY IF the item is actually defective, expressed with value true. Otherwise, it will be left out. 
+	      IF the manuscript is defective, then also explain the defectiveness in prose below, in <note type="main"></note>
+	-->
+      <!-- @class identifies the text types or classifications applicable to this object. 
+               Class which will be defined are:  
+               main  = text in the main frame or column
+               marginalia  = text in any margin
+               interlineata  = text in interlinear position
+               toc = table of content
+              
+               We include as an "item" any alteration performed on the text which has been added in the margin, interlinearly etc. and therefore the class to be used will follow the POSITION, 
+               rather than the type of text, i.e. gloss, commentary, note, alteration. This item, however, 
+               will have to have been inserted during the temporal termini of the project 1060 to 1220, 
+               all later alterations are noted in the section <additions>   -->
+
+<locus from="xxxx" to="xxxx">
+	<!--@from and @to are for navigation purposes.
+	Hence, do not prefix with either p. or fol. Just give folio or page number followed by a slash, and line number (if necessary).-->
+	<!-- if the @from and @to attributes are not apporpriate: 
+	for example, if there is a one line phrase added in the right hand margin, then use @n attribute instead.  
+	
+	E.g. <locus n="3r/3"> 3r/3 </locus>
+	
+	-->
+	<!-- use a slash (/) between the folio or page number and the line number. -->
+	
+	xxxxxx
+	<!-- The text between the opening and closing tags <locus>xxxxxx</locus> will appear on the website. As such, you may wish to write this part in prose. For example:
+	
+	<locus from="1v-colA/8" to="3r">fol. 1v-column A/8 - fol. 3r-column B/3</locus> 
+     
+               -colA
+               -colB
+               -colC
+               -colD
+               -mLeft
+               -mRight
+               -mTop
+               -mBottom
+	
+	The order of the columns will go from left to right and then from top to bottom in alphabetical order. -->
+</locus>
+<title type="uniform" xml:id="xxxx">
+	xxxx xxxx xxxx xxxx xxxx xxxx
+	<!-- For @type"uniform" = The EM1060-1220 project uses titles in
+		Angus Cameron, 'A List of Old English Texts', in _A Plan for the Dictionary of Old English_, 
+		ed. by Roberta Frank and Angus Cameron (Toronto, 1973).
+		
+		as our "uniform' title. For example:
+		<title type="uniform>Ælfric, <hi rend="title">First Series of Homilies [Catholic Homilies I]</hi>,
+		'English Preface'</title>
+	
+	The @xml:id allows us to collate the information at a later stage, so that the users can search all the manuscripts 
+	which contain a particular item. We use Cameron's designations for our ID numbers. 
+	For example, in Cameron, the above item is under:
+		B. Prose; 1. Ælfric; 1.1 First Series of Homilies [Catholic Homilies I]; 1.1.1: English Preface
+
+	Hence, the xml:id number will be:
+		B.1.1.1
+	
+	-N.B. When there are more than two occurences of the same "title" in one manuscript, such as: Manumissions, use
+		-a
+		-b
+		-c
+	in addition to the ID number, for example:
+		<title type="uniform" xml:lang="en" xml:id="B.16.10.6-c">Manumissions</title>
+		  
+	
+	 If no uniform title is listed in Cameron for an item, and if one wishes to provide a general designation of the contents, 
+	then a 'supplied' title can be given. If you supply a title in this way, do NOT give an 'xml:id' number.   -->
+
+</title>
+
+<!-- For the transcription of the textual part (title type="ms", rubric, incipit, explicit, and colophon below), See 
+	- desc_guideline_09.doc
+	- tags.xml
+ --> 
+
+<title type="ms" xml:lang="en OR lt OR fr">
+	<!-- When the Manuscript Item itself contains a title, then, transcribe the title, as given in the manuscript within
+		<title type="ms">xxxxxxxxxx</title>.
+		
+		@xml:lang = language of the text, in this case the title given:
+				- en (English)
+				- lt (Latin)
+				- fr (French)-->
+	
+	<locus>xxxx - xxxx</locus> 
+	
+	<!-- put the location of the title within the manuscript, then transcribe -->
+	
+	xxxxxx xxxxx xxxxxxx xxxxxxxxxx
+
+		<!-- For example:
+			<title type="ms" xml:lang="lt">
+			<locus> fol. 3r/1</locus> 
+			<hi rend="red">Sermo in assumptione s<expan>an</expan>c<expan>t</expan>emarie</hi>
+			</title>
+		-->
+</title>
+
+<rubric xml:lang="en OR fr OR lt" type="initial OR median OR final">
+					<!--  <rubric></rubric>contains the text of any rubric or heading attached
+                            to a particular manuscript item, that is, a string of words through
+                            which a manuscript signals the beginning of a text division. Often this will occur with
+                            an assertion as to its author and title, which is in some way set off
+                            from the text itself, usually in red ink, or by use of different size or
+                            type of script, or some other such visual device.  
+					-->
+	
+	<!-- @xml:lang = the language of the rubric.
+	 @type: = we include in the rubric information 'type='initial/median/final'.
+	-->
+	
+	<locus>xxxx - xxxx</locus> 
+	<!-- Enter the location of the rubric within the manuscript.
+	-->
+	
+	xxxxxx xxxxx xxxxxxx xxxxxxxxxx
+</rubric>
+
+<incipit xml:lang="en OR lt OR fr" defective="true">
+				<!-- DEFINITION: the incipit of a manuscript item, that is the opening words of the text proper,
+				exclusive of any rubric which might precede it, of sufficient length to identify the work uniquely; 
+				such incipits were frequently used a means of reference to a work, in place of a title.
+				
+				Please provide a COMPLETE GRAMMATICAL AND SEMANTIC UNIT for these textual delimiters.
+				-->
+
+	<!-- @xml:lang = the language of the incipit. This is MANDATORY. en OR lt OR fr.
+	@defective="true" indicates whether the incipit as given is defective, i.e. the first words of the text as preserved, 
+	as opposed to the first words of the work itself.
+	
+	It will be used only if the item is actually defective, expressed with value true. Otherwise, it will be left out.
+      
+      If the item is defective, then also explain the defectiveness in <note type="footnote" resp="your initial">xxxx xxxx</note>.
+	-->
+	
+	<locus>xxxx - xxxx</locus> <!-- Enter the location of the incipit within the manuscript.	-->
+	
+	xxxxxx xxxxx xxxxxxx xxxxxxxxxx
+	
+</incipit>
+
+<explicit xml:lang="en OR lt or fr">
+				<!-- DEFINITION: the explicit of a manuscript item, that is, the closing words of the text proper, 
+					exclusive of any rubric or colophon, which might follow it. 
+					Transcribe not just the explicit, but provide a complete grammatical and semantic unit 
+					for this textual delimiter. 
+				-->
+
+	<!-- @xml:lang = the language of the explicit. This is MANDATORY. en OR lt OR fr.
+	@defective="true" indicates whether the incipit as given is defective, i.e. the first words of the text as preserved, 
+	as opposed to the last words of the work itself.
+	
+	It will be used only if the item is actually defective, expressed with value true. Otherwise, it will be left out.
+      
+      IF the item is defective, then also explain the defectiveness in <note type="footnote" resp="your initial">xxxx xxxx</note>.
+	-->
+	
+	<locus>xxxx - xxxx</locus> <!-- put the location of the explicit within the manuscript.	-->
+	
+	xxxxxx xxxxx xxxxxxx xxxxxxxxxx
+</explicit>
+
+<colophon xml:lang="xx">
+                            <!-- DEFINITION: Colophon of a manuscript item: that is,
+                            a statement providing information regarding the date, place, agency, or
+                            reason for production of the manuscript, if there is one.
+                             -->
+
+	<!-- @xml:lang = the language of the explicit.
+		
+	@defective="true" indicates whether the incipit as given is defective, i.e. the first words of the text as preserved, 
+	as opposed to the last words of the work itself.
+	
+	It will be used only if the item is actually defective, expressed with value true. Otherwise, it will be left out.
+      
+      IF the item is defective, then also explain the defectiveness in <note type="footnote" resp="your initial">xxxx xxxx</note>.
+	-->
+	
+	<locus>xxxx - xxxx</locus> <!-- Enter the location of the colophon within the manuscript.	-->
+	
+	xxxxxx xxxxx xxxxxxx xxxxxxxxxx
+	
+</colophon>
+
+<quote xml:lang="xx" type="xxx" subtype="xxx">
+		
+	<!-- As stated above, we regard all kinds of text to be an "Item". So the text added in the margin etc. is also an Item.
+			<quote></quote> is used as a means to indicate the text inserted either in the margin or in an interlinear position. 
+			An indication of the scribe who inserted the text should also be included. 
+			(See for example, CUL.Ii.1.33, Item 3). 
+			@xml:lang = language of the added text; 
+			@type = type of the text (for example, biblical); and @subtype = which scribe added this item.
+		-->
+</quote>
+
+<textLang mainLang="xx" otherLangs="xx"><!-- @mainLang and otherLangs="en OR lt OR fr" -->
+<!-- 
+	textLang should be used to provide
+      information about the languages used within a manuscript item. 
+      It may take the form of a simple note, as in the following example:
+      
+      Predominantly in English with Latin glosses
+-->
+<!-- See minutes of the Meeting on 29 May 2009, 4.a.
+The team discussed the attributes MainLang and OtherLang. These attributes are problematic, as they imply that either Latin or French is the ‘main’ language, which might not always be the case. The team agreed that we would still use these attributes, but when we create a search engine, we would avoid using words such as ‘main’ language and ‘other’ language, so as not to give any impression of hierarchy among languages.
+We also agreed that if the amount of the text in English and that in another language are about the same, we would put 'English' as the MainLang, and note in the following details that the item is in fact equally in English and the other language.
+-->
+xxxxxxx xxxxxx xxxxxxx xxxxxxxxx
+</textLang>
+
+<filiation>
+	<!-- 
+	filiation element appars as "Other versions of the text".
+	It can be used to provide information on the relationship between the manuscript and 
+	other surviving manuscripts of the same text. Give a list of manuscripts, and then provide an explanation in prose if necessary.
+	-->
+		<list>
+			<!-- a list of manuscripts should be listed within
+				<list>
+					<item>
+					</item>
+				</list>
+			For the manuscripts which are in our project list, please provide the manuscript ID and the short name in standard form. 
+			See:
+			http://www.le.ac.uk/ee/em1060to1220/team_only/mss_names.htm
+			-->
+		<item><ref type="mss" target="xxxxxxxxx">xxxxx xxxxxxx</ref></item>
+						
+			
+			<!-- When manuscripts outside our corpus have textual filiation, omit <ref></ref> tags;
+				but for the manuscript names, follow the format given in mss_names.htm.
+			-->
+		</list>
+		<p>
+			<!-- Provide explanation in prose. -->
+			xxxx xxxx xxxx xxxx xxxx 
+		</p>
+</filiation>
+<note type="date">
+	<!-- 
+	Give a date of this particular item, when it is different from the date of the whole manuscript. 
+	You can explain the justification of dating.
+	This is mandatory. -->
+	xxxxx xxxxxx xxxxxx
+</note>
+<note type="hand"><!-- If there are more than one hands in the manuscript, always put the information about which hand copied this specific item. You can also write a SPECIFIC note on the hand of this item if appropriate. -->xxxx xxxx xxxx xxxx </note>
+<note type="main" resp="xx">
+	<!-- @resp: when the note is added by the main describe, this is not necessary. 
+	When the note is added by somebody else, then enter your initial for attribute resp.-->
+	
+	<!-- Provide any notes related to this item. -->
+	xxxxxx xxxxxxx xxxxxxx xxxxxxxxxxxx
+	<!-- Within the note tag you can use:
+		<p></p>
+		<quote>
+			For quoting text from the manuscript.
+			Within the quote tag, you can also use 
+				<hi rend="xx"></hi>
+				<lb/>
+				<pb/>
+		</quote>
+	-->
+</note>
+<decoNote type="xxxx" subtype="xxxx">
+	<!-- @type of decoration; @subtype of decoration 
+	- miniature, initial, diagram, border, drawer, unspecified, and so on.
+	- decorate, historiated, coloured and so on.
+	-->
+	
+	<!-- Note on decorative feature.-->
+	
+	xxxx xxxxxx xxxxxxx xxxxxxxx xxxxxxxxxx
+	
+	<!-- When the decorative feature of letters used throughout the item needs further explanation, 
+	or, when some of the decorative feature of letters are particularly worth mentioning, then, explain in decoNote tags. -->
+	
+	<!-- When few features within the item are noteworthy, enter them within the list. -->
+	
+	<list>
+			<item>
+				<locus>xx/xx</locus> 
+				xxxx xxxxx xxxxxxxx xxxxxxx xxxxxxxx
+				
+				<!-- you can use hi tags and q tags within the item tags. For example:
+				
+				Red <q>H</q> of <q><hi rend="red">H</hi>ieronimus</q> with zig-zag decoration. -->
+			</item>
+	</list>
+	<p><!-- List and paragraph tags can coexist within decoNote tags. --></p>
+</decoNote>
+
+<listBibl>
+<!-- Here, you will give a bibliography related to this specific item. All the bibliographical items whould be refered by ID numbers. See the end of this document, under additional/ listBibl for how to cite bibliographical materials.
+-->
+	<head>xxxx xxxx xxxx xxxx <!-- If you need to give some explanation of the list, put it here. --></head>
+                            <bibl>
+                            	<!--  Each bibliographical entry will be enclosed in "bibl" tags. 
+                                	abbreviated. See under additional/ listBibl. -->
+                            </bibl>
+</listBibl>
+</msItem>
+</msContents>
+
+<physDesc>
+<objectDesc form="Codex, Roll, Tablet, Single leaf OR Bifolium">
+                        <!-- objectDesc element is used to group together those parts of the
+                            physical description which specifically relate to the text-bearing object,
+                            its format, constitution, layout, etc. The form attribute is used to
+                            indicate the specific type of writing vehicle being described, for example,
+                            as a codex (more than one bifolium), roll, tablet, single leaf, bifolium etc -->
+<supportDesc material="parch">
+                            <!-- We adopted the term parchment for the support material -->
+	<support>
+	xxxxx xxxxxxxx xxxxxxxx xxxxxxxx
+	<!-- Contains a description of the materials etc. which make up the
+	physical support for the written part of a manuscript. Put the description within <p></p> tags
+				 	
+				 	OR
+				 	
+	if the manuscript contains more than one 'block', then use <list><item>xxx</item></list> tags.
+				 	-->
+	</support>
+	<extent>
+             <locus from="xx" to="xx">xxxx xxxx</locus>
+                                <!-- 
+                                Locus can be defined as with quire numbers such as:
+                                -q1, -q2, -q3 etc.
+                                
+                                For example:
+                                from="1v-q1" to="72v/4"
+                                
+                                OR
+                                
+                                 ii + 321 leaves
+                                -->
+	<dimensions type="xxxx" scope="xxx">
+		<!-- @type in dimensions can refer to the following types, which will be used in the relevant part of 
+                                   the physical description:
+                                   
+                                    - leaves	(dimensions relate to one or more leaves: 
+                                                    e.g. a single leaf, a gathering, or a separately bound part)
+                                    - ruled	(dimensions relate to the area of a leaf which has been ruled in preparation for writing)
+                                    - pricked	(dimensions relate to the area of a leaf which has been pricked out 
+                                                     in preparation for ruling: used where this differs significantly from the ruled area, 
+                                                     or where the ruling is not measurable)
+                                    - written (dimensions relate to the area of a leaf which has been written, 
+                                    		with the height measured from the top of the minims on the top line of writing, 
+                                    		to the bottom of the minims on the bottom line of writing.)
+                                    - miniatures (dimensions relate to the miniatures within the manuscript)
+                                    - binding	(dimensions relate to the binding in which the codex or manuscript is contained)
+                                    - box	(dimensions relate to the box or other container in which the manuscript is stored).
+                                
+                                @scope= all/most/range-->
+
+                                    <height>xx</height>
+                                    <width>xxx</width>
+							<!-- in mm. -->
+                            </dimensions>
+			</extent>
+			
+			<foliation>
+                                <!--Information about the original foliation and/or pagination, 
+                                	date if/when changed
+                                	and subsequent changes. You can use: -->
+				           
+				xxxx
+				<list><item>xxxxx </item></list>
+			</foliation>
+			
+                 <collation>
+                 	<!-- 
+                 		Collation is described in three or four major paragraphs, 
+                 		    - the paragraph for quire structure
+                 		    	  If the quire structure needs to be described in several pragraphs, you can do so. See below.
+                 		    - signatures
+                 		    - catchwords
+                 		    - the paragraph in which you give a diagrammatic representation of the quiring structure
+                 		       (See CUL.Ii.1.33.xml).
+				                 		If it is easier to give
+				                 		a diagrammatic representation for each paragraph, 
+				                 		you can do so too (See CUL.Ii.2.11.xml).
+                 	-->
+                                <p n="quires">
+                                    	<!-- give the collation, i.e., the quire structure, in a standard way. -->
+                                    etc etc etc xxxxxxx xxxxxxxxx
+							      <!-- AND/OR.... 
+							      if the quire structure needs to be explained in several blocks, then 
+							  	use <date> as the heading for the quire structures, and
+							  	use <list> for listing the quire structure. For example, see CUL.Ii.2.11-->
+			                                	<!-- <date>xxxxx xxxx xxxx</date>-->
+			                                	<list>
+			                                		<item>xxxxx</item>
+			                                		<item>xxxxx</item>
+			                                	</list>
+                                	<!-- 
+                                	NB.
+                                	half-sheet: when the other half of the pair is known; 
+                                	singleton: when it was only a half-sheet from the beginning, or we don't know which one was its original pair. -->
+
+                                	
+                                </p>
+                 	
+                                    <signatures>
+                                    	xxxxx xxxxx xxxxxxxx xxxxxxxx
+                                    <!-- Signatures must be signalled within the exact quire, the folio, 
+                                    	and the actual transcription of the type of signature including their position: left, right or centre -->
+                                    </signatures>
+                 	
+                                    <catchwords>
+                                    	xxxxxxxxx xxxxxxxx xxxxxxxx xxxxxxx
+                                    <!-- Catchwords must be signalled within the exact quire, the folio, 
+                                    	including their position: left, right or centre. -->
+                                    </catchwords>
+                               
+                                <p n="diagram">
+                                	<!-- Diagrammatic representation of the manuscript.
+                                		This is a drawing of the manuscript in tabular form which contains: 
+                                		the quires and features such as, foliation referring to the beginning and end of the quire, 
+                                		possible irregularities between hair/flesh sequence and gaps in the sequence of the text.
+                                		See mss_diagrams folder.
+                                		
+                                		Name the pdf files with the name of the manuscript and "_di", and make reference to the file:
+                                	-->
+                                	xxxx xxxxx xxxxxxxx xxxxxx 
+                                	<ref target="../mss_diagrams/xxxxx_di.pdf">the diagram</ref>
+                                	</p>
+                 </collation>
+	
+			<condition>
+				<p>
+					xxxxxxx xxxxxxxxxxxxx xxx
+					<!-- Describe the condition of the manuscript. -->
+				</p>
+			</condition>
+	<p n="summary">This appears as 'Note'.
+	<phr>xxx xxxx</phr>
+	</p>
+	
+		</supportDesc>
+		
+		<layoutDesc>
+			<layout xml:id="xxx" columns="x" ruledLines="xx" writtenLines="xx">
+				<!-- @xml:id: We give ID numbers accross the catalogue. Check the layout descriptions in CUL.Ii.1.33 and Ii.2.4
+					as well as the pdf files in mss_layout. If the manuscript you are working with has the same layout as one of the templates
+					already identified, then, give that ID number.
+					@columns:
+					number of colums.
+					@ruledLines: number of ruled lines.
+					@writtenLines: number of written lines.
+					 -->
+                                <locus from="xx" to="xx">
+                                xxxx xxxxx xxxx xxxxx
+                                <!-- give location of this particular layout type. -->
+                                </locus>
+				
+                                <dimensions type="ruled, written, first column, illustration, OR 
+                                	any other item on the page, of which you need to give dimensions">
+                                    <height>xxxx</height>
+                                    <width>xxxx</width>
+                               <!-- give dimensions in mm.
+                               "Ruled dimensions" refers to the distance from the top line to the bottom line, and 
+                               from the left end to the right end, regardless of the writting space.
+                               -->
+                                </dimensions>
+				
+                                <p n="comment">
+                                	xxxx xxxx xxxx xxxx xxxx
+                               <!-- give overview of the layout of this type. 
+                               	for example, description with ruling material; information on how the ruling is done, 
+                               	across the page onto conjugate on a folio by folio basis. -->
+                               <!-- give referenece to the diagrams of layout type-->
+                                	<ref target="../mss_layout/xxx.pdf">See diagram</ref>
+                                <!-- for the diagrams, go to:
+                                http://www.le.ac.uk/ee/em1060to1220/team_only.htm
+                                and check other layout types first.
+                                -->
+                                
+                                </p>
+			</layout>
+			
+                 <!-- then repeat the layout types. -->
+              
+		</layoutDesc>
+	</objectDesc>
+	
+      <handDesc hands="x">
+      	<!-- @hands: put number of hands found in the manuscript. -->
+      	
+      	<p n="scribal">
+      		xxxx xxxx xxxx xxxx xxxx xxxx
+      		<!-- Give a summary of hands.-->
+      	</p>
+      	<p n="mocorrection">
+      		<!-- Give a summary of the method of correction. -->
+      	</p>
+      	<handNote xml:id="xxxxx" script="Caroline Minuscle OR etc... " scribe="xxx" scope="xxxx" n="xxxxx">
+      		<!-- @xml:id: We give ID numbers to the scribes across the catalogue. 
+      			For the scribes who were not described before, give an ID number, which will be: 
+      			'the manuscript ID Number.SC.'the number of appearance'.
+      			For example, EM.CUL.Ii.2.11.SC1.  -->
+      		 <!--@script: name of the script.
+                                English Vernacular Minuscle
+                                French Vernacular Minuscle
+                                Caroline Minuscule
+                                Gothic-->
+      		<!-- @scribe: if the scribe is known, give name, place, period, 
+      			Ker's letter ref and/or other identity.-->
+      		<!-- @scope: minor, sole, major. -->
+      		<!-- @n: specify what the major or minor refers to: for example, alteration, rubric, main text.
+      		Or, give @n of <item> to identify which items were copied by this scribe. -->
+      		
+      		<p n="desc"> 
+      			<locus from="xxx" to="xxx">xxxx</locus>
+      			You can refer back to the msItems above by using <ref type="item" target="msItem no">xx</ref>.
+      			<!-- First, give location of appearances of this hand. -->
+      			
+      			xxxxx xxxxxx xxxxxxx xxxxxxxxx xxxxxxx
+      			<!-- Give description of this particular hand. -->
+      		</p>
+      		
+      		<p n="char">
+      			xxxx xxxxxxxx xxxxxxxxx xxxxxxxxx
+      			<!-- Give summary of the characteristics of the hand in a paragraph or two, if necessary. -->
+      			<!-- Describe individual letters, within <s></s> tags (sentence-like division of a text). 
+      				<=this will allow us to search the letters accross the catalogue.
+      				When you enclose the letter within <s></s> tags, 
+      				put the letter within <c></c> tags (character). 
+      				<=this will display the letter in italics. 
+      				Also, when describing letter shapes used in other languages than English, provide
+      				@xml:lang.
+      			For example: 
+      			
+      			<s type="a">
+                      <c>a</c> is in the rounded insular form; 
+                      Caroline <c xml:lang="lt">a</c> is used for Latin, but sometimes the insular <c>a</c> appears in Latin too;
+      			</s>
+      			-->
+      			
+      			<s type="a"><!-- s-unit contains a sentence-like division of a text -->
+      				<c>a<!-- c represents a character --></c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="æ">
+      				<c>æ</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="b">
+      				<c>b</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="c">
+      				<c>c</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="d">
+      				<c>d</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="e">
+      				<c>e</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="f">
+      				<c>f</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="g">
+      				<c>g</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="h">
+      				<c>h</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="i">
+      				<c>i</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="l">
+      				<c>l</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="m">
+      				<c>m</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="n">
+      				<c>n</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			
+      			<s type="o">
+      				<c>o</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="p">
+      				<c>p</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="q">
+      				<c>q</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="r">
+      				<c>r</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="s">
+      				<c>s</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="t">
+      				<c>t</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="þ">
+      				<c>þ</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="ð">
+      				<c>ð</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="u">
+      				<c>u</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="y">
+      				<c>y</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="z">
+      				<c>z</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="ƿ">
+      				<c>ƿ</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="minim">
+      				OR, instead of i, m, n, use <c>minims</c> ;
+      			</s>
+
+      			<s type="A">
+      				<c>A</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="Æ">
+      				<c>Æ</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="B">
+      				<c>B</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="C">
+      				<c>C</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="E">
+      				<c>E</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="F">
+      				<c>F</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="G">
+      				<c>G</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="H">
+      				<c>H</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="I">
+      				<c>I</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="L">
+      				<c>L</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="M">
+      				<c>M</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="N">
+      				<c>N</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="O">
+      				<c>O</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="P">
+      				<c>P</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="Q">
+      				<c>Q</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="R">
+      				<c>R</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="S">
+      				<c>S</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="T">
+      				<c>T</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="Þ">
+      				<c>Þ</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="Ð">
+      				<c>Ð</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="U">
+      				<c>Y</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="Y">
+      				<c>Y</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+      			<s type="Ƿ">
+      				<c>Ƿ</c> xxxxx xxxxxx xxxxx xxxxxxxxx.
+      			</s>
+
+      			<s type="ascenders">
+      				<c>ascenders</c>;
+      			</s>
+      			
+                      		<s type="descenders">
+      				<c>descenders</c>;
+                      		</s>
+      			
+      			<s type="accents">
+      				<c>accents</c>;
+      				<!-- Describe the accents, for example:
+      				"The scribe stresses both characters in double vowels such as <c>aa</c> or <c>ee</c> or <c>eę</c> with <c>accents</c> 
+      				when they occur in proper noun" 
+      				-->
+      			</s>
+      			<s type="others">
+                            <!-- Any other points, if there are any. -->
+      			</s>
+      		</p>
+
+      		<p n="abbreviations">
+      			<s type="xx">
+      				xxxxxxxxxxx xxxxxxxxxxxx xxxxxxxxxxx
+      				<!-- Explain the use of one abbreviation in a set of <s></s> tags. you can use: -->
+      					<c>xx</c>
+      					<expan>xx</expan>
+      			</s>
+      		</p>
+      		<p n="punctuation">
+      			xxxxxx xxxxxxx xxxxxxxx xxxxxxxx
+      			<!-- for example, 
+      			<s><c>hyphens</c> to split a word at the end of a line on a level with the base line and unusually long.</s> 
+                      <s><c>punctus</c> are usually placed above the base line.</s>
+                      <s><c>¶</c> xxx xxx xxx </s>
+                       -->
+      		</p>
+      		<p n="ligature">
+      			<s><c>x</c> and <c>x</c> ligatures xxx xxx xxx.</s>
+      		</p>
+			<p n="nota">
+				<!-- Litterae Notabiliores -->
+      			<s><c>x</c> and <c>x</c> ligatures xxx xxx xxx.</s>
+      		</p>
+      		<p n="corrections">
+                       <locus from="xx" to="xx">xxx - xxx</locus>
+      			<!-- Insert here comments about where the alterations BY THIS SCRIBE were inserted -->
+                       xxxxx xxx xxxx xxxx 
+                       <!-- Give details on the type of alterations: expunction, erasure, strike through etc.  -->
+      			
+      			<!-- You can also give examples of alterations by this hand within 
+      				<list>
+      					<item type="xxxx">xxx</item>
+      					<item type="xxxx">xxx</item>
+      					<item type="xxxx">xxx</item>
+      				</list>
+      				
+      				- use <locus></locus> to give location of that alteration.
+      				- use <add></add> or <del></del> to indicate the addition and delietion of letter(s) word(s).
+      				- use <note type="footnote"></note> to explain the alteration.
+      				
+      				for example:
+      			-->
+      			
+      			<list>
+					<item><locus>xxxx</locus>
+							gesƿr⁁<add hand="hand A">a</add>ecan
+						<note type="alteration">
+							Added interlinearly.
+							The colour of the added letter <c>a</c> is paler than the main text. 
+							It might have been added at a later stage.
+						</note>
+					</item>
+      			</list>
+      		</p>
+      		<p n="language">
+      			xxxx xxxx xxxx 
+      			<!-- Provide brief description of language with reference to previous scholarship. -->
+      		</p>
+      		<p n="othermss">
+      				<!--  Provide information on the other manuscript copied by the same scribe.
+      				Give a list of manuscripts, and then provide an explanation in prose if necessary.	-->
+				<list>
+					<!-- A list of manuscripts should be provided within
+						<list>
+							<item></item>
+						</list>
+					For the manuscripts which are in our project list, please provide the manuscript ID and 
+					the short name in standard form. 
+					See: http://www.le.ac.uk/ee/em1060to1220/team_only/mss_names.htm
+					-->
+					<item><ref target="#xxxxxxxxx">xxxxx xxxxxxx</ref></item>
+					<!-- Enter manuscript ID in @target; and Short Name -1 and -2 in <ref></ref> tag. For example: 
+					
+					<item><ref target="#EM.CCCC.190">CCCC 190</ref></item>
+					 
+					-->
+					
+					<!-- When manuscripts outside our corpus have textual filiation, omit <ref></ref> tags;
+						but for the manuscript names, follow the format given in mss_names.htm.
+					-->
+				</list>
+      		</p>
+      	</handNote>
+      </handDesc>
+
+	<decoDesc>
+		<!-- Alternatively to using decoNote, you can also use <p></p> tags.
+		The entry must use on of these, not both.
+		-->
+		<decoNote type="xxx" subtype="xxx">
+			<!-- @type: miniature, initial, diagram, border, drawer, unspecified, and so on.
+                                 @subtype: decorate, historiated, and so on.
+			         -->
+			<!-- Then, give a list of decorations within <p><item><list>. And, give location within <locus>.
+				
+				NB: you do not have to repeat the list of decorative features, which you described within 
+				individual items.
+				
+				You can also use <term></term> to indicate the technical terms.
+				<hi rend="red and other colours"></hi>
+				<hi rend="deco">for decorative letters</hi>
+				<hi rend="emph">for emboldened letters</hi>
+				
+				are also available, if you want to transcribe part of the text as an example.
+				
+				for example: 
+			
+                            <p>Fourteen large miniatures with arched tops, above five lines of text: 
+                            	<list>
+                                    <item>
+                                        <locus>fol. 14r</locus>Pericopes. <term>St. John writing on
+                                            Patmos</term>, with the Eagle holding his ink-pot and
+                                        pen-case; some flaking of pigment, especially in the sky
+                                    </item>
+                                    <item>
+                                        <locus>fol. 26r</locus>Hours of the Virgin, Matins.
+                                            <term>Annunciation</term>; Gabriel and the Dove to the
+                                        right
+                                    </item>
+                                    <item>
+                                        <locus>fol. 60r</locus>Prime. <term>Nativity</term>; the
+                                            <term>Virgin and Joseph adoring the Child</term>
+                                    </item>
+                                    <item>
+                                        <locus>fol. 66r</locus>Terce. <term>Annunciation to the
+                                            Shepherds</term>, one with <term>bagpipes</term>
+                                    </item>
+                                   </list>
+                            </p>
+                            
+                            OR
+                            
+                           <decoNote xml:id="Exp-1" type="initial" subtype="decorated">
+		                            <p><locus>fol. 14r</locus>One full-page miniature, facing the beginning
+		                                of the first Penitential Psalm.</p>
+		                            <p>One seven-line historiated initial, commencing the first Penitential
+		                                Psalm.</p>
+		                            <p>Four-sided border decoration surrounding the miniatures and
+		                                three-sided border decoration accompanying the historiated and
+		                                decorated initials.</p>
+                           </decoNote>
+			-->
+			<p>xxxxx xxxxxxxx xxxxxxxxx xxxxxxxxx: 
+				<list>
+                                    <item>
+                                        <locus>xxxx </locus>xxxxx xxxxx xxxxxx xxxxxx 
+                                    </item>
+                                    <item>
+                                        <locus>xxxx </locus>xxxxx xxxxx xxxxxx xxxxxx 
+                                    </item>
+                                    <item>
+                                        <locus>xxxx </locus>xxxxx xxxxx xxxxxx xxxxxx 
+                                    </item>
+				</list>
+			</p>
+		<!-- If the decorative artists are known to have worked on other manuscripts, note them within <decoNote>.-->
+		<p>Comparative style OR something along that line: xxxx xxxxx xxxxxx 
+		<list>
+			<item>xxxxx</item>
+			<item>xxxxxx</item>
+			<item>xxxxx</item>
+			<item>xxxxxx</item>
+		</list>
+		</p>
+		<!-- For example,
+		<p>Comparable style: 
+			<list>
+				<item>Cambridge, University Library, Kk.4.23, Bonaventura, <hi rend="title">De vita Christi</hi>;</item>
+				<item>Oxford, Bodleian Library, Bodley 62, Hours (e.g. f. 48);</item>
+				<item>Oxford, Bodleian Library, Fairfax 3, Gower, <hi rend="title">Confessio
+                                Amantis</hi>; </item>
+				<item>Oxford, Bodleian Library, Barlow 5, Missal, Lat. Liturgy A.8, Missal fragments, e.g. H. 36, 38; </item>
+				<item>London, British Library, Royal 6. E. V, Robert Grosseteste, with a miniature of the
+                                author similar to Illustrator A; </item>
+				<item>Pierpont Morgan M. 690, <hi rend="title">Confessio Amantis</hi>;</item>
+				<item>Chicago, Newberry Lib. 32.9, <hi rend="title">Prick of Conscience</hi> (Scott 1996, p.
+				21).</item>
+			</list>
+		</p>
+		<p>Similarities with illustrator B: 
+			<list>
+			<item>St. John's College, B. 1, fol. 41</item>
+			<item>Oxford, Trinity College 8 (Scott 1996, p. 21)</item>
+			</list>
+		</p>
+		<p>Border Artist D: Perhaps responsible for the partial border on 
+				<list>
+				<item>fol. 7 of London, British Library, Harley 401 .</item>
+				</list>
+		</p>
+		<p>Similar work can be found in two copies of Higden's <hi rend="title">Polychronicon</hi>:
+			<list>
+			<item>Cambridge, University Library, Ii.2.24, fol. 13 </item>
+			<item>Oxford, Bodleian Library, Bodley 316, fol. 8 (Scott 1996, p. 22).</item>
+			</list>
+		</p>
+		-->
+		</decoNote>
+	</decoDesc>
+	
+	<additions>
+		<!-- Relevant itmes to the project period will be catalogued as indicated above, 
+		here we will insert only items added after ca. 1220 if relevant -->
+		
+		<p>	<date>xxx xxxx xxxx xxxx 
+			<!-- when you know the approximate date of items added, put it here.
+			for example, fifteenth century; nineteenth century, possibly under Matthew Parker, etc. -->
+		</date>
+			
+			<!-- Explain the additions happened during the date given and/or give a list of added items, with the references to the location within the manuscript: -->
+			<!-- You can use all the usual tags for description, expan; q; hi; sic etc. -->
+		<list>
+			<item><locus>xxxx</locus>xxxx xxxxx xxxxx xxxxx xxxxx xxxx</item>
+			<item><locus>xxxx</locus>xxxx xxxxx xxxxx xxxxx xxxxx xxxx</item>
+			<item><locus>xxxx</locus>xxxx xxxxx xxxxx xxxxx xxxxx xxxx</item>
+			<item><locus>xxxx</locus>xxxx xxxxx xxxxx xxxxx xxxxx xxxx</item>
+		</list>
+		</p>
+	<!-- describe all the additions in the similar structure. -->
+	</additions>
+	
+	<bindingDesc>
+		<!-- A description of the state of the present and former bindings of a manuscript, 
+                including information about its material, any distinctive marks, and provenance; boards, 
+                sawings, bands accross the spine, fixing of cover, type of decoration, colour.
+			
+		You can use:
+		<p>
+		<date type="key">
+		<material>
+		<decoNote>for the decorative notes on the binding.</decoNote>
+		-->
+		<p>xxxx xxxx xxxx xxxx xxxx</p>
+		
+		<!-- for example:
+                        <p>Bound, <date type="key">s. XVIII (?)</date>, in <material>diced Russian leather</material>
+                            retaining most of the original fifteenth century metal ornaments (but with
+                            some replacements) as well as the heavy wooden boards.</p>
+                        <decoNote>
+                            On each cover: alternating circular stamps of the Holy Monogram, a
+                                sunburst, and a flower.
+                        </decoNote>
+                        <decoNote>
+                            On the cornerpieces, one of which is missing, a rectangular stamp of
+                            the Agnus Dei.
+                        </decoNote>
+                        <p>Rebacked during <date type="key">the Nineteenth Century</date>.</p>
+                         <p>Sewing not visible; tightly rebound over <date type="key">nineteenth century</date> pasteboards, reusing panels
+                of <date type="key">16th-century</date> <material>brown leather</material> with gilt tooling à la fanfare, 
+                Paris c. 1580-90,
+                the centre of each cover inlaid with a <date type="key">seventeenth century</date> oval <material>medallion</material> of red
+                morocco tooled in gilt (perhaps replacing the identifying mark of a previous
+                owner); the spine similarly tooled, without raised bands or title-piece;
+                coloured endbands; the edges of the leaves and boards gilt. Boxed.</p>
+		-->
+	</bindingDesc>
+	<accMat>
+		<!-- List any accompanying material in <p></p> -->
+		<p>
+			xxxxxxx xxxxxxxxxx xxxxxxxxxxxx xxxxxxxxx
+           </p>
+	</accMat>
+</physDesc>
+            	
+<history>
+                    <origin notBefore="xxx" notAfter="xxx" evidence="xxx" cert="xxx">
+                        <!--@cert:
+                            high (a high degree of certainty is associated with the encoded intervention)
+                            medium (the encoder is reasonably certain of the appropriateness of the intervention)
+                            low	 (the encoded intervention is doubtful or uncertain)
+                            
+                            @evidence:
+                            internal	(there is internal evidence to support the intervention.)
+                            external	(there is internal evidence to support the intervention.)
+                            conjecture (the intervention or interpretation has been made by the editor, cataloguer, 
+                            or scholar on the basis of their expertise.) -->
+                    	
+                        <p>etc etc etc etc etc xxxxxxxx xxxxxxxxxxxx </p>
+                    </origin>
+	
+                    <provenance>
+                        <p>
+                        	xxxxxxx xxxxxxxxxxxx
+                        </p>
+                    </provenance>
+	
+                    <acquisition>
+                        <p>
+                        	xxxx xxxx xxxx xxxx
+                        </p>
+                    </acquisition>
+</history>
+<additional>
+	<adminInfo>
+		<recordHist>
+			<source>
+				<!-- any administrative information, including the acknowledgement should be included here. 
+				For example: -->
+	
+				<p>Information encoded by XXXX, based on. ... on <date>xxxx </date>.</p>
+				<p>Described by XXX on <date>xxxx</date>.</p>
+				<p>Thanks to XXXX for XXXXX.</p>
+				
+			</source>
+		</recordHist>
+	</adminInfo>
+	
+	<surrogates>
+		<!-- <surrogates> contains information about any digital or photographic representations of the manuscript being described 
+		which may exist in the holding institution or elsewhere. -->
+		<bibl>
+		<title type="microfilm OR black and white facsimile OR type of material">xxxxxx</title>
+                                	<idno><!-- Library shelfmark, if the material is kept in the holding institution. --></idno>
+			<date><!-- Publication date, etc. --> xxxx </date>
+			xxxxx xxxxx  <!-- (any other information for this material. -->
+		</bibl>
+	</surrogates>
+	<listBibl><!-- List of bibliography. -->
+		
+		<bibl xml:id="xxxxxx"><!-- author -->, <hi rend="title"><!-- title of the book --></hi>,  xxxx xxxx xxxx xxxx xxxx</bibl>
+	</listBibl>
+</additional>
+
+
+</msDesc>
+</body>
+</text>
+</TEI>

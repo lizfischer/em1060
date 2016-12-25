@@ -1,0 +1,168 @@
+body {margin:2%; font-family:  times, serif; 
+          font-size:100%;}
+
+/************** only for SHORT DESCRIPTION **/
+.Cameron {text-decoration:underline;}
+
+/************** generic ones **/
+          .italics {font-style:italic;}
+          .none {list-style-type:none;}
+          .totheright {padding-left: 30px;}
+          .totheright_2 {padding-left: 50px;}
+          .nostyle {padding-left: 20px; list-style:none;}
+          .style {padding-left: 20px;}          
+          
+/**************specific ones **/
+          .msItem {margin:2%;}         
+          .msItemBiblio {padding-left: 30px;}
+          .itemHeading {font-weight:bold;}
+          .itemHeading_short {font-weight:bold; padding-left:0px}
+          .toc {font-size:small; list-style-type: disc; padding: 0px 0px 0px 0px; line-height: 130%}
+          .date_note {font-size:small; font-weight:lighter;}
+          
+          .expanded {font-style:italic}
+          
+          .super{vertical-align:super; font-size:50%}
+          .sup {vertical-align: super; font-size: 70%}
+          
+          .s {list-style-type:disc; list-style-position: outside; margin-left: 20px; }
+          .c {font-style:italic; font-weight:bold;}
+  
+          .othermss {list-style-type:disc; list-style-position: outside; margin-left: 40px; }        
+          
+	.red {font-size:larger; color:#CC0000;}
+	.green {font-size:larger; color:#009933;}
+	.blue {font-size:larger; color:blue;}
+	.purple {font-size:larger; color:#330099;}
+	.mixed {font-size:larger;}
+	.metallicred {font-size:larger; color:#990033;}
+	
+	.deco {font-size: 150%;}
+	.emph {font-weight: bold; font-size: larger;} 
+	
+	.unclear {background-color: #D8D8D8;}
+	.corr_hand {font-weight:bold;}
+	.del {background-color: #D8D8D8; text-decoration: line-through;} 
+	.add {background-color: #D8D8D8; vertical-align:super;}
+	.sic {background-color: #AFC7C7;}
+	.supplied {background-color: #AFC7C7;}
+	
+	.ET {background-color: #FF6600; font-family:arial, helvetica, sans-serif; text-decoration:underline; font-weight:bold; font-size:larger;}
+	.team {background-color:yellow; font-family:arial, helvetica, sans-serif;}
+	.footnote {font-size: small;}
+	.resp {font-size:x-small;}
+
+/***********************************************
+       The followings are for the key words, which we may want to make searchable in the future.
+       They are coloured so that we can see in the html, but when we publish them, just hide delete these styles, so that
+       they will be just a plain text.
+
+CHECK THIS OUT!! DO SOMETHING ABOUT THEM
+
+	.term {background-color:#BCE954;}
+	.name {background-color: #CFECEC;}
+	.material {background-color: #CCCCFF;}
+	.date_key {background-color: #FFCCCC;}
+
+/***********************************************/
+
+
+/***********************************************
+       MS identifier
+
+/***********************************************/
+          h1 {}
+      	.ident {font-size: 140%; font-weight:bold}
+      	
+		.left {font-size: 90%; text-decoration:none; }
+
+          h2 {font-size: 150%; font-weight:bold;}
+          
+          h3 {font-size: 140%; font-weight:bold;}
+          
+          h4 {font-size: 120%; margin-left: 20px;}
+          .h4_short {margin-left: 0px;}
+
+          h5 {font-size: 110%;}
+          h6 {font-size: 100%;}
+          h7 {font-size: 80%;}
+		  
+	a:link {text-decoration: underline; color:#333300;}
+	a:visited {text-decoration: underline; color:#003300;}
+	a:active {text-decoration: none; color:#336600;}
+	a:hover {text-decoration: none; color:#336600;}
+ul {}
+          li {padding: 5px 0px 5px 5px;}
+		  
+/***********************************************
+       Layout of the page
+/***********************************************/
+
+#left_desc {
+	position:fixed; top: 5px; left: 7px;
+	padding-left: 10px;
+	padding-top: 1px;
+	background-color:#FFFFFF;
+	width: 28%;
+		border-right-color:#015A4D;
+		border-right-style: solid;
+		border-right-width: 2px;		
+
+	border-top-color:#015A4D;	
+	border-top-style: solid;
+	border-top-width: 2px;
+	margin-top: 5px;
+	padding-right:5px;
+
+font-family:Arial, Helvetica, sans-serif;
+
+}
+#content_desc{
+  	position:float;
+	padding-left: 20px;
+	padding-top: 1px;
+	margin-left: 30%;
+/****	
+	border-left-color:#015A4D;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-color:#015A4D;	
+	border-top-style: solid;
+	border-top-width: 2px;
+****/
+	margin-top: 1px;
+}
+	.small {font-size:small;}
+	.x-small {font-size:x-small;}
+	.right_nav {text-align: right; font-size: x-small; font-family:Arial, Helvetica, sans-serif;}
+	.right {text-align: right; font-size: small;}
+	.center_small {text-align: center; font-size: x-small;}
+
+
+/***************** NO top for now
+#top_desc {
+	position:fixed; top: 0px; left: 13px;
+	border-bottom-color:#015A4D;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-color:#015A4D;
+	border-left-style: solid;
+	border-left-width: 2px;
+	padding-left: 10px;
+	background-color:#3366CC;
+	height: 100px;
+}
+******************************/
+
+@media print{
+#left_desc {display: none}
+
+#content_desc{
+  	position:float;
+	padding-left: 3px;
+	padding-top: 3px;
+	margin-left: 0%;
+	margin-top: 3px;
+	border-left: none;
+	border-top: none;
+}}

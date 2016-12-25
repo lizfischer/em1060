@@ -1,0 +1,117 @@
+body {margin:2%; font-family:  times, serif; 
+          font-size:100%;}
+          
+          .date_note {font-size:small; font-weight: lighter;}
+          .msItemBiblio {padding-left: 30px;}
+          .itemHeading {font-weight:bold;}
+          .expanded {font-style:italic}
+          .italics {font-style:italic;}
+          .none {list-style-type:none;}
+          .s {list-style-type:disc; list-style-position: outside; margin-left: 20px; }
+          .othermss {list-style-type:disc; list-style-position: outside; margin-left: 40px; }
+          .c {font-style:italic; font-weight:bold;}
+          .unclear
+          .supplied
+          .msItem {margin:2%;}
+          .super{vertical-align:super; font-size:50%}
+          .toc {font-size:small; list-style-type: disc; padding: 0px 0px 0px 0px; line-height: 130%}
+          .totheright {padding-left: 30px;}
+          .nostyle {padding-left: 20px; list-style:none;}
+          .style {padding-left: 20px;}
+          .sup {vertical-align: super; font-size: 70%}
+
+	.red {font-size:larger; color:#CC0000;}
+	.green {font-size:larger; color:#015A4D;}
+	.blue {font-size:larger; color:blue;}
+	.purple {font-size:larger; color:#330099;}
+	.mixed {font-size:larger;}
+	.deco {font-size: 150%;}
+	.emph {font-weight: bold; font-size: larger;} 
+	.corr_hand {font-weight:bold;}
+	.del {background-color: #D3D3D3; text-decoration: line-through;} 
+	.add {background-color: #D3D3D3; vertical-align:super;}
+
+	.team {background-color:yellow;}
+	.footnote {font-size: small;}
+
+/***********************************************
+       MS identifier
+
+/***********************************************/
+          h1 {}
+      	.ident {font-size: 140%; font-weight:bold}
+		.left {font-size: 100%; font-weight:bold}
+
+          h2 {font-size: 150%; font-weight:bold;}
+          h3 {font-size: 140%; font-weight:bold;}
+          h4 {font-size: 120%;}
+
+          h5 {font-size: 110%;}
+          h6 {font-size: 100%;}
+          h7 {font-size: 80%;}
+		  
+	a:link {text-decoration: underline; color:#333300;}
+	a:visited {text-decoration: underline; color:#003300;}
+	a:active {text-decoration: none; color:#336600;}
+	a:hover {text-decoration: none; color:#336600;}
+ul {}
+          li {padding: 5px 0px 5px 5px;}
+		  
+/***********************************************
+       Layout of the page
+/***********************************************/
+
+#left_desc {
+	position:fixed; top: 5px; left: 7px;
+	padding-left: 10px;
+	background-color:#FFFFFF;
+	width: 27%;
+}
+
+	.small {font-size:small;}
+	.x-small {font-size:x-small;}
+	.right_nav {text-align: right; font-size: x-small; font-family:Arial, Helvetica, sans-serif;}
+	.right {text-align: right; font-size: x-small;}
+	.center_small {text-align: center; font-size: x-small;}
+
+#content_desc{
+  	position:float;
+	padding-left: 20px;
+	padding-top: 10px;
+	margin-left: 29%;
+	border-left-color:#015A4D;
+	border-left-style: solid;
+	border-left-width: 2px;
+	border-top-color:#015A4D;	
+	border-top-style: solid;
+	border-top-width: 2px;
+	margin-top: 5px;
+}
+
+/***************** NO top for now
+#top_desc {
+	position:fixed; top: 0px; left: 13px;
+	border-bottom-color:#015A4D;
+	border-bottom-style: solid;
+	border-bottom-width: 2px;
+	border-left-color:#015A4D;
+	border-left-style: solid;
+	border-left-width: 2px;
+	padding-left: 10px;
+	background-color:#3366CC;
+	height: 100px;
+}
+******************************/
+
+@media print{
+#left_desc {display: none}
+
+#content_desc{
+  	position:float;
+	padding-left: 3px;
+	padding-top: 3px;
+	margin-left: 0%;
+	margin-top: 3px;
+	border-left: none;
+	border-top: none;
+}}
