@@ -96,7 +96,7 @@
  			<date notAfter="xxxx" notBefore="xxxx"><!-- @notAfter and @notBefore: give a 4 digit number. -->
 	 			s.xxxx <hi rend="sup">xxxx</hi>
 	 			<!-- Write the dates of the manuscript following the style, which appears at the end of 
-	 			"http://www.le.ac.uk/english/em1060to1220/catalogue/mssportal.htm".
+	 			"/english/em1060to1220/catalogue/mssportal.htm".
 	 			Superscript number or the word should be enclosed with <hi rend="sup"></hi>.-->
  			</date>
                 <note type="footnote" resp="">

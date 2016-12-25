@@ -42,7 +42,7 @@
       <div id="searchBox">
          
 
-<form action="http://www.le.ac.uk/english/em1060to1220/SearchResults.htm" id="searchbox_001739443377901823203:50sw0v5k-mk">
+<form action="/english/em1060to1220/SearchResults.htm" id="searchbox_001739443377901823203:50sw0v5k-mk">
   <input type="hidden" name="cx" value="001739443377901823203:50sw0v5k-mk" />
   <input type="hidden" name="cof" value="FORID:11" />
   
