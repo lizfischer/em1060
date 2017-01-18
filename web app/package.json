@@ -1,0 +1,28 @@
+{
+  "name": "em1060",
+  "version": "1.0.0",
+  "description": "The Production and Use of English Manuscripts 1060 to 1220",
+  "main": "webServer.js",
+  "author": "Liz Fischer <lizzy.m.fischer@gmail.com> (http://www.stanford.edu/~efisch17)",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.9",
+    "angular-animate": "^1.4.9",
+    "angular-aria": "^1.4.9",
+    "angular-cookies": "^1.5.6",
+    "angular-material": "^1.0.4",
+    "angular-resource": "^1.5.5",
+    "angular-route": "^1.4.9",
+    "async": "^1.5.0",
+    "body-parser": "^1.15.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.13.3",
+    "express-session": "^1.13.0",
+    "faker": "^3.0.1",
+    "jquery": "^2.2.4",
+    "jshint": "^2.9.1-rc2",
+    "ment.io": "^0.9.23",
+    "mongoose": "^4.3.4",
+    "multer": "^1.1.0"
+  }
+}
