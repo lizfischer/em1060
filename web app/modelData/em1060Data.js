@@ -72,6 +72,12 @@
         "particularly interested in fostering interdisciplinary Medieval Studies.",
         role: "Co-applicant and Director"};
 
+
+
+    /*************
+     * User Setup
+     * ***********/
+
     var people = [treharne, swan];
 
     var peopleListModel = function() {
@@ -87,6 +93,63 @@
         return null;
     };
 
+
+    /*************
+     * Manuscript Setup
+     *************/
+
+    var b16105 = {
+        id: "text1",
+        cameron: "B.16.10.5",
+        title: "Exeter: Leofric Inscriptions"
+    };
+
+    var bodley708 = {
+        id: "1",
+        author: ["57231f1a30e4351f4e9f4bd8"],
+        city: "Oxford",
+        repository: "Bodleian Library",
+        collection: "Bodley",
+        shelfmark: "708 (2609)",
+        title: "Inscription in Latin and OE",
+        date: "s. xi^{2}",
+        summary: "Main text of manuscript is a s. xi^{in} Latin copy of Gregory’s <i>Pastoral Care</i> written in England. At the top of the recto of the final leaf, an inscription in Latin records the donation of the manuscript to Exeter by Leofric. The same inscription is repeated in Old English.",
+        items: [{
+            id: "item1",
+            ms: "1",
+            folio: "fol. 113",
+            text: ["text1"],
+            languageDesc: "English",
+            languages: ["English"],
+            versionDesc: "The litanies are also found in London British Library, Cotton Vitellius A.vii, fols 17v-18r, 20r, copied in s. xi1 (Ker 1957, item 213).",
+            versions: [""],
+            bib: [{work: "Ker 1957", pg: "item 316"}]
+        }],
+        admin: "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2012).",
+        bib: "Ker, N. R., <i>Catalogue of Manuscripts Containing Anglo-Saxon</i> (Oxford: Clarendon Press, 1957; repr. 1990), item 316",
+        ker: "316",
+        localisation: "Exeter"
+    };
+
+    var texts = [b16105];
+    var manuscripts = [bodley708];
+
+    var manuscriptListModel = function() {
+        return manuscripts;
+    };
+
+    var manuscriptModel = function(msID) {
+        for (var i = 0; i < manuscripts.length; i++) {
+            if (manuscripts[i]._id === msID) {
+                return manuscripts[i];
+            }
+        }
+        return null;
+    };
+
+
+
+
     var schemaModel = function() {
         return schemaInfo;
     };
@@ -94,6 +157,8 @@
     var em1060models =  {
         personListModel: peopleListModel,
         personModel: personModel,
+        manuscriptListModel: manuscriptListModel,
+        manuscriptMode: manuscriptModel,
         schemaInfo: schemaModel
     };
 

@@ -1,0 +1,38 @@
+{
+    "id": "_id",     // DATABASE ID identifying this manuscript.
+    "author": ["Takako Kato"], // People who created the listing
+    "city": "Cambridge",
+    "repository": "Corpus Christi College",
+    "collection": "",
+    "shelfmark": "9", // Shelfmark e.g. Brussels, Biblioteque Royale, 8558-63
+    "title": "String",      // Common description of content
+    "date": "s.xi^{med-2}",       // Date of the manuscript
+    "summary": "Glosses and directions to a reader in a mid-eleventh-century manuscript containing Latin lives and passions of saints.",    // Summary of the manuscript
+    "items": [{
+      "place":"passim",
+      "text":""
+    }], // Array of items
+    "physicalDesc": {
+        "objectDesc":{    // Object Description
+            "form": String,
+            "support": String,
+            "extent": String,
+            "foliation": String,
+            "collation": String,
+            "condition": String,
+            "layout": String
+        },
+        "handDesc": {num: Number, summary: String, hands: [handSchema]},  // Description of hands
+        "decorDesc": String,  //Decoration description
+        "additions": [String],    // Additions
+        "bindingDesc": String,    // Binding Description
+        "accMaterial": String     // Accompanying Material
+    },
+    "history": { origin: String, provenance: String, acquisition: String },
+    "admin": String,  // Administrative Information
+    "surrogates": [{name: String, link: String}],
+    "bib": String,     // Bibliography
+    "places": [String], // Places mentioned in the text
+    "names": [String],     // Names mentioned in the text
+    "localisation": String // Place in
+}

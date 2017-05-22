@@ -7,6 +7,7 @@
 var mongoose = require('mongoose');
 
 var handSchema = new mongoose.Schema({
+    id: String,     // DATABASE ID identifying this hand
     scope: String,
     desc: String,
     summary: [String],
@@ -15,12 +16,14 @@ var handSchema = new mongoose.Schema({
     lig: [String]
 });
 
-var itemSchema = new mongoose.Schema({
-    id: String,
+var itemSchema = new mongoose.Schema({ // Items are specific to a manuscript.
+    id: String,     // DATABASE ID identifying this item
+    ms: String,     // Manuscript ID
     folio: String,
     text: [String],     // Array of text IDs
     language: [String],
-    versions: [String], // Manuscript IDs TODO: change to item IDs
+    versions: [{description: String, id: String}], // Manuscript IDs TODO: change to item IDs
+
     bib: [{ // TODO: make bibliography schema
         work: String,
         pg: String
@@ -30,7 +33,11 @@ var itemSchema = new mongoose.Schema({
 var manuscriptSchema = new mongoose.Schema({
     id: String,     // DATABASE ID identifying this manuscript.
     author: [String], // People who created the listing
+    city: String,
+    repository: String,
+    collection: String,
     shelfmark: String, // Shelfmark e.g. Brussels, Biblioteque Royale, 8558-63
+    title: String,      // Common description of content
     date: String,       // Date of the manuscript
     summary: String,    // Summary of the manuscript
     items: [itemSchema], // Array of items
@@ -52,10 +59,11 @@ var manuscriptSchema = new mongoose.Schema({
     },
     history: { origin: String, provenance: String, acquisition: String },
     admin: String,  // Administrative Information
-    surrogates: String,
+    surrogates: [{name: String, link: String}],
     bib: String,     // Bibliography
     places: [String], // Places mentioned in the text
-    names: [String]     // Names mentioned in the text
+    names: [String],     // Names mentioned in the text
+    localisation: String // Place in
 });
 
 // the schema is useless so far

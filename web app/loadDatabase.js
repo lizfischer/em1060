@@ -20,22 +20,22 @@
  */
 
 // Get the magic models we used in the previous projects.
-var cs142models = require('./modelData/photoApp.js').em1060models;
+var em1060models = require('./modelData/em1060Data.js').em1060models;
 
 // We use the Mongoose to define the schema stored in MongoDB.
 var mongoose = require('mongoose');
 
-mongoose.connect('mongodb://localhost/cs142project6');
+mongoose.connect('mongodb://localhost/em1060');
 
-// Load the Mongoose schema for Use and Photo
-var User = require('./schema/user.js');
-var Photo = require('./schema/photo.js');
+// Load the Mongoose schema for User and Photo
+var Author = require('./schema/author.js');
+var Manuscript = require('./schema/manuscript.js');
 var SchemaInfo = require('./schema/schemaInfo.js');
 
 var versionString = '1.0';
 
-// We start by removing anything that existing in the collections.
-var removePromises = [User.remove({}), Photo.remove({}), SchemaInfo.remove({})];
+// We start by removing anything existing in the collections.
+var removePromises = [Author.remove({}), Manuscript.remove({}), SchemaInfo.remove({})];
 
 Promise.all(removePromises).then(function () {
 
@@ -43,10 +43,10 @@ Promise.all(removePromises).then(function () {
     // the assigned '_id' back into the cs142model.userListModels so we have it
     // later in the script.
 
-    var userModels = cs142models.personListModel();
+    var authorModels = em1060models.personListModel();
     var mapFakeId2RealId = {}; // Map from fake id to real Mongo _id
-    var userPromises = userModels.map(function (user) {
-        return User.create({
+    var authorPromises = authorModels.map(function (user) {
+        return Author.create({
             first_name: user.first_name,
             last_name: user.last_name,
             location: user.location,
@@ -76,7 +76,7 @@ Promise.all(removePromises).then(function () {
             photoModels = photoModels.concat(cs142models.photoOfUserModel(userIDs[i]));
         }
         var photoPromises = photoModels.map(function (photo) {
-            return Photo.create({
+            return Manuscript.create({
                 file_name: photo.file_name,
                 date_time: photo.date_time,
                 comment_count: photo.comment_count,
