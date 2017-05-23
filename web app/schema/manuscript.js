@@ -19,7 +19,7 @@ var handSchema = new mongoose.Schema({
 var itemSchema = new mongoose.Schema({ // Items are specific to a manuscript.
     id: String,     // DATABASE ID identifying this item
     ms: String,     // Manuscript ID
-    folio: String,
+    place: String,
     text: [String],     // Array of text IDs
     language: [String],
     versions: [{description: String, id: String}], // Manuscript IDs TODO: change to item IDs

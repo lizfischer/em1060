@@ -2,19 +2,216 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="56f8f0c0-d426-4ac2-a8ea-fe4d1da6b325" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/errors" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/getItems.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/getMSS.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/items.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/manuscripts.json" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/components/static/team.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/images/swan.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/images/treharne.jpg" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/.idea/app.iml" afterPath="$PROJECT_DIR$/web app/.idea/app.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/getBib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.28188.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Add.28188.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.37517.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Add.37517.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.40000.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Add.40000.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.46204.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Add.46204.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Arun.155.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Arun.155.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Arun.60.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Arun.60.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Burn.277.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Burn.277.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Cali.A.xiv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Cali.A.xiv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Cali.A.xv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Cali.A.xv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Clau.B.iv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Clau.B.iv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Clau.D.iii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Clau.D.iii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Cleo.B.xiii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Cleo.B.xiii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Domi.ix.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Domi.ix.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Domi.vii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Domi.vii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Domi.viii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Domi.viii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.ix.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.ix.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.v.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.v.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.x.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.x.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.B.iii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Faus.B.iii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.1005.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.1005.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.107.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.107.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.2110.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.2110.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.2961.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.2961.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.3013.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.3013.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.3667.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.3667.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.55.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.55.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.6258B.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.6258B.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.863.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Harl.863.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Juli.A.ii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Juli.A.ii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Juli.A.vi.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Juli.A.vi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Nero.A.i.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Nero.A.i.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Nero.E.i.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Nero.E.i.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.A.xiii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Otho.A.xiii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.B.x.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Otho.B.x.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.C.i.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Otho.C.i.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.C.i.2.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Otho.C.i.2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.1.A.xiv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.1.A.xiv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.A.viii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.A.viii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.C.v.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.C.v.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.12.G.xii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.12.G.xii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.15.B.xxii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.15.B.xxii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.2.B.v.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.2.B.v.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.4.A.xiv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.4.A.xiv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.5.E.xi.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.5.E.xi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.6.B.vii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.6.B.vii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.7.C.iv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.7.C.iv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.7.D.ii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Roya.7.D.ii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.104.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Stow.104.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.2.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Stow.2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.57.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Stow.57.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.944.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Stow.944.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.ii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.ii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.iii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.iii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.xiii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.xiii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.B.i.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.B.i.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.B.iv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.B.iv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.C.i.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.C.i.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.C.vi.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.C.vi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Titu.A.iv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Titu.A.iv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Titu.D.xxiv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Titu.D.xxiv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.A.xxii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.A.xxii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xiv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xiv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xxi.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xxi.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.A.xii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vite.A.xii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.A.xv.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vite.A.xv.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.C.iii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vite.C.iii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xvii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xvii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xx.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xx.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.E.xviii.json" afterPath="$PROJECT_DIR$/python/manuscripts/BL.Vite.E.xviii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Bodm.2.json" afterPath="$PROJECT_DIR$/python/manuscripts/Bodm.2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Br.BR8558-63.json" afterPath="$PROJECT_DIR$/python/manuscripts/Br.BR8558-63.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.111.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.111.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.140.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.140.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.173.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.173.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.178.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.178.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.183.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.183.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.190.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.190.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.191.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.191.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.196.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.196.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.198.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.198.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.201.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.201.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.23.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.265.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.265.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.302.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.302.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.303.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.303.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.321.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.321.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.322.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.322.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.367.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.367.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.383.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.383.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.391.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.391.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.421.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.421.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.422.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.422.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.473.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.473.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.557.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.557.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.9.json" afterPath="$PROJECT_DIR$/python/manuscripts/CCCC.9.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.302.json" afterPath="$PROJECT_DIR$/python/manuscripts/CPem.302.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.312.json" afterPath="$PROJECT_DIR$/python/manuscripts/CPem.312.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.82.json" afterPath="$PROJECT_DIR$/python/manuscripts/CPem.82.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.83.json" afterPath="$PROJECT_DIR$/python/manuscripts/CPem.83.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CSSC.100.ii.json" afterPath="$PROJECT_DIR$/python/manuscripts/CSSC.100.ii.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.B.11.2.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.B.11.2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.B.14.52.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.B.14.52.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.B.15.34.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.B.15.34.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.O.2.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.O.2.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.15.32.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.R.15.32.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.17.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.R.17.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.7.28.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.R.7.28.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.9.17.json" afterPath="$PROJECT_DIR$/python/manuscripts/CTC.R.9.17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Add.3206.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Add.3206.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ff.1.23.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Ff.1.23.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ff.1.27.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Ff.1.27.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Hh.1.10.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Hh.1.10.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.1.33.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.1.33.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.11.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.11.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.4.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.4.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.4.6.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.4.6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Kk.3.18.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Kk.3.18.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Kk.5.32.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Kk.5.32.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Mm.4.28.json" afterPath="$PROJECT_DIR$/python/manuscripts/CUL.Mm.4.28.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/CanCL.Add.20.json" afterPath="$PROJECT_DIR$/python/manuscripts/CanCL.Add.20.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/D.Hunt.100.json" afterPath="$PROJECT_DIR$/python/manuscripts/D.Hunt.100.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/DCL.B.IV.24.json" afterPath="$PROJECT_DIR$/python/manuscripts/DCL.B.IV.24.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/DMU.Cosi.V.ii.6.json" afterPath="$PROJECT_DIR$/python/manuscripts/DMU.Cosi.V.ii.6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Dr.Sach.DC187.json" afterPath="$PROJECT_DIR$/python/manuscripts/Dr.Sach.DC187.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ely.Cat.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ely.Cat.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/G.Hunt.229.json" afterPath="$PROJECT_DIR$/python/manuscripts/G.Hunt.229.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/GCL.35.json" afterPath="$PROJECT_DIR$/python/manuscripts/GCL.35.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Haarlem.188.json" afterPath="$PROJECT_DIR$/python/manuscripts/Haarlem.188.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/HerCL.P.i.17.json" afterPath="$PROJECT_DIR$/python/manuscripts/HerCL.P.i.17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/HerCL.P.i.2.json" afterPath="$PROJECT_DIR$/python/manuscripts/HerCL.P.i.2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/HerCL.P.v.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/HerCL.P.v.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/LCL.298.json" afterPath="$PROJECT_DIR$/python/manuscripts/LCL.298.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/LSA.60.json" afterPath="$PROJECT_DIR$/python/manuscripts/LSA.60.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.173.json" afterPath="$PROJECT_DIR$/python/manuscripts/Lamb.173.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.204.json" afterPath="$PROJECT_DIR$/python/manuscripts/Lamb.204.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.427.json" afterPath="$PROJECT_DIR$/python/manuscripts/Lamb.427.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.487.json" afterPath="$PROJECT_DIR$/python/manuscripts/Lamb.487.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.489.json" afterPath="$PROJECT_DIR$/python/manuscripts/Lamb.489.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/NY.PML.G.63.json" afterPath="$PROJECT_DIR$/python/manuscripts/NY.PML.G.63.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/No.BH.6864.json" afterPath="$PROJECT_DIR$/python/manuscripts/No.BH.6864.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.ASC.38.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.ASC.38.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Ashm.1431.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Ashm.1431.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Ashm.328.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Ashm.328.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.D.2.14.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.D.2.14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.D.2.16.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.D.2.16.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.1.15.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.1.15.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.2.14.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.2.14.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.3.6.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.3.6.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.4.32.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.4.32.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.130.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.130.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.155.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.155.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.163.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.163.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.180.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.180.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.297.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.297.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.340.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.340.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.343.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.343.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.579.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.579.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.708.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.708.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.730.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.730.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.CCC.197.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.CCC.197.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Digb.146.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Digb.146.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Digb.211.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Digb.211.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.113.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.113.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.114.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.114.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.115.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.115.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.116.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.116.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.20.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.20.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.38.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.38.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.43.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.43.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.76.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.76.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.JC.26.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.JC.26.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.121.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.121.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.85.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.85.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.86.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.86.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.LC.Lat.31.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.LC.Lat.31.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Lat.Misc.d.13.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Lat.Misc.d.13.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.243.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.243.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.413.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.413.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.482.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.482.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.509.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.509.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.567.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.567.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.636.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.636.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.MC.Lat.105.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.MC.Lat.105.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Nor.81.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Nor.81.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Rawl.C.641.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Rawl.C.641.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Rawl.G.57.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.Rawl.G.57.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.SJ.17.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ox.SJ.17.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/P.BN.Lat.8824.json" afterPath="$PROJECT_DIR$/python/manuscripts/P.BN.Lat.8824.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/P.BN.Lat.8846.json" afterPath="$PROJECT_DIR$/python/manuscripts/P.BN.Lat.8846.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Pryc.C2.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/Pryc.C2.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Pryc.C2.2.json" afterPath="$PROJECT_DIR$/python/manuscripts/Pryc.C2.2.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/RCL.json" afterPath="$PROJECT_DIR$/python/manuscripts/RCL.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Ro.BM.l.49.json" afterPath="$PROJECT_DIR$/python/manuscripts/Ro.BM.l.49.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/SCL.131.json" afterPath="$PROJECT_DIR$/python/manuscripts/SCL.131.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/SCL.150.json" afterPath="$PROJECT_DIR$/python/manuscripts/SCL.150.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Schloss.HS.Br.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/Schloss.HS.Br.1.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Stonyh.69.json" afterPath="$PROJECT_DIR$/python/manuscripts/Stonyh.69.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/TCD.174(B.4.3).json" afterPath="$PROJECT_DIR$/python/manuscripts/TCD.174(B.4.3).json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/TCD.492.json" afterPath="$PROJECT_DIR$/python/manuscripts/TCD.492.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Taunton.json" afterPath="$PROJECT_DIR$/python/manuscripts/Taunton.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/To.BM.134.json" afterPath="$PROJECT_DIR$/python/manuscripts/To.BM.134.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/Well.CL.7.json" afterPath="$PROJECT_DIR$/python/manuscripts/Well.CL.7.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/WorcCL.F.174.json" afterPath="$PROJECT_DIR$/python/manuscripts/WorcCL.F.174.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/python/manuscripts/YM.1.json" afterPath="$PROJECT_DIR$/python/manuscripts/YM.1.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/.idea/workspace.xml" afterPath="$PROJECT_DIR$/web app/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/loadDatabase.js" afterPath="$PROJECT_DIR$/web app/loadDatabase.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/modelData/em1060Data.js" afterPath="$PROJECT_DIR$/web app/modelData/em1060Data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/schema/author.js" afterPath="$PROJECT_DIR$/web app/schema/author.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/schema/manuscript.js" afterPath="$PROJECT_DIR$/web app/schema/manuscript.js" />
     </list>
     <ignored path="em1060.iws" />
@@ -39,60 +236,94 @@
     <favorites_list name="em1060" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="getItems.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/getItems.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="getMSS.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/getMSS.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="errors" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/python/errors">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.49635038">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="items.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/items.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.9230769">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="manuscripts.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/python/manuscripts.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-18.307692">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="vertical" split-proportion="0.5">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="BL.Add.9381.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-15.038462">
+                  <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="getBib.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/python/getBib.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.65806454">
+                  <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+                  <folding>
+                    <element signature="e#0#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="BL.Add.28188.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Add.28188.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-4.811321">
+                  <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="CUL.Ii.2.11.json" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.11.json">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="-7.8461537">
+                  <caret line="12" column="990" selection-start-line="12" selection-start-column="990" selection-end-line="12" selection-end-column="990" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="getBib.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python/getBib.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+                  <folding>
+                    <element signature="e#0#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="getItems.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/python/getItems.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="0.0">
+                  <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#0#21#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="getMSS.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/python/getMSS.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state vertical-scroll-proportion="1.1462365">
+                  <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
+                  <folding>
+                    <element signature="e#0#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -112,7 +343,17 @@
         <option value="$PROJECT_DIR$/python/getItems.py" />
         <option value="$PROJECT_DIR$/python/manuscripts/test.json" />
         <option value="$PROJECT_DIR$/python/getMSS.py" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Domi.viii.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Otho.A.xiii.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.A.viii.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Vite.C.iii.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xx.json" />
         <option value="$PROJECT_DIR$/python/errors" />
+        <option value="$PROJECT_DIR$/python/manuscripts/Ox.Digb.211.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/BL.Add.28188.json" />
+        <option value="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.11.json" />
+        <option value="$PROJECT_DIR$/python/getBib.py" />
       </list>
     </option>
   </component>
@@ -183,24 +424,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="em1060" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="em1060" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manuscripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -443,12 +666,13 @@
     <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12708333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32955715" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928064" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -458,7 +682,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -504,14 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/getItems.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="21" selection-start-line="0" selection-start-column="21" selection-end-line="0" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/python/manuscripts/Br.BR8558-63.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -536,21 +751,289 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/getMSS.py">
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Domi.viii.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Otho.A.xiii.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.230769">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Roya.10.A.viii.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16398714">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.xiii.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Vite.C.iii.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8846154">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xx.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18220793">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/errors">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/CPem.82.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/CPem.83.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/CTC.R.9.17.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/CUL.Kk.5.32.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/CUL.Mm.4.28.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ely.Cat.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/HerCL.P.i.17.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Lamb.487.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/No.BH.6864.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Ashm.1431.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Bodl.155.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Bodl.730.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Hatt.20.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.18220793">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Hatt.38.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.567.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Nor.81.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ro.BM.l.49.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/SCL.131.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/SCL.150.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/TCD.492.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/To.BM.134.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/Ox.Digb.211.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10932476">
+          <caret line="6" column="18" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Add.28188.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.811321">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.11.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.8461537">
+          <caret line="12" column="990" selection-start-line="12" selection-start-column="990" selection-end-line="12" selection-end-column="990" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/getItems.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/getMSS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.1462365">
+          <caret line="43" column="15" selection-start-line="43" selection-start-column="15" selection-end-line="43" selection-end-column="15" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/errors">
+    <entry file="file://$PROJECT_DIR$/python/getBib.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49635038">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.65806454">
+          <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -5,7 +5,24 @@
     "collection": "", 
     "shelfmark": "Ii. 2. 11 + Exeter Cathedral 3501", 
     "ker": "20", 
-    "shortDescription": "Gospels; Manumissions", 
+    "nickname": "Gospels; Manumissions",
     "location": "Exeter", 
-    "date": "s.xi^{3/4}"
+    "date": "s.xi^{3/4}",
+    "authors": ["Takako Kato"],
+    "summary":
+        "<p>The West-Saxon translation of the <i>Four Gospels</i>, <i>Gospel of Nicodemus</i> and <i>Vindicta Salvatoris</i> copied in s. xi<sup>3/4</sup>.</p><p>The manuscript originally contained a preliminary quire (quire 1), and its final quire (quire 27) had several blank pages. The preliminary quire and the blank pages of quire 27 were filled with a copy of the list of Leofric's gifts, his inscriptions and a series of legal documents in s. xi<sup>3/4</sup>-xii1.</p><p>Five leaves from the preliminary quire and three leaves from the end of the manuscript were cut and bound at the beginning of the <i>Exeter Book</i> (Exeter Cathedral, 3501) before the sixteenth century. The first leaf is not foliated, and the rest are foliated as fols 1-7.</p><p>The manuscript items shown below are arranged in the order in which we assume to have been the original order, i.e. before the leaves were cut.</p><p>To view the manuscript items arranged as they currently appear click here.</p>",
+    "items":[
+      {
+        "place":"Exeter fols 7r/1-21, 7r/27-7v/25",
+        "text":"B.16.10.5.1.EM",
+        "languages":["English","Latin"],
+        "languageNotes": "A list in Latin starts at the top of fol. 7v, but stops after three words.",
+        "notes":[
+          {"label":"Incipit", "description":"(Exeter fol. 7r/1-2) On cristes naman ˥ s<span class='expanded'>an</span>ct<span class='expanded'>e</span>s petrus ap<span class='expanded'>ost</span>l<span class='expanded'>u</span>s an gild scipe is gegaderod on ƿudebirg | lande."},
+          {"label":"Explicit", "description":"(Exeter fol. 7v/24-25) Of axamuða. Godgið. Esgar. Edrid. Ailƿard. Ailƿine. Leoƿine. Sænoð. ƿiking. Herman. | Edƿord. Sceggi. Atli. Sæƿord. Rotƀt. Siƿord."},
+          {"label": "Date", "description": "The mention of Bishop Osbern as a member of the Woodbury guild proves that this brotherhood had been founded before his death in 1103. Gover, Mawer and Stenton 1931-32 date this to 'c. 1100' or '1072-1103', but Förster 1933 suspects that it may be safer to date it to c. 1130 ('The Preliminary Matter', p. 53). Ker 1957 dates it to c. 1100."},
+          {"label":"Note", "description":"A list of the members of the guilds. After each list, a white space has been left, apparently to leave room for the entry of new members. After the first third list on the page, the space has been filled up later on by a manumission (Item 2)."}
+        ]
+      }
+    ]
 }
