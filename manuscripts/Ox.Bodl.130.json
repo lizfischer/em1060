@@ -1,0 +1,257 @@
+{
+    "id": "Ox.Bodl.130", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "130 (27609)", 
+    "ker": "302", 
+    "content": "Old English glosses to Herbarium of Pseudo-Apuleius and Medicina de quadrupedibus", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": "Main text of the manuscript is a s. xi<span class=\"sup\">2</span> illustrated copy of the herbal of <span class=\"italics\">Ps.-Apuleius</span> and of the <span class=\"italics\">Medicina de quadrupedibus</span>. Eight of the plants illustrated were annotated with their Old English names, and two lemma in the <span class=\"italics\">Medicina</span> were glossed in English, at roughly the same time as the writing of the main text, but in a different hand. <a href=\"#ker44\">Ker</a> notes that \u2018other English names were added [to the herbal] later (s. xiii)\u2019, and that the manuscript has a <span class=\"name\">Bury St. Edmunds</span> ex-libris on fol. 1r (1957, p. 357). Glosses \u2018nearly contemporary with the main text\u2019 (<a href=\"#ker44\">Ker 1957</a>, p. 357).", 
+    "items": [
+        {
+            "locus": "fol. 1", 
+            "text": "B.21.1.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1) Se mare curmelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1v", 
+            "text": "B.21.1.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1v) Se lesse curmelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 4v", 
+            "text": "B.21.1.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4v) hoclef"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 44", 
+            "text": "B.21.1.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 44) Foxes gloue"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 44", 
+            "text": "B.21.1.2.5.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 44) Mege\u00fee"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 44v", 
+            "text": "B.21.1.2.6.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 44v) Wulfescamb"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 45", 
+            "text": "B.21.1.2.7.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 45) Henep"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 55", 
+            "text": "B.21.1.2.8.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 55) Ifig"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 81v", 
+            "text": "C.86.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 81v) S\u00f3t"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glosses 'limo'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 84v", 
+            "text": "C.86.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 84v) gorr"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glosses 'Exta'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 84v", 
+            "text": "C.86.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 84v) gorr"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glosses 'Interiora'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 302"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

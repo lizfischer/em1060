@@ -1,0 +1,348 @@
+{
+    "id": "CCCC.391", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "391", 
+    "ker": "67", 
+    "content": "Prayers, Prognostics, etc.", 
+    "location": "Worcester", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 601-03", 
+            "text": "B.12.4.3.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): ANGLICE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten for \u00feinre \u00fe\u00e6re miclan mildheortnesse 7 for ealra \u00feinra haligra lufan 7 gearnunga. gemiltsa | me synfullum s\u01bfa s\u01bfa \u00fein m\u00e6ra \u01bfilla sy | (p. 602) 7 min mod to \u00feinum \u01bfillan gestranga 7 gesta\u00f0ela"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Drihten heofona heah cyning gestranga hi to \u00f0inum | \u01bfillan. 7 gemildsa eallum \u00feam \u00f0e fulluhtes b\u00e6\u00f0 | underfengon for \u00f0inum naman. Amen"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Ker 1957, item 186, art. 9 (d) and item 249, art. c."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "zup1080", 
+                    "page": "p. 327"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 611-15", 
+            "text": "B.12.4.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u01bfe gebidda\u00f0 \u00fee drihten 7 \u00f0e gebletsia\u00f0 for\u00fei \u00feurh \u00f0ine | rode \u00feu alysdest ealne middangeard."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "drihten helend crist ic geeadmede \u00fee on | rode astigendne 7 \u00f0yrnenne kynehelm | on haefde berendne ic bidde \u00f0e \u00fe\u00e6t seo sylfe | rod me alyse fram \u00f0am sleandan engle"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Renderings usually sentence by sentence, of Latin forms of prayer to the Cross, under the heading 'Item ali\u0119 orationes latine et anglice'. See Ker 1957 for textual variation."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "zup1080", 
+                    "page": "p. 361"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 617/ 21-27, 618", 
+            "text": "B.23.1.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "GYF \u00d0E \u00d0YNCE \u00fe\u00e6t \u00f0ine fynd \u00fe\u01bfyrlice ymbe \u00fee \u00f0ry | dian \u00f0onne gang \u00feu on gelimplicere sto\u01bfe 7 \u00fee \u00f0a | halgan rode to gescyldnesse gesciig 7 asete \u00fee a\u00f0enedum | earmum and cwe\u00f0 \u00feus \u00e6rest"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "y \u01bfyrc | s\u01bfy\u00fee gelome cristes rode tacen on \u00f0inum heafde. 7 c\u01bfe\u00f0 \u00feis gelome | Ecce crucem domini. 7 c\u01bfe\u00f0 \u00f0is \u00feonne. Hoc signaculo sancte crucis"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The charm is added in an originally blank space at the end of quire 40. Pp. 619, 620 are blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "zup1080", 
+                    "page": "p. 364"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 713", 
+            "text": "B.23.3.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(beginning imperfect) kiningum 7 ricum mannum bi\u00f0 mycel syb \u00fey geare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "On xxx nihte | aldne monan efter t\u01bfegra daga fyrste \u00fe\u00e6t s\u01bfe | fen ag\u00e6\u00f0 butan frecednesse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for498", 
+                    "page": "p. 65"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 713-15", 
+            "text": "B.23.3.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "On an weardne gear gif hit \u00feunre\u00f0."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for1500", 
+                    "page": "pp. 46-48 (a-d)"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 715", 
+            "text": "B.23.3.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Gif mon bi\u00f0 acennen on sunnand\u00e6g"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for499", 
+                    "page": "p. 297"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 716", 
+            "text": "B.23.3.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Onre [sic] I nihte ealdne monan."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for1082", 
+                    "page": "p.\n                                                           21"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 717, 718", 
+            "text": "B.23.3.1.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Se \u00f0e onre [sic] nihte monan weor\u00f0e\u00f0 untrum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "arise\u00f0. \u00d0is is eallum gen\u00e6ne iungum \u02e5ealdum. Finit."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for1082", 
+                    "page": "p.\n                                                           34"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 718", 
+            "text": "B.23.2.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "[\u00d0]ry dagas synd on XII mon\u00f0um mid III nihtum."
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The Latin note in Ker 1957, item 70, p. 49."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for1083", 
+                    "page": "p. 260"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 718", 
+            "text": "B.23.2.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0ry dagas synd on XII mon\u00f0um \u00fea synd swi\u00f0e unhalwende."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for1083", 
+                    "page": "p. 273"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 720, 721", 
+            "text": "B.23.3.1.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deonne se mone, bi\u00f0 anre nihte swa hw\u00e6t swa \u00feu gesihst."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Preceded on pp. 718-20 by a Latin version."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for502", 
+                    "page": "p. 79"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 721", 
+            "text": "B.23.2.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 721) \u00fereo da\u01bfes beo\u00fe on t\u01bfeolf mone\u00fe, \u00fe[...] | beo\u00fe s\u01bfu\u00fee unhale\u01bfende monne o\u00feer | nutene. blod on to forletene. o\u00feer [drnr] to | drinkene. most of \u00fe[...] (probably \u00fe\u00e6t) was cut off; [drnr] should probably be 'drenc'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiiiin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Tremulous Hand"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Four lines added in a blank space, a copy with linguistic alterations of the first four lines of item 10 above."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 67"
+                }, 
+                {
+                    "work": "for502", 
+                    "page": "p. 77"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Heavy, small and compact book, weighing perhaps 2 kg.", 
+        "extent": "225 mm x 135 mm (dimensions of all - size of leaves).\nc. 173 mm x 94s mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "27 long lines usually.", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Twentieth-century binding. Rust marks from an older binding show on pp. 711-24.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The three hymns for St. Oswald, the high positions of Saints <span class=\"name\">Oswald</span> and <span class=\"name\">Egwin</span> among saints invoked in a prayer on p. 598 and the script of pp. 581-91 (similar to <a href=\"EM.Ox.Hatt.113.htm\">Hatton 113</a> and <a href=\"EM.Ox.Hatt.114.htm\">Hatton 114</a>) and of pp. 597-612 indicate that it was written at <span class=\"name\">Worcester</span>.", 
+        "provenance": "A note at the foot of p. 1, s. xiii, reads 'Liber sancte marie Wygornensis ecclesie per sanctum Oswaldum', but a note by <span class=\"name\">Joscelyn</span> beside the inscription points out that this cannot have been St. Oswald's book, and that it belonged to the age of <span class=\"name\">Bishop Wulfstan II</span> (1062-95) (<a href=\"#ker44\">Ker 1957</a>, p. 115).", 
+        "acquisition": "Bequeathed by <span class=\"name\">Archbishop Parker</span> to <span class=\"name\">Corpus Christi College</span> in 1757."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Natalie Jones, Hollie Morgan and Sanne van der Schee (2010; 2013). Thanks are due to Anthony Esposito for his helpful feedback after the description was first published in 2010.", 
+    "surrogate": true, 
+    "bib": [
+        "dew677", 
+        "for1500", 
+        "for498", 
+        "for499", 
+        "for500", 
+        "for502", 
+        "for1083", 
+        "hol1100", 
+        "ker44", 
+        "jou1085", 
+        "wor1084", 
+        "zup1080", 
+        "zup1081"
+    ]
+}

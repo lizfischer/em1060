@@ -1,0 +1,49 @@
+{
+    "id": "BL.Vesp.A.xxii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vespasian A. xxii", 
+    "ker": "", 
+    "content": "Homilies", 
+    "location": "Rochester", 
+    "date": "s.xii^{ex}", 
+    "summary": null, 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "225 mm x 153 mm (dimensions of all - size of leaves).\n165 mm x 110 mm (dimensions of Part 1 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Reddish-brown leather binding with <span class=\"name\">Cotton</span>'s coat of arms on the outside. The spine reads 'Chronicles, etc. | Brit. Mus. | Cotton MS. VESPASIAN A. XXII'.", 
+    "accompanying": "There is no accompanying material.", 
+    "history": {
+        "origin": "Written in <span class=\"name\">Rochester</span> (<a href=\"#wat88\">Watson 1979</a>, p. 108; <a href=\"#ric151\">Richards 1978</a>, p. 97).", 
+        "provenance": "A fourteenth-century ownership inscription at the foot of fol. 2r places the manuscript in <span class=\"name\">Rochester</span> at that time: 'Liberii. de <span class=\"expanded\">con</span>suetud<span class=\"expanded\">inibus</span> ecc<span class=\"expanded\">lesi</span>e Roff<span class=\"expanded\">e</span>n<span class=\"expanded\">sis</span> p<span class=\"expanded\">er</span> b<span class=\"expanded\">e</span>n<span class=\"expanded\">e</span>dictu<span class=\"expanded\">m</span> mo<span class=\"expanded\">na</span>chu<span class=\"expanded\">m</span> | que<span class=\"expanded\">m</span> q<span class=\"expanded\">u</span>i alien-au<span class=\"expanded\">er</span>it anathema sit. amen'. 'Liberii.' corresponds with '.II.' written at the top of the page (<a href=\"#wil78\">Wilcox 2000</a>, p. 46).", 
+        "acquisition": "Belonged to <span class=\"name\">William Lombarde</span> (d. 1601) who signed a note beneath the inscription on fol. 2r 'W L 1598'. <span class=\"name\">Robert Cotton</span> signed his name 'Ro. Cotton Bruceus' over an earlier name or monogram, now illegible. Acquired by the <span class=\"name\">British Museum</span> along with the rest of the <span class=\"name\">Cotton</span> collection."
+    }, 
+    "admin": "Described by Hollie Morgan with the assistance of George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "cle112", 
+        "dav12", 
+        "hal485", 
+        "har465", 
+        "lep486", 
+        "mcc1262", 
+        "mil1602", 
+        "mor900", 
+        "ric150", 
+        "ric151", 
+        "rye487", 
+        "stu488", 
+        "swa753", 
+        "wat88", 
+        "wel1261", 
+        "wil78"
+    ]
+}

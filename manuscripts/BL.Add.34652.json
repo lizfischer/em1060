@@ -1,0 +1,76 @@
+{
+    "id": "BL.Add.34652",
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Add.", 
+    "shelfmark": "34652", 
+    "ker": "128", 
+    "content": "Rule of Chrodegang (fragment)", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}",
+    "authors": ["Orietta Da Rold"],
+    "summary": "A collection of fragments from manuscripts and facsimiles. Item 2 contains part of a bilingual copy of the <span class=\"italics\">Rule of Chrodegang of Metz</span>, in which Old  English is followed by the  Latin, chapter by chapter, a practice also found in <a href=\"EM.CCCC.191.htm\">CCCC 191</a>. Letters of the text missing due to trimming. Chapter 59, 'De Clericis', is perhaps textually similar to the passage in <a href=\"EM.BL.Nero.A.i.htm\">Nero A i</a>, fol. 127 (<a href=\"#bri1165\">British Library Catalogue</a>). Chapter 60 of the English version begins: 'nan ne gebidað', ends in the  Latin of chapter 62 'Dolos et coniuration<span class=\"expanded\">es</span>' (<a href=\"#ker44\">Ker 1957</a>, p. 161).",
+    "items": [
+        {
+            "locus": "A fragment", 
+            "text": "B.10.4.3",
+            "section": "chs 60-62",
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "LXI. [\u00dea duncengeor]nan ne gebida\u00f0 hi heofona rice."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "[\u00deearfena] gast \u00fe\u00e6t hi rihtlice magon [c\u01bfe\u00f0an]. [...] His ignitur lege patrum cauetur [...]"
+                }
+            ], 
+            "bib": null
+        }
+    ],
+    "objectDesc": {
+        "form": "fragment", 
+        "support": null, 
+        "extent": "c. 175 mm x c. 100 mm (dimensions of fragment - size of leaves).\n131 mm x 77 mm (dimensions of fragment - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": "A fragment used in binding as a pastedown which is trimmed all around. 22 long lines out of a possible 29 lines remain. Running chapter numberson the recto and verso of the header: .LXI. and .LXII."
+    },
+    "handDescription": {
+        "number":"1",
+        "summary":null,
+        "hands":[
+            {
+                "name": "Main text",
+                "scope": "sole",
+                "script": "English Vernacular Minuscule",
+                "scribe": "Ker 128",
+                "description": "3. An insular minuscule in the English text and Caroline in the Latin text, regular rounded script. Ker labelled it as a 'small upright script' (<a href=\"#ker44\">Ker 1957</a>, p. 161).",
+                "summary": null,
+                "characters": [
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span>: a hair-line slopes up from the ends of the descenders."},
+                    {"char":"titles", "note": "Titles in red rustic capitals."}
+                ],
+                "date":"s. xi^{2}"
+            }
+        ]
+    },
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown", 
+        "provenance": "Unknown", 
+        "acquisition": "Used in binding as a pastedown. Belonged to <span class=\"name\">Thomas Astle</span> and bought at the sale of his books at <span class=\"name\">Puttick's</span>, 19th June 1894, part of lot 121."
+    },
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Johanna Green (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "gne146", 
+        "ker44", 
+        "bri1165", 
+        "nap692", 
+        "scr565"
+    ]
+}

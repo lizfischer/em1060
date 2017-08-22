@@ -1,0 +1,2039 @@
+{
+    "id": "CCCC.383", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "383", 
+    "ker": "65", 
+    "content": "Law codes and related texts", 
+    "location": "London, St Paul's", 
+    "date": "s.xii^{in}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 30v/ 20-26 and fol. 10r/1-3", 
+            "text": "B.14.34", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 39v/ 20-23) \u01f7E C\u01f7EDON BE \u00d0AM blaserum\u00b7 | \u02e5 be\u00f0am mor\u00f0 slihtum \u00fe\u00e6t mon dypte \u00f0one | a\u00f0 be\u00f0ry fealdum \u02e5 myclade \u00fe\u00e6t ordal \u00b7isen \u00b7 | \u00f0et hit \u01bf\u00e6ge \u00f0reo pund\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 10r/ 2-3) h\u01bf\u00e6\u00f0er he | hlif age \u00f0e nage \u00feeto \u00f0\u00e6re byrig hyron\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The layout of the beginning of the law-code has a similar degree of emphasis to many of the sub-divisions of Alfred-Ine. Wormald (1999) argues that this and the following two items, Forfang and Hundredgemot, had become associated with Alfred-Ine as appendices. Richards (1986) argues that I \u00c6thelred was also used in the manuscript as a fourth appendix to Alfred-Ine."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A two-line, red, pen-drawn initial \u01f7is inset into the first two lines of the item, fol. 30v/20-21."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 2."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 388-89."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t367-68."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 30v/20", 
+            "text": "RCL A. 3. 5,\n                              \t\t\t\t\t\t\t\t\t\t\t", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 30v/20) BEMOR\u00d0SLIhTVM"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiiin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Blaseras."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 388."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10r/3-19", 
+            "text": "B.14.35", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 10r/3-5) For | fang ofer eal syhit on anscire sy hit on ma\u00b7 | fiftyne penegas\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 10r/18-19) for\u00f0am bi\u00f0 | on l\u00e6sse plihte begytan\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The transition from the preceding item (Blaseras) is marked only by a majuscule 'F' produced by the main hand."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A two-line, red, pen-drawn E is indented into the text-block following a sub-division in the law-code at fol. 10r/7-8."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Articles 2-3."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 388-91."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t369-370."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10r/6", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Forfang."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 388."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10r/19 to 11r/9", 
+            "text": "B.14.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 10r/19-20) \u00d0is is seo ge r\u00e6d | nyss humon \u00fe\u00e6t hundred haldan | sceal \u00b7 \u00e6rest\u00a0(addition: Addition in margin) \u00fe\u00e6t he heo gegaderian a ymb | feo\u01bfer \u01bfucan\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 11r/8-9) \u00d0\u00e6t | isen \u00f0e bi\u00f0 to \u00f0rim fealdum \u00b7 ordale\u00b7 \u00fe\u00e6t \u01bfege \u00b7iii\u00b7pund\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A two-line, red, pen-drawn G is indented into the text-block following a sub-division in the law-code at fol. 10r/22-23."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 4."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 192-95."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "whi129", 
+                    "page": "p. 429."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t378-79."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10r/22-24, right margin", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Hundredgemot."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 192."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11r/10 -12r/20", 
+            "text": "B.14.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 11r/10-11) \u00d0is is \u00feage r\u00e6ddnysse \u00fee \u00e6\u00feelred | cining"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 12r/19-20) s\u01bfa ure ealra c\u01bfide is. sylle | \u00f0am cynge hund t\u01bfelftig scillingas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The item appears to have begun originally midway through fol. 11r/10. Line 10 was erased and the beginning of the item re-written by Hand 3b to begin at the left bounding line of line 10 and with two letters in the left margin of line 11. The re-written portion is: '\n\u00d0is is \u00feage r\u00e6ddnysse \u00fee \u00e6\u00feelred | ci'"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A two-line red pen-drawn \u00d0 is set into the left margin adjacent to the text-block at fol. 11r/9-10 following the re-working of the division in the text-block with the preceding item, Hundredgemot by the miniator and Hand 3b."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gob1098", 
+                    "page": ""
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 5."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 216-21."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1107", 
+                    "page": "pp. 47-80."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t320-21."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11r/10-11, right margin", 
+            "text": "RCL A. 3. 5,\n                              \t\t\t\t\t\t\t\t\t\t\t", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 11r/10-11 right margin) \u00c6\u00d0ELREDES | LAGE \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to I \u00c6thelred."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 216."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 12v/2-26", 
+            "text": "B.14.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 12v/2-5) \u00d0IS IS \u00fe\u00e6t fri\u00f0 \u00f0\u00e6t \u00e6lfred cyng \u02e5 gu\u00f0rum | cing\u00b7 \u02e5 ealles angel cynnes \u01bfitan \u00b7 \u02e5 eal seo | \u00f0eod \u00f0e on east englum beo\u00f0\u00b7\u02e5 ge s\u01bforen hab | ba\u00f0\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 12v/25-26) \u00fe\u00e6t ure \u00e6nig to | o\u00f0rum f\u00e6ce mid yrfe \u00b7 and mid \u00e6htum\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This is the first version of Alfred and Guthrum in the manscript, catalogued and edited by Liebermann as 'B2'."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A three-line, red, pen-drawn initial \u00d0 is indented into the text-block at the beginning of the item, fol. 12v/1-3."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dav1094", 
+                    "page": "pp. 803-10."
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 6."
+                }, 
+                {
+                    "work": "ker1102", 
+                    "page": "pp. 43-72."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 126-28."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "whi129", 
+                    "page": "p. 416."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t285-86."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 12v/1, right margin", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 12v/1) \u00c6LFREDES LAGA CYNINGES\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Alfred and Guthrum. This rubric seems to have been anticipated in the initial production of the manuscript, unlike the vast majority of rubrics in CCCC 383, as the first line of the item (fol. 12v/1) was left blank to accommodate it."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 126."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13r/1 - 14v/24", 
+            "text": "B.14.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 13r/1-4) AND \u00d0IS IS SEOGE r\u00e6dnyss\u00b7 eac | \u00f0e \u00e6lfred cyng \u00b7 \u02e5gu\u00f0rum cyng \u00b7 \u02e5eft | ead\u01bfard cyng \u00b7 \u02e5gy\u00ferum cyng \u00b7gecuran \u00b7 | \u02e5ge c\u01bf\u00e6don \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 14v/22-24) s\u01bfa hit gebyrige o\u00f0\u00f0e \u00f0a | d\u00e6de \u00b7 \u01bfrece \u00b7 s\u01bfi\u00f0e deope\u00b7 \u00f0e cyning syon | \u00f0eode\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A two-line, red, pen-drawn initial A is indented into the text-block at the beginning of the item, fol. 13r/1-2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 7."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 128-35."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "whi1106", 
+                    "page": "pp. 1-21."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t389-91."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13r/1-2, right margin", 
+            "text": "RCL A. 3. 5,\n                              \t\t\t\t\t\t\t\t\t\t\t", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 13r/ 1-2 right margin) EFT HIS \u00b7\u02e5Gu\u00f0ru | mes\u00b7\u02e5ead\u01bfar | deS \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Edward and Guthrum."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 128."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 14v/25 - 15v/26", 
+            "text": "B.14.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 14v/25-15r/1) \u00c6rEST \u00d0ET MAN NE S\u01f7Arige\u00a0(addition: interlinear) NANNE \u00d0EOF \u00d0E | \u00e6t h\u00e6bendre hand ge fangen sy\u00b7 || ofer t\u01bfelf \u01bfinterne\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v/25-26) gyf \u00f0\u00e6r | man ac\u01bfeald \u01bf\u00e6re\u00b7 \u02e5 he his \u00e6t sacan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ancephalous: the item ends abruptly at the end of Quire 1 (fol. 15v/ 26), from which it can be deduced that another quire originally followed on from it."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "A two-line, red, pen-drawn initial \u00c6 is inset into the beginning of the item, fol. 14v/25-26."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 8."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 150-53."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "whi129", 
+                    "page": "p. 417."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36, 290-308."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 14v/24-15r/17", 
+            "text": "RCL A. 3. 5,\n                              \t\t\t\t\t\t\t\t\t\t\t", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 14v/24) Be \u00f0eofum \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15r/17) Be lafordleafum mannum\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubrics to II \u00c6thelstan."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 150."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16r/1 - 30v/19", 
+            "text": "B.14.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 16r/1) O\u00feres bisceopes \u00b7 o\u00f0\u00f0e ealdor mannes | borges bryce\u00b7o\u00f0\u00f0e mund byrd \u00b7 ge bete | mid\u00b7 ii\u00b7pundum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 30v/19) gyf hit bisceop sunu sy\u00b7 sybe helafum \u00f0em\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Acephalous: the beginning of the law-code is no longer extant, and it currently begins at the start of what is now Quire 2 (fol. 17r). From this it can be deduced that at least one quire originally preceded it. A folio, originally positioned between fols 20 and 21, is missing from Quire 2."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 1."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 51-123."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36, 265-85."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 16r/3-30v/12, margins and\n                  \t\t\t\t\t\t\tempty line space", 
+            "text": "CCCC 173", 
+            "notes": [
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 30v/9-12, right margin) BEGODF\u00c6DERES o\u00f0\u00f0e | GODSU | NES | SLA | TE\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3b"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubrics to Alfred-Ine. In other manuscript witnesses, the capitula list is given at the beginning and only the numbers are inserted into the text-block. It would appear that Hand 1 anticipated the production of Alfred-Ine to follow this pattern as space was not left for the full capitula to be rubricated adjacent to the corresponding clauses."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "pp. 16-123."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38r/1-52v/1", 
+            "text": "B.14.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 38r/1) m\u00e6sse d\u00e6ge\u00b7s\u01bfa he be boden beo"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fols 52r/26-52v/1) God \u00e6lmihtig || us eallum ge milt sie s\u01bfa his \u01bfilla sy. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The beginning of the law-code is no longer extant, and it currently begins at the start of what is now Quire 4 (fol. 38r). From this it can be deduced that at least one quire originally preceded it."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "One-line and two-line red initials are indented into the text-block at the beginning of each of the sub-divisions of the item, at fols: 40r/22-23, 41v/25-26, 49r/20, 23-24 and 26, 49v/5-6 and 16, 50r/4-5, 50v/17-18, 51r/5, 7-8, 14, 20 and 21-23, 51v/5, 11, 13, 17, 18, 20 and 24, and at 52r/4, 7, 9, 14, 17, 20 and 24."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ken1101", 
+                    "page": "pp. 57-81."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Articles 9-10."
+                }, 
+                {
+                    "work": "law1103", 
+                    "page": "pp. 565-86."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "p. 294-370."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "sta1105", 
+                    "page": "pp. 173-90."
+                }, 
+                {
+                    "work": "whi129", 
+                    "page": "p. 454."
+                }, 
+                {
+                    "work": "whi990", 
+                    "page": "pp. 533-52."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t345-66."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38r/6-51v/4, margins and\n                  \t\t\t\t\t\t\tempty line space", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Explicit", 
+                    "body": "(51v/4, left margin) Be huntna\u00f0e \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3b"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubrics to I, II Cnut."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "pp. 294-370."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 52v/9-54v/2", 
+            "text": "B.14.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 52v/9-13) E\nAD\u01f7ERD CYNING byt \u00f0am gerefum eal ~ | lum \u00fe\u00e6t gedeman s\u01bfa rihte domas s\u01bfa gerih ~ | toste cunnon \u02e5 hit on\u00f0\u00e6re dombec stande | ne \u01bfandie for nanum \u00f0ingum folc riht to | ge reccanne \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 54v/1-2) gyf hit | h\u01bfa ofer hebbe bete s\u01bfa \u01bfe \u00e6r c\u01bf\u00e6don\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a two-line red initial E, fol. 52v/9-10. Another two-line red initial E is indented at the sub-division of the item where the second part begins on fol. 53v/3-4. At the subdivision of the item on fol. 54r/24 a single line indent was left in the text-block although this remains without miniaturing."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Articles 11-13."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 138-45."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t286-90."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 54v/4 - 55r/6", 
+            "text": "B.14.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 54v/4-7) E\nADMUND CYNING ge somnode micelne | sino\u00f0 to lunde byrig on\u00f0a halgan easter | licon tid \u00e6g\u00f0\u00e6r ge godcundra hada ge \u01bfo | ruldcundra\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 55r/4-6) \u02e5 lyblay \u01bfyrca\u00f0 syn hy afram \u00e6lcum | godes d\u00e6le aporpene bute hy to rihtre d\u00e6d | bote ge cyrran \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a two-line red initial E, fol. 54v/4-5."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 14."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 184-87."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t308-12."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 55r/7-56r/11", 
+            "text": "B.14.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 55r/7-10) E\nADmund cyning cy\u00f0 eallum folce ge yl | drum gegingrum \u00f0eon his an\u01bfealde syn \u00fe\u00e6tic smeade mid minra \u01bfitena ge\u00f0eahte | gegodra hada ge l\u00e6\u01bfedra\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 56r/10-11) manbo ~ | te \u00b7 \u00f0\u00e6s on \u00b7xxi\u00b7 nihton \u00f0\u00e6s \u01bferes \u00fe\u00e6t frum gyld \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "Begins with a two line red initial E indented into the text-block, fol. 55r/7-8. A two-line red initial G is inserted into the text-block over an erasure on fol. 55v/8. A red paraph has been inserted into empty space left in the middle of fol. 55v/22 and a one-line red initial \u01f7 is indented into the text-block at fol. 55v/26."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 15."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 186-91."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t308-312."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 56r/12 - 57r/14", 
+            "text": "B.14.39", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 56r/12-14) O\nN \u00f0one drihten \u00f0e \u00f0\u00e6s halidom | is fore halig ic \u01bfylle beon \u00b7N\u00b7 hold \u02e5getry | \u01bfe \u02e5eal lufian \u00fe\u00e6t he lufa\u00f0 \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57r/12-14) ac | eal ic him ge l\u00e6ste \u00fe\u00e6t \u00f0\u00e6t ic him scolde s\u01bfa | for\u00f0 s\u01bfa uncre \u01bfor\u00f0 ge c\u01bfydu fyr mest \u01bf\u00e6ron\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "Begins with a one-line red initial O on fol. 56r/12."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 16."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 396-99."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t383-84."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 56v/21-57r/10, margins and\n                  \t\t\t\t\t\t\tempty line space", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (56v/12-13 and right margin) \u00d0us man sceal | s\u01bferigean hyld | a\u00f0as\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(57r/10) And s\u00e6cc \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3b"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubrics to Swerian."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "pp. 396-99."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57r/17 - 57v/23", 
+            "text": "B.14.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 57r/17-20) \u00d0\nIS IS \u00d0\u00c6T FRI\u00d0 \u00d0\u00c6T \u00c6Lfred cyninc \u02e5 gy | \u00f0rum cyning \u02e5 ealles angelcynnes \u01bfitan \u02e5 | eal seo \u00f0eod \u00f0eon east englum beo\u00f0 ealle ge | c\u01bfeden habba\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57v/22-23) \u02e5 to s\u01bfutulunge \u00fe\u00e6t man \u01bfite \u00f0\u00e6t man | cl\u00e6ne b\u00e6c h\u00e6bbe \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This is the second version of Alfred and Guthrum in the manuscript, catalogued and edited by Liebermann as 'B1'"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a three-line, red, initial \u00d0 indented into the text-block, fol. 57r/16-18."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dav1094", 
+                    "page": "pp. 803-10."
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 6."
+                }, 
+                {
+                    "work": "ker1102", 
+                    "page": "pp. 43-72."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 126-28."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "whi129", 
+                    "page": "p. 416."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t285-86."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57v/2 -58v/4", 
+            "text": "B.14.43", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fols 57v/24-58r/1) Gif man m\u00e6dden o\u00f0\u00f0e \u01bfif \u01bfeddian \u01bfille | \u02e5 hit s\u01bfa hire \u02e5 freondan gelicege don | is riht \u00fe\u00e6t se bryd guma \u00e6fter godes rihte || \u02e5 \u00e6fter \u01bforold gerysnum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 58v/3-4) \u00f0e l\u00e6s \u00f0eman | eft t\u01bf\u00e6me \u00fe\u00e6t m\u00e6n \u00e6r a\u01bfoh"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "Begins with a one-line, red, initial G indented into the text-block, fol. 57v/24."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 18."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 442-44."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t385-87."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 57r/23-25, right margin", 
+            "text": "RCL A. 3. 5,\n                              \t\t\t\t\t\t\t\t\t\t\t", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 57r/23-25, right margin) human m\u00e6den \u01bfeddian sceal \u00b7 | \u02e5h\u01bfylce fore\u01bfarde \u00fe\u00e6r aghon | tobeon | ne"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Wifmannes Beweddung."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 442."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 58v/6-59r/6", 
+            "text": "B.14.38", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 58v/6) T\u01bfelf hyndes mannes \u01bfer is t\u01bfelf hund scyll."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 59r/4-6) Eal man sceal \u00e6t cyrliscum \u01bfere be\u00f0\u00e6re m\u00e6 ~ | \u00f0e don \u00f0e him to gebyre\u00f0 s\u01bfa\u01bfebe t\u01bfelf | hundum tealdan\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The line preceding the item was originally left blank (fol. 58v/5)."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a three-line, red, initial T indented into the text-block, fol. 58v/5-7. A one-line, red, initial E is indented into the text-block at fol. 59r/4."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 19."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 392-95."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t374-78."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 57r/23-25, right margin", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Wer."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lie471", 
+                    "page": "p. 392."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 59r/6-20", 
+            "text": "B.23.1.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(59r/6-8) Gyf feoh sy under | numen gif hit sy hors sing onhis feotere | o\u00f0\u00f0e onhis bridels\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 59r/18-20) ge dydon heom d\u00e6da \u00f0a \u01bfyrstan hy \u00fe\u00e6t dro ~ | fe forguldon h\u00e6lon hit him to hearme | miclum \u02e5heo hit na for helanne mihton \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin ' [C]\u00a0(supplied: deliberately omitted by miniator) rux xpi' section on fol. 59r/13-16."
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The item has been struck through in red ink.Wormald observes that the ink is definitely not that of Archbishop Parker and suggests that it may have been done by the rubricator, Hand 3a. Gobbitt argues that the charm was almost certainly crossed out by the miniator due to similarities between the inks when observed under UV light and because the item was left without miniaturing."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc404", 
+                    "page": ""
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 20."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": ""
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t384-85."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 59r/21-59v/16", 
+            "text": "B.14.40", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59r/21-24) h\nit bec\u01bf\u00e6\u00f0 \u02e5bec\u01bf\u00e6l se\u00f0e hit | ahte mid fullan folcrihte s\u01bfa s\u01bfa hit h\u00a0(addition: interlinear) is | yldran mid feo \u02e5 mid feore rihte begea ~ | tan \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 59v/14-16) ne | socne ne\u00f0ummes ne\u00f0earft ne mynte ic | \u00f0e nan \u00f0ing\u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a three-line red initial h, fol. 59r/19-21."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 21."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "p. 400."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t384-85."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 59v/17-62r/2", 
+            "text": "B.14.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59v/17-21) \u00d0IS SYND \u00d0AFRI\u00d0 mal \u02e5 \u00f0a for \u01bford | \u00f0e \u00e6thelred cyng \u02e5 ealle his \u01bfitan | \u01bfi\u00f0 \u00f0one here ge don habba\u00f0 \u00f0e anlaf | \u02e5 iustin \u02e5 gu\u00f0mund stegitan sunu mid \u01bf\u00e6 | ron \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fols 61v/26-62r/2) ge\u01bfitnes him to agenunge rym\u00f0 || for \u00f0am agnung bi\u00f0 ner\u00f0am \u00f0e h\u00e6f\u00f0 \u00f0onne | \u00f0am \u00f0e \u00e6fter sprec\u00f0 \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The only alteration to the item is an erasure on fol. 59v/17."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a one-line, red, initial \u00d0 indented into the text-block, fol. 59v/17."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 22."
+                }, 
+                {
+                    "work": "law1103", 
+                    "page": "pp. 565-86."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 220-25."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1107", 
+                    "page": "pp. 47-80."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t369-70."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 62r/3-63r/ 26", 
+            "text": "B.14.31", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 62r/3-5) \u00f0\nIS IS SEO GER\u00c6DNES \u00f0e angelcynnes \u01bfi | tan \u02e5 \u01bfealh \u00f0eode r\u00e6dboran bet\u01bfeox | dunsetan ge setton\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 63r/24-26) eac duns\u00e6te | be \u00feyrfan gif heom secyning an \u00fe\u00e6t man | huru fri\u00f0 gif laf to heom l\u00e6te \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a two-line, red, initial \u00f0 indented into the text-block, fol. 62r/2-3."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 23."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 374-79."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t381-82."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 63v/1 - 66v/23", 
+            "text": "B.14.44", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63v/1-2) \u00d0\nEGEN LAGV IS \u00fe\u00e6the sy his boc rihtes \u01bfyr | de \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 66v/22-23) \u02e5 eal \u00fe\u00e6t ic \u00e6r be foran | ymbe rehte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The only alteration to the item is the addition of a 'g' to fol. 66r/5, possibly by Hand 1 or Hand 3b."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a two-line, red, initial \u00f0 indented into the text-block, fol. 63v/1-2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gob463", 
+                    "page": "pp. 6-22."
+                }, 
+                {
+                    "work": "har1099", 
+                    "page": "pp. 1-22."
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-113, Article 24."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 444-53."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t387-89."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 63v-66v/23, margins and empty line\n                  \t\t\t\t\t\t\tspace", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Explicit", 
+                    "body": "(66v/23 and right margin) Be \u01bfude\u01bfarde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3b"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubrics to Rectitudines."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "pp. 444-53."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 66v/24-69r/14", 
+            "text": "B.14.45", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 66v/24-26) SESCAD \u01bfis gerefa sceal \u00e6g\u00f0\u00e6r \u01bfitan ge | hlafordes land riht ge folces ge rihtu | be\u00f0am \u00f0ehit of ealddagum\u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 69r/13-14) se\u00f0e bet cunne ge | cy\u00f0e his mare \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Three guide letters are present in the left margin of fol. 68v/ parallel to lines 1, 11 and 16, indicating the letters that the miniator was to supply. In the case of the first, an 'a' the miniator actually supplied an \u00c6"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The item begins with a two-line, red, initial S indented into the text-block, fol. 66v/24-25."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gar1097", 
+                    "page": "pp. 260-67."
+                }, 
+                {
+                    "work": "gob463", 
+                    "page": "pp. 6-22."
+                }, 
+                {
+                    "work": "har1099", 
+                    "page": "pp. 1-22."
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 25."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 251-56."
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 453-55."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "pag1104", 
+                    "page": "pp. 211-28."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36,\n                           \t\t\t\t\t\t\t387-89."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 66v/23", 
+            "text": "Liebermann 1903", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "3a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric to Gerefa."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "p. 453."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 69r/15-69v/2", 
+            "text": "B.16.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 69r/15-16) [S]\u00a0(supplied: Decoration not added) cipmen Ofticc.iiiiOftillingaham \u00b7ii\u00b7 | Ofdun m\u00e6\u01bfan. \u02e5 oftolles funtan i"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 69v/1-2) Of su\u00f0mynsterv. Of claccingtu | ne \u00b7ii \u00b7 Of h\u00e6\u00felege \u00b7 \u02e5 ofcodanham \u00b7 i \u00b7 :~"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii2/4"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "2"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The first two lines have been indented and the opening letter of the item omitted which creates space for miniaturing to be added, fol. 69r/15-16. However, the anticipated miniaturing was not supplied. Hand 2 respected the ruled space of the folios and produced a very similar mise-en-page to that used by Hand 1 for the earlier items in the manuscript."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "kel1092", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 26."
+                }, 
+                {
+                    "work": "lie917", 
+                    "page": ""
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-184."
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": ""
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-236."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 69v/3-26", 
+            "text": "B.18.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 69v/3-6) [\u00de]\u00a0(supplied: Decoration not added) a \u01bf\u00e6s agangen fram cristes acennednesse | cccc\u02e5 xciiii \u01bfintra \u00fea cerdic \u02e5 cynric his | sunu coman up \u00e6t cerdices oran mid fif sci | pun \u02e5se cerdic \u01bfes elesing \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(69v/24-26) \u00fea feng [xxx]\u00a0(unclear: damage to support) | \u01bfine to rice \u00fees cyn g\u00e6\u00f0 to cerdice | he heold\u00b7 ii gear \u00b7 \u00fea feng ce [xxxxx]\u00a0(unclear: Damage to support) e (The item ends ancaphelous at the end of fol. 69v)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii2/4"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "2"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The first two lines have been indented and the opening letter of the item omitted which creates space for miniaturing to be added, fol 69r/15-16. However, the anticipated miniaturing was not supplied. Hand 2 respected the ruled space of the folios and produced a very similar mise-en-page to that used by hand 1 for the earlier items in the manuscript."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dic914", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "dum915", 
+                    "page": "pp. 1-32."
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "pp. 230-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 110-13, Article 27."
+                }, 
+                {
+                    "work": "gra66", 
+                    "page": "pp. 74-80."
+                }, 
+                {
+                    "work": "ric918", 
+                    "page": "pp. 181-84."
+                }, 
+                {
+                    "work": "wor1108", 
+                    "page": "pp. 228-36."
+                }
+            ]
+        }, 
+        {
+            "locus": "Occasional corrections throughout\n                     \t\t\t\t\t\t\t\t\tthe manuscript. ", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO22"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 26"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: This ruling grid is used for the majority of fols 10-30."
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: ca. 137 x ca. 78; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: The ruling grid is produced in hardpoint with single vertical bounding lines. From the extension of horizontal lines across the centrefold it is apparent that the two halves of each bifolium were ruled simultaneously. The ruling is consistently from the hair side of the parchment throughout the manuscript. The writing begins above the topline throughout the manuscript. The extension of the first, third, antepenultimate and final lines to the outer margin and the first and final three lines across the centrefold is consistent throughout most of this part of the manuscript. See diagram. Six instances of subtle variation can be identified: fols 12 and 13, where the fourth line is also extended across the centrefold. Note that these two folios form a single bifolium; fol. 18, where the penultimate line rather than the antipenultimate is extended to the outer margin; fol. 21, where the final line is not extended to the margin; fols 23 and 30, where the penultimate line rather than the antipenultimate is extended to the outer margin and the antipenultimate line is not extended across the centrefold. Note that these two folios form a single bifolium."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Occasional corrections throughout\n                     \t\t\t\t\t\t\t\t\tthe manuscript. ", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO23"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 26"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: This layout is used consistently from fols 38 to 69"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: ca. 137 x ca. 78; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: The ruling grid is produced in hardpoint with single vertical bounding lines. From the extension of horizontal lines across the centrefold it is apparent that the two halves of each bifolium were ruled simultaneously. The ruling is consistently from the hair side of the parchment throughout the manuscript. The writing begins above the topline throughout the manuscript. The extension of the first, third, antepenultimate and final lines to the outer margin and across the centrefold is used throughout all of this part of the manuscript. See diagram"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "Parchment with a consistent texture and hue throughout the manuscript. The hair-side of the parchment is pale yellow and slighlty darker than the off-white coloured flesh-side.", 
+        "extent": "ca. 186 mm x ca. 116 mm (dimensions of 1r-61v - size of leaves).\nca. 188 mm x ca. 119 mm (dimensions of 62r-69v - size of leaves).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "1991 from the Cambridge workshop of Desmond Shaw, white alum-tawed pigskin on oak boards (<a href=\"#gra66\">Lucas 2003</a>, p. 75).", 
+    "accompanying": "<p>Four additional folios added to the beginning of the manuscript, in association with the 1991 binding. A slip of parchment identifying it as '383' and with some of the contents of the manuscript and page numbers listed is affixed to the recto of the fourth of these folios. </p><p>Membrane added at the end of the manuscript following fol. 72 in association with the 1991 binding. </p>", 
+    "history": {
+        "origin": "Possibly produced at <span class=\"name\">St Paul's Cathedral, London</span> or possibly moved there early in the twelfth-century. The argument for St Paul's rests solely on the addition of the [<span class=\"supplied\">S</span>]\u00a0<span class=\"PrintOnly\">(supplied: ) </span>cipmen list to the final folio as the majority of the estates mentioned in the list belonged or had previously belonged to the cathedral.", 
+        "provenance": "<a href=\"#Ker44\">Ker</a> (1957, pp. 110-113), and <a href=\"#wor1108\">Wormald</a> (1999, pp. 228-236), identify the hands of a number of antiquarians: <span class=\"name\">Joscelyn</span>, <span class=\"name\">Nowell,</span> and <span class=\"name\">Lambarde</span>, as well as Archbishop Parker.", 
+        "acquisition": "Bequeathed to <span class=\"name\">Corpus Christi College, Cambridge</span> by <span class=\"name\">Archbishop Parker</span> in 1575."
+    }, 
+    "admin": "Described by Thom Gobbitt, August 2010. The author thanks Takako Kato for her support and answers to all queries, and Elaine Treharne for discussion of palaeography.", 
+    "surrogate": true, 
+    "bib": [
+        "cha1091", 
+        "coc404", 
+        "par1182", 
+        "dam1093", 
+        "dav1094", 
+        "dic914", 
+        "dum915", 
+        "fel1096", 
+        "gam38", 
+        "gar1097", 
+        "gne146", 
+        "gob463", 
+        "gob1098", 
+        "har1099", 
+        "jam354", 
+        "kel1092", 
+        "ken1101", 
+        "ker44", 
+        "ker1102", 
+        "law1103", 
+        "lie471", 
+        "lie916", 
+        "lie917", 
+        "lie467", 
+        "gra66", 
+        "pag1104", 
+        "ric918", 
+        "rob439", 
+        "saw99", 
+        "scr565", 
+        "sis919", 
+        "sta1105", 
+        "sto907", 
+        "tho813", 
+        "tre52", 
+        "whi129", 
+        "Whi1106", 
+        "whi990", 
+        "whi1095", 
+        "wor1107", 
+        "wor920", 
+        "wor1108"
+    ]
+}

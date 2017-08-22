@@ -1,0 +1,138 @@
+{
+    "id": "BL.Domi.viii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Domitian viii", 
+    "ker": "148", 
+    "content": "Chronicle", 
+    "location": "Canterbury, Christ Church", 
+    "summary": "The manuscript contains a collection of items prefaced by Cotton's table of contents. It comprises 10 items (see the excellent full descriptions in the <a href=\"#bri1165\">British Library Catalogue</a> and <a href=\"#dum1480\">Dumville</a> 1995, pp. 11-13). Item 3, fols 30-70, contains the <span class=\"italics\">Anglo-Saxon Chronicle</span> (F-text), which begins 'Britene igland ys ehta hund mila [lang]' and ends at the bottom of fol. 70v in the annal for 1058 '7 Siward abbod to biscope to ro[feceastre]' (see, <a href=\"#bak1502\">Baker</a> 2000). Each annal is followed by a Latin version. There are additions in the margin, between the lines, on erasure, and on a small inserted leaf (fol. 60). These are followed by Latin versions. Some additions relate to <span class=\"name\">Kentish affairs</span> and especially to <span class=\"name\">Christ Church</span> and the archbishops. Some entries are textually almost identical to additions to the Parker Chronicle made at Christ Church. There are a few additions in Latin in a hand of s. xi/xii (<a href=\"#ker44\">Ker</a> 1957, p. 187) on fols 35v 36r/v, 38v; this hand is 'similar in style to the Norman hands found in several writs of this period' (<a href=\"#bak1502\">Baker</a> 2000, pp. xxiii-xxiv).",
+    "items": [
+        {
+            "locus": "fols 30r-70v", 
+            "text": "B.17.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 30r) Britene igland ys eahta hund mila [lang]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 70v) ond Si\u01bfard abbod to biscope to ro[feceastre]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 148"
+                }, 
+                {
+                    "work": "tho813", 
+                    "page": "1861"
+                }, 
+                {
+                    "work": "fer814", 
+                    "page": "1937, p.43"
+                }, 
+                {
+                    "work": "mag815", 
+                    "page": "1945, p.372"
+                }, 
+                {
+                    "work": "plu626", 
+                    "page": "1892-99, pp.283-7 and 128-31"
+                }, 
+                {
+                    "work": "bir1276", 
+                    "page": "1885-93, nos. 94, 95, 290"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30r-70v", 
+            "text": "B.27.4.13.EM", 
+            "notes": [], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "c. 210 mm x 146 mm (dimensions of all - size of leaves).\n182-176 mm x 107-100 mm (dimensions of all - size of written space).", 
+        "foliation": "Formerly foliated 29-69, the more recent foliation is 30-70.",
+        "collation": "Quires are now individually mounted: 1-2<span class=\"sup\">8</span>, fols 30-45, 3<span class=\"sup\">12</span>, fols 46-57, 4<span class=\"sup\">12</span> + 1 after 2, fols 58-70. Fol. 60 is a slip of parchment which was inserted between fols 60 and 61 by Scribe 2 with annotations to the chronicle.",
+        "layoutDescription": null, 
+        "note": "21 long lines on fols 30-45, ruled 8-9 mm apart, pricking visible on the outer margin. Frame probably ruled in lead with inner and outer double binding lines. Lines not always visible. Fol. 45v has pricking visible on the external binding line of the frame for 29 lines, 6-7 mm apart. The same pattern applies to fols 46-53. Fols 54-70 number of pricks on the outer margin increases up to 40-45 lines per folio (see also <a href=\"#bak1502\">Baker</a> 2000, p. xxiv-xxvii). Ruling very faint, except on fols 69, 70. Fols 30 and 70v look dark brownish, possibly from exposure as though these quires were not been bound for a time (<a href=\"#ker44\">Ker</a> 1957, p. 187). <a href=\"#bak1502\">Baker</a> (2000, p. xvi) notes that 'the clearly visible brush-strokes on these pages suggest they at one time served as paste-down'. Considering that reagents were applied to the margins and folios of the manuscript, it is also possible that the brush-strokes related to this practice rather than to the application of glue to these external folios."
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": "The number of hands which are identified in the manuscript varies in different published scholarship. A fuller account is given by", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 148", 
+                "description": "Fols 30-70. Ker considers this an 'irregular untidy hand' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> Caroline in OE."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> rounded in Latin."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> Caroline in OE."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> rounded and dotted in OE."
+                    }
+                ], 
+                "date": "s. xi/xii"
+            }, 
+            {
+                "name": "annotation", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "not in Ker", 
+                "description": "Fol. 66r/1-13. A contemporary hand to Scribe 1, using mixed features (", 
+                "summary": null, 
+                "date": "s. xi/xii"
+            }
+        ]
+    }, 
+    "decoration": null,
+    "additions": "<strong>Fifteenth century</strong>: marginalia, and later notes in the margin by <span class=\"name\">Robert Talbot (see, <a href=\"#bak1502\">Baker</a> 2000, pp. ix-xiv)</span>",
+    "binding": "Nineteenth-century binding.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written at <span class=\"name\">Christ Church, Canterbury</span>. According to <a href=\"#ker44\">Ker</a> (1957, p. 187) the mark 'Ia' in the upper margin of fol 30, towards the right side, may be the <span class=\"name\">Christ Church</span> letter mark. The manuscript is no doubt the 'Chronica latine et anglice' in the medieval <span class=\"name\">Christ Church</span> catalogue (<a href=\"#jam602\"><span class=\"italics\">Ancient Libraries</span></a>, no. 318, see also <a href=\"#dum1480\">Dumville</a> 1995, pp. 15-18, and see <a href=\"#bak1502\">Baker</a> 2000, pp. ix-xii).", 
+        "provenance": "Used by <span class=\"name\">Robert Talbot</span>. According to <a href=\"#ung816\">Ussher</a> (1639, p. 36) it was obtained by <span class=\"name\">Cotton</span> from <span class=\"name\">Camden</span> (for a detailed analysis, see <a href=\"#bak1502\">Baker</a> 2000, pp. xii-xiv). <a href=\"#ker44\">Ker</a> (1957) suggests that the manuscript was perhaps once bound with <a href=\"EM.CUL.Hh.1.10.htm\">Cambridge, University Library Hh. 1. 10</a>, a suggestion which was refuted by <a href=\"#dum1480\">Dumville</a> (1995, p. 18). Baker notes that it may be possible that the manuscript was put together by Parker himself (<a href=\"#bak1502\">Baker</a> 2000, p. xiii).", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection</a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan (June 2010) and Johana Green (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bak1502", 
+        "bir1276", 
+        "dum1480", 
+        "fer814", 
+        "gam38", 
+        "gar817", 
+        "jam602", 
+        "ker44", 
+        "mag815", 
+        "bri1165", 
+        "pla1170", 
+        "plu626", 
+        "tho813", 
+        "ung816", 
+        "wan470"
+    ]
+}

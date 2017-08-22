@@ -1,0 +1,58 @@
+{
+    "id": "BL.Otho.A.xiii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Otho A. xiii", 
+    "ker": "173", 
+    "content": "[Homilies]", 
+    "location": "Unknown", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Destroyed by the Cotton fire\n                                            ", 
+            "text": "Contreni 2003", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Now contains only Latin texts"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "con821", 
+                    "page": "p. 698"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 173"
+                }, 
+                {
+                    "work": "wan416", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": "Nineteenth century.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "<a href=\"#ker44\">Ker 1957</a> notes the heading by <span class=\"name\">Richard James</span>, who consulted the manuscript 'Ex homiliis Saxonicis quas habuit Dominus Cottonus ex dono Episcopi de Kelfanore. script. et comp. temp. Hen. 2di', he adds that 'the see of <span class=\"name\">Kilfenora</span> was held by <span class=\"name\">Bernard Adams</span> 1606-17, <span class=\"name\">John Steere</span> 1617-21, <span class=\"name\">William Murray</span> 1621-8, and <span class=\"name\">James Heygate</span> 1630-8'.", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Johanna Green (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "con821", 
+        "dic1109", 
+        "gne146", 
+        "ker44", 
+        "bri1165", 
+        "pla1170", 
+        "wan416"
+    ]
+}

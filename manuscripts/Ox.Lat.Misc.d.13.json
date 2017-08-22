@@ -1,0 +1,49 @@
+{
+    "id": "Ox.Lat.Misc.d.13", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Lat. Misc", 
+    "shelfmark": "d. 13 (30572) + Lat. Misc. d. 30 (30584)", 
+    "ker": "339", 
+    "content": "Gloss", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xii^{1}", 
+    "summary": "One word \u2018eor\u00f0e\u2019, glosses a word in the main text, a s. xii<span class=\"sup\">1</span> Latin chronicle. <a href=\"#ker44\">Ker</a> suggests that the leaves may be from <span class=\"name\">Christ Church, Canterbury</span> (1957, p. 418).", 
+    "items": [
+        {
+            "locus": "fol. 23v", 
+            "text": "C.58", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 23v) eor\u00f0e"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glosses 'solo'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 339"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

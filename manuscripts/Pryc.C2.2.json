@@ -1,0 +1,116 @@
+{
+    "id": "Pryc.C2.2", 
+    "city": "Lawrence, Kansas", 
+    "repository": "Kenneth Spencer Research Library", 
+    "collection": "Pryce", 
+    "shelfmark": "C2:2 (with Oxford Bodleian Hatton 115)", 
+    "ker": "supp 332", 
+    "content": "\u00c6lfric's Sermo in Natalie Unius Confessoris (fragment)", 
+    "location": "Worcester", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 104", 
+            "text": "B.1.5.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 104r) dom underfon be \u00feam \u00f0e we gecomodon \u00e6r on life"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 104v) on urum timan elles we beo\u00f0 [gehatene yfele \u00f0eowan ond unnytwyr]\u00f0e"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragment"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker100", 
+                    "page": "1976, p. 125"
+                }, 
+                {
+                    "work": "col496", 
+                    "page": "1962, pp. 69-70"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "1889, pp. 55-57"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "single leaf", 
+        "support": null, 
+        "extent": "214 mm mm x 157 mm mm (dimensions of all - size of leaves).\n190 mm mm x 98 mm mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": "One hand writes the main text. The", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Insular script", 
+                "scribe": "Ker supplement", 
+                "description": "An insular minuscule of the end of the s.xi", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is regular initially and medially but not finally."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The cross-bar of <span class=\"c\">\u00f0</span> is usually nearly horizontal and sometimes inclines slightly downwards from left to right. Tall tapered ascender curving to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: tapered descenders with a serif which turns to the left, except <span class=\"c\">p</span>, which ends with a flat foot."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "Latin glosses", 
+                "summary": null, 
+                "date": "s. xiii"
+            }
+        ]
+    }, 
+    "binding": "The leaf was found by <span class=\"name\">John Siedzik</span>, Curator of Manuscripts of the <span class=\"name\">Spencer Library</span>, in a copy of Kingsmill Long's translation of <span class=\"italics\">Barclay his Argenis</span> (2nd ed., London: Henry Seile, 1636). The cover is dated to 'ca. 1636 x 1656' (<a href=\"#col 496\">Colgrave and Hyde</a> 1962, p. 68). The sheet was found between the cover and a thin piece of pasteboard (<a href=\"#ker100\">Ker</a> 1976, p. 125; <a href=\"#ang86\">Doane</a> 1998, p. 32). <p></p>", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Originally in Bodleian Library, <a href=\"EM.Ox.Hatt.115.htm\">Hatton 115</a>. Doane suggests <span class=\"name\">Worcester</span> as the place of production (<a href=\"#ang86\">Doane</a> 1998, p. 31).", 
+        "provenance": "<span class=\"name\">Christopher, Lord Hatton</span> had the manuscript before 1644.", 
+        "acquisition": "The manuscript was acquired by the <span class=\"name\">Bodleian library</span> in 1675. At some point a few leaves were removed. This sheet is one of six that were removed between fols 82-3 of the second booklet (<a href=\"#fra730\">Franzen</a> 1998, p. 50 and <a href=\"#col496\">Colgrave and Hyde</a> 1962, p. 68). The book containing the sheet was acquired by the <span class=\"name\">Spencer library</span> in 1957 from <span class=\"name\">Pearson's Book Rooms, Cambridge</span> (<a href=\"#col729\">Collins</a> 1976, pp. 48-9)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Johanna Green (2010; 2012) with reference to facsimiles and published scholarship.", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "col496", 
+        "col729", 
+        "ang86", 
+        "fra730", 
+        "god42", 
+        "ker100", 
+        "gne146"
+    ]
+}

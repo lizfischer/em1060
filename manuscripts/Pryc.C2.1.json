@@ -1,0 +1,106 @@
+{
+    "id": "Pryc.C2.1", 
+    "city": "Lawrence, Kansas", 
+    "repository": "Kenneth Spencer Research Library", 
+    "collection": "Pryce", 
+    "shelfmark": "C2:1", 
+    "ker": "supp 73", 
+    "content": "Legend of the Holy Cross before Christ (fragments)", 
+    "location": "Worcester", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 103", 
+            "text": "B.3.3.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 103r) \u00d0ridde \u00e6t his wynstran sidan. On morgen \u00fee he aras."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 103v) to \u00feam tune \u00fee genemned isrobathi."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "col496", 
+                    "page": "1962, pp. 60-78"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "fragment", 
+        "support": "parchment", 
+        "extent": "219 mm x 163 mm (dimensions of all - size of leaf).\n185 mm x 150 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": "One hand writes the main text. The", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 73 SC1", 
+                "description": "a small and round hand, using insular letter forms.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: high in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: only long <span class=\"c\">s</span> is used."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: Round bowl with a long tapered ascender towards the left, a cross bar often starting midway from the ascender to the right."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: elongated tapered to the left on the lower margin of the verso, as if they were used as page filler."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "Some punctuation, accents and diacritics by the", 
+                "summary": null, 
+                "date": "s. xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "The leaf is unmounted.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Probably written in <span class=\"name\">Worcester</span>, as it contains glosses by the <span class=\"name\">Tremulous Hand</span>.", 
+        "provenance": "Probably remained in <span class=\"name\">Worcester</span>, and removed from the rest of the manuscript by <span class=\"name\">Parker</span> or <span class=\"name\">Joscelyn</span>.", 
+        "acquisition": "The book containing the sheet was acquired by the <span class=\"name\">Spencer library</span> in 1957 from <span class=\"name\">Pearson's Book Rooms</span>, <span class=\"name\">Cambridge</span>. It was found in the same book as <a href=\"EM.Pryc.C2.2.htm\">Pryc.C2:2</a> (<a href=\"#col729\">Collins</a> 1976, pp. 48-9)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Johanna Green (2010; 2012) and with reference to facsimiles and published scholarship.", 
+    "surrogate": true, 
+    "bib": [
+        "col496", 
+        "col729", 
+        "ang86", 
+        "fra188", 
+        "gne146", 
+        "ker1411", 
+        "ker100", 
+        "his364", 
+        "pag1413"
+    ]
+}

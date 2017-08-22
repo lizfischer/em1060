@@ -1,0 +1,1726 @@
+{
+    "id": "Ox.Hatt.114", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "114", 
+    "ker": "331", 
+    "content": "Wulfstan's Homiliary, part 2", 
+    "location": "Worcester", 
+    "date": "s.xi^{3/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-4v", 
+            "text": "B.3.4.32.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men utan don swa us mycel \u00feearf is beon swy\u00f0e gemyndige ure agene \u00feearfe"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99, art. 82"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 40"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 4v", 
+            "text": "B.1.2.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0eos tid fram \u00f0issum andweardan d\u00e6ge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "him on besceote"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 4v/21-23 are blank, except for a s. xii pen-trial practising insular letters."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 4"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 398, art. 83"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "II, 224-40"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 5r-8v", 
+            "text": "B.1.2.23", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "On \u00f0issum d\u00e6ge we wur\u00f0ia\u00f0 mid lofsangum \u00feone halgan papan \u00fee is gehaten alexander"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "ic axie \u00e6rest \u00f0e. et reliqua"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The item is 'followed by a chrismon and a reference in the hand of the text to the continuation to fol. 153/23', line 7 of Item xxx; is 'therefore intended as a much longer alternative beginning' of Item xxx (Ker 1957, p. 398, art. 84)."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 5"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "no. 18"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 398, art. 84"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "B.1.1.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) \u00fea \u00fee criste folgia\u00f0"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Continued from Hatton 113."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 5"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 5"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 9r-15r", 
+            "text": "B.1.1.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) SE GODSPELLERE LVCAS BE| leac \u00feis d\u00e6g"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 6"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 6"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 9v-10r, margins", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "A separate table of contents of Hatton 114."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiii1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 394, art. 37"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 15r-22v", 
+            "text": "B.1.1.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15r) MEN \u00d0A LEOFESTAN | nu for feawum dagum"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 7"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 22v-30r", 
+            "text": "B.1.1.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 22v) GOD BEBEAD ON \u00d0\u00c6RE EALDAN \u00c6"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 9"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 9"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30r-36v", 
+            "text": "B.1.1.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VIII KKl Aprilis Adnuntiatio Sanctae Marie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 30r) M[en \u00fea leofestan] VRE SE \u00c6LMIHTIGA SCYPPEND"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 13"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 13"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 36v-42v", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sequentia sancti euangelii secundum lucam"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 36v) Her is ges\u00e6d on \u00feissum godspelle"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 10"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 10"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42v-49r", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sequentia sancti euangelii secundum marcam"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 42v) Ic wolde eow trahtian"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 11"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 49r-54r", 
+            "text": "B.3.4.44", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 49r) Men \u00fea leofestan us is deope beboden \u00fe\u00e6t we geornlice | mynegian"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 55"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 54r-57r", 
+            "text": "B.3.2.12", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 54r) Men \u00fea leofestan uton nu gehyran ure drih|ten w\u00e6s sprecende"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57r-63v", 
+            "text": "B.1.4.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 57r) ON \u00d0\u00c6RE M\u00c6RAN TIDE"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "no. 4"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 63v-68r", 
+            "text": "B.1.1.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sequentia sancti euangelii secundum iohannem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63v) Se h\u00e6lend ferde ofer \u00f0a galileiscan s\u00e6"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 12"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 12"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 68r-75v", 
+            "text": "B.1.3.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Oratione moysi in media quadragessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 68r) \u00c6fter \u00feam \u00fee moysees se m\u00e6ra heretoga"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "no. 13"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 75v-85v", 
+            "text": "B.1.2.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 75v) Men \u00fea leofestan drihtnes \u00ferowunge"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 14"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 85v-86r", 
+            "text": "B.1.1.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 85v) L[eofan men] We habba\u00f0 oft ger\u00e6d 7 gyt secga\u00f0"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Excerpts only."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 14"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 14"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 86r", 
+            "text": "B.1.1.16", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Cyriclice \u00feeawas forbeoda\u00f0...swigdagum"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 395"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "p. 218"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 86r-92r", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Die Dominica Pasche"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 86r) OFT GE (gloss: vos) GEHYRDON EMBE (gloss: circe) \u00d0\u00c6S | h\u00e6lendes \u00e6riste"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 15"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 92r-97v", 
+            "text": "B.1.1.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92r) \u00c6FTER \u00d0\u00c6S H\u00c6LENDES \u00c6RISTE | w\u00e6ron his discipuli belocene"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 16, App. B.2."
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 16"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 97v-102v", 
+            "text": "B.3.2.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 97v) L[eofan men] \u00d0as dagas synd gehaten. letanie"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "baz390", 
+                    "page": "no. 9"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102v-05v", 
+            "text": "B.3.2.31", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102v) L[eofan men] Uton nu ge\u00feencan bro\u00f0or mine"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "baz390", 
+                    "page": "no. 9"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 105v-11r", 
+            "text": "B.3.2.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 105v) MEN \u00d0A LEOFESTAN WE MAGON | gehyran secgan be ure sawle \u00feearfe"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "baz390", 
+                    "page": "no. 10"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 111r-14v", 
+            "text": "B.3.2.37", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 111r) MEN \u00d0A LEO|festan \u00feys syndon halige dagas"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "baz390", 
+                    "page": "no. 11"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115r-23v", 
+            "text": "B.2.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115r) LEOFAN MEN | us is mycel \u00feearf. \u00fe\u00e6t we w\u00e6re (gloss: cauem[us]) beon"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 42"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 123v-31v", 
+            "text": "B.1.1.23", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 123v) Lucas se godspellere us manode"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 21"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 21"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 131v-40r", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 131v) M[en \u00fea leofestan] FRAM \u00d0AM HALGAN EASTERLI|can d\u00e6ge"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 22"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 22"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 140r-47v", 
+            "text": "B.1.2.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 140r) GREGORIUS SE HALGA PAPA | engliscre \u00f0eode apostol"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 9"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 147r-49r", 
+            "text": "B.1.2.21.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 147r) M[en \u00fea leofestan] PHILIPPUS. SE GODES. APOSTOL \u00fee we on \u00feisum d\u00e6ge wur\u00feia\u00f0"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 149r-51r", 
+            "text": "B.1.2.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 147r) WE WUR\u00d0\u00cd\u00c1\u00d0 EAC ON DISSERE FREOLS|tide"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 151r-53r", 
+            "text": "B.1.2.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 151r) MEN \u00d0A LEOFESTAN NU TOD\u00c6G WE | wu\u00feia\u00f0"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 18"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 153r-55v", 
+            "text": "B.1.2.23.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 153r) ON \u00d0ISUM D\u00c6GE \u00d0ROWODE SUM | arwur\u00f0e papa. a;exander gehaten"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 18"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 156v-63r", 
+            "text": "B.1.1.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VIII Kl iulii Natiuitas Sancti Iohannis Baptistae"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 156v) SE GODSPELLERE LUCAS AWRAT ON CR[IST]ES | bec"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 25"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 163r-66r", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): III Kl iulii Sanctorum Apostolorum Petri et Pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 163r) MATHEUS SE GODSPELLERE AWRAT"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 26"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 26"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 166r-72v", 
+            "text": "B.1.1.28.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Passione Beatorum Apostolorum Petri et Pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 166r) WE WILLA\u00d0 \u00c6FTER \u00d0ISUM GODSPELLE | eow gereccan"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 26"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 26"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 172v-81r", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Passio Sancti Pauli Apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 172v) GODES GELA\u00d0UNG WUR\u00d0A\u00d0 \u00d0ISNE | d\u00e6g"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 27"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 27"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 181r-90r", 
+            "text": "B.1.1.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 181r) IERONIMUS SE HALGA SACERD | awrat"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 30"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 30"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 190r-200r", 
+            "text": "B.1.1.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 190r) WYRDWRITERAS SECGA\u00d0 \u00d0\u00c6T \u00d0RY | leodscypas syn gehatene"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 31"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 31"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 200r-v", 
+            "text": "B.11.5.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 200r) Be \u00feam | \u00fee \u00f0am sacerde naht frema\u00f0 \u00fe[\u00e6t] he rihtwis beo gyf he \u00feam | unrihtwisan styran nele heora unrihtes"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "rai494", 
+                    "page": "no. 3. 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 200v-01r", 
+            "text": "Hand 1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 200v) Be massepreostes drohtnunge | \u00c6lc m\u00e6ssepreost sceal beon swa he geha|ten sacerd"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "rai494", 
+                    "page": "no. 3. 16"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 201r-12r", 
+            "text": "B.3.3.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 201r) MEN \u00d0A LEOFESTAN. WEOR|\u00feian (gloss: uen[er]emur) we nu on andweardnysse"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "pp. 117-37"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 212r-21r", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 212r) MANEGUM (gloss: multis) IS CU\u00d0 SEO HALIGE STOW S[AN]C[T]AE | michaheles"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 34"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 221r-30r", 
+            "text": "B.1.1.38", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 221r) HALIGE LAREOWAS R\u00c6DDON. | \u00fe\u00e6t seo geleaffulle (gloss: fidelis) gela\u00f0ung"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "no. 36"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 36"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 230r-35v", 
+            "text": "B.1.5.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 230r) Matheus se godspellere. us s\u00e6de on \u00f0ysum god|spelle. \u00fe[\u00e6t] ure h\u00e6lend crist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 235v) mid ealle \u00feonne [ends imperfectly]"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 3"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "no. 4"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 236r-42v", 
+            "text": "B.1.5.12", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 236r) [Begins imperfectly] 7 his nama w\u00e6s Zacheus"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bro490", 
+                    "page": "4/15-15-27"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 242v-46v", 
+            "text": "B.3.2.51.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 242v) Leofan menn. \u00d0eos symelnyss \u00feissere cyr|can halgunge"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 3 (to fol. 246v/1) and Hemming (from fol. 246v/2-46v)"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Nearly contemporary addition"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 18"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "wen495", 
+                    "page": "pp. 1-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 247r-v", 
+            "text": "B.12.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 247r) Ic gelyfe on \u00e6nne god"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 6"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "for491", 
+                    "page": "pp. 168-69"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 35-43"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "pp. 596-98"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 11v, 13v, 25r and 27v", 
+            "text": "B.27.1", 
+            "notes": [
+                {
+                    "head": "Hand", 
+                    "body": "Coleman"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "throughout", 
+            "text": "B.27.4.16.EM", 
+            "notes": [
+                {
+                    "head": "Hand", 
+                    "body": "Tremulous Hand"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Fols i, 250 and 251 are modern paper flyleaves. Fols 248-49 are added by", 
+        "extent": "267 mm x 160 mm (dimensions of all - size of leaves).\n200 mm x 94 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Leaves are arranged HFFH. Ruled for 23 long lines. Double bounding lines, right and left. Prickings are usually visible in the side margins and at the top and bottom.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "Several hands", 
+        "summary": "The main text in fols 9-201 is by one scribe. Fols 201r/9-30r/17 look to be in another hand which also wrote the additions on fols 236r/1-42v/6 and 1r/1-4v/9. Fols 230r/18-35v/23 and 242v/7-46v/1 are in a different hand. A hand which may belong to", 
+        "hands": [
+            {
+                "name": "1", 
+                "scope": "Main text", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker, item 331, SC1", 
+                "description": "Fols 9r-201r/6. Worcester type.", 
+                "summary": "Items", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "The shape of the second element of <span class=\"c\">\u00e6</span> is influenced by the letter which succeeds it."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is round-backed or horned depending on its place in the word and the following letter."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The descender of <span class=\"c\">\u00fe</span> is notched."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Most <span class=\"c\">ascenders</span> except that of <span class=\"c\">\u00fe</span> are clubbed, but some ascenders have wedged clubs and some are wedged; for example, on <span class=\"c\">h</span> and <span class=\"c\">b</span>, in English and Latin."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "2", 
+                "scope": "Major; early additions", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker, item 331, SC2", 
+                "description": "fols 1r/1-4v/9, 201r/9-30r/17 and 236r/1-42v/6", 
+                "summary": "According to", 
+                "date": null
+            }, 
+            {
+                "name": "3", 
+                "scope": "Early additions", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker, item 331, SC (2)", 
+                "description": "fols 230r/18-235v/23 and 242v/7-246v/1.", 
+                "summary": "'An attractive and unusual hand' (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Caroline <span class=\"c\">a</span>, sometimes with high bow."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is almost round-backed."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is wide and open with long descender."
+                    }, 
+                    {
+                        "char": "or", 
+                        "note": "<span class=\"c\">or</span> ligature, is not very straight on the line."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "4", 
+                "scope": "Additions", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker, item 331, SC (3)", 
+                "description": "fol. 4v.", 
+                "summary": null, 
+                "date": null
+            }, 
+            {
+                "name": "5", 
+                "scope": "Additions", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker, item 331, SC (4)", 
+                "description": "fol. 5r-8v.", 
+                "summary": null, 
+                "date": null
+            }, 
+            {
+                "name": "6", 
+                "scope": "Additions", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker, item 331, SC (6)", 
+                "description": "fols 247r-v.", 
+                "summary": null, 
+                "date": null
+            }, 
+            {
+                "name": "Hemming", 
+                "scope": "Additions", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Hemming", 
+                "description": "fols 246v/2-23. Part of", 
+                "summary": "Possibly the hand of", 
+                "characters": [
+                    {
+                        "char": "h", 
+                        "note": "The feet of <span class=\"c\">h</span> are vestigial."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The ascender of <span class=\"c\">\u00fe</span> is wedged."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "All <span class=\"c\">ascenders</span> except that of <span class=\"c\">\u00fe</span> are clubbed."
+                    }, 
+                    {
+                        "char": "tironian nota", 
+                        "note": "The angle of the <span class=\"c\">tironian nota</span> is almost 90\u02da."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Coleman", 
+                "scope": "Marginal notes", 
+                "script": "Rustic", 
+                "scribe": "Coleman", 
+                "description": "fols 11v, 13v, 25r and 27v.", 
+                "summary": "Unsigned, rustic capitals. A signature '[c]plfman' appears in", 
+                "date": null
+            }, 
+            {
+                "name": "glosses and alterations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Hand", 
+                "description": "There are several layers of glosses by the", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in the nineteenth century. Binding leather and very fragile.", 
+    "accompanying": "<span class=\"name\">Joscelyn</span> wrote a gloss on fol. 18v and marginalia on fols 36v, 42v and 49r, but he did not draw on Hatton 114 for his Anglo-Saxon word lists. <span class=\"name\">Dugdale</span> wrote a table of contents on fol. 248 in 1644. 'Saxon | Homilies tom: 1' is written in the upper margin of fol. 1r in the same hand as one which adds titles to other <span class=\"name\">Hatton</span> manuscripts. In the lower margin a different hand has writeen 'MS. Junius | 22'. This is now crossed out, and 'Hatton 114' is written in pencil alongside it in a modern hand.", 
+    "history": {
+        "origin": "Written in <span class=\"name\">Worcester</span>.", 
+        "provenance": "Likely to have been in <span class=\"name\">Worcester</span> in the early thirteenth century, when the Tremulous Hand annotated it, and still in <span class=\"name\">Worcester</span> in 1638, as it was referred to as a Worcester manuscript in a letter from <span class=\"name\">Ussher</span> to <span class=\"name\">Spelman</span> dated 6th November 1638 (Oxford, Bodleian, Additional C. 301, fol. 48) (<a href=\"#ker44\">Ker 1957</a>, p. 399).", 
+        "acquisition": "Belonged to <span class=\"name\">Christopher, Lord Hatton</span> in 1644. Given to the <span class=\"name\">Bodleian Library</span> in 1675. It was then lent to <span class=\"name\">Dr Thomas Marshall</span> and by him to <span class=\"name\">Junius</span> and returned to the <span class=\"name\">Bodleian</span> as part of the Junius collection after his death in 1678. Formerly Junius 22."
+    }, 
+    "admin": "Manuscript described by Mary Swan and Helen Foxhall Forbes with the assistance of Hollie Morgan and Owen Roberson. (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "ivo489", 
+        "baz390", 
+        "bet109", 
+        "bro490", 
+        "cle112", 
+        "for491", 
+        "for502", 
+        "492", 
+        "fra730", 
+        "gam1636", 
+        "god42", 
+        "del94", 
+        "ker95", 
+        "ker555", 
+        "ker44", 
+        "web1517", 
+        "mac493", 
+        "mci177", 
+        "nap123", 
+        "pop87", 
+        "rai494", 
+        "scr125", 
+        "scr565", 
+        "ske153", 
+        "tho660", 
+        "tho57", 
+        "wen495"
+    ]
+}

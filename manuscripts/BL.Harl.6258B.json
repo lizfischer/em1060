@@ -1,0 +1,254 @@
+{
+    "id": "BL.Harl.6258B", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "6258B", 
+    "ker": "", 
+    "content": "Medical Treatises", 
+    "location": "Unknown", 
+    "date": "s.xii^{ex}", 
+    "summary": "The manuscript includes material for the practice of medicine: the Old English translation of <span class=\"italics\">Pseudo-Apuleius Herbarius</span> and <span class=\"italics\">Medicina de Quadrupedus</span>, which give, respectively, a list of plants and animals together with their therapeutic qualities, and a collection of remedies, the <span class=\"italics\">Peri didaxeon</span>, that illustrates their use and their effectiveness together with their therapeutic applications. Although the earlier foliation suggests that the manuscript originally contained thirty more initial leaves, the quire's medieval signatures run from 'I', indicate that the extant texts were intended as a complete collection of medical treatises. Beccaria does not include this codex in his catalogue <span class=\"italics\">I codici di medicina del periodo presalernitano</span>, because it is not pre-Salernitan, that is, before the eleventh century (<a href=\"#bec791\">Beccaria 1956</a>).",
+    "items":[
+        {
+            "locus": "Fols 1r/1-44r/26",
+            "text": "B.21.1.1.7.1.EM)",
+            "notes": [
+                {
+                    "head": "Incipit",
+                    "body": "'Æ¿iÃ° innoÃ°es sar jenim Ã¾a Æ¿irte' [Initial letter no longer visible]"
+                },
+                {
+                    "head": "Explicit",
+                    "note": "'bite Ã¾Ã¦s cancores heo afeormaÃ° | '"
+                },
+                {
+                    "head": "Text Language",
+                    "note": "English"
+                },
+                {
+                    "head": "Other versions of the text",
+                    "note": "<a href=\"EM.BL.Vite.C.iii.htm\">Vitellius C. iii</a>, fols 11v-74v;\nLondon, British Library, Harley 585, fols 1r-101v;\n<a href=\"EM.Ox.Hatt.76.htm\">Hatton 76</a>, fols 68r-124r.\n\nBL Harley 6258B, unlike the other Old English versions, is shorter and arranges the herbs in alphabetical order according to their Latin names (considering the first letter only). Residues of the previous arrangement are witnessed in the text (see fol. 33v where the last two words coincide with the first two words of the following chapter according to the arrangement of the other versions). Nevertheless, all the witnesses descend, very probably, from a common ancestor (see <a href=\"#dev838\">De Vriend 1984</a>, p. xliii)."
+                },
+                {
+                    "head": "Note",
+                    "note": "Numerous cures are provided with marginal annotations (circled in black or red) in Latin and, rarely, in Old English provide a brief summary of the content of the remedies. It is unlikely they were copied from the Latin original (see <a href=\"#dev838\">De Vriend 1984</a>, pp. xxix-xxx), and it seems probable that they were added to allow quick retrieval of a specific cure in the text."
+                }
+            ],
+            "bib": [
+                {
+                    "work": "ker44",
+                    "page": "p. xix."
+                },
+                {
+                    "work": "ber831"
+                },
+                {
+                    "work": "dev838",
+                    "page": "pp. xxviii-xxix, xxxiii-xxxviii, xliv."
+                },
+                {
+                    "work": "dar836",
+                    "page": "p. 13"
+                }
+            ]
+        },
+        {
+            "locus": "Fols 44v/2-51r/23",
+            "text" : "B.21.1.1.7.2.EM",
+            "notes": [
+                {
+                    "head": "Incipit",
+                    "body": "'Ãže egypta king e idpartus wÃ¦s hatan'"
+                },
+                {
+                    "head": "Explicit",
+                    "note": "'swylas edwÃ¦sceÃ¾.'"
+                },
+                {
+                    "head": "Rubric (final)",
+                    "note": "'explicit de medicinis herbarum. Incipit de singulis feris medicamen tum' (in the top margin, in black. Under the black rubric, 'singulis medicamentum' is added in a much faded shade of red)."
+                },
+                {
+                    "head": "Text Language",
+                    "note": "English"
+                },
+                {
+                    "head": "Other versions of the text",
+                    "note": "This Old English version of the <span class=\"italics\">Medicina de Quadrupedibus</span> survives in the same manuscript tradition that preserves the Old English <span class=\"italics\">Herbarius</span>:\n<a href=\"EM.BL.Vite.C.iii.htm\">Vitellius C. iii</a>, fols 75r-82v\nLondon, British Library, Harley 585, fols 101v-114v, imperfect.\n<a href=\"EM.Ox.Hatt.76.htm\">Hatton 76</a>, fols 124v-130r.\nThis version differs from the other witnesses for the abbreviation of its content, although the textual tradition appears to be the same (see <a href=\"#dev839\">De Vriend 1972</a>, p. liv)."
+                },
+                {
+                    "head": "Note",
+                    "note": "Unlike the Old English Herbarius, only a few remedies are provided with marginal annotations in Latin, and even more rarely in Old English. They are in red or in black (circled in red or black) and they summarise the content of the corresponding remedies."
+                }
+            ],
+            "bib": [{"work":"del837"},{"work":"dev839", "page": "pp. xxvii-xxxi"}]
+        },
+        {
+            "locus": "Fols 51r/24-51v/14",
+            "text" : "B.21.5.11.EM",
+            "notes": [
+                {
+                    "head": "Incipit",
+                    "body": "'Æ¿iÃ° eafodece pollege' "
+                },
+                {
+                    "head": "Explicit",
+                    "note": "'Æ¿iÃ° wÃ¦ter and beÃ¾a mid'"
+                },
+                {
+                    "head": "Text Language",
+                    "note": "English"
+                },
+                {
+                    "head": "Other versions of the text",
+                    "note": "The remedies run together as a single text. The second remedy has the red title De beta. The last four remedies duplicate four in Balds LÃ¦ceboc and two of these (for sinew problems) are translated from the Latin Herbarius; the last remedy is also found in the collection of medical recipes preserved in BL, Add. 43703."
+                },
+                {
+                    "head": "Note",
+                    "note": "Seven recipes. "
+                }
+            ],
+            "bib": [{"work":"coc404", "page": "I, pp. 380-82."},{"work":"ber831", "page": "p. 138."}, {"work": "del837", "page": "p. 24."}, {"work":"mea846", "page": "pp. 246-50."}]
+        },
+        {
+            "locus": "Fols 51v/14-23",
+            "text" : "Three Latin medical recipes.",
+            "notes": [
+                {
+                    "head": "Incipit",
+                    "body": "'ad tumorem nervorum.'"
+                },
+                {
+                    "head": "Explicit",
+                    "note": "'and statim sedabitur.'"
+                },
+                {
+                    "head": "Text Language",
+                    "note": "Latin"
+                },
+                {
+                    "head": "Note",
+                    "note": "These Old English and Latin remedies, that are offset with paragraph marks, seem to have been added to fill a blank space between the two long treatises, the <span class=\"italics\">Medicina de Quadrupedibus</span> and the <span class=\"italics\">Peri didaxeon</span>. This may have already occurred in the examplar of Harley 6258B, as the remedies begin in the last two lines of the folio."
+                }
+            ],
+            "bib": [{"work":"coc404", "page": "I, p. 382."},{"work":"ber831", "page": "p. 139."}]
+        },
+        {
+            "locus": "Fols 51v/23-66v/23",
+            "text" : "B.21.7.EM",
+            "notes": [
+                {
+                    "head": "Incipit",
+                    "body": "'<span class=\"deco\"><span class=\"red\">H</span></span>er onginÃ¾ Ã¾eo boc Ã¾a | p<span class=\"expanded\">er</span>i didax<span class=\"sup\">e</span>on gename' [with a two-line red initial]."
+                },
+                {
+                    "head": "Explicit",
+                    "note": "'and bynd Ã¾a scealfe to Ã¾an breostan Ã¾ane.'"
+                },
+                {
+                    "head": "Text Language",
+                    "note": "English"
+                },
+                {
+                    "head": "Other versions of the text",
+                    "note": "The remedies run together as a single text. The second remedy has the red title De beta. The last four remedies duplicate four in Balds LÃ¦ceboc and two of these (for sinew problems) are translated from the Latin Herbarius; the last remedy is also found in the collection of medical recipes preserved in BL, Add. 43703."
+                },
+                {
+                    "head": "Note",
+                    "note": "Seven recipes. "
+                }
+            ],
+            "bib": [{"work":"low843"},{"work":"san848"}, {"work": "mai844"}]
+        }
+    ],
+    "handDesc": {
+        "number":"1",
+        "summary":"Although the script is very irregular and untidy and the hand varies over the course of its campaign, it seems that only one scribe was responsible for the transcription, corrections, additions of titles, initials and marginal annotations.\n\nThe manuscript is not described in Wanley's <span class=\"italics\"><a href=\"#wan470\">Catalogues</a></span> while the <span class=\"italics\"><a href=\"#cat829\">Catalogue of Harleian Manuscripts</a></span> (1973, iii, p. 347) merely states that the manuscript is evidently very old. <a href=\"#bec791\">Beccaria 1956</a> does not include this codex in his catalogue because it is not pre-Salernitan (ante eleventh century).\n\n<a href=\"#ker44\">Ker 1957</a> described it as a 'small ill-formed script' and dated it after 1200 on the strength of the shape of the biting <span class=\"c\">d</span> before <span class=\"c\">e</span> and <span class=\"c\">o</span>, the <span class=\"c\">tironian nota</span> with an horizontal stroke across its ascender and the 'small ill-formed' nature of the script (p. xix). <a href=\"#dev838\">De Vriend 1984</a> discounted this suggestion arguing that the features Ker put forward are not exclusively post-1200 features. He points out that there is an unmistakable resemblance between this codex and <a href=\"EM.BL.Harl.55.htm\">Harley 55</a>, fols 5-13 (<span class=\"italics\">Laws of Cnut</span>) dated mid-twelfth century by Ker (see <a href=\"#ker44\">Ker 1957</a>, no. 226): they show the same kind of 'prickly' script although much neater and more regular in manuscript Harley 55. Thus, De Vriend suggested dating the manuscript to the second half of the twelfth century at the latest (p. xxx). <a href=\"#ang98\">Doane 1994</a> defined it as a pointed insular minuscule with some Caroline features (p. 44), while Laura Nuvolini, in a private communication, suggests calling it an English vernacular minuscule with some protogothic features.\n\nHowever, these discussions ought to consider that the manuscript could be written before the thirteenth century, because of the confusion of the letters <span class=\"c\">t</span> and <span class=\"c\">j</span> (for instance on fol. 10r/2 <span class=\"c\">mÃ¦tan</span> is corrected in <span class=\"c\">mÃ¦jan</span>) which is not attested after that time (see <a href=\"#bur830\">Burchfield 1953</a>, pp. 8-17). Moreover, the similarities between <a href=\"EM.BL.Harl.55.htm\">Harley 55</a> and <a href=\"EM.BL.Harl.6258B.htm\">Harley 6258B</a> are not relevant for dating as the letters <span class=\"c\">s</span>, <span class=\"c\">f</span> and <span class=\"c\">r</span> are, in this first manuscript, always of insular type, while the later uses Caroline forms. A late twelfth-century dating seems more appropriate. Many Caroline forms are only slightly compressed, the letters are still well-separated and a consistent use of protogothic elements is lacking, thus suggesting a period not too close to the thirteenth century. On the other hand, the development of serifs and feet points to a late twelfth-century dating.",
+        "hands":[
+            {
+                "name": "Main text",
+                "scope": "Major",
+                "script": "Insular minuscule with Caroline fatures",
+                "scribe": "Ker p. xix ",
+                "summary": "Letters keep a round shape but developed triangular wedges at the top of the ascenders and feet consisting of an upwards turn of the pen. Letters are still well-separated, although the script is a little compressed, probably to save space rather than to respond to a particular scribal habit.",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span>: Caroline form with a small lobe, which is always closed; in few instances the top is completely curved to the left, but more often is short and straight."},
+                    {"char": "c", "note": "<span class=\"c\">c</span>: round-broken stroke."},
+                    {"char": "d", "note": "<span class=\"c\">d</span>: round loop with a tall sloping ascender."},
+                    {"char": "e", "note": "<span class=\"c\">e</span>: round-back with a short tongue to the right of the squarish head, longer at the end of a word."},
+                    {"char": "f", "note": "<span class=\"c\">f</span>: Caroline form sitting on the line with a long ascender and a long leftwards tail."},
+                    {"char": "h", "note": "<span class=\"c\">h</span>: Caroline form with a right limb which curls to the left."},
+                    {"char": "g", "note": "<span class=\"c\">g</span>: Caroline form with a closed lower loop used with the insular 5-shaped <span class=\"c\">g</span> with a descender curving towards the left and an open lobe. The head stroke is flat."},
+                    {"char": "i", "note": "<span class=\"c\">i</span>, <span class=\"c\">m</span>, <span class=\"c\">n</span> and <span class=\"c\">u</span> are traced singularly, irregular in shape and their feet either finish with a small serif or with a sharper angle to the right."},
+                    {"char": "l", "note": "Tall, wedged ascender <span class=\"c\">l</span> has a shaft finishing on the line with a small foot curling to the right."},
+                    {"char": "o", "note": "Rounded closed <span class=\"c\">o</span>."},
+                    {"char": "p", "note": "<span class=\"c\">p</span> and <span class=\"c\">Æ¿</span> are mainly distinguishable through meaning. However, <span class=\"c\">p</span> has a descender finishing with a right curl and a closed, squarish lobe which closes past the shaft on the left."},
+                    {"char": "Ã¾", "note": "<span class=\"c\">Ã¾</span> formed with a tailed descender generally curving towards the left at the end and a closed small lobe."},
+                    {"char": "r", "note": "<span class=\"c\">r</span> has two forms: Caroline form with a straight 45 degree head stroke and a 2-shaped <span class=\"c\">r</span> after <span class=\"c\">o</span>."},
+                    {"char": "s", "note": "Caroline <span class=\"c\">s</span> and insular form with a head stroke curving to the left."},
+                    {"char": "t", "note": "<span class=\"c\">t</span> has a straight head."},
+                    {"char": "x", "note": "<span class=\"c\">x</span> has an exaggerated descender curving left."},
+                    {"char": "Æ¿", "note": "<span class=\"c\">Æ¿</span> is used and it is very much like <span class=\"c\">y</span> without a dot; the descender ends with a flick to the left."},
+                    {"char": "y", "note": "<span class=\"c\">y</span> is always dotted and the descender ends with a flick to the left."},
+                    {"char": "ascenders", "note": "<span class=\"c\">Ascenders</span> end with a hair tail. Generally, letters keep a round shape but developed triangular wedge at the top of the ascenders."},
+                    {"char": "descenders", "note": "<span class=\"c\">Descenders</span>: Feet close with an upwards turn of the pen. Letters are still well-separated, although the script is a little compressed, probably to save space rather than to respond to a particular scribal habit."},
+                    {"char": "accents", "note": "<span class=\"c\">Accents</span>: upward slanting stroke above <span class=\"c\">i</span>, rarely above other letters (e.g. above <span class=\"c\">a</span> at fol. 47/22)."},
+                    {"char": "abbreviations", "note": "<span class=\"itemHeading\">Abbreviations:</span> common marks of abbreviations are used. Characteristic are the crossed <span class=\"c\">tironian nota</span> for <span class=\"c\">and</span> angled slightly rightward; a suprascript virgule that cross the ascender of <span class=\"c\">Ã¾</span> to indicate <span class=\"c\">Ã¾at/Ã¾Ã¦t</span> and whose top goes higher than the top of the ascender. The same type of comma crosses the round-backed <span class=\"c\">Ã°</span>; a straight stroke usually abbreviates <span class=\"c\">m</span>, <span class=\"c\">n</span> and <span class=\"c\">-er</span> is abbreviated with macrons, apostrophe or a superscript virgule."},
+                    {"char": "punctus", "note": "<span class=\"itemHeading\">Punctuation:</span> <span class=\"c\">Punctus</span> on the line and the <span class=\"c\">punctus elevatus</span>. In a few instances a colon (fol. 45v/18)."},
+                    {"char": "litteraeNotabiliores", "note": "<span class=\"itemHeading\">Litterae Notabiliores:</span> Signs of paragraphs or <span class=\"c\">nota</span> are sometimes used as a signe-de-renvoi for the title (fol. 45v/5) or annotations (fol. 38r/8). The sign of a paragraph is sometimes found in the text to mark the beginning of a remedy (fols 26v/12; fol. 64v72,9,14). A <span class=\"c\">cross</span> is used to sign additions in the text and the place for the insertion (fols 21v/1 and 22r/1). The capital letters A and B are used to sign the inversion (fol. 39v/17-23)."},
+                    {"char": "ligatures", "note": "<span class=\"itemHeading\">Ligatures:</span> Ligatures are widely used <span class=\"c\">sl</span>, <span class=\"c\">st</span>, <span class=\"c\">ct</span> and <span class=\"c\">ft</span>, where the headstroke of the first letters curves and forms the shaft of the following; juncture of <span class=\"c\">d</span> and <span class=\"c\">e</span> is also used (fol. 34v/12)."}
+                ],
+                "date":"",
+                "place": "",
+                "otherManuscripts": [""],
+                "language":"The scribe uses a greater number of twelfth-century spelling but the language is clearly Late West-Saxon, with some levelling of inflections (see <a href=\"#sch849\">Schiessl 1905</a>; <a href=\"#dev838\">De Vriend 1984</a>, pp. lxxv-lxxviii; <a href=\"#bie832\">Bierbaumer 1976,</a> pp. xi-xii).",
+                "correction": "corrections were carefully made by underdotting (fol. 45r/13), staining (fol. 49v/14) or underlining the letters to be deleted (fol. 44v/5), striking-through a word (fol. 45v/6); the correct word or letter may be interlined above (fol. 47v/18) or a signe-de-renvoi consisting of parallel slanting lines (fol. 10r/26) or a cross (fol. 10r/27) may be added. The parallel slanting lines are also used to indicate inversion of order (fol. 59r/18)."
+            }
+        ]
+    },
+    "decoration": ["There is no decoration and brown ink, that varies from dark to light, is generally used. Red colour occurs in some marginal annotations, that are sometimes framed in brown or red, in the initials (they are accompanied by faint guide letters in margins) that span two lines high, rarely three (fol. 2v/5), and in chapters and texts headings. Red is often very faded and the letters are rewritten in brown ink. Brown majuscules are used to mark the beginning of some chapters. Indexical letters run at the tops of most of the folios, and occasionally besides the text, from A (fol. 1) to X (fol. 44), corresponding to the alphabetical arrangement of the <span class=\"italics\">Herbarius</span> in this manuscript."],
+    "additions": "There are only few later additions.\n\nThe title \"A Saxon Herball\" that appears on fol. 1r has been identified with Thomas Cotton's hand (1594-1662) by C. Tite (information kindly provided by Laura Nuvoloni).\n\nThe word <span class=\"italics\">arthemisia</span> in the top margin of fol. 1r and <span class=\"italics\">eganne dryb</span> (eye drop?) on the right margin of fol. 10r seem of the same seventeenth-century hand.\n\nThe other additions consist of curatorial interventions. Stamping: the ownership of the manuscript by the British nation is proclaimed by the insertion of bright red stamps throughout. Usually at the beginning and end of the manuscript (see <a href=\"#pre408\">Prescott 2006</a>, p. 473), here on the fifth front flyleaf and fol. 65v probably because the first and last folios are darker than the rest and the stamp would be hardly visible, are large square red stamps, reading 'MUSEUM BRITANNICUM' and dated to the eighteenth century. A smaller stamp with the words 'BRITISH MUSEUM' around a small crown, is placed in the margins throughout the manuscript (e.g. fols 8v, 26v, 32v). Notes on allocation on the top margin of fol. 1r the Harley shelfmarks '6258.b.' in dark brown ink and '2/III A' in pencil, the latter being also found on the endleaf of Harley 585, another medical manuscript because Harleian manuscripts were shelved according to subject classification in Montagu House. On the back of front cover, low left corner, '49.9.' is written in pencil.\n\n<a href=\"#dev838\">De Vriend</a> (1984, p. 62) suggests a later hand for the addition to <span class=\"italics\">torenijen</span> in the top margin of fol. 36r. The hand seems, however, the same but varies slightly in being a little less compressed, as in the annotation of the lower margin of fol. 32r.\n\nThe title of fol. 20r <span class=\"italics\">millefolio</span> added in the top margin is very similar to the main hand, but the colour is very black and <span class=\"italics\">millefolio</span> is added in the middle of the ninth cure of the chapter, thus suggesting that it may have been added later, perhaps after the loss of Quire 2 which contains the beginning of the chapter.",
+    "binding": "<p> Outside leaves, front and back, are darker than the rest, suggesting that the manuscript was unbound for a long period. It has then been bound at least three times. </p><p><a href=\"#coc404\">Cockayne</a> (1866, I, p. lxxxv) mentioned the substitution of an earlier binding just after his publication of the manuscript, in 1866. The nineteenth-century binding is described as a small volume bound in brown leather; on the front and back covers, the coats of arms of the Harley family, gold-tooled; on the spine the title 'DE MEDICINIS HERBARIUM DE FERIS MEDICAMENTIS ETC. ANGLICE, MUS. BRIT. BIBL. HARL. 6258B PLUT.XLIX G.' (<a href=\"#dev839\">De Vriend 1972</a>, p. xxvii). </p><p>The shelfmark 'PLUT.XLIX.G' is also recorded on the last front leaf; it relates to the moving of the manuscripts from Montagu House into the Manuscripts Saloon in 1824 (see <a href=\"#pre408\">Prescott 2006</a>, p. 513). </p><p>The modern British Library binding is made of 3/4 red leather, the remainder being of textured red cloth with the Harley arms in gilt on the front and back covers. The title 'HERBAL BRIT. MUS. HARL. MS 6258B' is labelled on the spine. </p>", 
+    "accompanying": "Added modern paper flyleaves at the beginning and end of the manuscript. The last three front leaves and first three endleaves are of slightly different paper and were very probably part of the earlier binding described by <a href=\"#dev838\">De Vriend 1972</a>.", 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "The manuscript belonged to the Harley collection and was probably acquired by <span class=\"name\">Edward Harley (1689-1741), 2nd earl of Oxford and Mortimer</span>, after the death of the librarian of the Harleian Collection <span class=\"name\">Humphrey Wanley</span> (1672-1726). It was in fact catalogued by the librarian <span class=\"name\">William Hocker</span> (see <a href=\"#wri851\">Wright and Wright 1966</a>, I, p. lxxxi; II, pp. 475-515).", 
+        "acquisition": "The manuscript was sold with the other Harley manuscripts in 1753 to the nation under the Act of Parliament that also established the British Museum."
+    }, 
+    "admin": "Manuscript described and encoded by Danielle Maion, on 08 April 2010; revised in 2014. Thanks are due to Klaus-Dietrich Fischer for his helpful suggestions and feedback after the description was initially published in 2010.", 
+    "surrogate": true, 
+    "bib": [
+        "bec791", 
+        "ber831", 
+        "bie832", 
+        "cat829", 
+        "bro833", 
+        "bur830", 
+        "cam834", 
+        "coc404", 
+        "dar835", 
+        "dar836", 
+        "dev838", 
+        "dev839", 
+        "del837", 
+        "ang98", 
+        "gam38", 
+        "gne146", 
+        "hoo841", 
+        "ker44", 
+        "ker48", 
+        "ker842", 
+        "low843", 
+        "mai844", 
+        "mai845", 
+        "mai1659", 
+        "mea846", 
+        "pre408", 
+        "san847", 
+        "san848", 
+        "sch849", 
+        "wan470", 
+        "wri851"
+    ]
+}

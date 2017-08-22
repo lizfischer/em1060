@@ -1,0 +1,48 @@
+{
+    "id": "Ox.Nor.81", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Norfolk", 
+    "shelfmark": "Rolls 81", 
+    "ker": "347", 
+    "content": "Glossary in Latin and Old English", 
+    "location": "Holme St Benets", 
+    "summary": "Main text is a roll of charters of <span class=\"name\">Holme St Benets</span> of s. xii. On the dorse is a glossary, mainly Latin-Latin, but including what <a href=\"#ker44\">Ker</a> (1957, p. 426) estimates to be \u2018about a dozen\u2019 Old English glosses. Written at <span class=\"name\">Holme St Benets</span>.", 
+    "items": [
+        {
+            "locus": "dorse", 
+            "text": "D.27", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(dorse) flod ['flod' is the first legible Old English word. The beginning of the text is badly rubbed.]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(dorse) blodsex"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 347"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

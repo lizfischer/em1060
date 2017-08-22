@@ -1,0 +1,250 @@
+{
+    "id": "BL.Tibe.C.i", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius C. i", 
+    "ker": "196; 197", 
+    "content": "Computistica; Astronomica; Pontifical; Homilies", 
+    "location": "Peterborough; Sherborne; Salisbury", 
+    "date": "s.xii^{1}", 
+    "summary": null, 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "The parchment is well-prepared, although Quires 9 and 15 (added at", 
+        "extent": "292 mm x 196 mm (dimensions of Part 1, except fols 4 and 5 - size of leaves).\n292 mm x 208 mm (dimensions of fols 4, 5 - size of leaves).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "4 in Old English", 
+        "summary": "One instance of Old English occurs in Part 1 of the manuscript. Three scribes are responsible for the Old English additions to Part 2.", 
+        "hands": [
+            {
+                "name": "Glosses to Item (21)", 
+                "scope": "Minor", 
+                "script": "Vernacular Insular Minuscule", 
+                "scribe": "Ker 196 SC1", 
+                "description": "Glosses to", 
+                "summary": "Special letter-forms are retained.", 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is retained."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is retained."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is retained."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Items (67), (105), (108)", 
+                "scope": "Minor", 
+                "script": "Caroline Minuscle", 
+                "scribe": "Ker 1959 SC3", 
+                "description": "A very large hand.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is usually insular."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is insular, with a large bowl and a very short ascender which flicks up."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The insular <span class=\"c\">e</span> is not always used."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular. The descender is usually closed but occasionally open."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is insular."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "The descender of <span class=\"c\">p</span> does not curve to the left."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is insular. Long or low, the low <span class=\"c\">s</span> is always used in final position."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is dotted. It has a large upper portion and a relatively short descender which ends in a finishing-stroke."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is used. Its lobe is narrower than that of <span class=\"c\">p</span>."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are clubbed."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curve to the left, except <span class=\"c\">p</span>."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are on both long and short vowels."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "<span class=\"c\">hyphens</span> are on a level with the base-line."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Item (86)", 
+                "scope": "Minor", 
+                "script": "Vernacular Insular Minuscule", 
+                "scribe": "Ker 1959 SC4", 
+                "description": null, 
+                "summary": "A fairly large hand.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular. The scribe seems to have some difficulty forming the <span class=\"c\">g</span>, as it is a different shape each time."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r </span> is insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is almost Caroline. Long and low <span class=\"c\">s</span> are used interchangeably."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is used."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is used."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is used."
+                    }, 
+                    {
+                        "char": "accent", 
+                        "note": "There is an <span class=\"c\">accent</span> on the <span class=\"c\">u</span> in 'us' (line 3)."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Items: (86)-(91)", 
+                "scope": "Minor", 
+                "script": "Vernacular Insular Minuscule", 
+                "scribe": "Ker 1959 SC5", 
+                "description": "The hand becomes much larger towards the end of the final confessional text on fol. 161v, then much smaller and slightly neater in the homily which follows.", 
+                "summary": "'Still only mediocre', according to", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span> often varies, as if the scribe has difficulty forming the letter."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is the same shape as <span class=\"c\">\u00f0</span> but the ascender is slightly shorter than that of <span class=\"c\">\u00f0</span>."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> is used. The tail leans further to the right in the homily (fols 161v-162v) than in the preceding texts."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Both forms of <span class=\"c\">r</span> are used"
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> sometimes has a looped top."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "The descender of <span class=\"c\">y</span> has a finishing-stroke. The <span class=\"c\">y</span> is more compact in the homily (fols 161v-162v) than in the preceding texts."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> vary in length. They are very long on the last lines of fol. 160r."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Modern binding in brown leather with gilt edges and a gold crest. The spine reads 'ASTRONOMICA | VARIA | PONTIFICALE | MUS. BRIT | BIBLE COTTON | TIBERIUS C I'. The edges of the leaves have been coloured gold.", 
+    "accompanying": "There is no accompanying material.", 
+    "history": {
+        "origin": "<p>Part 1a was written in <span class=\"name\">Peterborough</span> between 1122 and 1135, perhaps around 1122. This is indicated by the annals in <a href=\"BL.Harl.3667.htm\">Harley 3667</a>, which refer to events between these dates occurring in Peterborough (<a href=\"#wil78\">Wilcox</a> 2000, p. 69). </p><p> Part 1b was probably produced in <span class=\"name\">Peterborough</span> in the 1120s, as is suggested by similarities in script and decoration (<a href=\"#ker478\">Ker</a> 1938, p. 132). </p><p>Part 2 was written in <span class=\"name\">Germany</span>, probably in the middle of the eleventth century (<a href=\"#ker520\">Ker</a> 1959, p. 263). </p>", 
+        "provenance": "<p> Part 1a was probably still part of the larger manuscript in <span class=\"name\">Peterborough</span> in the late fourteenth-century, as it is probably the book mentioned by <a href=\"#jam518\">James</a> (1926, p. 34). </p><p>Provenance of Part 1b is unknown.</p><p> Part 2 was extended by eight quires (fols 89-151) written between 1070 and 1100, first in <span class=\"name\">Sherborne</span> and then <span class=\"name\">Salisbury</span>, where the episcopate moved in 1075. The manuscript was the enriched with texts written in the blank spaces of the pontifical and enlarged by the addition of four bifolia (fols 78-85) into Quire 5. Quire 18 contains the hand of an unlocalised scribe of the late eleventh century. </p>", 
+        "acquisition": "Probably bound together under the direction of <span class=\"name\">Robert Cotton</span>. Acquired by the <span class=\"name\">British Museum</span> along with the rest of the <span class=\"name\">Cotton</span> collection in 1701."
+    }, 
+    "admin": "Described by Hollie Morgan (May 2010).", 
+    "surrogate": true, 
+    "bib": [
+        "bak790", 
+        "bue509", 
+        "cla510", 
+        "cun511", 
+        "fon512", 
+        "fra513", 
+        "fre1510", 
+        "gam38", 
+        "hen515", 
+        "hen516", 
+        "hit517", 
+        "jam518", 
+        "jon519", 
+        "ker44", 
+        "wat267", 
+        "ker478", 
+        "ker520", 
+        "lap521", 
+        "lin522", 
+        "log523", 
+        "mig1407", 
+        "mar524", 
+        "mor525", 
+        "pit526", 
+        "pul527", 
+        "rac528", 
+        "sax529", 
+        "tho446", 
+        "vol530", 
+        "web176", 
+        "whi128", 
+        "wil78", 
+        "wil531", 
+        "wil532", 
+        "wil533"
+    ]
+}

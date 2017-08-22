@@ -1,0 +1,191 @@
+{
+    "id": "BL.Tibe.A.xiii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius A. xiii", 
+    "ker": "190", 
+    "content": "Liber Wigorniensis; Hemming's Cartulary", 
+    "location": "Worcester", 
+    "date": "s.xi^{ex}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 109v", 
+            "text": "B.16.23.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 109v) III \u00f3r 7 leofric I pennig"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 250"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115-16", 
+            "text": "B.3.4.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115r) Adam se \u00e6resta man \u01bf\u00e6s gesceapen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 250"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 177r", 
+            "text": "B.16.23.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 177r) \u00d0is mycel is gegolden of \u00fe\u00e6re cyricean \u01f7illiam cyninge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hemming"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 250"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 180-81", 
+            "text": "B.17.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 180v) Her ges\u01bfutela\u00f0 hu \u01f7lstan biscop becom to biscoprice"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 180v) Beforan gestihtende ure drihtene"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 1948, Part II, SC 3"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 251"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 190", 
+            "text": "B.12.11", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 190) \u02e5 ic bidde \u02e5 eac on godes noman halsige \u00fe\u00e6t \u00e6lc mann hine sylfne georne \u01bfi\u00f0 \u00feisne curs \u01bfarnige. \u02e5 \u00feissere sto\u01bfe \u00fe\u00e6t \u00e6lc mann hine sylfne georne \u01bfi\u00f0 \u00feisne curs \u01bfarnige. \u02e5 \u00feissere sto\u01bfe hold sy. \u02e5 getreo\u01bfe. \u02e5 se \u00fee elles do. h\u00e6bbe him \u01bfi\u00f0 gode gem\u00e6ne. s\u01bfa s\u01bfa \u00fees curs s\u01bfutela\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hemming"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 251"
+                }
+            ]
+        }
+    ], 
+    "decoration": null, 
+    "binding": "Rebound in nineteenth century, with each leaf separately mounted.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written in <span class=\"name\">Worcester</span>.", 
+        "provenance": "Unknown.", 
+        "acquisition": "Belonged to <span class=\"name\">Robert Cotton</span> in 1621. Acquired by the <span class=\"name\">British Museum</span> along with the rest of the <span class=\"name\">Cotton</span> collection."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Takako Kato, Hollie Morgan and Sanne van der Schee (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bar1638", 
+        "bat1296", 
+        "bax972", 
+        "bir1293", 
+        "dav12", 
+        "fin1297", 
+        "gam38", 
+        "gne1323", 
+        "gne146", 
+        "hea1295", 
+        "her1292", 
+        "her1298", 
+        "hic721", 
+        "kel828", 
+        "ker44", 
+        "ker1520", 
+        "ker555", 
+        "key1294", 
+        "bri1165", 
+        "nap123", 
+        "rob439", 
+        "tho434", 
+        "tin669", 
+        "tin1551", 
+        "tin1501", 
+        "tur1278", 
+        "wat1639", 
+        "wan416", 
+        "wor1108"
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "id": "CCCC.178", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "178", 
+    "ker": "41", 
+    "content": "Marginal Notes; additions", 
+    "location": "Worcester", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "p. 97", 
+            "text": "B.27.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 97) Bysne be | drymannum 7 be anum godan | men macharius | gehat\u00e6n"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Coleman"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker95", 
+                    "page": "1949, p. 29"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 229", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 229) Ac \u00feis ne \u00feynce\u00f0 no us well ges\u00e6d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 229) 7 sume s\u00e6cga\u00f0 spell of \u00fe\u00e6re | crismhalgunge 7 of \u00fe\u00e6m balsome"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Coleman"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker95", 
+                    "page": "1949, p. 30"
+                }
+            ]
+        }, 
+        {
+            "locus": "passim", 
+            "text": "B.27.4.16.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "The Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "par1182"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "c. 287 mm x 195 mm (dimensions of all - size of leaf).\nc. 225 mm x 130 mm (dimensions of pp. 1-270 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "22-31 long lines.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2 from the period 1060 to 1220", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "marginal notes", 
+                "scope": "minor", 
+                "script": "Rustic capitals", 
+                "scribe": "Coleman", 
+                "description": "pp. 97, 299.", 
+                "summary": "Coleman's notes are generally written in rustic capitals (", 
+                "date": null
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Hand", 
+                "description": "Extensive additions by the", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in <span class=\"date_key\">1953</span>. The previous binding was of <span class=\"date_key\">s. xviii</span>.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The manuscript and the marginal notes are from <span class=\"name\">Worcester</span> (<a href=\"#ker44\">Ker</a> 1957, p. 60).", 
+        "provenance": "Belonged to <span class=\"name\">Parker</span>.", 
+        "acquisition": "Bequeathed by <span class=\"name\">Parker</span> to <span class=\"name\">Corpus Christi College</span> in 1575."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Sanne Van Der Schee (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "bel365", 
+        "par1182", 
+        "gne146", 
+        "joh666", 
+        "ker44", 
+        "ker95", 
+        "klu1057", 
+        "klu505", 
+        "mor580", 
+        "nap506", 
+        "nap123", 
+        "sch1244", 
+        "ske153", 
+        "tho57", 
+        "ung1243", 
+        "wan416"
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "id": "To.BM.134", 
+    "city": "Tournai", 
+    "repository": "Biblioth\u00e8que Municipale", 
+    "collection": "", 
+    "shelfmark": "134", 
+    "ker": "387", 
+    "content": "[C\u00e6dmon\u2019s Hymn]", 
+    "location": "Unknown", 
+    "summary": "Old English C\u00e6dmon\u2019s Hymn added in the margin of a s. xii copy of Bede\u2019s <span class=\"italics\">Historia ecclesiastica</span>. <a href=\"#ker44\">Ker</a> (1957, p. 457) notes that \u2018the Latin text of the <span class=\"italics\">Historia ecclesiastica</span> may not be in an English hand. The Old English is either in an English hand or has been carefully copied from an English exemplar: the occasional forms of one or two letters suggest that it is not impossibly in the same hand as the Latin\u2019. The manuscript was destroyed by fire in 1940, and <a href=\"#ker44\">Ker</a> (1957) described it from a reduced facsimile (P. Faider ad Jan P. van Sint, <span class=\"italics\">Catalogue des Manuscrits conserves \u00e0 Tournai</span> (1950)). Its place of production is not known.", 
+    "items": [
+        {
+            "locus": "fol. 78v", 
+            "text": "A.32.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 78v) Nu we sceolan herian heofonrices weard. metodes mihte."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 78v) \u00fea middan eard mancynnes weard ece drihten \u00e6fter teode | firum foldan. frea \u00e6lmihtig"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 387"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

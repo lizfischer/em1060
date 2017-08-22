@@ -1,0 +1,51 @@
+{
+    "id": "HerCL.P.v.1", 
+    "city": "Hereford", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "P. v. I + Bodleian, E. Mus. 93 (3632)", 
+    "ker": "121", 
+    "content": "C\u00e6dmon\u2019s Hymn", 
+    "location": "Unknown", 
+    "date": "s.xii^{1}", 
+    "summary": "Contemporary addition in English to the margin of the Latin text of Bede\u2019s <span class=\"italics\"> Historia ecclesiastica</span>. Place of production not known.", 
+    "items": [
+        {
+            "locus": "fol. 116v", 
+            "text": "A.32.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 116v) Nu \u01bfe sceolan herian hel[o]fon rices \u01bfeardmetudesmihteondhis mod[g]e \u00feanc \u01bfeorc \u01bfulder f\u00e6der s\u01bfa he \u00e6rest sceop eor\u00f0ebearnumheofon to hrofe \u00fea middab geard moncynnes \u01bfeard ece drihtent efter teodefyrumonfolden frea \u00e6lmihtig halig scyppeod"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dob699", 
+                    "page": "p. 41"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 121"
+                }, 
+                {
+                    "work": "odo1613", 
+                    "page": "p. 220"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan and Johanna Green, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#dob699", 
+        "#ker44", 
+        "#odo1613"
+    ]
+}

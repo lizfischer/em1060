@@ -1,0 +1,299 @@
+{
+    "id": "GCL.35", 
+    "city": "Gloucester", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "35", 
+    "ker": "117", 
+    "content": "Homilies and lives of saints", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1-3v", 
+            "text": "B.1.3.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r-fol. 3r) ond oferworht [...] \u00dea s\u01fdde se [...] hw\u00e6t [...] sibbe"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 117"
+                }, 
+                {
+                    "work": "ear812", 
+                    "page": "1861, pp. 2-12"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "1881-1900, i, p. 422"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 4r-6v", 
+            "text": "B.3.3.23", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 4r) [...]s [...] adune as[...] [...] weardre [...] \u00fe[a] \u00fe[a] [...]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6r) \u01bf\u00e6s genyr\u01bfed [...] ende. Amen"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "ximed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 117"
+                }, 
+                {
+                    "work": "ear812", 
+                    "page": "1861, pp. 102-12"
+                }, 
+                {
+                    "work": "mag1181", 
+                    "page": "2002"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "1881-1900, ii.14"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6v", 
+            "text": "B.10.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6v) [\u00c6]rest mon sceal god lufian of ealre heortan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6v) on criste. \u00feonne."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi2"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragment of chapter 4."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 117"
+                }, 
+                {
+                    "work": "ear812", 
+                    "page": "1861, p. 112"
+                }, 
+                {
+                    "work": "sch993", 
+                    "page": "1888, pp. 16-18"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7r/1-3", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r) [...]u\u00f0 is geond [...]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 7r) [.]y \u01bfuldor"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Three incomplete lines, the end of the text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "1979, p. 222"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 117"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "1844-46, i, p. 384"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7r/6-7v", 
+            "text": "B.1.2.31", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r) [...]ge \u00fe\u00e6t [...] and\u01bfear[d]an [...]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 7r) Heo so\u00f0lice mid worde ge f\u00e6stnode \u00fe\u00e6t hit swa w\u00e6reond"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragment, fifty-five lines of the beginning of the text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "1979, p. 221"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 117"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v", 
+            "text": "B.27.4.17.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Heo so\u00f0lice mid \u01bforde gef\u00e6stnode \u00fe\u00e6t hit s\u01bfa \u01bf\u00e6re. 7"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This is a translation of Acts 12: 15 added in the margin, next to 'engel'."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 117"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Collection of fragments", 
+        "support": "Parchment", 
+        "extent": "294 mm x 223 mm (dimensions of most - size of leaves).\n269 mm x 165 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 from 1060 to 1220", 
+        "summary": "These fragments are written by at least three hands.", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "Major", 
+                "script": "Insular Minuscule", 
+                "scribe": "Ker 117 scribe 1", 
+                "description": "fols 1-3, 7.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> of squarish proportion."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> with a raised head in clusters such as <span class=\"c\">\u00e6g</span> and <span class=\"c\">\u00e6t</span>"
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span>: 'the left stroke rises higher than the right' (<a href=\"#ker44\">Ker</a>, 1957)."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "Major", 
+                "script": "Insular Minuscule", 
+                "scribe": "Ker 117 SC2", 
+                "description": "fols 4r-6v. A round, close-set hand (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> prominently horned, with a raised head in clusters such as <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: the ends of the descenders curve to the left."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 117 SC3", 
+                "description": "fol. 6v.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> curved cross-bared ascender 'which touches, but does not transect, the back'."
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown", 
+        "provenance": "Fols 1-3 were found in the Register of <span class=\"name\">Abbot Braunche</span> (1500-10) and <span class=\"name\">Abbot Newton</span> (1510-14). Fols 1, 3 were pastedowns which left offset of writing on the binding boards. Fol. 2 was a flyleaf. Fols 5-6 were pastedowns in another unknown volume (<a href=\"#ker44\">Ker</a> 1957, p. 155).", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan, Johanna Green and Takako Kato (April 2010; September 2012), and with reference to facsimiles and published scholarship.", 
+    "surrogate": true, 
+    "bib": [
+        "ear812", 
+        "gne146", 
+        "god42", 
+        "ker44", 
+        "mag1181", 
+        "sch993", 
+        "scr565", 
+        "ske153", 
+        "tho57"
+    ]
+}

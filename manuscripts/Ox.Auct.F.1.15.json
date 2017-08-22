@@ -1,0 +1,73 @@
+{
+    "id": "Ox.Auct.F.1.15", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Auct.", 
+    "shelfmark": "F. 1. 15 (2455)", 
+    "ker": "294", 
+    "content": "Inscriptions in Latin and Old English", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}", 
+    "summary": "Main text of the manuscript is a s. x<span class=\"sup\">2</span> copy of Boethius, <span class=\"italics\">De consolatione philosophiae</span>. Inscriptions on fols 77 and 78 each record the gift of this manuscript to <span class=\"name\">Exeter</span> by <span class=\"name\">Leofric</span>. <a href=\"#ker44\">Ker</a> (1957, p. 353) demonstrates that the two inscriptions, which are each in a different hand, were originally in separate volumes. Presumably from <span class=\"name\">Exeter</span>. According to <a href=\"#dra419\">Drage 1978</a>, these are her Scribe 2 and 10.", 
+    "items": [
+        {
+            "locus": "fols 7v, 8v, 9", 
+            "text": "C.53.4", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 294"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 77", 
+            "text": "B.16.10.5.1.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 294"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 78", 
+            "text": "B.16.10.5.2.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 294"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance by Hollie Morgan, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

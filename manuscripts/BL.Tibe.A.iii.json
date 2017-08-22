@@ -1,0 +1,1505 @@
+{
+    "id": "BL.Tibe.A.iii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius A. iii", 
+    "ker": "186", 
+    "content": "Continuous glosses; Prayers; Homilies, etc.", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xi^{med}", 
+    "summary": "Fols 2-173 contain a continuous interlinear gloss to the Rule of St. Benedict. It also contains prayers, and an interlinear gloss to \u00c6lfric's <span class=\"italics\">Colloquy</span>, and homilies. Copied with annotations and glosses by several hands, in s. xi<span class=\"sup\">med</span>; numerous alterations and additions in s. xi<span class=\"sup\">2</span>; and an addition in s. xi<span class=\"sup\">ex</span>. Ker notes 'This is certainly a manuscript described in the medieval catalogue of Christ Church, Canterbury' (<a href=\"#ker44\">Ker 1957</a>, p. 248)", 
+    "items": [
+        {
+            "locus": "fols 3r-27v", 
+            "text": "C.27", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 27v-32v", 
+            "text": "C.16.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 27v) fugeles on s\u01bfefnum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 32v-35v", 
+            "text": "C.16.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 32v) mona se forma on eallum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 35v-36r", 
+            "text": "C.16.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 35v) s\u01bfa \u01bf\u00e6t s\u01bfa \u00feu gesihst"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 36r-v", 
+            "text": "C.16.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 36r) gif bi\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 36v", 
+            "text": "C.16.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 36v) se \u00fee acenned bi\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 36v-37r", 
+            "text": "C.16.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 36v) se \u00fee afealla\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 37r-v", 
+            "text": "C.16.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 37r) gif hit \u00feunra\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 37v-38r", 
+            "text": "B.23.3.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 37v) On anre nihte ealdne monan s\u01bfa h\u01bf\u00e6t s\u01bfa \u00fee m\u00e6te\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 242"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38r-39v", 
+            "text": "B.23.3.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 38r) Gif mann m\u00e6te \u00fe\u00e6t he geseo earn"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 39v-40r", 
+            "text": "B.23.3.3.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 39v) On anre nihte ealdne monan. far \u00feu to cinge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 40r", 
+            "text": "B.23.3.3.4", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 40r) On anre nihte ealdne monan se \u00fee hine adl gestande\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 40r-v", 
+            "text": "B.23.3.3.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40r) On an\u01bfearden gearean\u01bfearden altered to an\u01bfeardan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 40v", 
+            "text": "B.23.3.3.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40v) \u00d0onne se mona bi\u00f0 acenned on sunand\u00e6ig. \u00fe\u00e6t tacna\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 40v-41r", 
+            "text": "B.21.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40v) Her ongin\u00f0 secgan ymbe mannes gecynde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 41r-v", 
+            "text": "B.23.3.3.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 41r) Gif man bi\u00fe acenned on ane nihte ealdne monan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 41r-42r", 
+            "text": "B.23.3.3.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 41v) Kalendasianuarius gif he by\u00fe on monand\u00e6g"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42r-v", 
+            "text": "B.23.3.3.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 42r-v) Gif man m\u00e6te \u00fe\u00e6t his mon ehte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42v-43r", 
+            "text": "B.23.3.3.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 42v) Eft is o\u00f0er \u01bfise be \u00feissum \u00feingum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 43r-v", 
+            "text": "B.24.10.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 43r) H\u01bf\u00e6t \u01bf\u00e6s se on \u00feissere \u01bforulde de \u00f0e ac\u00e6nned n\u00e6s"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 44r", 
+            "text": "B.20.11.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) \u00deis syndon \u00fea \u00f0reo frigedagas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 44r", 
+            "text": "B.24.29.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) Sancta Maria \u01bf\u00e6s"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "Be sancte maria ylde and be hyre for\u00f0si\u00f0e"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "Be misd\u00e6de"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 44r", 
+            "text": "B.11.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) Gif h\u01bfa fulice on ungecyndelicum \u00feingum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44r-45v", 
+            "text": "B.11.9.3.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) Eala \u00feu \u00e6lmihtiga god unasecgendlicere mildheortnesse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45v-46r", 
+            "text": "B.1.3.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 45v) Man mot hine gebiddan s\u01bfa s\u01bfa he m\u00e6g \u02e5 can"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 46v-47r", 
+            "text": "B.12.4.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 46v) Min drihten leof for \u00feinre \u00fe\u00e6re mycelan mildheortnysse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47r-48r", 
+            "text": "B.11.9.3.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) Min drihten god \u00e6lmihtig ic \u00fee eom andette minra synna"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 48r-50v", 
+            "text": "B.12.4.3.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48r) Din drihten \u00e6lmihtig god si \u00f0e \u01bfuldor. \u02e5 \u00feanc"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 50v-51v", 
+            "text": "B.12.4.3.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 50v) Drihten \u00feu eart scippend ealra gescefta"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 51v-53r", 
+            "text": "B.11.10.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 51v) Gif \u00feu \u01bfilt nu l\u00e6of eal s\u01bfa \u00fee micel \u00feearf is andetnysse don"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 53r-55r", 
+            "text": "B.11.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 53r) Ic andette \u00fee. Indulgentia, Se \u00e6lmihtiga god \u00fee gescop heofonas and eor\u00f0an"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 55v-56r", 
+            "text": "B.11.4.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 55v) \u00c6fter \u00feissum arise eadmodlice to his scrifte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 56r-v", 
+            "text": "B.11.4.4.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 56r) \u00d0\u00e6t sceal ge\u00feencan se \u00fee bi\u00f0 manna sa\u01bfle l\u00e6ce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 59r-v", 
+            "text": "B.23.1.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59r) Gif \u00fee \u00feince \u00fe\u00e6t \u00f0ine fynd \u00fee h\u01bfirlice embe \u00feridien \u00feonne gang \u00feu on gelimlicre sto\u01bfe \u02e5 \u00fe\u00e6 \u00fea halgan rode to gescildnesse gecy \u02e5 asette \u00fee a\u00feenedum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 60v-64v", 
+            "text": "C.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 60v) we cildra bidda\u00fe \u00fee"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 65v-73r", 
+            "text": "B.1.9.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 65v) \u00deone forman d\u00e6g \u00feissere \u01bforulde we magon afindan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 73r-v", 
+            "text": "B.24.12.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 73r) Noes earc \u01bf\u00e6s \u00fereo hund f\u00e6\u00fema lang"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 73v-77v", 
+            "text": "B.3.3.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 73v) \u00c6fter \u00fe\u00e6re \u00fero\u01bfunge 7 \u00fe\u00e6re \u00e6riste"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 77v-83r", 
+            "text": "B.1.2.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 77v) \u00d0as ures drihtnes \u00fero\u01bfunge \u01bfe \u01bfilla\u00fe gedafenlice eo\u01bf secgan nu"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 83r-87r", 
+            "text": "B.3.4.35 ", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 83r) Her saga\u00fe an \u00feisan drihtnes arendge\u01bfrite. \u00fe\u00e6t fyr cyme\u00fe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 87r-88v", 
+            "text": "B.3.4.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 87r) Hit gelamp h\u01bfylan \u00e6t sumum cyrre \u00fe\u00e6t an ancra gefing \u00e6nne deofol"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 88v", 
+            "text": "B.2.3.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallan folke"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 88v) Leofan men understanda\u00fe \u00fe\u00e6t \u00e6rest cristenra manna geh\u01bfylc"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 88v-90r", 
+            "text": "B.2.3.7.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallan folke"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 88v) Leofan menn for ure ealre \u00feearfe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 245"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 90r", 
+            "text": "B.3.4.23.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 90r) Georne \u01bfe \u01bfitan \u00fe\u00e6t god"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 245-246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 90r-v", 
+            "text": "B.3.4.23.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 90r) Uton beon geore \u00feancole on \u00e6lce \u01bfisan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 90v-91r", 
+            "text": "B.3.4.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 90v) Gif hit ge\u01bfyr\u00fee \u00fe\u00e6t on \u00feeodscipe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 91r-v", 
+            "text": "B.3.4.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallum folke"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 91r) \u00c6lcne mann ic bidde \u00fee \u00e6nige godes ege h\u00e6bbe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 91v-92r", 
+            "text": "B.3.4.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallan folke"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 91v) Hit \u01bf\u00e6s nu feala geara"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 92r-v", 
+            "text": "B.3.4.41", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallan folke"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92r) Leofan menn lagia\u00f0 gode \u01bforoldlagan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 92v", 
+            "text": "B.3.4.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallum folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92v) Leofan menn understanda\u00f0 \u00e6rest hu micel \u00feearf is eallum cristenum mannum. \u00fe\u00e6t hy heora fulluhtes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 92v-93r", 
+            "text": "B.3.4.24.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallum folke"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92v) Leofan menn understanda\u00fe \u00e6rest hu micel \u00feearf is eallum cristenum mannum \u00fe\u00e6t hi cunnon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 93r-v", 
+            "text": "B.3.4.42", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 93r) Sacerd scel on his scrifscire"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 93v", 
+            "text": "B.3.4.43", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 93v) Eala feala is \u00feara"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 94v-955", 
+            "text": "B.11.4.4.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 94v) \u00d0\u00e6t sceal ge\u00feencan se \u00fee bi\u00fe manna sa\u01bfla l\u00e6ce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 95r", 
+            "text": "B.12.12.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. fol. 95r) Gyf s\u01bfa hine sylfne s\u01bfyr\u00fee for\u01bfurce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 95r", 
+            "text": "B.11.4.4.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95r) On \u01bfisum scrifte bi\u00fe s\u01bfy\u00fee for\u00fegelang"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 95r-v", 
+            "text": "B.12.12.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95r) Se l\u00e6ce \u00fee sceal sare \u01bfunda \u01bfel geh\u00e6len"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 95v", 
+            "text": "B.12.12.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be l\u00e6\u01bfdra manna d\u00e6dbote"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95v) Deaplice d\u00e6dbot by\u00fe \u00fe\u00e6t l\u00e6\u01bfede man"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 95v-96r", 
+            "text": "B.11.4.4.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95v) D\u00e6dbota syn gedihte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 96v", 
+            "text": "B.11.4.4.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 96v) He cy\u00fe on hu seoc man mot his f\u00e6sten alysan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 96v-97r", 
+            "text": "B.11.2.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 96v) \u00deonne man to his scrifte gange"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 97r", 
+            "text": "B.12.12.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 97r) Seo \u00e6reste forletnysse is synna ful\u01bfiht"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 97v-101v", 
+            "text": "B.24.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 97v) \u00deis sindon \u00fea tacne \u00fee mon on mynstre healdan sceal"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 246"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 101v-02r", 
+            "text": "B.22.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her ongin\u00f0 embe t\u01bfelf der\u01bfyr\u00f0an stanas 7 gimmas \u00fee we leornudan in pocalipsis \u00fe\u00e6re bec"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 101v) \u00d0\u00e6t \u00e6reste gimcynn"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 246-247"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102r-03r", 
+            "text": "B.3.4.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102r) \u01f7arna \u00fee \u01bfi\u00f0 \u00fea \u01bfyr\u00f0myntas \u00fee \u00feu butan gylte heldan ne miht"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 105r-v", 
+            "text": "B.10.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 105r) \u00c6rest mon sceal god lufian of ealra heortan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 105v-06r", 
+            "text": "B.9.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be \u00deur\u00fe\u01bfununge"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 105v) Ne bi\u00f0 no \u00feam cristenan menn scea\u01bfod"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 106r", 
+            "text": "B.23.1.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 106r) Gyf feoh sy underfangen. Gif hit hors sy"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 106r-07v", 
+            "text": "B.1.8.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 106r) \u00c6la ge m\u00e6ssepreostas mine gebro\u00f0ra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 107v) \u00f0one antiphon Uespere autem sabbati (Ends abruptly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 118r-63v", 
+            "text": "C.4", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 241"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 163v-64r", 
+            "text": "C.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 163v) eft regola f\u00e6dera"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 241"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 164r-68v", 
+            "text": "C.5", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 241"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson and Orietta Da Rold with the assistance of Sanne Van Der Schee, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

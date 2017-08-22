@@ -1,0 +1,53 @@
+{
+    "id": "Ox.ASC.38", 
+    "city": "Oxford", 
+    "repository": "All Souls College", 
+    "collection": "", 
+    "shelfmark": "38", 
+    "ker": "265", 
+    "content": "fols 1-12: AElfric's Grammar", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "\u00c6lfric's <span class=\"italics\">Grammar</span> on fols 1-12 and part of <a href=\"EM.BL.Roya.12.G.xii.htm\">Royal 12. G. xii</a>, fols 2-9. The scribe who copied the text on fols 1-12 of the current manuscript also copied fols 7 and 8 of Royal 12. G. xii (<a href=\"#ker44\">Ker 1957</a>, p. 334). Origin unknown.", 
+    "items": [
+        {
+            "locus": "fols 1-12", 
+            "text": "B.1.9.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9) ab"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 12) \u00f0am"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker, the correct order of leaves should be fols 9, 10, 7, 8, 1-6, 11, 12, hence the incipit on fol. 9 (1957, p. 333)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 265"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2012)", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

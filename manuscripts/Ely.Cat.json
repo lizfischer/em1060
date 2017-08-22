@@ -1,0 +1,91 @@
+{
+    "id": "Ely.Cat", 
+    "city": "Ely", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "C (or G) 60", 
+    "ker": "113", 
+    "content": "Writ", 
+    "location": "Unknown", 
+    "summary": "Two passages in Old English in Book 2 of the <span class=\"italics\">Historia Eliensis Insulae</span>; the same Old English passages are in <a href=\"EM.CTC.O.2.1.htm\">CTC O. 2. 1 (1105)</a> of s. xii<span class=\"sup\">2</span> (<a href=\"#ker44\">Ker</a> 1957, item 93). Manuscript not localised.", 
+    "items": [
+        {
+            "locus": "fol. 72r", 
+            "text": "A.45", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 72r) Merie sungen \u00f0e muneches binnen ely. \u00f0a chut. ching reu \u00f0er by. Rowe\u00fe chites noer the lant.ond here we \u00fees muneches s\u00e6ng"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 72r) ondhere we \u00fees muneches s\u00e6ng"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Writ etc. in bk.2 of the Historia Eliensis Insulae"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 113"
+                }, 
+                {
+                    "work": "ste1620", 
+                    "page": "1848, p. 202"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 77r", 
+            "text": "B.15.1.94", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 77r) \u00c6dward cyninc gret ealle mine biscopas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 77r) \u00fe\u00e6s ic him geunnon habbe god eow healde"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Writ etc. in bk.2 of the Historia Eliensis Insulae"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "har1482", 
+                    "page": "1952, no.49"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 113"
+                }, 
+                {
+                    "work": "ste1620", 
+                    "page": "1848, p. 202"
+                }, 
+                {
+                    "work": "saw11", 
+                    "page": "1968, no.1100"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#har1482", 
+        "#ker44", 
+        "#ste1620", 
+        "#saw11"
+    ]
+}

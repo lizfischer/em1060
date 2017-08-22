@@ -1,0 +1,45 @@
+{
+    "id": "Ox.Auct.D.2.14", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Auct.", 
+    "shelfmark": "D. 2. 14 (2698)", 
+    "ker": "290", 
+    "content": "Booklist and List of Names", 
+    "location": "Bury St Edmunds", 
+    "date": "s.xi^{2}", 
+    "summary": "A list of books, mostly service-books, followed by a list of names, all in English, added on a leaf bound in with a s. vii gospel-book. Book-list is in two hands and list of names in a third. <a href=\"#ker44\">Ker</a> (1957, p. 350) suggests that the leaf might come from \u2018the end of a service-book of <span class=\"name\">Bury St. Edmunds</span>\u2019.", 
+    "items": [
+        {
+            "locus": "fol. 173", 
+            "text": "B.16.5.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 173) \u00feas bocas haue\u00f0 Salomon pr\u02c9st"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 290"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

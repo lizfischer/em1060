@@ -1,0 +1,183 @@
+{
+    "id": "CCCC.196", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "196", 
+    "ker": "47", 
+    "content": "Martyrology; Vindicta Salvations", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 1-110", 
+            "text": "B.19.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 1) se ys to \u00feam geset \u00fe\u00e6t he cele\u00f0 \u01bf\u00e6ra tungla"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 110) ne myhton \u00e6lreorde \u01bfeode hergian on \u00fea"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Incomplete"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her912", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 111-22", 
+            "text": "B.8.5.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 111) s\u01bfa \u00feu \u01bfoldest ond eac \u00fee toforan tyberie \u00feam casere gebringan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 122) Ac uolosianus hire to c\u01bf\u00e6\u00f0. La \u01bfif"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "p. 181"
+                }, 
+                {
+                    "work": "goo1607", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Leaves are arranged HHFF. The flyleaves are of the date of binding.", 
+        "extent": "288 mm x 180 mm (dimensions of all - size of leaf).\nc. 226 mm x 100-110 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Pricking is visible in some outer margins. Blind-ruled with double vertical bounding lines, some heavily scored. 27 lines of script per page. First and second, and penultimate and ultimate horizontal bounding lines are across the page. Single column of writing with emphasis on legibility of page.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "Probably 1", 
+        "summary": "As", 
+        "hands": [
+            {
+                "name": "pp. 1-122", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule I", 
+                "scribe": "Ker 47 Gneuss 62", 
+                "description": "pp. 1-122, with significant differences in some letter forms from pp. 1-110, in comparison with pp. 111-22. At these points, the textual units are distinct, and", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is single-compartment and generally round, though at pp. 1-110 it tends to be squarish when it follows <span class=\"c\">e</span>."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span> has a high <span class=\"c\">e</span> component at pp. 1-110."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is very round and has a very short upstroke with a slight curve upward at the end."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is a potentially significant graph in this scribe's hand, since it is relatively consistent. It has a medial stroke that tends to be longer than the headstroke, and curves upwards at the end; the descender curves to the left at the end. On occasion, the headstroke of <span class=\"c\">f</span> curves down onto the medial stroke."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is another significant graph: its downstroke tends to begin from the middle of the headstroke, with a smoothly curving tail that is closed."
+                    }, 
+                    {
+                        "char": "i", 
+                        "note": "<span class=\"c\">i</span> tends to be used for WS <span class=\"c\">y</span> at pp. 111-22, but also occurs sporadically in the Martyrology."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> occurs in both high and low forms, with both descenders curving to the left. Notably, the head of high <span class=\"c\">s</span> often curves round and closes, a feature that is seen in manuscripts from other centres at this time, particularly <span class=\"name\">Worcester</span> and <span class=\"name\">Canterbury</span>."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is often tagged to the left. Note the angle of the upstroke, which remains consistent throughout the manuscript. The crossbar usually pierces the upstroke."
+                    }, 
+                    {
+                        "char": "A", 
+                        "note": "Majuscule <span class=\"c\">A</span> is either square capital or half-uncial (the latter especially at pp. 111-22)."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are split at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> turn to the left."
+                    }, 
+                    {
+                        "char": "abbreviation", 
+                        "note": "Accents are hairline, at 45\u00ba, with a blob at the top."
+                    }, 
+                    {
+                        "char": "abbreviation", 
+                        "note": "The <span class=\"c\">abbreviation</span> mark is flat."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "Punctuation is by <span class=\"c\">punctus</span> placed on the line. <span class=\"c\">Hyphens</span> are notable: they are flat on the line at both the line-end and the following beginning of the line. Runovers (e.g., p. 99) are indicated with a <span class=\"c\">bracket</span> that consists of one downward stroke and a 90\u00ba horizontal stroke."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in tanned goatskin in 1953 by <span class=\"name\">John Gray</span>; the previous binding was eighteenth-century. According to <a href=\"#wan470\">Wanley 1957</a>, the title 'Spell boc wintres and sumeres' was on the outside of the old cover. Wanley took the hand to be <span class=\"name\">Joscelyn</span>'s, but according to <a href=\"#ker44\">Ker 1957</a> (p. 75), Joscelyn's own description of the manuscript in <a href=\"EM.BL.Vite.D.vii.htm\">Vitellius D. vii</a>, fol. 131, suggests that the title was already there in his time.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to <a href=\"#ker44\">Ker 1957</a> (p. 76) it was written at <span class=\"name\">Exeter</span> as a companion volume to <a href=\"CCCC.191.htm\">CCCC 191</a> and <a href=\"EM.CCCC.201.htm\">CCCC 201</a>: script, format, and number of lines are the same. Identifiable probably with the <span class=\"italics\">martyrologium</span> given to <span class=\"name\">Exeter</span> by <span class=\"name\">Bishop Leofric</span> (<a href=\"#cha548\">Chambers 1933</a>, p. 26). The entry follows immediately that of 'regula canonicorum', so it is possible that this manuscript and <a href=\"CCCC.191.htm\">CCCC 191</a> already formed one volume in <span class=\"name\">Leofric</span>'s time.", 
+        "provenance": null, 
+        "acquisition": "In the list of manuscripts bequeathed to <span class=\"name\">Corpus Christi College</span> by <span class=\"name\">Archbishop Parker</span> (<a href=\"#wan470\">Wanley 1705</a>, p. 106)."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Johanna Green (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "cha548", 
+        "cor401", 
+        "par1182", 
+        "dra419", 
+        "gne146", 
+        "her912", 
+        "goo1607", 
+        "ker44", 
+        "oli436", 
+        "rob65", 
+        "scr565", 
+        "tre106", 
+        "tis913", 
+        "wan470"
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "id": "BL.Domi.vii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Domitian vii", 
+    "ker": "147", 
+    "content": "Manumission", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Documents were added to the <span class=\"italics\">Liber Vitae of Durham</span> between s. ix and s. xii. An Old English document added in s. xi<span class=\"sup\">med</span> is a manumission in 12 lines, now imperfect. The first line of the text was deleted and a twelfth-century hand overwrote the female name '<span class=\"name\">Geatfleda</span>'. As <a href=\"#ker44\">Ker</a> (1957, p. 187) notes: 'the <span class=\"italics\">Liber Vitae</span> was kept on the high altar at <span class=\"name\">Durham</span>'.", 
+    "items": [
+        {
+            "locus": "fol. 47r", 
+            "text": "B.16.8.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) [...]geaf freols for godes lufa"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 147"
+                }, 
+                {
+                    "work": "bir1276", 
+                    "page": "1885-93, no.1254"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 47v", 
+            "text": "B.16.8.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47v) Her is gemearcod hu manega hyda landes \u00feure\u00f0 eorl bet\u00e6ht hafa\u00f0 into sancte cu\u00f0berht[es] sto\u01bfe"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A grant of land by Eorl \u00deyre\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 147"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "1939, no.60"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 47v", 
+            "text": "B.16.8.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47v) Her syle\u00f0 nor\u00f0man eorl into sancte cu\u00f0berhte"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Grants of land by 'nor\u00f0man eorl' and by 'ulfcytel osulfes sunu'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 147"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Takako Kato with the assistance of Johanna Green, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "bir1276",
+        "ker44",
+        "rob439"
+    ]
+}

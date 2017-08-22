@@ -1,0 +1,2172 @@
+{
+    "id": "CCCC.198", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "198", 
+    "ker": "48", 
+    "content": "Homilies", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-7r", 
+            "text": "B.3.2.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) Sermo in natale domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) \u00de\u00e6t halige godspell be \u00f0\u00e6re hean medomnysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 7r) ond rixia\u00f0 to \u01bfidan ealdre. amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "for1247", 
+                    "page": "p. 107"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7r-12v", 
+            "text": "B.1.1.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 7r) In nativitate Sancti Stephani protomartyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r) \u01f7e r\u00e6da\u00f0 on \u00f0\u00e6re bec"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 12v) Nu to d\u00e6g hi underfengon stephanum blissiende on heora gefer\u00e6denne mid \u00feam he \u01bfuldra\u00f0 ond blissa\u00f0 a on ecnysse. amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 12v-21r", 
+            "text": "B.1.1.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 12v) In assumptione sancti iohannis apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 12v) Iohannes se godspellere cristes dyrling"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 21r) \u00fe\u00e6s him geti\u00f0a\u00f0 drihten crist \u00feam is \u01bfur\u00f0mynt ond \u01bfuldor mid f\u00e6der ond mid sunu ond mid halgum gaste a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 58"
+                }, 
+                {
+                    "work": "swe1606", 
+                    "page": "p. 79"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 21r-27v", 
+            "text": "B.1.1.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 21r) V. kalendas Ianuarias In natale innocentum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 21r) Nu to d\u00e6g godes gela\u00f0ung"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 27v) ond singa\u00f0 \u00feone ni\u01bfan lof sang \u00feam \u00e6lmihtigum gode to \u01bfur\u00f0mynte se \u00f0e leofa\u00f0 ond rixa\u00f0 a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 76"
+                }, 
+                {
+                    "work": "swe1606", 
+                    "page": "p. 90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 27v-34v", 
+            "text": "B.1.1.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 27v) Kalendis Ianuariis Circumcisio domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 27v) Se godspellere lucas be leac"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 34v) Sy him \u01bfuldor ond lof a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 34v-43v", 
+            "text": "B.1.1.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 34v) In epiphania domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 34v) Men \u00f0a leofestan nu for fea\u01bfum dagum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 43v) ond rixia\u00f0 mid f\u00e6der ond halgum gaste on ealra \u01bforulda \u01bforuld. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 104"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 43v-47r", 
+            "text": "B.3.2.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 43v) Dominica I post Theophania domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) Mona\u00f0 us ond menga\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 47r) ond rixiat mid f\u00e6der ond mid halgum gaste a to \u01bfidan feore. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "for1247", 
+                    "page": "p. 149"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47r-57v", 
+            "text": "B.1.2.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 47r) Dominica II post Theophania domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 47r) Nuptie facte"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) Iohannes se godspellere c\u01bf\u00e6\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57v) ond rixia\u00f0 mid f\u00e6der ond mid sunu ond id \u00feam halgan gaste in eallra \u01bforulda \u01bforuld a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 54"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57v-64v", 
+            "text": "B.1.1.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 57v) Dominica III post Theophania"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 57v) Cum dscendissed"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 57v) Matheus se eadiga godspellere"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 64v) \u00fe\u00e6t hi synt \u00f0ry onhadum ond on namum ond an god on anre godcyndnysse \u00e6fre \u01bfuniende buton anginne ond ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 120"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 64v-73r", 
+            "text": "B.1.1.10", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 64v) IIII Nonus Februarias In purificatione Sancte Marie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 64v) God bebead on \u00f0\u00e6re ealdan ae"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 73r) Ge \u00fee leofa\u00f0 ond rixa\u00f0 a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 134"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 73r-81r", 
+            "text": "B.1.2.10", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 73r) IIII Idus In natale Sancti Gregorii pape"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 73r) Gregorius se halga papa engliscre \u00feeode apostol"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 81r) ond sy\u00f0\u00f0an on\u00f0isum d\u00e6ge ge\u01bfat to \u00f0am ecan setle heofonan rices on \u00f0am he leofa\u00f0 mid gode \u00e6lmihtigum a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 116"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 81r-90r", 
+            "text": "B.1.2.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 81r) XIII kalendas aprili in natale Sancti Cuhtberhti Episcopi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 81r) Cu\u00f0berhtus se halga bisceop"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 90r) Sy \u01bfuldor ond lof \u00f0am \u01bfe legan drihtne se \u00f0e his gecorenan s\u01bfa cystelice \u01bfur\u00f0a\u00f0 \u00e6fter deadlicum life mid him libbendum a on ecnysse ealra \u01bforulda \u01bforuld. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 132"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 90r-103v", 
+            "text": "B.1.2.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 90r) In natale Sancti Benedicti Abbatis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 90r) Benedictus se halga abbud"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 103v) Sy him simle \u01bfuldor ond lof a on ecnysse mid eallum his halgum se \u00f0e ana is unas\u00e6cgendlic god. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 154"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 103v-10r", 
+            "text": "B.1.1.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 103v) In adnuntiatione Sancte Marie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 104r) Ure se \u00e6lmihtiga scyppend"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 110r) ond mid \u00f0am halgum gaste a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 192"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 110r-17r", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 110r) Dominica in septuagessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 110r) Simile est regnum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 110r) Se h\u00e6lend c\u01bf\u00e6\u00f0 \u00fe\u00e6t heofonan rice"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115v) \u01f7e \u01bfilla\u00f0 eo\u01bf secgan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 117r) on \u00f0am \u01bfe him singa\u00f0 ecelice alleluan buton ges\u01bfince. Amen"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 72 and p. 84"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 117r-22v", 
+            "text": "B.1.2.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 117r) Dominica in sexagessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 117r) Cum turba plurima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 117r) On sume tide \u00f0a \u00f0a micel meniu"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 122v) ond his halgum \u00fe\u00e6t ece lif habban moton on ealra \u01bforulda \u01bforuld. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 88"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 122v-28v", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 122v) Dominica in quinquagessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 122v) Assumpsit Iesus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 122v) Her is ger\u00e6d on \u00f0isum godspelle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 128v) \u00fe\u00e6t is eall folc \u00fee \u00fe\u00e6t geseah herede god se \u00f0e leofa\u00f0 ond rixa\u00f0 a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 152"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 128v-32v", 
+            "text": "B.1.2.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 128v) Dominica in quadragessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 128v) Men \u00f0a leofostan eo\u01bf eallum is cu\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 132v) mid \u00f0am hi libba\u00f0 ond rixia\u00f0 onlic homan ond on sa\u01bfle on eallra \u01bforulda \u01bforuld a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 98"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 132v-37r", 
+            "text": "B.3.2.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 132v) Dominica II quadragessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 132v) Men \u00f0a leofestan ic cy\u00f0e eo\u01bf \u00fe\u00e6t \u00f0reo \u00f0ing"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 137r) \u00feas \u00f0ing us gedefena\u00f0 gefyllan mid \u00f0\u00e6s fultume \u00fee mid f\u00e6der ond mid sunu ond mid \u00f0am halgum gaste leofa\u00f0 ond rixa\u00f0 \u00feurh ealra \u01bforulda \u01bforuld a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "for1247", 
+                    "page": "p. 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 137r-40v", 
+            "text": "B.3.2.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 137r) Dominica III in xl"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 137r) Gehera\u00f0 nu men \u00f0a leofostan hu \u00f0as halgan bec"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 140v) \u00fe\u00e6t hi moton \u00e6fter \u00f0am \u00e6riste habban \u00fe\u00e6t ece lif on neorxna\u01bfanges gefean mid f\u00e6der ond mid sunu ond mid \u00f0am halgan gaste on ealra \u01bforulda \u01bforuld a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "p. 138"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 140v-45r", 
+            "text": "B.3.2.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 140v) Dominica IIII in xl"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 140v) Men \u00f0a leofestan \u01bfe \u01bfilla\u00f0 her sprecan fea\u01bfum \u01bfordum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 145r) ac \u00f0\u00e6r habba\u00f0 ealle halige fulfremede lufe ond fullfremedne \u01bfillan mid f\u00e6der ond mid sunu ond mid halgum gaste. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "bel365", 
+                    "page": "p. 50"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 145r-49v", 
+            "text": "B.3.2.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 145r) Dominica V. in xl"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 145r) Men \u00f0a leofestan us is on \u00e6lcne s\u00e6l geornlice"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 149v) \u00fe\u00e6t he on fo \u00fe\u00e6re ecan mede on heofonan rice \u00fea us gegear\u01bfig se drihten \u00fee mid f\u00e6der ond mid sunu ond mid \u00feam halgum gaste leofa\u00f0 ond rixa\u00f0 on ecnysse a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "p. 144"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 160r-66v", 
+            "text": "B.3.2.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 160r) Passio domini In ramis palmarum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 160r) Passio domini nostri Iesu Christi secundum Matheum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 160r) Men \u00f0a leofestan \u00feis is ures drhitnes \u00fero\u01bfung"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 166v) ond rixa\u00f0 mid f\u00e6der ond mid sunu ond mid \u00f0am halgum gastes a in ealra \u01bforulda \u01bforuld so\u00f0lice buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 166v-74v", 
+            "text": "B.3.2.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 166v) Feria quinta in cena domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 166v) De huius diei ueneratione et de domini misericordia in memoria aetene iohannes euangelista uenera"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 166v) S\u00e6ge\u00f0 on \u00f0isum bocum be \u00f0\u00e6re ar\u01bfur\u00f0nesse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 174v) God us gefultumige \u00fe\u00e6t \u01bfe to him becuman moton se \u00f0e leofa\u00f0 ond rixa\u00f0 a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "p. 151"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 174v-86v", 
+            "text": "B.3.2.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 174v) Feria VI in parasceuen"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 174v) H\u01bf\u00e6t se \u00e6lmihtiga drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 186v) his sylfes naman to \u01bfuldrienne ond to hergenne on ecum gefean ond on ecere engidnysse \u00feurh eallra \u01bfurulda \u01bforuld a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "for1247", 
+                    "page": "pp. 1-42 and p. 197"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 186v-96v", 
+            "text": "B.3.2.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 186v) De sabbato sancto"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 186v) Men \u00f0a leofestan \u01bfe magon h\u01bfilcum h\u01bfega \u01bfordum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 196v) ond seo \u00f0anc \u01bfur\u00feere herenys a buton ende mealra \u01bforulda \u01bforulda. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 196v-202r", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 196v) Dominica in die Sancte pasce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 196v) Oft ge gehydron ymbe \u00fe\u00e6s h\u00e6lendes \u00e6rist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 202r) ond rixa\u00f0 mid \u00feam \u00e6lmihtigum f\u00e6der ond \u00f0am halgum gaste nu on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 220"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 202r-06v", 
+            "text": "B.1.1.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 202r) Dominica I post pascha"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 202r) \u00c6fter \u00fe\u00e6s h\u00e6lendes \u00e6riste"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 206v) ond beo\u00f0 cu\u00f0e ge\u00f0a\u00f0e \u00e6r cu\u00f0e \u01bf\u00e6ron ge\u00f0a\u00f0e uncu\u00f0e \u01bf\u00e6ron \u01bfuniende on bro\u00f0or licre lufe mid gode aon ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 230"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 206v-09r", 
+            "text": "B.1.1.19", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 206v) Dominica II post pascha"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 206v) \u00d0is godspell \u00fee nu ger\u00e6d \u01bf\u00e6s cy\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 209r) ond rixa\u00f0 mid f\u00e6der ond mid \u00f0am halgum gaste a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 238"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 209r-13r", 
+            "text": "B.1.2.21", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 209r) Kalendis maiis in natale apostolorum Philippi et Iacobi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 209r) Philippus se godes apostol"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 211r) \u01f7e \u01bfur\u00f0ia\u00f0 eac"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 213r) Se \u00f0e ana rixa\u00f0 on ecnysse god. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 294 an p. 298"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 213r-15r", 
+            "text": "B.1.2.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 213r) v. Nonas kalendas Mai inuentio Sancte crucis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 213r) Men \u00f0a leofestan nu to d\u00e6g \u01bfe \u01bfur\u00f0ia\u00f0 \u00fe\u00e6re halgan rode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 215r) \u01bfe hi \u01bfur\u00f0ia\u00f0 afor \u01bfur\u00f0ynte cristes se \u00f0e us alysde mid lufe \u00feurh hi \u00fe\u00e6s \u01bfe him \u00f0ancia\u00f0 simle on life. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 302"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 215r-17v", 
+            "text": "B.1.2.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 215r) Eodem die passio alexandri ueuenti et \u00f0eodoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 215r) On \u00f0isum d\u00e6ge \u00fero\u01bfode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 217v) Sy \u00f0am \u00e6lmihtigan lof se \u00f0e ana rixa\u00f0 a on ecnysse god. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 308"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 218r-26r", 
+            "text": "B.1.2.18.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00f0a leofostan gelome eow is ges\u00e6d"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 226r-28v", 
+            "text": "B.1.2.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Hit is swi\u00f0e gedafenlic"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 228v-31v", 
+            "text": "B.1.2.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Gelome \u00e6teowde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 231v-36v", 
+            "text": "B.1.2.46", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Cum audieritis.. Se h\u00e6lende fors\u00e6de"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 236v-40v", 
+            "text": "B.1.2.47", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Homo quidam peregre.. Ure drihten s\u00e6de \u00feis bispel"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 242v-47v", 
+            "text": "B.1.2.48", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Simile est regnum celorum decem uirginibus.. Se h\u00e6lende s\u00e6de geomlice bigspell"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 248r-53v", 
+            "text": "B.1.1.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 248r) In ascensione domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 248r) Lucas se godspellere us monade"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 253v) ond rixa\u00f0 mid \u00feam \u00e6lmihtigum f\u00e6der ond \u00feam halgan gaste a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 294"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 253v-59v", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 253v) In die pentecosten"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 253v) Fram \u00feam halgan easterlican d\u00e6ge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 259v) \u00fe\u00e6t se \u00e6lmihtiga \u01bfealdend him s\u00e6nde \u00fea seofon fealdan gife his gastes se \u00f0e leofa\u00f0 ond rixa\u00f0 a buton ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 310"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 259v-63v", 
+            "text": "B.1.1.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 259v) Dominica I post octavas pentecosten"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 259v) Homo quidam erat diues"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 259v) Se \u01bfealdenda drihten s\u00e6de"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 263v) Se \u00f0e leofa\u00f0 ond rixa\u00f0 on ecnysse mid \u00feam \u00e6lmihtigan f\u00e6der ond ond \u00feam halgan gaste hi \u00fery on anre godcundnysse \u01bfunigende buton anginne ond ende a to \u01bfeorulde. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p,328"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 263v-66r", 
+            "text": "B.1.2.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 263v) Dominica II post octavas pentecosten"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 263v) Homo quidam fecit cenam magnam et reliqua"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 263v) Se h\u00e6lend s\u00e6de \u00feis bigspell"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 266r) Uton biddan \u00feone \u00e6lmihtigan drihten \u00fe\u00e6t he us gebringe to his ecan gebeorscipe se \u00f0e \u00f0urh his tocyme \u00fe\u00e6r to gela\u00f0ode."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 370"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 266r-67v", 
+            "text": "B.1.2.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 266r) Mine gebro\u00f0ra \u01bfe \u01bfilla\u00f0 sume cristes rinda eo\u01bf gereccan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 267v) ond gode ge\u00f0eon \u00feurh godre geheald sumnysse; \u00feam sy \u01bfuldor ond \u01bfur\u00f0mynt a to \u01bforulde. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 378"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 267v-73r", 
+            "text": "B.1.1.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 267v) VIII kalendas Iulii natifitas Sancti Iohannis Baptista"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 267v) Se godspellere lucas a\u01bfrat on cristes bec"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 273r) ond to \u00feam ecan gel\u00e6de \u00feam sy \u01bfuldor ond lof mid f\u00e6der ond halgum gaste a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 350"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 273r-74v", 
+            "text": "B.1.2.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 273r) III kalendas Iulii in natale Sancti petri apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 273r) Lucas se gospellere us s\u00e6de on \u00f0issere pistol"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 274v) N\u00e6s s\u01bfa \u00f0eah \u00feis gedon on\u00f0isum and\u01bfeardum d\u00e6ge ac \u01bfe hit healda\u00f0 on \u00f0\u00e6re nihte \u00f0e gehata\u00f0 hlafm\u00e6sse."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 380"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 274v-78v", 
+            "text": "B.1.1.28.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 274v) Item alia de petre"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 274v) Matheus se godspellere a\u01bfrat"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 278v) Sy him \u01bfuldor ond lof on ealra \u01bforuld a\u01bforuld a to \u01bfidan feore. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 384"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 278v-81r", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 278v) III kalendas Iulii in natale Sancte petri apostoli. Hoc est euangelium"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 278v) Venit Iesu in partes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 278v) Matheus se godspellere"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 281r) \u00fe\u00e6t s\u01bfa h\u01bfa s\u01bfa o\u00f0 scyt fram annesse \u00f0\u00e6s geleafan \u00fee petrus \u00f0a andette cristes \u00fe\u00e6t him ne bi\u00f0 geti\u00f0od na\u00f0or ne synna forgifenes ne infer \u00fe\u00e6s heofonlican rices."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 364"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 281r-86r", 
+            "text": "B.1.2.31.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 281r) Passio Apostolorum petri et pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 281r) \u01f7e \u01bfilla\u00f0 \u00e6fter \u00f0isum godspelle eo\u01bf gereccan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 286r) Cu\u00f0 is geond eallum leodscipum \u00fe\u00e6t fela \u01bfundra gelumpen \u00e6t \u00fe\u00e6ra apostola byrgenum \u00f0urh \u00f0\u00e6s h\u00e6lendes ty\u00f0e \u00feam sy \u01bfuldor ond lof a on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 370"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 286r-91v", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 286r) II kalendas Iulii In natale Sancti Pauli apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 286r) Godes gela\u00f0ung \u01bfur\u00f0a\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 291v) sy lof \u00feam \u01bfel \u01bfillendan drihtne ealra his \u01bfelena a onetnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 384"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 291v-95r", 
+            "text": "B.1.2.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 291v) passio natale sancti iacobi apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 291v) On \u00feisum d\u00e6ge \u01bfe \u01bfur\u00feia\u00fe on urum lofsangum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 295r) ond \u01bfur\u00f0mynt on ealra \u01bforulda \u01bforuld. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 412"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 295r-98v", 
+            "text": "B.1.3.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 295r) De quarta euangelistas matheus marcus lucas iohannes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 295r) Marcus se godspellere be godes dihte for to egypta lande"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 298v) \u01f7e endia\u00f0 \u00feus \u00f0as gesetnysse her ond sy\u00feam \u01bfel \u01bfillendan h\u00e6lende a \u01bfuldor ond lof buton \u00e6lcum ende on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "p. 116"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 298v-306v", 
+            "text": "B.1.3.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 298v) XIII kalendas februarii passio sancti sebastiani martyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 298v) Sebastinus hatte sum halig godes \u00feegen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 306v) se \u00fee ge\u01bfealt ealle \u00feinc rixigende \u00e1 \u00e1 on ecnysse eces \u01bfuldres cyning. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "keat 1881, p. 116"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 306v-11v", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 306v) Dominica in quadragessimo iii"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 306v) Ductus est iesus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 306v) Ic \u01bfolde eo\u01bf trahnian"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 311v) se \u00fee leofa\u00f0 ond rixa\u00f0 a butan ende on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 166"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 311v-16r", 
+            "text": "B.1.9.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 311v) Incipit de penitentia in quadragessima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 311v) L\u00e6\u01bfedum mannum is to \u01bfitne \u00fe\u00e6t \u00e6lc man"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 316r) Sy lof se lyfa\u00f0 ond rixa\u00f0 in ealra \u01bforuld a \u01bforuld a butan ende on ecnysse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 602-08"
+                }, 
+                {
+                    "work": "mor1249", 
+                    "page": "pp. 111-14"
+                }, 
+                {
+                    "work": "nap123"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 316r-21r", 
+            "text": "B.1.4.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 316r) Dominica III in quadgragesima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 316r) Erat ihesus eiciens"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 316r) On \u00fe\u00e6re m\u00e6rran tide"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 321r) Uton herian urne drihten ond \u00fe\u00e6t halige ge healdan \u00fe\u00e6s us ge unne se \u00e6lmihtiga \u01bfealdend se \u00fee a rixa\u00f0 a on ecnysse. Amen."
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 321/23-26) \u00feis is \u00fe\u00e6t boc \u00fe\u00e6t ic Ulf h[...]ba tale(?) \u01bfi\u00fe(?) ilce mann on scyr ond cl\u00e6nne(?) mis min f(?)\u00e6g me to handa. Crist eo\u01bf h[ealde]"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiin; the addition in s. xi2."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker, the addition is on two lines immediately after the end of the homily in a hand of s. xi2.They are over an erasure of three lines of earlier writing. The form suggests a charter."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "mul932", 
+                    "page": "p. 19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 321v-27v", 
+            "text": "B.1.1.33", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 321v) de sancto bartholomeo"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 321v) \u01f7yrd \u01bfriteras secga\u00fe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 327v) \u02e5 mid fulfremedum ge\u00f0ing\u00f0um ge \u01bfat to drihtne \u00feam is \u01bfur\u00f0mynt \u02e5 \u01bfuldor a on \u01bforulde. AMEN."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Added in s. xi2."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Incomplete. The title 'De Sancto bartholomeo' was added in s. xiii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "I, p. 454-70/18"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 328r-42v", 
+            "text": "B.1.3.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 328r) kalendas augustus passio sanctorum machabeorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 328r) \u00c6fter \u00f0am \u00f0e alexander se egefulla"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 342v) for\u00f0an \u00f0e hi fur\u00f0on noldon \u00e6nne fugel ac\u01bfellan"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "p. 66 and p. 120"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 342v-50r", 
+            "text": "B.1.1.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 342v) III Idus augusti passio sancti laurentii martyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 342v) On decius d\u00e6ge \u00fe\u00e6s hreo\u01bfan caseres"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 350r) for \u00f0\u00e6s naman he \u00f0ro\u01bfode mid cenum mode m\u00e6nigfeade tintregu mi\u00f0\u00f0am \u00fee orsorhlice on ecnysse \u01bfuldra\u00f0. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 416"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 350r-59r", 
+            "text": "B.3.3.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 350r) In assumptione sancte marie uirginis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 350r) Men \u00f0a leofestan gehyra\u00f0 nu h\u01bf\u00e6t her seg\u00f0 on \u00f0issum bocum be \u00f0\u00e6re halgan f\u00e6mnan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 359r) ond eces \u01bfuldres to \u00f0\u00e6m us gefult mige ure drihten. Amen."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The lower half of the final folio (fol. 359r) has been removed."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 360r-66v", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 360r) III kalendas octobris dedicatio ecclesie sancti michelis archangeli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 360r) Manegum is cu\u00f0 seo halige sto\u01bf"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 366v) ond \u00f0inger\u00e6 on heofonum to \u00f0\u00e6m \u00e6lmihtigum an gode se \u00f0e liofa\u00f0 ond rixa\u00f0 a on ecnesse. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 502"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 367r-74v", 
+            "text": "B.1.1.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 367r) An anginn is ealra \u00f0inga"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 374v) ond geearnia\u00fe mid goodum \u01bfeorcum \u00fe\u00e6t ece lif mid gode se \u00fee ana on ecnisse rixa\u00fe \u00e1 \u00e1 \u01bforulde. Amen."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Added in s. xi2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "I, p. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 374v-77r", 
+            "text": "B.3.4.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 374v) Sanctus\nIohannes geseah ofer garsegc s\u01bfilce hit land \u01bf\u00e6re"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 377r) Se \u00fee leofa\u00f0 ond rixa\u00f0 so\u00f0lice mid f\u00e6der ond sunu ond mid \u00feam halgan gaste a buton ende. Amen."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Added in s. xi2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "klu578", 
+                    "page": "p. 477"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 378r-85v", 
+            "text": "B.1.2.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 378r) III Idus novembris depositio sancte martini episcopi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 378r) Martinus se \u01bfoldorfulla godes andettere"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 385v) Sy o\u00f0am a\u01bfuldor on ecere \u01bforulde \u00fee leofa\u00f0 ond rixa\u00f0 \u00feurh hine sylf ne god. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 498 and p. 516"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 385v", 
+            "text": "B.1.2.43", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 385v) Excusiatio dictantis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 385v) Fela f\u00e6gere godspell \u01bfe forl\u00e6ta\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 385v) Hio is s\u01bfa \u00f0eah eallful ge leaflic buton \u00feam anum \u00fee agustinus \u01bfi\u00f0 s\u00e6c\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 520"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 386r-94v", 
+            "text": "B.3.3.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 386r) sancti andreae"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 386r) Her sig\u00f0 \u00fe\u00e6t \u00e6fter \u00feam \u00fee drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 394v) ond hie c\u01bf\u00e6don an is drihten god se is h\u00e6lend crist ond se halga gast \u00feam is \u01bfuldor and ge\u01bfeald on \u00fe\u00e6re halgan \u00ferynnysse \u00feurh ealra \u01bforulda \u01bforuld so\u00f0lice a butan ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 48"
+                }, 
+                {
+                    "work": "goo1607"
+                }, 
+                {
+                    "work": "bri1608", 
+                    "page": "p. 113"
+                }, 
+                {
+                    "work": "mor1249"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Mixed. Parchment is yellowy and waxy on hairside, and very flexible. Fol. i is a Parkerian flyleaf taken from an account roll, s. xv. Fols 196-97 were originally blank leaves of another larger manuscript: traces of writing are still visible on narrow strips of the leaves formerly conjugate with them, which have been preserved to attach them together.", 
+        "extent": "c. 271 mm x 187 mm (dimensions of all - size of leaves).\nc. 215 mm x 135-107 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Ruling is drypoint, often very deeply cut on more than one leaf at a time. Single bounding lines in Quires 4-10, 20, 28-31, 45 and in parts of other quires.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 from the period 1060-1220", 
+        "summary": "The oldest part of the manuscript is by four scribes, with contemporary additions by five or six scribes. The additions from s. xi", 
+        "hands": [
+            {
+                "name": "homily", 
+                "scope": "major", 
+                "script": "late eleventh-century", 
+                "scribe": "Ker 48 SC9", 
+                "description": "fols 231v, 367-74v.", 
+                "summary": "This is a very round hand using a straight-cut nib. There are few abbreviations, and legibility seems the key to this scribe's stint. Laterally somewhat compressed, the rotundity of the letter forms provides the sense of ampleness to the writing. Slight forward-leaning aspect.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is very round with a curved tail to the right."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The <span class=\"c\">e</span> component of <span class=\"c\">\u00e6</span> rises above the <span class=\"c\">a</span> component."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is round-backed with a short upward stroke."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is very rounded with an extended tongue in final position."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> has a crossbar flat on the line which transects the vertical very notably."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The tail of insular <span class=\"c\">g</span> begins in the middle of the headstroke, and the open tail is generous, curved and sweeping."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are even, with barely any serifs."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has a very rounded bowl, and a short foot at the end of the descender."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is long with a small onset stroke to the left. By fol. 367r, the head of long <span class=\"c\">s</span> is occasionally elaborately curved, particularly at line-ends."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long ascender at 60\u00ba or so, with a cross-stroke which only just transects the ascender and flicks down to the right."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is straight-limbed with a long tail, and is consistently dotted in the middle."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> have a slight wedge, which is higher on the right than the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are straight and even."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are very steep."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "Abbreviated <span class=\"c\">\u00fe</span> has a long cross-stroke which curves up to the right."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "<span class=\"c\">punctus</span> sits just above the ruled line."
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligatures are avoided."
+                    }, 
+                    {
+                        "char": "nota", 
+                        "note": "The <span class=\"c\">nota</span> begins at minim height and descends below the line at 90\u00ba."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "homily", 
+                "scope": "major", 
+                "script": "late eleventh-century", 
+                "scribe": "Ker 48 SC10", 
+                "description": "fols 322-27. At top left of upper margin of fol. 323v 'ae[eth]elric' is written in same script and same ink as Scribe 10. At fol. 323v in upper and left margins there are erased notes.", 
+                "summary": "This scribe appears to be attempting to emulate the round hand of Scribe 9, but is a much less competent scribe: the even-ness of Scribe 9 is not apparent, and there is a shakiness to the duct of Scribe 10 that suggests slowness in the copying process, and a lack of proficiency. This is confirmed by scratchy letters and ink blotches (fol. 322r/18-19). Some angularity in letter forms such as", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is round-backed with a low back which flicks up to the right."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> has a cross-stroke, flat on the line, piercing the stem."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is consistently low, with one uncial form as capital, but by fol. 323r, long <span class=\"c\">s</span> with an elaborate rounded head is evinced."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a cross-stroke to the right of the ascender only, curving down at the right, though by fol. 326r it pierces ascender."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "Straight-limbed, dotted <span class=\"c\">y</span> has a distinctive flick to the right by fol. 323r."
+                    }, 
+                    {
+                        "char": "N", 
+                        "note": "Square capital <span class=\"c\">N</span> sometimes occurs in final position, sometimes elaborate to fill space."
+                    }, 
+                    {
+                        "char": "H", 
+                        "note": "The square form of capital <span class=\"c\">H</span> is notable."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> have slight tags to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are relatively short and occasionally curve slightly to the left or have flat feet extending across the bottom."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The <span class=\"c\">\u02e5</span> is large and at 90\u00ba. It sits on the line, above minim height."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The abbreviated <span class=\"c\">\u00fe</span> for '\u00fe\u00e6t' has a macron only from the ascender and finishes with flick up to the left."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "<span class=\"c\">punctus</span> on the line. <span class=\"c\">punctus versus</span> and <span class=\"c\">punctus interrogativus</span> are used."
+                    }, 
+                    {
+                        "char": "hyphen", 
+                        "note": "Low, flat <span class=\"c\">hyphen</span> at line-end."
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligature is avoided."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "homily", 
+                "scope": "major", 
+                "script": "late eleventh-century", 
+                "scribe": "Ker 48 SC11", 
+                "description": "fols 374v-77.", 
+                "summary": "The rubric and initial S here are red, with red infill on some of the small capitals on that folio. If this is another scribe (and not the same as Scribe 9, which seems very likely), there is a round duct, and a mostly upright aspect. Once again, the writing is slightly compressed laterally, but the bodies of the letters are abundantly rounded. There are few abbreviations, and legibility seems the critical feature.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is very round with a curved tail to the right."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The <span class=\"c\">e</span> component of <span class=\"c\">\u00e6</span> rises above the <span class=\"c\">a</span> component."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is round-backed with an short-ish upward stroke."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is very rounded with an extended tongue in final position."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> has a crossbar flat on the line which transects the vertical very notably."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The tail of insular <span class=\"c\">g</span> begins in the middle of the headstroke, and the open tail is curved and usually closed."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are even, with small feet to the right."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has a very rounded bowl, and a short foot at the end of the descender."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long and low <span class=\"c\">s</span>, with a slightly hooked shoulder."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long ascender at 60\u00ba or so, with a cross-stroke which only extends from the right of the ascender; the cross-stroke flicks down to the right."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is straight-limbed with a long tail, and is consistently dotted in the middle."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are wedged."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are straight and even."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are very steep."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "Abbreviated <span class=\"c\">\u00fe</span> has a long cross-stroke which curves up to the right."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "The <span class=\"c\">punctus</span> sits hust above the ruled line."
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligatures are avoided."
+                    }, 
+                    {
+                        "char": "nota", 
+                        "note": "The <span class=\"c\">nota</span> begins at minim height and descends below the line at 90\u00ba."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "Numerous interventions, beginning with extensive additions to the original Table of Contents by the", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Binding of s. xii. <a href=\"#ker44\">Ker</a> (1957) notes that the previous binding (s. xvi) was presumably of dark skin as it is referred to as 'Liber niger' in <a href=\"EM.CCCC.421.htm\">CCCC 421</a>, p. v and <a href=\"EM.BL.Cleo.B.xiii.htm\">Cleopatra B. xiii</a>, fol. 1v (p. 82).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The origin of the manuscript is unknown. The spellings of the late eleventh-century additions suggest that they were written in the <span class=\"name\">west of England</span>.", 
+        "provenance": "The annotations throughout by the <span class=\"name\">Tremulous Hand</span> show that the manuscript was at <span class=\"name\">Worcester</span> by s. xiii at the latest.", 
+        "acquisition": "S (8) in the list of manuscripts bequeathed by <span class=\"name\">Parker</span> to <span class=\"name\">Corpus Christi College</span>."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Z\u00f6e Enstone, Hollie Morgan and Johanna Green (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ang1250", 
+        "ass389", 
+        "bel365", 
+        "bir937", 
+        "bri1608", 
+        "par1182", 
+        "for1247", 
+        "gne146", 
+        "goo1607", 
+        "jam354", 
+        "ker44", 
+        "klu578", 
+        "mor1249", 
+        "mul932", 
+        "nap123", 
+        "scr565", 
+        "sis1245", 
+        "sis1246", 
+        "ske153", 
+        "swe1606", 
+        "tho57", 
+        "wan416", 
+        "wil1248", 
+        "wil1251", 
+        "wor1173"
+    ]
+}

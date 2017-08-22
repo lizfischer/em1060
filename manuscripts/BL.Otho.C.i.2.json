@@ -1,0 +1,488 @@
+{
+    "id": "BL.Otho.C.i.2", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Otho C. i, vol. 2", 
+    "ker": "182", 
+    "content": "Gregory's Dialogues , Vitas Patrum, etc.", 
+    "location": "Canterbury or Exeter (Pt 1)", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 1r", 
+            "text": "A.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) (illegible, based on ASMMF, vol. 6) INCIPIT LIBER PRIMUS DIALOGORUM"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) SE \u00d0E ME R\u00c6DAN (end of first line unclear) | \u00d0ANCE HE IN ME FINDAN M\u00c6G"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) \u00feeo \u00fee me reddan | (part unclear) he in me findan mai"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 1r) \u00fe\u00e6t is se (end of line unclear) | brytta \u00e6lfryd mid englum ealra cyninga \u00feara \u00fee (end of line unclear) | secgan hyrde o\u00f0\u00f0a he hior\u00f0cyninga \u00e6r \u00e6nigne gefrugne"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1r", 
+            "text": "B.9.5.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r) Her ingynne\u00f0 se \u00e6res\u00f0 \u00fea stream \u00fe\u00e6re (end of line illegible) | burnan \u00feurh \u00feone halegan breos\u00f0 (end of line illegible) | (beginning of line illegible) papan sanctus gregorius up aspringan (end of line illegible) | (beginning of line illegible) are \u02e5 to bisene eallum \u00feam \u00fee lyse\u00f0 (end of line illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 1r-30v", 
+            "text": "B.9.5.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) for | \u00feon nu \u00e6t \u00e6restan \u01bfe magon gehyran"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 30v) \u02e5 \u00fe\u00e6s \u00e6f\u00e6stan abbodes | (final words illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 31r-61v", 
+            "text": "B.9.5.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 31r) INCIPIT LIBER SECUL | (beginning of line unclear) R YRNET VPP SE AEFT (end of line unclear)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 61v) (beginning of line illegible) mid halgan | ( beginning of line illegible) heora t\u01bfege (final word illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 62r-100r", 
+            "text": "B.9.5.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 62r) (beginning illegible) ONGINNE\u00d0 SE \u00deRIDDA FLOD"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 100r) \u02e5 her \u00e6fter | onginne\u00fe seo feor\u00f0e boc gefr\u00e6t\u01bfedu \u02e5 a\u01bfritenu mid (end of line illegible) | (beginning of line illegible) \u02e5 on gespr\u00e6cenum \u00feara ilcena \u01bfitena"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 100r-37r", 
+            "text": "B.9.5.2.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 100r) HER ASPRINGE\u00d0 SEO FEOR\u00d0E Y\u00d0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 137r) mid heora seolfre riht (ends imperfectly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 137r-43v", 
+            "text": "B.3.3.35", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 137r) (beginning illegible) willa\u00f0 nu \u00e6rest \u01bfritan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 143v) \u00fe\u00e6t sio | (final line illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 143v-46r", 
+            "text": "B.6.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 143v ) Her saga\u00f0 on \u00feissum bocum \u00fe\u00e6t domne \u01bfynfri\u00f0 sende \u00feis ge\u01bfrit \u00e6rost to \u00feissum | leodum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 146r) \u02e5 him \u00fea \u01bf\u00e6s biboden \u00fe\u00e6t he h\u01bfyrfde to his lichaman | in d\u00e6gred \u02e5 \u00e6r he eode of his lichaman \u00e6t \u00feam forman (final word illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 146r-48v", 
+            "text": "B.3.5.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 146r) Domine libera animam meam a libiis iniquis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 146r) Gehera\u00f0 nu men \u00fea leofestan hu se godes lareo\u01bf \u01bf\u00e6s sprecende"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 148v) (illegible, badly burned)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 149r-51v", 
+            "text": "B.1.6.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 149r) (illegible on microfiche, based on Frank and Cameron 1973) (first line and most of second line illegible) | wyrcan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 151v) Uton \u01bfe for\u00f0i hogian her on \u00feissum life \u00fe\u00e6t \u01bfe mid geornf (end of line illegible) | (beginning of line illegible) \u01bfilnian \u00e6fre \u00fe\u00e6s beteran lifes on \u00f0\u00e6re ecean blisse mid urum h\u00e6len (end of line illegible) | (beginning of line illegible) s\u01bfa he us behaten h\u00e6f\u00f0 se \u00fee leaofa\u00f0 \u02e5 rixa\u00f0 mid his leofan f\u00e6der | (beginning of line illegible) godcundnysse ana so\u00f0 scyppend ealra \u00f0inga AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra492"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 151v-52v", 
+            "text": "B.1.6.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 151v) (illigible on microfiche, based on Frank and Cameron 1973) (first word illegible, presumably 'Adam') \u00fee leofode on ges\u01bfince"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 152v) (illigible on microfiche, based on Frank and Cameron 1973) sy\u00fe\u00fean a to \u01bforulde AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra492"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "154v-55v", 
+            "text": "B.1.4.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 154v) (beginning illegible) nu ges\u00e6d s\u01bfa \u01bfe scortlicost mihthon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 155v) (final line illegible on microfiche, based on Pope 1967-168, no. 20) (ends imperfectly) \u02e5 \u00feara \u00e6t (end of final word illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra492"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 236-38"
+                }, 
+                {
+                    "work": "pop87"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "ca. 260 mm x 166 mm (dimensions of all - size of leaves).\nca. 250 mm x 150 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Ker 1957", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 from ca. 1060 to 1220", 
+        "summary": "The four parts are copied by four main hands. Fols 1-61, Part 1 is copied by one scribe in square Anglo-Saxon minuscule datable to s. xi", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Insular minuscule", 
+                "scribe": "Ker 182 Scribe 2", 
+                "description": "Fols 62-139v/5. A round, well executed script with insular letter forms.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> Prominent upperstroke with occasionally protruding strokes to the left."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "high"
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Insular minuscule", 
+                "scribe": "not in Ker", 
+                "description": "Fols 139v/6-149. A round, small script with prominent feet.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> Prominent upperstroke."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Insular minuscule", 
+                "scribe": "Hemming ?", 
+                "description": "Fols 149-155. Another round script, possibly", 
+                "summary": null, 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> Prominent upperstroke."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "annotations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "Extensive glosses, corrections and alterations by the", 
+                "summary": null, 
+                "date": null
+            }, 
+            {
+                "name": "annotations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Coleman", 
+                "description": "Annotations (", 
+                "summary": null, 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Before 1621, Cotton bound <a href=\"EM.BL.Otho.C.i.htm\">Otho C. i</a> with Otho C. i, Vol 1 (<a href=\"#wan416\">Wanley 1705</a>, p. 212). Now the two parts are separate and Otho C. i has a nineteenth-century binding.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "<p>Part 1 has been associated with <span class=\"name\">Canterbury</span> and <span class=\"name\">Exeter</span> (<a href=\"#joh666\">Johnson and Rudolf 2010</a>, p. 5). </p><p>Parts 2, 3 and 4 may have been copied in <span class=\"name\">Worcester</span>; see the discussion on the hand above, and also Budny's suggestions that fols 62-137 may have been made during the episcopy of <span class=\"name\">Wulfstan II, Bishop of Worcester</span> 1062-95 (<a href=\"#bud189\">Budny 1997</a>, p. 625). </p>", 
+        "provenance": "Parts 1, 2, 3 and 4 were probably in <span class=\"name\">Worcester</span> by 1060-1080. The corrections, glosses, marginal notes and running titles confirm that the four parts were available to readers in <span class=\"name\">Worcester</span> at the end of the eleventh century, for instance <span class=\"name\">Coleman</span>, and still read by the Tremulous Hand in the first half of the thirteenth-century.", 
+        "acquisition": "<p>\n<span class=\"name\">Michael Lapworth</span>, a fellow of All Souls College, Oxford, in 1562, could have owned the manuscript in 1593 as his name is written on fol. 31r. <a href=\"#atk489\">Atkins and Ker 1944</a> (p. 12) note that the Lapworth family was from Stowe in Warwickshire. It was acquired by Cotton sometime before 1621 when it was bound with British Library, Cotton Otho C. i, Vol 1 (see also British Library, Harley 6018). </p><p> Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>. </p>"
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "atk489", 
+        "bud189", 
+        "cra497", 
+        "dob617", 
+        "fra492", 
+        "fra730", 
+        "fra188", 
+        "bar221", 
+        "gne146", 
+        "hec822", 
+        "joh666", 
+        "ker44", 
+        "lai45", 
+        "bri1165", 
+        "mci177", 
+        "pla1170", 
+        "pop87", 
+        "scr565", 
+        "sis824", 
+        "sis823", 
+        "ske153", 
+        "wan416", 
+        "yer825"
+    ]
+}

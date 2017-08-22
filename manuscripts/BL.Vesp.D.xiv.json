@@ -1,0 +1,1920 @@
+{
+    "id": "BL.Vesp.D.xiv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vespasian D. xiv", 
+    "ker": "209", 
+    "content": "Homilies, etc.", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xii^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Fol. 4r/1-13", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio de sancta maria matre domini."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): O dulcissima domina maria pietatis et misericordie"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Aue maria | gratia plena dominus tecum benedictum in multis"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 54"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 4r/14-19", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Deus qui beatum Thomam archipresulem | ab exilio reuocatum in ecclesia propria."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Per dominum nostrum Ihesum Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 54"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 4v/1-6v/14", 
+            "text": "B.1.1.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 4v/1-2) AN anginn is ealra \u00feingen. \u00fe\u00e6t is god | \u00e6lmihtig."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6v/13-14) \u02e5 hine \u00fe\u00e6t gelogode. | ac he \u01bfear\u00f0 \u00feurh deofles s\u01bficdome ut adr\u00e6 | fd"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Text ends mid-page."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 1"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "1, pp. 1-3"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "pp. 8-12"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "pp. 178-89"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 6v/14-22", 
+            "text": "B.1.8.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 6v/14) Emb Cl\u00e6nnysse \u00fee gehadede m\u00e6n healden scy | len"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6v/15) \u00c6lfric abbod gret Sigefry\u00f0.\u02b9 freondlice"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6v/21-22) Nu secge ic \u00fee leofe man \u00fe\u00e6t me is la\u00f0 to t\u00e6len | \u00e6gne godes freond.\u02b9 gyf he godes riht drif\u00f0."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragment."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 2"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "2, p. 3"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "p. 13"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "p. 125, no. 8d, cf. 83-4"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 7r/1-11v/21", 
+            "text": "B.7.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r/1-2) Mann sceal \u00feurh his modes snoternysse | hine sylfre geglengen to \u01bfisre lare."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 11v/19-21) Ne nym \u00feu medsceattes | for heo abl\u00e6nde\u00f0 \u01bfisra manna ge\u00f0ancas. \u02e5 \u01bf\u00e6n | de\u00f0 riht\u01bfisra \u01bford."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cox572"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 2"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "2, p. 3"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "p. 13"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "p. 125, no. 8d, cf. 83-4"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 12r/1-13v/7", 
+            "text": "B.1.1.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 12r/1-2) AN Scyppend is ealra \u00feingen geseo\u01bfenlicre | \u02e5 ungeseo\u01bfenlicre."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 13v/6-7) For \u00fean \u00fee heo h\u00e6fe\u00f0 | \u00fery \u00feing on hire untod\u00e6lendlice \u01bfyrcende."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 4"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "4, pp. 8-9"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "pp. 274-76, 282, 288"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "pp. 335-36, 341-42, II. 7-38, 112-13, 185-208"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 13v/8-15r/19", 
+            "text": "B.1.8.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 13v/8) Decalogum moysi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 13v/9-10) \u01bfe sculen cunnen gemyndelice \u02e5 mannen eac | seggen. \u00fea ten \u00e6lice \u01bford \u00fee god t\u00e6hte moysen."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15r/18-19) \u02e5 us \u00fee nu | synden.\u02b9 \u00e6fter christes ac\u00e6nnednysse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 5"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "5, pp. 9-11"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "pp. 189-205"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 15r/19-21r/20", 
+            "text": "B.1.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 15r/19-20) Dexii. abu | siuis secundem disputatione Sancti Cipriani martyris."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15r/21-2) Nu synd t\u01bfelf abusiua \u00fe\u00e6t synd t\u01bfelf un\u00f0ea\u01bfes | \u00fee \u01bfe eo\u01bf secge\u00f0 onleden."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 21r/18-20) \u00fe\u00e6t h\u00e9 ure fa\u01bflen un | derfo. \u00fee he as\u00e6nde to \u00fean lichamen. by him a | \u01bfuldor \u02e5 \u01bfur\u00f0mynt. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 6"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "6, pp. 11-16"
+                }, 
+                {
+                    "work": "mor580", 
+                    "page": "pp. 299-304"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 21r/20 - 22r/19", 
+            "text": "B.1.3.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 21r/20) Devia. principalibis viciis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 21r/21-22) Nu syndon ehte heafodlehtres \u00fee us on \u01bfinne\u00f0 | s\u01bfy\u00f0e."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 22r/17-19) \u02e5 \u00feone mann maca\u00f0 eac | gyf he modega\u00f0 tof\u01bf\u00f0e. \u00fe\u00e6s deofles gefere \u00fee | feoll \u00e6r \u00feurh heo."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 7"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "7, pp. 16-17"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "pp. 354-58, II. 267-311"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 22r/19-23v/20", 
+            "text": "B.1.3.17.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 22r/19) Devia. virtutibus."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 22r/20) Nu synden ehte heafodm\u00e6gna."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 23v/20) \u00e1mid gode sylfen gyf \u00fee s\u01bfinca\u00f0 nu her."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 8"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "8, pp. 17-19"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "pp. 358-62, ll. 312-81"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 23v/21 - 25r/12", 
+            "text": "B.1.1.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 23v/21) Of Sanctus Iohanne baptiste."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 23v/21-22) Se Godspellere lucas | a\u01bfrat on cristes bech beo acc\u00e6nnednysse | jahes \u00fe\u00e6s fulhteres \u00feuss c\u01bfe\u00f0ende."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 25r/12) Ofet hine fedde \u02e5 \u01bfude hunig. \u02e5 o\u00f0re \u01bfaclice \u00feing."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 9"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "9, pp. 19-20"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "pp. 350-52"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "pp. 379-80"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 25r/13-25v/11", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 25r/13) In Festo Sancti Petra apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 25r/13-15) Venit iesus in partes | cesaree philippi.\u02b9 \u02e5 reliqua. Matheus se godspel | lere a\u01bfrat on \u00fe\u00e6re godspellice gesettnysse \u00feuss | c\u01bfe\u00f0ende."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 25v/11) \u00fe\u00e6t by\u00f0 gebunden on heofone. \u02e5 s\u01bfah\u01bf\u00e6tt s\u01bfa \u00feu unbinst | on eor\u00f0en; \u00fe\u00e6t by\u00f0 unbunden on heofonen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 10"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "10, p. 20"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "p. 364"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "pp. 388, II. 1-16"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 25v/12-30r/10", 
+            "text": "B.3.3.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 25v/12) Of Iacobe Iohannes bro\u00f0er."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 25v/13-15) \u00d0\u00e6t iudeissce folc brohte \u00fean hundredes eal | dren feo. for \u00fey \u00fe\u00e6t heo mosten jacoben s\u01bfa | ateon s\u01bfa heo \u01bfolden."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 30r/9-10) \u01bfan sy \u01bful | dor \u02e5 \u01bfur\u00f0mynt and on ealra \u01bfurlde \u01bfurld. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 11"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "11, pp.21-25"
+                }, 
+                {
+                    "work": "sch583", 
+                    "page": "pp. 54-93"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 30r/11-31v/5", 
+            "text": "B.1.2.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 30r/11) VI. kalendes Augusti. Sanctorum Septem Dormientium."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 30r/12-13) \u01bfe \u01bfylle\u00f0 eo\u01bf eac gereccen seortlice \u00fe\u00e6t nu | \u00e6fter t\u01bfam dagen is \u00fe\u00e6re seofan sl\u00e6pe | ran gemynd."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 31v/4-5) se \u00fee leo | fa\u00f0 \u02e5 rixe\u00f0 and on ecnysse. ameN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 12"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "12, pp. 25-26"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "pp. 274-48, II. 182-231"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 31v/5-33r/3", 
+            "text": "B.1.2.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 31v/5-6) Kalendes Augusti. | Ad Vincula Sanctt Petri apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 31v/7-10) LVcas se godspellere us s\u00e6de on \u00feyssen pistol | r\u00e6dinge. \u00fe\u00e6t herodes king \u01bfolde \u00e6fter cristes | upstige to heofone ges\u01bf\u00e6ncen sume of \u00fe\u00e6re ge | la\u00f0unge."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 33r/2-3) \u00feiss \u01bf\u00e6s gedon on \u00feysser nihte. | \u02e5 on \u00fean and\u01bfeardan d\u00e6ge \u00fee \u01bfe hate\u00f0 hlafm\u00e6sse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 13"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "13, pp. 26-27"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "pp. 221-22, ll. 1-52"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 33r/4-40r/5", 
+            "text": "B.1.1.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 33r/4) Dominicaxi. post Pentecosten."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 33r/5) Cum appropinuaret iesus ierusalem. \u02e5 reliqua. On summe | re tide \u01bf\u00e6s se h\u00e6lend farende to ierusalem"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 40r/4-5) Seo \u00fee lof | \u02e5 \u01bfuldor on ealra \u01bfurlda \u01bfurld. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "14, pp. 28-34"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "pp. 402-14"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "pp. 410-17"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 40r/5-48v/10", 
+            "text": "B.1.2.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 40r/5-6) Dominicaxii. | post Pentecosten."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 40r/6-8) Dixit iesus ad | quosdam qui in se confidebant tanquam | iusti et aspernabantur ceteros parabolam istam \u02e5 reliqua."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 48v/9-10) o\u00f0\u00f0\u00e6t se hae | lend crist to \u00feussen life becom."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Concludes with the story of Daniel from \u00c6lfric, 'De falsis diis' ed. Pope 1967-68, 693-703, no. 21, ll. 300-496."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "693-703, no. 21, ll. 300-496"
+                }, 
+                {
+                    "work": "war127", 
+                    "page": "34-41, no. 15"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "249-54"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 48v/10-54v/3", 
+            "text": "B.1.1.32", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 48v/10-11) In Assumptione | Sancte Marie."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48v/11-13) IERonimus se halge sacerd a\u01bfrat | \u00e6nne pistol beo for\u00f0si\u00f0e \u00fe\u00e6re eadigen marien | godes c\u00e6nnestre. to sumen halgen m\u00e6dene."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 54v/1-3) \u02e5 c\u01bf\u00e6\u00f0 \u00fe\u00e6t heo | him ge\u00f0ingod h\u00e6fde \u01bfi\u00f0 \u00feone heofonlice deme hire | agene sune."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "cf. fols 58r/1- 60r/18 below."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "41-46, no. 16"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "436-48"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "429-36, ll. 1-198"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 54v/3-57v/22", 
+            "text": "B.1.2.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 54v/10) Omelia"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 54v/3-8) M\u00e6nn \u00fea leofeste h\u01bfi | lon \u00e6r \u01bfe gerehten eo\u01bf \u00feone pistol \u00fee se halge ieroni | mus sette beo for\u00f0si\u00f0e \u00fe\u00e6re eadigen marien christes | moder \u00feurh \u00feone he ad\u01bf\u00e6sete \u00fea d\u01bfollice gesettnysse | \u00fee saml\u00e6rede m\u00e6n s\u00e6den beo hire for\u00f0si\u00f0e."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57v/20-22) Synd s\u01bfa | \u00feeh get \u00fea d\u01bfollice bec \u00e6ig\u00f0er gea on leden gea | on \u00e6nglisc.\u02b9 \u02e5 heo r\u00e6de\u00f0 unger\u00e6de m\u00e6n."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The explanatory note and pericope, fol. 54v/3-10, is written over an erased rubric and follows the preceding item without a break, but is followed by a red rubric at fol. 54v/10 and an enlarged and decorated coloured initial. Thus, Warner (1917 for 1915) edits this as a new text, but the manuscript textual divisions on fol. 54v are ambiguous, with a large initial 'S' apparent at line 54v:11, even though Warner's item begins at line 3 on fol. 54v, with the incipit as above."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "47-50, no. 17"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "255-59, ll. 1-126"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 58r/1-60r/18", 
+            "text": "B.1.1.32.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 58r/1-2) \u01bfe \u01bfylle\u00f0 eo\u01bf gereccen beo ge\u00e6ndunge \u00fe\u00e6s | arleasen godes \u01bfi\u00f0ersacan julianes."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 60r/16-18) Se \u00fee leofe\u00f0 \u02e5 rixe\u00f0 mid | f\u00e6der \u02e5 halgen gaste on eallre \u01bfurlde \u01bfurld. | ameN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "cf. fols 48v/10-54v/2 above"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "50-52, no. 18"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "448-54"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "ll. 199-273"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 60r/18-67r/23", 
+            "text": "B.1.1.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 60r/18-19)iiii. kalendes septembris Passio Sancti Iohannis | baptiste."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 60r/19-20) Misit herodes \u02e5 tenuit iohannem. | et reliqua."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 67r/21-23) To \u00fean life us gel\u00e6de se mildheorte drihten | se leofe\u00f0 \u02e5 rixe\u00f0 mid f\u00e6der \u02e5 mid halge gaste. | abuten \u00e6nde. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "52-58, no. 19"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "476-90"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "451-58"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 67v/1-21", 
+            "text": "B.1.4.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 67v/1) Se helend c\u01bf\u00e6\u00f0 on his godspelle."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 67v/20-21) 's'e by\u00f0 \u01bfyrse \u00feone | se deofel."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'Final two sentences, partly differentiated through a coloured initial 'S' at fol. 67/17, drawn from \u00c6lfric, CH I. 21' (Ker 1957, Item 209). Ker (1957) notes that this item has been added in a blank space, is 'perhaps [of] another hand', and that the last 5 lines (17-21) 'are not part of the homily'; they come instead from \u00c6lfric, First Series of Homilies [Catholic Homilies I]: Ascension. See Thorpe 1844-46, p. 304, ll. 4-5, and Clemoes 1997, p. 350, ll. 146-48. (Wilcox 2000)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "58-59, no. 20"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "267, no. 4, ll. 41-55"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 68r/1-70r/12", 
+            "text": "B.1.2.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 68r/1) Inxi. kalendas octobres. De Sancto Matheo apostolo."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 68r/2-3) Se godspellere matheus \u00fee \u01bfe | tod\u00e6ig \u01bfur\u00f0ige\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 70r/11-12) Sy | him \u00fe\u00e6s \u01bfuldor aa on ecnysse. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "59- 61, no. 21"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "272-74, ll. 1-79"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 70r/13-74v/11", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 70r/13) Iniii. kalendas Octobres."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 70r/14-15) Accesserunt ad iesum discipuli dicentes. Quis | putas maior est in regno coelorum. Et reliqua."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70r/16-17) \u00d0iss d\u00e6g\u00f0erlice godspell c\u01bfy\u00f0\u00f0 \u00fe\u00e6t drihtenes | leorningcnihtes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 74v/10-11) \u02e5 \u00feingere on heofone to \u00fean aelmih | tigan gode. se \u00fee leofe\u00f0 \u02e5 rixe\u00f0 a on ecnysse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "61-65, no. 22"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "510-18"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "469-75, ll. 133-279"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 74r/12-15", 
+            "text": "B.1.2.37.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 74v/12) Godes gecorene synd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 74v/15) to bitere sarnysse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The full homily occurs below beginning at fols 139r-145v, and these lines recur at fol. 143v/4-7."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "65, no. 23"
+                }, 
+                {
+                    "work": "", 
+                    "page": "265, ll. 157-59"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 74v/16-75r/5", 
+            "text": "B.9.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 74v/16) Augustinus s\u00e6de on his c\u01bfi\u00f0bocan \u00fe\u00e6t nan mann ne | mihte asmeagan godes \u01fd."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 75r/5) s\u01bfa s\u01bfa he sylf c\u01bf\u00e6\u00f0 on his godspelle."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "65, no. 24"
+                }, 
+                {
+                    "work": "sch583", 
+                    "page": "94-105"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 75r/6 - 75v/2", 
+            "text": "B.1.8.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 75r/6-7) Iohannes se godspellere on his gastlican gesih\u00f0e | \u00feone h\u00e6lend geseh"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 75v/2) s\u01bfa s\u01bfa he sylf get\u00e6hte \u00e6r his \u00fero\u01bfunge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "65-66, no. 25"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "83-87"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 75v/3-21", 
+            "text": "B.23.3.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 75v/3-4) \u00d0onne forme gea\u01bfesd\u00e6ig by\u00f0 sunend\u00e6ig.\u02b9 hit | by\u00f0 god \u01bfinter."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 75v/20-21) \u02e5 ealle \u01bf\u00e6stmes yfeles ge\u01bf\u00e6nde. scep | c\u01bfelle\u00f0 \u02e5 ealde m\u00e6nn."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "66, no. 26"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "369"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 76r/1-76v/18", 
+            "text": "B.24.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 76r/1-2) Hit s\u00e6ig\u00f0 on halgen bocan. \u00fe\u00e6t \u00e6fter gearan ymb | ryne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 76v/17-18) by\u00f0 s\u01bfy\u00f0e mycle unge\u00f0\u01bf\u00e6rnysse. \u02e5 \u00f0rahlice \u01bfiten | on manna bearnen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "66-67, no. 27"
+                }, 
+                {
+                    "work": "sch583", 
+                    "page": "106-28"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 76v/18-82v/8", 
+            "text": "B.1.1.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 76v/18) Dominicaii. iN aduentu domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 76v/19) Erunt signa in sole et luna. \u02e5 stellis. et Reliqua."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(76v/20-21) Se godspellere lucas a\u01bfrat on \u00feyssen d\u00e6ig\u00f0er | licen godspelle."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 82v/5-8) for \u00fey brucan \u00fe\u00e6s fyr | stes \u00fee us god forgeaf. \u02e5 geearnigen \u00fe\u00e6t ece lif mid | him. se \u00fee leofe\u00f0. \u02e5 rixe\u00f0 on eallra \u01bfurlda \u01bfurld | ameN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "67-72, no. 28"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "608-18"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "524-30"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 82v/10-86v/23", 
+            "text": "B.1.1.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 82v/10) Secundum matheum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 82v/10) Videns turbas iesus."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 82v/11-12) \u00d0\u00e6t halige godspell \u00fee nu lyttle \u00e6r \u00e6tforan | eo\u01bf ger\u00e6dd w\u00e6s.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 86v/21-23) scyppend \u02e5 alysend ealre | halgena mid f\u00e6der \u02e5 mid \u00fean halgen gaste. a on ecnysse. | ameN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 86v ruled for an extra line to complete this item."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "73-77, no. 29"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "548-56"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "491-96, ll. 147-291"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 87r/1-87v/8", 
+            "text": "B.8.4.6.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 87r/1-2) Iohannes se godspellere a\u01bfrat h\u01bfu se h\u00e6lend sp\u00e6c to his | leorningcnihten. \u02e5 c\u01bf\u00e6\u00f0."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 87v/7-8) \u02e5 eall \u00fe\u00e6t ge besece\u00f0 \u00e6t | mine f\u00e6der on minen name.\u02b9 eall ic hit do."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "77, no. 30"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 87v/9-100r/22", 
+            "text": "B.8.5.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 87v/9) De Resurrectione domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(87v/9-11) \u00d0\u00e6s d\u00e6iges \u00fee ure | h\u00e6lend for ure alesednysse ge\u00f0olede pine on | \u00fe\u00e6r halgen rode."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 100r/22) Seo drihtene lof.\u02b9 \u02e5 deofle sarege. ameN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "77-88, no. 31"
+                }, 
+                {
+                    "work": "hul584"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 100v/1-102r/8", 
+            "text": "B.8.5.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 100v/1-3) ON Tiberies dagen \u00fe\u00e6s mycele caseres hit ge | lamp binnen lyttle f\u00e6ce \u00e6fter \u00fean \u00fee | crist ahangen \u01bf\u00e6s."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 102r/7-8) \u02e5 \u01bfyr\u00f0mynt f\u00e6der[?] | \u02e5 sune. \u02e5 \u00fean halgen gaste. aa buten \u00e6nde. Amem."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "88-89, no. 32"
+                }, 
+                {
+                    "work": "ass389", 
+                    "page": "193-94"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 102r/9-103v/9", 
+            "text": "B.24.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102r/9-10) On \u00fean nexten fiftene dagen beforen domes | d\u00e6ge."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 103v/9-9) s\u01bfa \u00fe\u00e6t on mid | denearde ne bel\u00e6f\u00f0 naht uncl\u00e6nes gesene."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "89-91, no. 33"
+                }, 
+                {
+                    "work": "ass569"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 103v/9-24", 
+            "text": "B.23.3.5.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 103v/9-10) Emb | \u00feunre"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 103v/9) On Ianuarius mon\u00f0e gyf hit \u00feunre\u00f0."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 103v/23-24) On decembre. | hit bode\u00f0 god gear on til\u00f0e. \u02e5 sibb. \u02e5 sehte."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The scribe has here written two extra lines to end this item at the end of this folio, which is the last in its quire."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "91, no. 34"
+                }, 
+                {
+                    "work": "ass568"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 104r/1-119r/20", 
+            "text": "B.9.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 104r/1) De Scientia."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 104r/1-3) \u00c6rest ealre \u00feingen | \u00e6igh\u01bfylce m\u00e6n is to secene h\u01bf\u00e6t seo se so\u00f0e \u01bfi | sedom."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 119r/18-19) his sa\u01bfle to for | \u01bfyrde on ecere pine."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Internal rubrics are in red and followed by coloured initials, alternately green and red."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "91-105, no. 35."
+                }, 
+                {
+                    "work": "ass571", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 119r/21-123r/8", 
+            "text": "B.1.1.39", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 119r/21-22) Oft h\u01bfonlice gelefde m\u00e6nn smege\u00f0 mid | heora stunten gescade."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 123r/8-9) \u02e5 to \u00fean ecen life gel\u00e6de. se \u00fee leofe\u00f0 | \u02e5 rixe\u00f0. abuten \u00e6nde. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "106-9, no. 36"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "566-76"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "502-6, ll. 148-280"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 123r/8-130v/22", 
+            "text": "B.1.2.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 123r/8) Sanctus Furseus gesih\u00f0e."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 123r/9-10) M\u00e6n \u00fea leofeste. Paulus se apostel eallra | \u00feeode lar\u00f0ea\u01bf a\u01bfrat beo him sylfen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 130v/22) se \u00fee is ealre leode \u01bfealdend."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "109-16, no. 37"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "190-98"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 131r/1-136r/14", 
+            "text": "B.1.2.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 131r/1) Of Drihtelme"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 131r/1-4) BEDA ure lar\u00f0ea\u01bf a\u01bfrat | on \u00fe\u00e6re bech \u00fee is gehaten historia | anglorum be sumes mannes \u00e6riste on \u00feyssen | eglande."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 136r/12-14) on \u00fean m\u00e6ig \u00e6igh\u01bfa beo \u00feyssen | genihtsumlice geheren se \u00fee heo oferr\u00e6den | \u01bfyle. gyf he \u00fe\u00e6t andgit understanden cann."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Doxology omitted, per Ker. Note that Ker (1957) makes two items of this one item, breaking the text at fol. 135r/15, when the manuscript shows no indication of a new textual item. We thus retain the single item numbering here, as Warner (1917 for 1915) item 38. Early Modern note, 'Liber Dialogorum gregory | Anglie habebat', at the foot of fol. 136r refers to the OE at fol. 136r/9-10."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "116-20, no. 38"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "199-205"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 136r/15-137r/7", 
+            "text": "B.1.1.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 136r/15-16) God sp\u00e6c to anen \u01bfitege \u00fee \u01bf\u00e6s Ionas geha | ten."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 137r/6-7) for heora lehtren mid heofonlice fyre for | b\u00e6rnde. s\u01bfa s\u01bfa \u00fee eo\u01bf gereccen mugen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "120-21, no. 39"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "244-46"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "317-18, ll. 14-39"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 137r/8-139r/2", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 137r/8) So\u00f0 is to secgene. \u00fea \u00fea \u01bfyrece\u00f0 on godes \u01bfille. | \u00fea becume\u00f0 on myrh\u00f0e. \u00d0\u00e6t godspell | cwe\u00f0\u00f0. \u00c6lc \u00fe\u00e6re \u00fee forl\u00e6t."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 139r/1-2) \u02e5 geefenl\u00e6cen \u00fean apostlen \u00fe\u00e6t \u01bfe mid heom and | mid gode \u00fe\u00e6t ece lif habben moten. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "121-22, no. 40"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 139r/3-145v/18", 
+            "text": "B.1.2.37", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 139r/3) Forbisne of Iob."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 139r/3-5) Mine gebro\u00f0re. \u01bfe r\u00e6de\u00f0 | nu \u00e6t godes \u00feenunge beo \u00fean eadigen \u01bfere | Iob."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 145v/16-18) eallra his | \u01bfundra \u02e5 his \u01bfeld\u00e6den se \u00fee ana is god a on | ecnysse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The entire text of a homily, a fragment of which is also included above at fol. 74v/12."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "123-29, no. 41"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "260-67"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 145v/18-151r/23", 
+            "text": "B.3.3.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 145v/18) Of Seinte Neote."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 145v/19-20) M\u00e6n \u00fea leofeste. \u01f7e \u01bfylle\u00f0 eo\u01bf cy\u00f0en beo su | [?] men d\u00e6le emb \u00feyssen halgen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 151r/22-23) \u02e5 \u00fe\u00e6t \u01bfe moten \u00e6fter for\u00f0si\u00f0e | to ecere reste becumen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric on fol. 145v is in green, unlike the red used in all other cases. The text is fitted onto fol. 151r through the addition of a half-line beneath the usual ruled space."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "129-34, no. 42"
+                }, 
+                {
+                    "work": "ric582"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 151v/1-158r/12", 
+            "text": "B.3.3.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 151v/1) Sermo in festis Sancte Marie virginis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 151v/2-4) Se godspellere Lucas s\u00e6ig\u00f0 on \u00feyssen | godspelle. \u00fe\u00e6t se h\u00e6lend com in to sumen | c\u00e6stele."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 158r/10-12) sohten urne drihten mid sme | rigeles inne his \u00feruge \u00fea \u00fea he beby | riged \u01bf\u00e6s"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "134-39, no. 43"
+                }, 
+                {
+                    "work": "for577"
+                }, 
+                {
+                    "work": "1586"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 158r/13-159r/8", 
+            "text": "B.24.26.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 158r/13-14) \u01f7e r\u00e6de\u00f0 on bocan \u00fe\u00e6t Nabugodonosor | geheregode ierusalem."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 159r/6-8) Mann s\u00e6g\u00f0 \u00fe\u00e6t fram \u00fean time \u00fee \u00e6rest Adam gescapen \u01bf\u00e6s. o\u00f0\u00f0e christes tocyme. \u01bf\u00e6ron | agane fif \u00feusend. \u02e5 fif hundred \u02e5 fif \u02e5 | t\u01bfentig geare."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'Darius' at fol. 158r/20 and 158v/15 overwrites an erasure in a different hand; D tipped with green. At fol. 158r/20, 'Swa swa writen segge\u00fe' is written in a different hand in fading red ink. On fol. 159r/9, lines of Latin have been squeezed in, beginning 'cum sit nostra presens intentio'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "139-40, no. 44"
+                }, 
+                {
+                    "work": "for574"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 159r/10-163v/8", 
+            "text": "B.9.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 159r/10) Sum mann s\u00e6ig\u00f0 \u00fe\u00e6t synne nis nan \u00feing"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 163v/8) heo gebide\u00f0 frofre \u02e5 blisse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Condensed translation of Book 2, Chapters 1-6"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "140-43, no. 45"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 163v/11-165r/13", 
+            "text": "B.9.9.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 163v/11-12) h\u01bfy a\u01bfas ure drihten /of dea\u00f0e\\ \u00fe\u00e6s formeste d\u00e6ges | \u00fe\u00e6re \u01bfuca.\u02b9"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 165r/12-13) feo\u01bfertig dagen \u00e6fter | \u00fe\u00e6r pine \u00fee heo \u00feolige\u00f0 under ante criste;"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Condensed translation of Book 1, Chapters 23-25."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Written in the hand of a minor scribe (see below)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "144-45, no. 46"
+                }, 
+                {
+                    "work": "for575"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 165r/14-166r/10", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 165r/14-15) NE becym\u00f0 nan mann | to godes rice buten he sy afondod."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 166r/8-10) \u00feonne he mid soft | nesse \u02e5 mid yfele lusten geearnian \u00fea ece tin | trege mid deofle on helle \u01bfite. aa."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Fols 165v/1-166r/10 are in the hand of a minor scribe (see below); fol. 165r/14-22 is in the hand of another scribe."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "145-46, no. 47"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "268-70"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "330-31, ll. 148-77"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 166r/12-168r/23", 
+            "text": "B.3.4.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 166r/12) SANCTUS Iohannes geseh ofer garseg | s\u01bfylc hit an land \u01bf\u00e6re."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 168r/21-23) crist us generige | \u00fe\u00e6t \u01bfe on \u01bfynne \u01bfunigen m\u00f3te. mid \u00fean \u00fee leo | fe\u00f0 \u02e5 rixe\u00f0 a bute \u00e6nde. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Known as the Homily on the Phoenix"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "In the hand of Scribe 3."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A line is added to fol. 168r to complete the item on this leaf."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "146-48, no. 48"
+                }, 
+                {
+                    "work": "klu578"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 168v/1-169r/21", 
+            "text": "B.1.1.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 168v/1-2) Sum \u00e6\u01bffest godes \u00feeign \u01bf\u00e6s ge | haten zacharias."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 169r/20-21) \u02e5 tostenc | te \u00fea modigan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "In the hand of Scribe 3."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "148-49, no. 49"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "202"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "287, ll. 169-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 169v/1-21", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 169v/1-2) Se h\u00e6lend c\u01bf\u00e6\u00f0 on his godspelle. Ic eam | weig"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 169v/21) Hit gelimp\u00f0 gelomlice \u00feone se mann"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "war127", 
+                    "page": "149, no. 50"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "154-56"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "261, ll. 59-71"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 170-224v", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "Part 2 of the manuscript is written in s. ix, and probably from Italy. Texts include extracts from the Meters of Boethius's Consolatio Philosophiae, Isidore, Synonyma: De lamentatioaone anim\u00e6 peccatricis. English glosses, mostly in s. x."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 210"
+                }, 
+                {
+                    "work": "wat88", 
+                    "page": "109"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 170v, top margin", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "S.Y."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ker (1957) notes that this mark may be s. xii. An Isidore text from Christ Church, Canterbury, now CUL Kk. 1. 28 has the same mark."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 210"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 4r", 
+            "text": "Treharne", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 24"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Fols 1-24r"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 35mm x 27mm; written space"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "decoration": null, 
+    "binding": "Bound in s. xvii in brown and red leather with shield on front in gold tooling, with green leather on the spine. Number 691 at top, A at bottom. 'Homilies of Abbat AElfric, Saxon, etc.' written in a green square.", 
+    "accompanying": "Added flyleaves of a printed edition of a Latin text at the beginning and the end of the manuscript.", 
+    "history": {
+        "origin": "Written in the <span class=\"name\">South-East of England</span>, almost certainly at <span class=\"name\">Christ Church</span>, in the period 1140-1160. The manuscript seems to show a gradual accumulation of texts over time, if alterations in the various hands' letter-forms are anything to go by, including the identification of the same or a very similar hand in a Christ Church charter of the same period (<a href=\"#tre1595\">Treharne</a> forthcoming).", 
+        "provenance": "Nothing is known of the manuscript's history, prior to its acquisition by <span class=\"name\">Cotton</span>, except that it seems to have been used by a female 'ancilla' (as noted above) by the later twelfth century. Further annotations and pen-trials show the manuscript was available for users, but little else can be deduced as yet. What is known is fully detailed in <a href=\"#wil567\">Wilcox</a> (2000).", 
+        "acquisition": "Given to <span class=\"name\">British Library</span> as part of <span class=\"name\">Cotton</span> collection."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Orietta Da Rold, Z\u00f6e Enstone, Hollie Morgan, Owen Roberson, William Green and Takako Kato (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "ass568", 
+        "ass570", 
+        "ass571", 
+        "ass569", 
+        "cle112", 
+        "cox572", 
+        "cra327", 
+        "dav12", 
+        "feh573", 
+        "for576", 
+        "for577", 
+        "for574", 
+        "for575", 
+        "god42", 
+        "hal485", 
+        "han157", 
+        "har465", 
+        "hul428", 
+        "hul584", 
+        "ker44", 
+        "klu578", 
+        "lep486", 
+        "mer579", 
+        "mor580", 
+        "pop581", 
+        "pop87", 
+        "ric582", 
+        "ric150", 
+        "ric151", 
+        "ric158", 
+        "ric181", 
+        "rye487", 
+        "sch583", 
+        "ske153", 
+        "stu488", 
+        "tho57", 
+        "tra278", 
+        "tre52", 
+        "tre1586", 
+        "tre338", 
+        "tre107", 
+        "tre1595", 
+        "wal178", 
+        "wan470", 
+        "war127", 
+        "wat88", 
+        "wil130", 
+        "wil567"
+    ]
+}

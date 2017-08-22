@@ -1,0 +1,253 @@
+{
+    "id": "BL.Roya.7.C.iv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "7. C. iv", 
+    "ker": "256", 
+    "content": "Continuous gloss, Scribbles", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r/1-100v/16", 
+            "text": "C.15", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "../surrogates/BL/Royal.7.C.IV_fol.31v.htm", 
+                    "page": "and"
+                }, 
+                {
+                    "work": "../surrogates/BL/Royal.7.C.IV_fol.70r.htm"
+                }, 
+                {
+                    "work": "", 
+                    "page": "p. 49"
+                }, 
+                {
+                    "work": ""
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 256, art. 1"
+                }, 
+                {
+                    "work": "", 
+                    "page": "pp. 1-222"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 100v/17-102r/18", 
+            "text": "C.6", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "p. 49"
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 256, art. 2"
+                }, 
+                {
+                    "work": "", 
+                    "page": "pp. 223-26"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102r/19-106r", 
+            "text": "C.20", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "Book 2, Chapters 6, 17-21."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "p. 49"
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 256, art. 2"
+                }, 
+                {
+                    "work": "", 
+                    "page": "pp. 226-36"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 106v-07v", 
+            "text": "B.27.3.23", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "One of the scribbles is a couple of lines of the Poema Morale, partly erased, 'elde me is bestolen on er[.....] Ne m\u00e6g ic geseo before me [.....]' (lines 17 and 18)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "p. 50"
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 256, art. 3"
+                }, 
+                {
+                    "work": "", 
+                    "page": "p. 449"
+                }, 
+                {
+                    "work": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment is very thin. Original flyleaves are in paper, s. xvi and later.", 
+        "extent": "316 mm x 196 mm (dimensions of full-size leaves - size of leaves).\n224 mm x ca. 120 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "26 lines.Prickings are visible, but dry-point rullings are very faint. Double binding vertical lines are visible in some pages, but horizontal lines are not very clear.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 or more from 1060-1220", 
+        "summary": "The text is by a xi", 
+        "hands": [
+            {
+                "name": "Interlinear gloss", 
+                "scope": "Major", 
+                "script": "Insular minuscule", 
+                "scribe": "Ker 256 art 1", 
+                "description": "Fols 1-100v.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Insular <span class=\"c\">a</span> is triangular."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Insular <span class=\"c\">d</span> has a rounded back, and its short ascender is at 45\u00ba."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is insular, sometimes with a horn and a tongue."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "Insular <span class=\"c\">f</span>."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular with a straight top. The vertical stroke joins the horizontal bar at the left end, and the stroke makes a 'c'-like curve first. The loop of <span class=\"c\">g</span> closes in a round bowl. The lower loop is approximately the same size as the upper loop."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Insular <span class=\"c\">r</span>: its left limb is straight or curves slightly to the left; its right limb often curves to the left, and sometimes almost touches the left limb."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a taller ascender than <span class=\"c\">d</span>, and its crossbar extends only to the right. The end of the crossbar turns downwards."
+                    }
+                ], 
+                "date": "1060-70"
+            }, 
+            {
+                "name": "Interlinear and marginal gloss", 
+                "scope": "Minor", 
+                "script": "Insular minuscule", 
+                "scribe": "Ker 256 art 1", 
+                "description": "Fols 24, 31, 35. There is the 'earlier stratum of glosses on the originally adjacent leaves' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "Insular <span class=\"c\">d</span> has a rounded back, and its short ascender is at 45\u00ba."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "Open-headed insular <span class=\"c\">e</span>; its tongue has a downwards serif."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "Insular <span class=\"c\">f</span>."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular. Its bottom loop is larger than the top loop."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a taller ascender than <span class=\"c\">d</span>, and its crossbar turns upwards to the left end and downwards at the right end."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> has a dot."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "Scribbles", 
+                "scope": "Minor", 
+                "script": "Gothic", 
+                "scribe": "Ker 256 art 3a", 
+                "description": "Fol. 106v.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular, its back is curving backwards and the top stroke rises at 30\u00ba and turns back."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular, its head is wavy and the vertical stroke joins the middle of the head. The loop is open."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Insular <span class=\"c\">r</span>; its head is a bow."
+                    }
+                ], 
+                "date": "s. xii/xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to <a href=\"#luc1217\">Doane 1997</a>, the original text was probably written at <span class=\"name\">Christ Church, Canterbury</span> (p. 48).", 
+        "provenance": "Located at <span class=\"name\">Christ Church, Canterbury</span>. According to <a href=\"#ker44\">Ker 1957</a>, it is identifiable in a medieval catalogue of the library at Christ Church, Canterbury.", 
+        "acquisition": "Owned by <span class=\"name\">Lord John Lumley</span>. The manuscript went to the Royal collection probably as a gift after his death in 1609."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan (August 2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "der1205", 
+        "luc1217", 
+        "get1206", 
+        "gne146", 
+        "sea1179", 
+        "ker44", 
+        "mar1207", 
+        "mer579", 
+        "pul1208", 
+        "rho1209", 
+        "roc1212", 
+        "roc1211", 
+        "scr565", 
+        "ver1213", 
+        "ver1214", 
+        "wan416"
+    ]
+}

@@ -1,0 +1,1053 @@
+{
+    "id": "CCCC.23", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "23", 
+    "ker": "31", 
+    "content": "English glosses and titles added to Latin texts", 
+    "location": "Malmesbury", 
+    "date": "s.xi^{med}", 
+    "summary": "Old English glosses to s. x<span class=\"sup\">2</span> texts of Prudentius\u2019 <span class=\"italics\">Psychomachia</span> and <span class=\"italics\">Peristephanon</span>, and Old English translations of some of the titles of illustrations to the <span class=\"italics\">Psychomachia</span>. Main texts in Latin and probably in England. Old English glosses dated by <a href=\"#ker44\">Ker 1957</a> to s. xi; Old English titles in three hands, dated to s. x/xi, s. xi<span class=\"sup\">med</span> and s. xi<span class=\"sup\">2</span> or xi/xii. French glosses are s. xii-xiii. From <span class=\"name\">Malmesbury</span>.", 
+    "items": [
+        {
+            "locus": "fol. 3v", 
+            "text": "C.26.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 3v) Her \u00e6teo\u01bfdon \u00f0ry englas abrahame on \u00f0am dene \u00f0e mambre \u01bf\u00e6s haten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 4r", 
+            "text": "C.26.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4r) Her prudentius hine gebitt on namen ('on naman' was added later)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 4v", 
+            "text": "C.26.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4v) Her se geleafa fiht ongean \u00f0a deofolgyld"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 5v", 
+            "text": "C.26.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 5v) Her se geleafa \u00e6fter ge\u01bfunnenum sige ge\u01bfuldorbeaga\u00f0 \u00f0a mihta"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6r", 
+            "text": "C.26.1.5.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 6r) Her seo cl\u00e6nnys fiht ongean galnysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6v", 
+            "text": "C.26.1.6.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 6v) Her seo cl\u00e6nnys \u01bfyrp\u00f0 \u00fea galnysse mid stane"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6v", 
+            "text": "C.26.1.7.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 6v) Her seo cl\u00e6nnys \u00f0urh\u00f0y\u00f0 \u00fea galnysse mid s\u01bfurde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7r", 
+            "text": "C.26.1.8.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7r) Her seo cl\u00e6nnys \u00f0rea\u00f0 \u00fea ad\u01bf\u0119scedan galnysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 8r", 
+            "text": "C.26.1.9.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 8r) Her seo cl\u00e6nnys a\u00f0\u01bfoh hyre s\u01bfurd on \u00f0\u00e6re ea iordane"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 8v", 
+            "text": "C.26.1.10.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 8v) Her seo cl\u00e6nnys behyt hyre s\u01bfyrd on \u00f0am temple"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 8v", 
+            "text": "C.26.1.11.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 8v) Her \u00fe\u00e6t ge\u00f0yld stent unforht bet\u01bfeonan \u00f0ara leahtra truman"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "C.26.1.12.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 9r) Her \u00fe\u00e6t yrre slih\u00f0 \u00fe\u00e6t ge\u00f0yld mid his spere"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "C.26.1.13.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 9r) Her \u00fe\u00e6t yrre \u00f0rea\u00f0 \u00fe\u00e6t ge\u00f0yld"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9v", 
+            "text": "C.26.1.14.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 9v) Her \u00fe\u00e6t yrre scyt his spere ongean \u00fe\u00e6t ge\u00f0yld"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9v", 
+            "text": "C.26.1.15.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol.9v) Her synd \u00f0a \u01bf\u00e6pna tobrocene \u00f0e \u00fe\u00e6t yrre scet ongean \u00fe\u00e6t ge\u00f0uld"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10r", 
+            "text": "C.26.1.16.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 10r) Her slih\u00f0 \u00fe\u00e6t yrre \u00fe\u00e6t ge\u00f0uld"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10v", 
+            "text": "C.26.1.17.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 10v) Her \u01bf\u00e6s \u00f0\u00e6s yrres s\u01bfurd tobrocen on \u00f0\u00e6s ge\u00f0uldes heafde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11r", 
+            "text": "C.26.1.18.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11r) Her \u00fe\u00e6t yrre ofslih\u00f0 hit sylf mid his s\u01bfurde beforan \u00f0am ge\u00f0ulde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11r", 
+            "text": "C.26.1.19.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11r) Her \u00fe\u00e6t ge\u00f0yld \u00f0rea\u00f0 \u00fe\u00e6t deade yrre"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11v", 
+            "text": "C.26.1.20.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11v) Her \u00fe\u00e6t ge\u00f0yld mid iobe \u00f0am halgan \u00f0urhferde \u00f0ara leahtra truman"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11v", 
+            "text": "C.26.1.21.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11v) Her \u00fe\u00e6t ge\u00f0yld sprec\u00f0 to iobe"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 12r", 
+            "text": "C.26.1.22.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 12r) Her \u00fe\u00e6t ge\u00f0yld ofers\u01bfi\u00f0\u00f0um leahtrum sprec\u00f0 to \u00f0am mihton"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 12r", 
+            "text": "C.26.1.23.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 12r) Her seo modinys rit into \u00fe\u00e6t folc on ungemidlodon horse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 12v", 
+            "text": "C.26.1.24.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 12v) Her seo gemodinys rit"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13r", 
+            "text": "C.26.1.25.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 13r) Her seo modinys on horse \u00f0y\u01bf\u00f0 \u00fe\u00e6t folc ac seo eadmodnys 7 se hiht standa\u00f0 unforhte"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 14v", 
+            "text": "C.26.1.26.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 14v) Her seo modinys \u01bfyle offeallan \u00f0a eadmodnysse 7 \u00f0one hiht"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15r", 
+            "text": "C.26.1.27.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 15r) Her seo modinys feald on \u00f0one sea\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "C.26.1.28.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 15v) Her seo eadmodnys gebysmra\u00f0 \u00fea licgendan modinysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16r", 
+            "text": "C.26.1.29.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 16r) Her seo modinys li\u00f0 7 se hiht byt his s\u01bfurd \u00f0\u00e6re eadmodnysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16r", 
+            "text": "C.26.1.30.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 16r) Her seo eadmodnys hea\u01bf\u00f0 of \u00f0\u00e6re modinysse heafod"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16v", 
+            "text": "C.26.1.31.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 16v) her seo eadmodnys byt \u00f0an hihte \u00f0\u00e6re modinysse heafod"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16v", 
+            "text": "C.26.1.32.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 16v) her se hiht \u00f0rea\u00f0 \u00fea ad\u01bf\u00e6scedan modinysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 17v", 
+            "text": "C.26.1.33.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 17v) her seo eadmodnys astih\u00f0 to heofonan \u00f0am o\u00f0rum mihtum \u01bfundrigendum"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 17v", 
+            "text": "C.26.1.34.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 17v) her seo galnys sit on hyre gebeorscipe"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 18r", 
+            "text": "C.26.1.35.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 18r) her seo galnys arn to gefeohte \u00f0a heo \u00f0a byman gehyrde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 18v", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 18v) her \u00fe\u00e6t folc \u01bfundra\u00f0 hu seo galnys f\u00e6r\u00f0 on hyre cr\u00e6te"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 18v", 
+            "text": "C.26.1.36.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 18v) her seo galnys bep\u00e6c\u00f0 \u00f0a mihta mid hyre ges\u01bf\u00e6snyssum"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 19r", 
+            "text": "C.26.1.37.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 19r) her \u00fe\u00e6t folc lede his \u01bf\u00e6pna. 7 filide \u00f0\u00e6re galnysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 19v", 
+            "text": "C.26.1.38.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 19v) Eal \u00fe\u00e6t gaderunge mid ge\u01bfende tacen to \u00f0e galnesse for"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 19v", 
+            "text": "C.26.1.39.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 19v) her sy syfernesse \u00f0am folce mid \u01bforde ge\u00f0rea\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 21r", 
+            "text": "C.26.1.40.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 21r) Her seo seofernysse bere\u00f0 cristes rode ongean \u00f0eas galnesse cr\u00e6te"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 21v", 
+            "text": "C.26.1.41.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 21v) Her seo syfernesse \u01bferp\u00f0 \u00f0a galnesse mid stane"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 24v", 
+            "text": "C.26.1.42.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 24v) Her seo galnese tytrode hir cyn on hire sylfre"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 29r", 
+            "text": "C.26.1.43.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 29r) Her se iytsere"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 33v", 
+            "text": "C.26.1.44.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 33v) Her hi guf"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 19r", 
+            "text": "C.94.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 19r) forspanende glossing Latin illex"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 19r", 
+            "text": "C.94.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 19r) space (glossing Latin radiorum)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 34r", 
+            "text": "C.94.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 34r) \u01bfifre\u00f0 (glossing Latin uibrat)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 34r", 
+            "text": "C.94.3.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 34r) of ylpebane (glossing Latin ex eburna)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 38v", 
+            "text": "C.94.3.5.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 38v) holod (glossing Latin dolatu)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 43r", 
+            "text": "C.94.3.6.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 43r) gyre (glossing Latin toge)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 43v", 
+            "text": "C.94.3.7.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 43v) stif (glossing Latin rigens)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 42-43"
+                }, 
+                {
+                    "work": "zup1628"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 32v, 33r, 34r and 39v", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "French"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii-xiii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 43"
+                }, 
+                {
+                    "work": "hun680"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne Van Der Schee, with reference to published scholarship (2010; 2013). Thanks to Joselyn Wogan Browne for her suggestions regarding this manuscript.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#hun680"
+    ]
+}

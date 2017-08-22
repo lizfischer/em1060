@@ -1,0 +1,52 @@
+{
+    "id": "Stonyh.69", 
+    "city": "Clitheroe, Lancs", 
+    "repository": "Stonyhurst College", 
+    "collection": "", 
+    "shelfmark": "69", 
+    "ker": "386", 
+    "content": "Bede's Death Song", 
+    "location": "Unknown", 
+    "date": "s.xii^{1}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 15", 
+            "text": "A.33.3", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "p. 77"
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 386, p. 456"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": null, 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": null, 
+        "acquisition": "<a href=\"#ker44\">Ker 1957</a> observes: 'The manuscript was given to <span class=\"name\">Stonyhurst College</span> by the <span class=\"name\">Rev. John Middlehurst, S. J.</span> Previously it had been bought from a pedlar for 2<span class=\"italics\">s</span>. 6<span class=\"italics\">d</span>'."
+    }, 
+    "admin": "Manuscript described by Hollie Morgan and Takako Kato, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "dob699", 
+        "ker44"
+    ]
+}

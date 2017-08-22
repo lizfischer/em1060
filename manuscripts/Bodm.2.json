@@ -1,0 +1,137 @@
+{
+    "id": "Bodm.2", 
+    "city": "Cologny, Geneve, Switzerland", 
+    "repository": "Bibliotheca Bodmeriana", 
+    "collection": "Bodmer", 
+    "shelfmark": "2", 
+    "ker": "285; supp 124", 
+    "content": "Homily (fragment)", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "a single leaf", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "[me]rgen ond \u01bfolde hirian"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "mid \u00feam naman ys ges\u01bfu"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker 1957 the leaf is complete, except for probably five lines missing at the head (p. 347)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "41-42"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 285"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "pp. 72-74"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "4/5 of a single leaf", 
+        "support": null, 
+        "extent": "185 mm x 139 mm (dimensions of - size of leaf).\n154 mm x 121 mm (dimensions of - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "Insular Minuscule", 
+                "scribe": "Ker 285", 
+                "description": null, 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> often Caroline."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> open at the top."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> the cross-bar transects the shaft."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> low, round and long forms used, but long only used in the ligature <span class=\"c\">st</span>."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> long upstroke."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> short."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> short."
+                    }, 
+                    {
+                        "char": "g\u02c9", 
+                        "note": "<span class=\"c\">g\u02c9</span> used for <span class=\"expanded\">ge-</span>"
+                    }, 
+                    {
+                        "char": "cw", 
+                        "note": "<span class=\"c\">cw</span> used for <span class=\"expanded\">cw\u00e6\u00f0</span>"
+                    }, 
+                    {
+                        "char": "hw\u02c9", 
+                        "note": "<span class=\"c\">hw\u02c9</span> used for <span class=\"expanded\">hw\u00e6t</span>"
+                    }, 
+                    {
+                        "char": "f\u02c9", 
+                        "note": "<span class=\"c\">f\u02c9</span> used for <span class=\"expanded\">for</span>"
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "The origin is unknown.", 
+        "provenance": "Formerly the wrapper of Mancinus, <span class=\"italics\">De quattuor virtutibus</span> (London, R. Dexter, 1601). It formed part of lot 29 in the Howard of Corby sale, Sotheby's, 1st August 1934. The buyer, E. P. Goldschmidt, detatched it and sold it separately. It was part of the collection of Mr. Wilfred Merton, Slindon, Sussex until at least 1957 (<a href=\"#ker44\">Ker 1957</a>, p. 347).", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and George Younge, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "bre1068", 
+        "gne146", 
+        "god42", 
+        "ker44", 
+        "tho57"
+    ]
+}

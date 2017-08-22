@@ -1,0 +1,114 @@
+{
+    "id": "HerCL.P.i.2", 
+    "city": "Hereford", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "P. i. 2", 
+    "ker": "119", 
+    "content": "Records of a shire-moot and land purchase", 
+    "location": "Hereford", 
+    "date": "s.xi^{med}", 
+    "summary": "Copied into blank space at the end of a quire, two documents: fol. 134rv, record of a shire-moot during the reign of <span class=\"name\">Cnut</span>, and fol. 135 a land purchase datable 1043-46. <a href=\"#ker44\">Ker</a> proposes: 'The manuscript was no doubt at Hereford when the OE documents were entered' (1957, p. 156).", 
+    "items": [
+        {
+            "locus": "fols 134r-v", 
+            "text": "B.15.5.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 134r) Her swutela\u00f0 on \u00f0issum gewrite \u00fe\u00e6t an scirgemot s\u00e6t \u00e6t \u00e6gelno\u00f0es stane"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The record of the shire-moot in the reign of Cnut"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hic721", 
+                    "page": "1705, p. 2"
+                }, 
+                {
+                    "work": "jud1619", 
+                    "page": "1934, p. 94"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 119"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "1939, no. 78"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "1462"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 135r", 
+            "text": "B.15.5.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 135r) Her swutela\u00f0 on \u00feissum gewrite \u00fe\u00e6t leofwine leoffl\u00e6de bro\u00f0or"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The record of a purchase of land, datable 1043-46."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hic721", 
+                    "page": "1705, p. 9"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 119"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "1939, no. 99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 135v", 
+            "text": "B.15.7.31.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 135v) Her [...]"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Three lines of erased writing; traces of letters remain (Ker 1957, p. 156)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 119"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "1469"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson August 2010 with the assistance of Joanna Green (September 2012), with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#saw1604"
+    ]
+}

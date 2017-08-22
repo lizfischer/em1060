@@ -1,0 +1,118 @@
+{
+    "id": "BL.Harl.2110", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "2110", 
+    "ker": "235", 
+    "content": "Homilies", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": "Fragments of the homilies First Series of Homilies [Catholic Homilies I]: Christmas and First Series of Homilies [Catholic Homilies I]: Assumption of St John from Ã†lfric's First Series of Catholic Homilies, found in the binding of a cartulary.",
+    "items": [
+        {
+            "locus": "fols 5*r-4*v", 
+            "text": "B.1.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5*r) (beginning abruptly) \u00fein bro\u00f0or \u00fee dyde"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 4*r) sa\u00f0 on ecnysse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 308"
+                }, 
+                {
+                    "work": "wil78"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 4*r-v", 
+            "text": "B.1.1.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): ASSUMPTIO SANCTI IOHANNIS EVANGELISTE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 4*r) IOHANNES SE GODSPELLERE | CRISTES DYRLING \u01f7EAR\u00d0 | on \u00f0issum d\u00e6ge |"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 4*v) \u02e5 hi ealle anmodlice r\u00e6ddon \u00fe\u00e6t ealle | his gesetnesse aidlode \u01bf\u00e6ron"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 308"
+                }, 
+                {
+                    "work": "wil78"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Bifolium", 
+        "support": "Parchment", 
+        "extent": "260 mm x 151 mm (dimensions of both, including repair parchment - size of leaves).\n224 mm x 151 mm (dimensions of both, without repair parchment - size of leaves).", 
+        "foliation": "Part of the preliminary matter to the cartulary. The preliminary matter is foliated 1*-5* in pencil (<a href=\"#wil78\">Wilcox 2000</a>, p. 66).",
+        "collation": "<span class=\"itemHeading\">Quires:</span> Fol. 2, a central bifolium.",
+        "layoutDescription": "The leaves are misfolded: fol. 5* should precede fol. 4*. The present writing grid has 23 lines, but <a href=\"#ker44\">Ker 1957</a> calculates that there were 26 lines (p. 308).",
+        "note": null
+    },
+    "handDesc": {
+        "number":"1",
+        "hands":[
+            {
+                "name": "Main text",
+                "scope": "Sole",
+                "scribe": "Ker 235 SC1",
+                "description": "fols 4*-5*. <a href=\"#ker44\">Ker 1957</a> describes 'a round uncalligraphic hand' (p. 308).",
+                "characters": [
+                    {"char": "s", "note": "Round <span class=\"c\">s</span> is frequent."},
+                    {"char": "ligatures", "note": "Ligature of double low <span class=\"c\">s</span>"},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are lengthened in the last line on each page."}
+                ]
+            }
+        ]
+    },
+    "decoration": ["The rubric and initial letter 'I' are in red. Capitals are touched with red."],
+    "binding": "Rebound in 1974.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "Used since at least the sixteenth century in the binding of Harley 2110. <a href=\"#ker44\">Ker 1957</a> notes that the name 'Iohannes Wynchelse' (<span class=\"name\">John Wynchelsea</span>, prior of <span class=\"name\">Castle Acre, Norfolk</span>, c. 1510) is scribbled on fol. 5*v. It was later in the possession of <span class=\"name\">Sir Simonds D'Ewes</span>, then <span class=\"name\">Randle Holme</span>. It was purchased by <span class=\"name\">Francis Gastrell</span>, Bishop of <span class=\"name\">Chester</span> for <span class=\"name\">Robert Harley</span>, earl of <span class=\"name\">Oxford</span>.", 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> along with other <span class=\"name\">Harley</span> manuscripts in 1753."
+    }, 
+    "admin": "Manuscript described by Hollie Morgan with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "dav12", 
+        "dug979", 
+        "gne146", 
+        "ker44", 
+        "tho660", 
+        "tho57", 
+        "wan1527", 
+        "wil78", 
+        "wri1528"
+    ]
+}

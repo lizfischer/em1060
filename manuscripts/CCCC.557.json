@@ -1,0 +1,104 @@
+{
+    "id": "CCCC.557", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "557", 
+    "ker": "73", 
+    "content": "Legend of the Holy Cross before Christ (fragments)", 
+    "location": "", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Upper fragment fol. 1r", 
+            "text": "Lawrence, Pryce\n                                                  C2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r) [\u2026]don. \u00d0a f\u00e6ringa heom eallum on ha[...]| aspr\u00e1ng \u00fe\u00e6r fyr on \u00f0reo halfe \u00fe\u00e6s treopes. 7 forb\u00e6rnde s[...] | manna \u00fee hit ceorfan \u01bfoldon. 7 \u00f0one preost for\u00f0 mid. \u00fee h[\u2026] | heretoga \u01bf\u00e6s. \u00d0a o\u00fere for \u00fe\u00e6re miclan fyrhto \u00fee hi \u00fe\u00e6r g[...]| ut \u00e6turnon. \u00fea hi \u00f0anon ut comon \u00fea gesa\u01bfon hi 7 eal seo[\u2026] | \u01bfaru on hierusalem [\u2026]"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Lower fragment fol. 1r", 
+            "text": "Lawrence, Pryce\n                                                  C2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r) \u00fea eodon hi in to \u00f0am cyninge 7 him cyddon \u00fe\u00e6t hi o[..]allum| [\u2026]swulc treow findan [...] mihton swylc \u00fe\u00e6r to sceolde | [...] \u00fe[...] most[...] Salomon \u00fe\u00e6t he natoshwan \u00feafian | [...] \u00feing[...] i\u00fee micle | [...]acun [...]\u00f0er gehit on [...]gre o\u00fere | [...]an mag [...]on. [\u2026] on seofon niht[\u2026]n socne[\u2026]"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Upper fragment fol. 1v", 
+            "text": "Lawrence, Pryce\n                                                  C2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1v) [\u2026]rto. \u00fee hit \u00e6r ametan h\u00e6f[don] [...]| [...]am f\u00e6\u00f0mon lengre \u00f0onne \u00fe\u00e6t gemett \u01bf\u00e6re. \u00d0a \u01bf\u00e6ron hi s\u01bfy\u00fee | [\u2026]am cyninge cy\u00fedon. 7 se cyning ofostlice \u00feider ge\u01bfende. | [\u2026]s so\u00f0ef \u01bf\u00e6re. \u00d0a he \u00f0a \u00fe\u00e6t geseah. \u00dea \u01bfear\u00fe he mid | [...]sse onstyred. 7 [...] \u00fe\u00e6t hi dea\u00fees scyldige w\u00e6ron | [\u2026] gebroht h\u00e6fdon [\u2026] Het hit \u00f0a up[\u2026]"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Lower fragment fol. 1v", 
+            "text": "Lawrence, Pryce\n                                                  C2", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "fragments", 
+        "support": "", 
+        "extent": "74 mm x 145 mm (dimensions of Fragment 1 - size of leaf).\n48 mm x 140 mm (dimensions of Fragment 1 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "In 1952 the two fragments were mounted in a paper frame by <span class=\"name\">V. S. Stoakley</span>. In 1991-2 <span class=\"name\">Nicholas Hadgraft</span> made a butterly pressure mount made of acid- free board with fitted recesses for each fragment (<a href=\"#ang86\">Doane 2002</a>, p. 1).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The glosses by the <span class=\"name\">Tremulous Hand</span> suggest that the fragments come from <span class=\"name\">Worcester</span>. <a href=\"#ker1411\">Ker (1940)</a> observed a resemblance between the scripts of 2:2 and Ker's Scribe 9 of <a href=\"EM.CCCC.198.htm\">Cambridge, CCC 198</a>, causing <a href=\"#col496\">Colgrave and Hyde (1962)</a> to suggest that the fragments were once bound with <a href=\"EM.CCCC.198.htm\">Cambridge, CCC 198</a> or 'a similar manuscript which has now disappeared' (p. 77).", 
+        "provenance": "May have remained in Worcester until <span class=\"name\">Archbishop Parker</span>'s time. <a href=\"#ker44\">Ker 1957</a> argues that it is not unlikely that Parker would have discarded this leaf because it was part of a text that began or ended imperfectly.", 
+        "acquisition": "2:1 was used as strips in the binding of SP. 260, <span class=\"italics\">Fides Iesu et Iesuitarum</span> &amp;c. (Christling\u00e6 1573). It was found in the early 1950s. 2:2 was used as strips in the binding of SP. 4, <span class=\"italics\">Tertia pars chronici Carionis</span> (Bas. 1563). It was found in 1936 and reported by <span class=\"name\">Ker</span> in 1940. Both books are from the <span class=\"name\">library of <span class=\"name\">Archbishop Parker</span></span>, with 16th-century Parkerian bindings, and were given to <span class=\"name\">Corpus Christi College</span> in 1575 (<a href=\"#ang86\">Doane 2002</a>, p. 1)."
+    }, 
+    "admin": "Manuscript description by Hollie Morgan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "par1182", 
+        "col496", 
+        "ang86", 
+        "fra188", 
+        "gne146", 
+        "ker1411", 
+        "ker44", 
+        "his364", 
+        "his364", 
+        "old1412", 
+        "pag1413", 
+        "scr565", 
+        "vau1414"
+    ]
+}

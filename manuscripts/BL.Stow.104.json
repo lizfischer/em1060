@@ -1,0 +1,54 @@
+{
+    "id": "BL.Stow.104", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Stowe", 
+    "shelfmark": "104", 
+    "ker": "273", 
+    "content": "Bede's Death Song", 
+    "location": "Unknown", 
+    "date": "s.xii^{2}", 
+    "summary": "Old English text of Bede\u2019s <span class=\"italics\">Death Song</span> is part of Cuthbert\u2019s letter <span class=\"italics\">De obitu Bed\u00e6</span>, which follows the <span class=\"italics\">Historia ecclesiastica</span> in this manuscript. Old English in the same hand as the main text. Place of production not known.", 
+    "items": [
+        {
+            "locus": "fol. 112v/24-27", 
+            "text": "A.33.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "for\u00fean nedfere n\u00e6ni wyr\u00feaw"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "hwet his gaste godes o\u00fe\u00fee yfeles \u00e6fterde\u00fee heonon deme\u00fe weor\u00fee"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dob699", 
+                    "page": "p. 75"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 273"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of George Young, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#dob699", 
+        "#ker44"
+    ]
+}

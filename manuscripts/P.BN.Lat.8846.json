@@ -1,0 +1,80 @@
+{
+    "id": "P.BN.Lat.8846", 
+    "city": "Paris", 
+    "repository": "Bib. Nat.", 
+    "collection": "Lat.", 
+    "shelfmark": "8846", 
+    "ker": "supp 419", 
+    "content": "Glosses to The Paris Psalter; The Anglo-Catalan Psalter", 
+    "location": "Canterbury (?)", 
+    "date": "s.xii^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 6r-174v", 
+            "text": "C.50.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 69v) ma ic ne beo"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 154v) god | helo minre"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "har997", 
+                    "page": "1965"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 577"
+                }, 
+                {
+                    "work": "", 
+                    "page": "2008, pp. 111-18"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "482 mm x 332 mm (dimensions of most of leaves, but some leaves have been trimmed - size of leaves).\n305 mm x 238 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Napoleonic binding made in 1809 by <span class=\"name\">P. LeFebvre</span> (<a href=\"#scl1004\">Sclafer and Laffitte et al.</a> 1997).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "<a href=\"#pul1489\">Pulsiano and Hussey</a> (2008, p. 111) suggest that the Psalter was written and partly illustrated in Canterbury. However, no known scribes or artists working in Christ Church during s. xii<span class=\"sup\">2</span> have been identified. Suggestions have been made that the Psalter may have been a bespoke manuscript written or decorated by professionals to be sent abroad (<a href=\"#can223\">Dodwell</a> 1954, pp. 98-100 and pp. 22-23; <a href=\"#gib175\">Gibson et al.</a> 1992, p. 190).", 
+        "provenance": "The manuscript was in Catalonia by the fourteenth century (<a href=\"#mei1001\">Meiss</a> 1941) where the <span class=\"name\">Master of San Marcos</span> completed the illustrations between 1350 and 1370 (<a href=\"#scl1004\">Sclafer et al.</a> 1997, p. 39).", 
+        "acquisition": "The book seems to have been included in an inventory of the library of <span class=\"name\">Jean Duc de Berry</span> (1340-1416) from the Archives du <span class=\"name\">Cher, Comte de Bastard</span> (1792-1883), but the inventory is now lost due to a fire of the Archives du Cher. The recent history of the manuscript is quite well documented. The book was then present in the library of <span class=\"name\">Margaret of Austria</span> (1480-1530, regent of the Netherlands), and it appears in inventories of Margaret's library from 1516 and 1523. In an inventory of 1565, the book went to her niece, <span class=\"name\">Marie of Hungary</span> (1505-1559), whose <span class=\"italics\">ex libris</span> plate was found in the previous binding. At Marie's death (1559), the manuscript was inventoried in 1615-1617 for <span class=\"name\">Archdukes Albert</span> (1559-1621) and <span class=\"name\">Isabella</span> (1566-1633) in the <span class=\"name\">Library of Burgundy</span> in <span class=\"name\">Brussels</span>. In 1794, the manuscript was transferred from Brussels to Paris, entering into the <span class=\"name\">Biblioth\u00e8que Nationale</span> from the library of <span class=\"name\">Napoleon I</span> (1769-1821) (<a href=\"#gib175\">Gibson et al.</a> 1992, p. 190; <a href=\"#scl1004\">Sclafer et al.</a> 1997; <a href=\"#pul1489\">Pulsiano and Hussey</a> 2008, p. 114)"
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold, with further notes by Elaine Treharne, and with the assistance of Hollie Morgan (July 2010) and Owen Roberson (2012) with reference to facsimiles and published scholarship. Manuscript not consulted directly, but 'exact replica' by Moleiro (2004) examined by Treharne.", 
+    "surrogate": true, 
+    "bib": [
+        "bro599", 
+        "del994", 
+        "can223", 
+        "dod995", 
+        "fro996", 
+        "gib175", 
+        "har997", 
+        "hei998", 
+        "ker100", 
+        "ler999", 
+        "pul1489", 
+        "mei1001", 
+        "mol1003", 
+        "omo1002", 
+        "scl1004", 
+        "tos1005", 
+        "ver612"
+    ]
+}

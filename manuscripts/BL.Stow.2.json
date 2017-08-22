@@ -1,0 +1,458 @@
+{
+    "id": "BL.Stow.2", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Stowe", 
+    "shelfmark": "2", 
+    "ker": "271", 
+    "content": "Gloss to Psalter", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Continuous gloss to psalter and canticles of Gallican version, written by possibly one hand xi<span class=\"sup\">med</span>. Origin unknown (<a href=\"#ker44\">Ker 1957</a>, p. 336).", 
+    "items": [
+        {
+            "locus": "fols 1r-168r", 
+            "text": "C.7.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) eadig | \u01bfer | se ne ferde on ge\u00feeahte arleasra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 168r) \u00e6lc gast hera\u00f0 drihten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 168v", 
+            "text": "C.11.10.13.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 168v) Incipiunt cantinii in feria secunda"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 168v) canticum esiae prophete"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 168v) ic andette \u00f0e drihten for\u00f0on \u00feu yrsodest | me gecyrred is hatheortnys \u00fein \u02e5 \u00feu frefrodest me"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 168v) gef\u00e6gna \u02e5 hera \u01bfunung for\u00f0on"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 168v-69v", 
+            "text": "C.11.10.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 168v) ii. feeiaiii. canticum ezechie regis iude"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 168v) ic gange to gatu on helle | ic sohte lafe geara minra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 169v) drihten halne us do \u02e5 sealmas ure | \u01bfe synga\u00f0 eallum dagum lifes ure | on huse drihtnes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 169v-70v", 
+            "text": "C.11.10.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 169v) feriaiii. canticum annae"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 169v) f\u00e6gnode heorte min on drihtne \u02e5 upa | hafen is heorte min on gode minum | tobr\u00e6d is mu\u00f0 min ofer fynd mine | for\u00f0on ic blissode on h\u00e6lo \u00feine"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 170v) \u02e5 he sel\u00f0 | arleasra cyninge his \u02e5 gem\u00e6rsa\u00f0 horn | cyninge his"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 170v-72r", 
+            "text": "C.11.10.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 170v) feriav. canticum moysi propheta"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 170v) uton singan drihtne \u01bfundorfullice so\u00f0lice | gem\u00e6rsod is hors | \u02e5 astigend he a\u01bfearp on s\u00e6"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 172r) \u02e5 he inl\u00e6dde | ofer hi drihten \u01bf\u00e6teru s\u00e6s | sunu so\u00f0lice israhela folces hi eodon | on drigum on middele his"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 172r-73v", 
+            "text": "C.11.10.4.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 172r) vi. canticum abbacuc propheta"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 172r) drihten ic gehyrde gehyrnysse \u00feine \u02e5 ondred | drihtn \u01bfeore \u00fein on middele | geara geliff\u00e6st \u00fe\u00e6t | on middele geara cu\u00f0 \u00fey dest \u00feonne gram | \u00f0u bist mildheortnysse \u00feu gemunest"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 173v) \u02e5 ofer heahnysse mine he gel\u00e6de\u00fe me | ofers\u01bfi\u00f0e on sealmum syngende"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 173v-77r", 
+            "text": "C.11.10.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 173v) gehyr \u00feu heofon \u00fe\u00e6t ic sprece"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 177r) \u02e5 \u01bfrace he afylde\u00f0 on feondum heora || \u02e5 miltrigende bi\u00f0 eor\u00f0an folces his"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 177r-78r", 
+            "text": "C.11.10.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 177r) bletsia\u00f0 ealle \u01bfearc drihtnes drihtnes | heria\u00f0 \u02e5 ofer blissias\u00f0 hine one \u01bforulda"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 178r) \u00feu gebletsod eart drihten on trumnysse heofonan | \u02e5 heriendluc \u02e5 \u01bfuldorfull \u02e5 ofer | upahafen on \u01bforulda"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 178r-v", 
+            "text": "C.11.10.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 178r ) sy gebletson drihten god for\u00f0on he neosode | \u02e5 he dyde alysednysse folces his"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 178v) \u00fe\u00e6t buton ege of of handa feonde | ura alysde \u01bfe \u00f0eo\u01bfian himfinal eleven line of gloss erased"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 178v-79r", 
+            "text": "C.11.10.8.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 178v) canticum sancte marie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 178v) gemicla\u00f0 sa\u01bfle min drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 179r ) s\u01bfa s\u01bfa he sprecende is to f\u00e6derum urum | to abrahame \u02e5 to s\u00e6de his on \u01bforulde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 179r-80r", 
+            "text": "C.11.10.9.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 179r) ymnus sancti ambrosii episcopi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 179r) \u00fee god \u01bfe heria\u00f0 \u00fee drihten \u01bfe andetta\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 180r) on \u00f0e ic gehihte ne beo ic gescynd on | ecnysse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 180r-v", 
+            "text": "C.11.10.10.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 180r) canticum Sancti Simeonis ad completorm"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 180r) nu forl\u00e6t \u00feeo\u01bf \u00feinne drihten || \u00e6fter \u01bfordum \u00feinum on sibbe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 180v) leoht to a\u01bfrigennysse \u00f0eoda | \u02e5 \u01bfuldor folces \u00feines"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 180v", 
+            "text": "C.11.10.11.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 180v) \u02e5 on eor\u00f0an sibb mid mannum godne \u01bfillan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 180v) mid \u00feam halgum gaste on \u01bfuldre godes \u00fe\u00e6s f\u00e6der sy hit s\u01bfa"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 180v", 
+            "text": "C.11.10.12.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 180v) Oratio dominica secundum matheum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 180v) f\u00e6der ure \u00feu \u00f0e eart on heofonum \u01bfy gehalgod"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "incomplete, three leaves missing"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 336-37"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#pul1163"
+    ]
+}

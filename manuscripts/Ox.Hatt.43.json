@@ -1,0 +1,49 @@
+{
+    "id": "Ox.Hatt.43", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "43", 
+    "ker": "326", 
+    "content": "C\u00e6dmon's Hymn", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": "Main text is an s. xi<span class=\"sup\">in</span> copy of the Latin version of Bede\u2019s <span class=\"italics\">Historia ecclesiastica</span>, written in English Caroline minuscule. C\u00e6dmon\u2019s Hymn is added on the bottom margin of fol. 129. Place of production not known.", 
+    "items": [
+        {
+            "locus": "fol. 129", 
+            "text": "A.32.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 129) Nu we sculon herian heofonrices weard"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 129) \u00c6fter tida firum on foldum frea \u00e6lmyhtig"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 326"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

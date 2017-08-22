@@ -1,0 +1,130 @@
+{
+    "id": "BL.Clau.D.iii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Claudius D. iii", 
+    "ker": "p. xix", 
+    "content": "Rule of St. Benedict", 
+    "location": "Wintney", 
+    "date": "s.xiii^{in}", 
+    "summary": "A manuscript containing seven items, including Anglo - Norman verses(see, <a href = \"#dea43 \"> Dean 1999 </a>, ns 344 and 953) inventories and calendars(see, <a href = \"#bri1165 \"> British Library Catalogue </a>).It is uncertain when the manuscript was put together but all items seem to be related to <span class = \"name \"> Witney </span>.Item 6, fols 52-140r, is a copy of the <span class = \"italics \"> Benedictine Rule </span>, IPEMP 98, in alternate chapters of Latin and English, starting at 'Et uerum.Qui habet aures audiendri. ' (see, <a href= \"#sch993 \">Schröer 1888</a> and <a href= \"#ker44 \">Ker 1957 </a>, p.xix).",
+    "items": [
+        {
+            "locus": "fols 52r-140v", 
+            "text": "B.10.3.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 52r) [I]n nomine sancte\ntrinitatis incipit unt regule prologas sancti monialium eximii patris beatissimi benedicti abbatis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 54r) Her onsyn\u00f0 ures halies f\u00e6der regolan sanctus Benedictus. Se hur \u00f0u min bearn beboda \u00feines lareo\u01bfes ond onhyld \u00feinre hurte eare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 139v) ettunc demum ad maiora que supra commemorauimus doctrine uirtutum que culmina deo protegente preuenies"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 140r) Ece lif to leane ond\n\u01bfunung mid gode ealle \u00feam \u00fee \u00feisse regole hly\u00f0elice fylia\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "sch993"
+                }, 
+                {
+                    "work": "han884"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "340 mm x 245 mm (dimensions of all - size of leaves).\n225 mm x 145 mm (dimensions of all - size of written space).", 
+        "foliation": "iii(paper) + 164 + iv(paper). < ul > < li > Fols 52 - 162 are paginated on the rectos in pencil 1 - 221, now cancelled with a strike-through. < / li > < li > Fols 3 - 164 are foliated in ink 1 - 162. These foliations are cancelled with a pencil strike-through. < / li > < li > There is an attempt to foliate each tenth folio, in ink, in the top outer corners of both the rectos and versos.This foliation is one behind the modern pencil foliation. < / li > < li > The most recent foliation is in pencil from fol. 1 in the top right hand corners of the rectos, dated May 1848. < / li > < li > The bottom right hand corners of the rectos also contain a pencil foliation, in a different hand to the others.The bottom and top pencil foliations correspond throughout the manuscript. < / li >",
+        "collation": "iii flyleaves, quires 1 <span class = \"sup \"> 2 </span>, fols 1-2 (a bifolia); 2 <span class = \"sup \"> 7 </span> (wants 1), fols 3-9; 3-6 <span class = \"sup \"> 8 </span>, fols 10-41; 7 <span class = \"sup \"> 10 </span>, fols 42 - 51; 8 - 18 <span class = \"sup \"> 8 </span>, fols 52-139; 19-20 <span class = \"sup \"> 10 </span> fols 140-159; 21 <span class = \"sup \"> 6 </span>, wants 4 - 6, fols 160 - 162; 22 <span class = \"sup \"> 2 </span>, fols 163-4 (a bifolia); iv flyleaves. < / ul > Catchwords visible only on fols 9 v, 17 v, 33 v, 41 v, 59 v and 91 v; others missing possibly due to trimming.", 
+        "layoutDescription": "Complex layout. Two columns of 32 lines, double inner and outer bounding lines, 9 mm apart, ruled in brown crayon. Each column varying 70-65 mm. Lines 2, 3, 4, 13, 14, 15 and 32 run to the edge of the leaf. All other horizontal lines are contained within the outer bounding lines. Further vertical lines are drawn outside of the writing grid, ca. 15mm from the edge of the leaf. Fols 32-3 show pricks to guide ruling inner and outer margins. Writing above the top ruled line. In the bottom margin of fol. 140 is a rectangle of prick-marks.",
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "Main text", 
+                "scope": "Sole", 
+                "script": "Gothic", 
+                "scribe": "Ker, p. xix", 
+                "description": "Fols 55-140. A large script influenced by gothic textura. Regular body height of squarish proportion with ascenders and descenders which do not extend above or below the line of writing. The appearance of the hand in the Latin and English texts changes. English is written with slightly more elongated ascenders and descenders, and different letter forms. Datable to s. xiii", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "rounded <span class=\"c\">d</span> is regular in English, but rare in Latin."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> insular <span class=\"c\">g</span> for the spirant and caroline <span class=\"c\">g</span> for the stop in English."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> insular in English."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> used in English only."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> used in English only."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> used in English only."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> and <span class=\"c\">o</span> occasionally bite, but not apparently <span class=\"c\">d</span> and <span class=\"c\">e</span>."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The nota \u02e5 is crossed when it stands for 'et', but usually not crossed when it stands for 'and'. However, on fol. 52r there are four cases of crossed <span class=\"c\">\u02e5</span> representing 'and'."
+                    }
+                ], 
+                "date": "s. xiii^{in}"
+            }
+        ]
+    },
+    "decoration": ["Red and blue initials, with pen-ink decorations in the other colour."],
+    "additions": "    Cottonian table of contents on fol. 2.",
+    "binding": "Brown leather binding. The top quarter of the spine is missing.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "Belonged to the nuns of <span class=\"name\">Whitney</span> in <span class=\"name\">Hampshire</span>.", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton</a> library."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan, Owen Roberson and Johanna Green (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "dea43", 
+        "gne1523", 
+        "gre882", 
+        "gre1524", 
+        "gre1525", 
+        "han884", 
+        "hen1526", 
+        "ker44", 
+        "lai45", 
+        "lew1196", 
+        "lew1479", 
+        "bri1165", 
+        "pla1170", 
+        "rob335", 
+        "sch993"
+    ]
+}

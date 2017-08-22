@@ -1,0 +1,409 @@
+{
+    "id": "BL.Cleo.B.xiii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Cleopatra B. xiii, fols 1-58", 
+    "ker": "144", 
+    "content": "Homilies; Coronation oath; Paternoster and Creed", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": "A collection of homilies and other pieces, that used to be in the same manuscript as, <a href = \"EM.Lamb.489.htm \" > Lambeth 489 < / a >, and possibly <a href = \"EM.CCCC.421.htm \" > CCCC 421 < / a >. It includes items from <span class = \"name \" > Ælfric </span> 's first series of <span class = \"italics \" > Catholic Homilies </span> (fols 7v-12, 13-31), sermons and dedications and a version of the <span class = \"italics \" > Paternoster </span> and <span class = \"italics \" > Creed </span>: '[Ð]u ure fæder....sy hit swa. Ic gelyfe on god fæder almihtigne... ' (fol. 58r-v). Now bound with the revised version of the <span class = \"italics \" > Vita S.Dunstani </span> by 'B', s.xi <span class = \"sup \" > 1 </span>, and a chronicle attributed to Peter of Ickham. The manuscript, as it now exists, show signs of having been disordered at some point in its history. The sequencing of texts was disrupted when the manuscript came into the hands of sixteenth - century antiquarians, and it is still incorrectly sequenced.",
+    "items": [
+        {
+            "locus": "fols 2-7v", 
+            "text": "B.3.4.32.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In die iudicii"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men utan d\u00f3 swa us \u00feearf is beon swi\u00f0e gemyndige"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A new paragraph begins at 'Eala' (Napier 188/11). Lines 10-18 on fol. 7v are blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "182 (no. 40)"
+                }, 
+                {
+                    "work": "scr125", 
+                    "page": "Vercelli vii"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7v/19-12", 
+            "text": "B.1.1.19", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DominiciaII. post pascha."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Dixit iesus discipulis suis. Ego sum pastor bonus \u00d0is godspell \u00fee n\u00fa ger\u01fdd w\u01fds"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 12 is blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "xvii"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 13-31r", 
+            "text": "B.1.1.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit liber catholicorum sermonum anglice in anno. primus sermo de initio creature. quando uolueris."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "An angin is."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "I"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 31-38", 
+            "text": "B.2.3.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De dedicatione eclesiae."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men ic wille (alt. to wylle) eow nu cy\u00f0an."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 43v is blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "277 (no. 54)"
+                }, 
+                {
+                    "work": "bet109", 
+                    "page": "xviii"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38-43", 
+            "text": "B.2.3.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectio Secundum Lucam. DIxit iesus discipulis suis. Ego mittam promissum Be biscophadum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men se halga godspellere lucas. geswuttelode on his godspelle"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "fol. 43v is blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "175 (no. 37)"
+                }, 
+                {
+                    "work": "bet109", 
+                    "page": "xvii"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44-55v", 
+            "text": "B.3.2.52.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Dominica ante rogationum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00f0a leofestan us gedafena\u00f0 \u01fdrest \u00fe\u01fdt we gemunan. 7 gereccan be gode \u01fdlmihtigum."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker 1957, the borrowings from \u00c6lfric's homily are as follows: (a) Th. 246/27-29 amplified at fol. 49v/3-12 after 'h\u01fdbbe' (cf. Vercelli, fol. 108/12);-(b) Th. 246/1, 'swa-lifes', at fol. 51/15, 16 after 's\u01fd' (V fol. 108v/ 10); -(c) Th. 246/5-8, '7 axodon - fleon', at fol. 51v/12-18 after 'eall' (V fol. 108v/18);-(d) Th. 246/8-10, 'Hi-dydon', at fol. 52/1-5 after 'mihte' (V fol. 108v/20);-(e) Th. 246/10, 11, '7 seo-for\u00f0', at fol. 52/6-9 after 'geb\u01fddon' (V fol.108v/20);-(f) Th 246 /12, 13, '7 se forswealh \u00feone witegan', at fol. 52/10, 11 after 'hw\u01fdl' (V fol. 108v/20);-(g) Th. 246/13, 14, '7 ab\u01fdr - aspau', at fol. 52/13-15 after niht (V fol. 108v-21); -(h) Th. 246/14-18, '\u00fea com-noldon', at fol. 52/16-52v/5 after 'sta\u00f0e' (V fol. 108v/24) ;-(i) Th. 246/19, 20, 'to his lice-sceolde', at fol. 52v/18-53/2 after 'ymbscrydde' (V fol. 108v/31);-(j) Th. 246/21, 'ge \u00f0a sucendan cild', at fol. 53/5, 6 after 'menn' (V fol. 109/1);-(k) Th. 246/23, 24, '\u00feurh \u00fe\u01fdt strange f\u01fdsten', at fol. 52/11, 12, after 'forgeaf' (V fol. 109/3);-(l) Th. 244/17-20, 'Eac wear\u00f0-forb\u01fdrned', at fol. 54/6-12 after 'com' (V fol. 109/18);-(m) Th. 244/21-22, '7 seo-gesomnunge', at fol. 54v/15-18 after 'afyrrednysse' (V fol 109/28);-(n) Th. 244/11-14, 'Hi synd-forgyfennysse', at fol. 55/2-9 after 'gehealdene' (V fol. 109/29). Fol. 55v/14-19 and recto and verso of fol. 55* are blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "sza1588", 
+                    "page": "pp. 183-92"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "i. 244"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 56-57", 
+            "text": "B.14.19", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Promissio regis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0is gewrit is gwriten st\u01fdf be st\u01fdfe. be \u00feam gewrite \u00fee dunstan arcebiscop sealde urum hlaforde \u01fdt cingestune."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Lines 18-23 on fol. 57v are blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "tre1587"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 57v", 
+            "text": "B.1.4.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Sume menn niton gewiss for heora nytenysse."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A homily assigned in other copies to the 5th or 6th Sunday after Easter. Ends abruptly 'to Weorcum him \u00feearfe' (Belfour 12/18). Lines 22, 23 on fol. 57 are blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bel365", 
+                    "page": "12"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 58r", 
+            "text": "B.3.4.25", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "7 \u00feurh m\u01fdgslihtas. \u00feurh hlafordswicas."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Part of a line above the present top line has been cut away and replaced by a strip of paper bearing the words '7 \u00feurh f\u01fdla mysd\u01fdda. \u00d0urh manslihtas' (s. xvi)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "130 (end of no. 27)"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 58r-v", 
+            "text": "B.12.4.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her is se geleafa 7 geb\u00e9d. 7 bletsung l\u01fdwedum mannum \u00fee \u00fe\u01fdt leden ne cunnon. [P]ater noster on englisc."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "[\u00d0]u ure f\u01fdder.. sy hit swa. Ic gelyfe on god f\u01fdder almihtigne.."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Paternoster and Creed. Lines 12-23 on fol. 58v are blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 144"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "ii. 59/1-23"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "184 mm x 125 mm (dimensions of all - size of leaves).\n170 mm x 80 mm (dimensions of all - size of written space).", 
+        "foliation": "Foliated in ink 1-55*, 56-58. Formerly paginated in Parkerian red pencil on rectos of fols 2-58, marking 1-115.",
+        "collation": "Collation of fols 2-58: 1-6^{8}, 7^{8} wants one leaf after fol. 55; fol. 56 is a singleton now bound with this quire, 8^{2} (two singletons, fols 57 and 58, now bound into the beginning of the next quire).",
+        "layoutDescription": null, 
+        "note": null
+    },
+    "handDesc": {
+        "number": "3?",
+        "summary": "The scribes of Cleopatra B. xiii are those seen also in a number of other Exeter manuscripts, including <a href=\"EM.Lamb.489.htm\">Lambeth 489</a>. These scribes are often very difficult to distinguish, since they seem to be practising matched hands, and doing so very effectively. See <a href=\"#tre1587\">Treharne 2009</a> for more on this, including the bibliography on scribal practices at Exeter in the pontificate of <span class=\"name\">Leofric</span>; and <a href=\"#kat1650\">Kato 2012</a>. What appear to be five or more scribes in the descriptions of <a href=\"#ker44\">Ker 1957</a> and <a href=\"#dra419\">Drage 1978</a> are judged to be three or fewer in Treharne's analysis. Scholars of these manuscripts are urged to analyse the scribal stints independently.",
+        "hands": [
+            {
+                "name": "main text",
+                "scribe": "Ker 144 SC1",
+                "script": "Late eleventh century",
+                "description": "Fols 2r/1-31r; 57v/1-21.",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span> is generally round but occasionally Caroline."},
+                    {"char": "e", "note": "<span class=\"c\">e</span> is tall with a relatively small head."},
+                    {"char": "d", "note": "<span class=\"c\">d</span> has a very large bowl but tiny ascender."},
+                    {"char": "h", "note": "The right leg of <span class=\"c\">h</span> turns in slightly 'but not sufficiently to be called caroline' (<a href=\"#scr565\">C11 project</a>)."},
+                    {"char": "Ã°", "note": "<span class=\"c\">Ã°</span> has a large bowl and a finishing stroke on the ascender."},
+                    {"char": "s", "note": "<span class=\"c\">s</span> is usually low but occasionally long initially."},
+                    {"char": "Ã¦", "note": "The first element of <span class=\"c\">Ã¦</span> dominates with the second element only slightly higher."},
+                    {"char": "H", "note": "<span class=\"c\">H</span> is very distinctive. The foot of the second leg curves in slightly but barely drops below the line."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are tall and split."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> are long, and curve to the left."}
+                ],
+                "otherManuscripts": ["<a href=\"EM.BL.Add.28188.htm\">BL, Add. 28188</a>", "BL, Cotton Vitellius A. vii", "<a href=\"EM.BL.Harl.863.htm\">Harley 863</a>", "<a href=\"EM.BL.Harl.2961.htm\">Harley 2961</a>"]
+            },
+            {
+                "name": "main text",
+                "scope": "major",
+                "scribe": "Ker 144 SC3",
+                "script": "Late eleventh century",
+                "description": "Fols 31r/1-38r/3.",
+                "characters": [
+                    {"char": "descenders", "note": ""},
+                    {"char": "d", "note": "The ascender of <span class=\"c\">d</span> is quite short with a slight downward curve."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> has an unusually large bowl."},
+                    {"char": "Ë¥", "note": "Litterae Notabiliores: <li class=\"s\">The descender for Ë¥ has a slight curve to the left."}
+                ],
+                "otherManuscripts": ["Probably the same as Scribe 1 above (<a href=\"#ker44\">Ker 1957</a>, p. 184: this is Ker's scribe 2)."]
+            },
+            {
+                "name": "main text",
+                "scope": "major",
+                "script": "Late eleventh century",
+                "scribe": "Ker 144 SC8",
+                "description": "Fol. 58r/12- 58v/11.",
+                "summary": "The general aspect of this hand is rounded and upright, with a tendency to use the full height and depth of the interlinear space, though this is hardly a distinguishing characteristic, since it is part of all these Exeter scribes' repertoire.",
+                "characters": [
+                    {"char": "accents", "note": "<span class=\"c\">accents</span> are sometimes used with long vowels."},
+                    {"char": "d", "note": "The ascender of <span class=\"c\">d</span> is very short but frequently turns up to the right."},
+                    {"char": "y", "note": "Straight-limbed <span class=\"c\">y</span> is used but it curves in a relatively shallow fashion, often ending with a tick upwards to the right."},
+                    {"char": "g", "note": "The tail of <span class=\"c\">g</span> swoops round to the right before curving to the left; the tail is usually closed."},
+                    {"char": "ſ", "note": "Long <span class=\"c\">s</span> and low <span class=\"c\">s</span> are used, though the long form tends not to be used finally. According to <a href=\"#ker44\">Ker 1957</a> (p. 345), long <span class=\"c\">s</span> followed by low <span class=\"c\">s</span> is used in the combination <span class=\"c\">ss</span>, and this distinguishes the scribe at fols 1-20r. This feature occurs in this manuscript at fols. 25-31, and again, in Cleopatra B. xiii. It is thus a distinguishing characteristic of this scribe in the revised sequence of stints attributed to him by <a href=\"#bis642\">Bishop 1955</a> (and agreed by <a href=\"#tre1587\">Treharne 2009</a>)."},
+                    {"char": "æ", "note": "The second element is occasionally high in the combination <span class=\"c\">æ</span>, especially before <span class=\"c\">g</span> and <span class=\"c\">t</span>, when a ligature is formed, and particularly when <span class=\"c\">æ</span> is in initial position."},
+                    {"char": "Ã°", "note": "<span class=\"c\">Ã°</span> is the single most distinctive letter-form, and the graph which changes most dramatically between stints of this single scribe (or, in fact, identifies for <a href=\"#ker44\">Ker 1957</a> and <a href=\"#dra419\">Drage 1978</a> a different scribe). In the earlier folios, the cross-bar bisects the up-stroke, tagged to the left at the top end; the up-stroke itself finishes with a marked movement of the pen to the left. In the later folios, the cross-bar does not pierce the up-stroke, though the graph is otherwise the same."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are split at the top."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> curve to the left."},
+                    {"char": "nota", "note": "<span class=\"c\">Nota</span> The headstroke of the Ë¥ nota is straight, and the descender curves round slightly to the left."},
+                    {"char": "that", "note": "<span class=\"c\">that</span> The abbreviation for 'Ã¾æt' is distinctive: the ascender of thorn is crossed by a horizonal bar which is quite distinctive since the left tag of the split ascender often almost touches the bar."},
+                    {"char": "hyphens", "note": "<span class=\"c\">hyphens</span> are level with the base-line and occur both at the end of one line and the beginning of the next."},
+                    {"char": "ligatures", "note": "There are very few ligatures. "}
+                ],
+                "otherManuscripts": ["Almost certainly identical to the main scribe of <a href=\"EM.Lamb.489.htm\">Lambeth 489</a>; that is, the scribe who writes all of <a href=\"EM.Lamb.489.htm\">Lambeth 489</a> except fols 20v-24v. This is not the view of <a href=\"#ker44\">Ker 1957</a> (p. 345), or of <a href=\"#dra419\">Drage 1978</a>; it is the view of <a href=\"#bis642\">Bishop 1955</a> and <a href=\"#tre1587\">Treharne 2009</a>."]
+            }
+        ]
+    },
+    "decoration": ["Rubrics are written in red ink and enlarged initial letters are written in green or red, with some other prominent initials in green or red. Capital letters are touched in red (fading to black) inconsistently, fols 34r- 38r, 41v-44r and 57r. Blank space has been left in between the main items.", "The rubrics on fols 56r-58v are not in coloured ink. The initial 'S' of fol. 57v/1 is written in red ink, and on fol. 58r there are spaces left for two enlarged coloured initials and one regular coloured initial which were never entered."],
+    "binding": "A binding of September 1875 was replaced by a new binding in 1970, recorded in a pencilled note on the inside back cover dated to 24th April 1970.", 
+    "accompanying": "There is much evidence that the manuscript was used by <span class=\"name\">Archbishop Matthew Parker</span>: on fol. 1v is a table of contents by one of his scribes; there is a note by his secretary, <span class=\"name\">John Joscelyn</span> on fol. 13r and the signature of his son, <span class=\"name\">John Parker</span> is written in red pencil on fol. 2r.", 
+    "history": {
+        "origin": "This manuscript is from <span class=\"name\">Exeter</span>. <p>According to <a href=\"#ker44\">Ker 1957</a>, 'the script, the use of c-shaped accents, the format and the number of lines to the page associate this manuscript with <a href=\"EM.CCCC.419.htm\">CCCC 419 + 421</a> and <a href=\"EM.Lamb.489.htm\">Lambeth 489</a>: like them it is almost certainly from <span class=\"name\">Exeter</span>' (p. 184). </p>", 
+        "provenance": "A provenance was recorded to <span class=\"name\">Richard James</span> in s. xvii<span class=\"sup\">1</span>, in his note in Oxford, Bodleian Library, James 27 (Sum. Cat. 3864), p. 91: 'Here is se geleafa \u02e5 gebed \u02e5 bletsung l\u01fdwedum mannum. \u00f0e \u00fe\u01fdt leden ne cunnnon in codice Exon. bibliothec\u01fd' refers to this manuscript. It cannot have been at Exeter as late as this, since it was used by <span class=\"name\">Archbishop Parker</span>. Presumably James was copying from a sixteenth-century transcript; perhaps one of <span class=\"name\">Joscelyn</span>'s. Belonged to <span class=\"name\">Robert Cotton</span> in 1621 (<a href=\"#wan470\">Wanley 1705</a>, p. 201)", 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> along with the rest of the <span class=\"name\">Cotton</span> collection."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Molly Hogan, Hollie Morgan, Owen Roberson and Takako Kato (2010; 2013)", 
+    "surrogate": true, 
+    "bib": [
+        "baz390", 
+        "bel365", 
+        "bis642", 
+        "bet109", 
+        "cle112", 
+        "dra419", 
+        "har465", 
+        "kat1650", 
+        "ker44", 
+        "lap466", 
+        "lie471", 
+        "lui328", 
+        "nap123", 
+        "nap1258", 
+        "pop87", 
+        "scr565", 
+        "scr125", 
+        "str473", 
+        "stu468", 
+        "sza1588", 
+        "tho57", 
+        "tre1587", 
+        "tre106", 
+        "wan470", 
+        "wat88", 
+        "wil78", 
+        "win472", 
+        "wri1259"
+    ]
+}

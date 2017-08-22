@@ -1,0 +1,469 @@
+{
+    "id": "CCCC.265", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "265", 
+    "ker": "53", 
+    "content": "Directions for a confessor; Law; Glosses", 
+    "location": "Worcester", 
+    "date": "s.xi^{2}", 
+    "summary": "A collection of texts relating to canon law. The Old English items comprise:", 
+    "items": [
+        {
+            "locus": "pp. 72-73", 
+            "text": "B.11.4.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 72) \u00d0\u00e6t sceal ge\u00feencan se \u00fee bi\u00f0 manna sa\u01bfle l\u00e6ce"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 73) \u00c6lc d\u00e6de to sceade man \u01bf\u00e6rlice for godeondfor \u01bforulde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 260"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 73-79", 
+            "text": "B.11.4.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 73) \u00d0as \u00feea\u01bfas man h\u00e6lde\u00f0 begeondan s\u00e6."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 79) o\u00f0\u00f0ehuru on earde be \u00feam deoppestan bete \u00fee he \u00e6fre acuman m\u00e6ge s\u01bfa s\u01bfa him man t\u00e6ce."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 79", 
+            "text": "B.11.4.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 79) On \u01bfisum scrifte bi\u00f0 s\u01bfi\u00f0e for\u00f0gelang"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 79) ondsumum ealle lif dagas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 278"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 80", 
+            "text": "B.11.4.3.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 80) Se l\u00e6ca \u00fee sceal sare \u01bfunda \u01bfel geh\u00e6lab"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 80) ondhis sylfes geornfulnesse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 278"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 80-81", 
+            "text": "B.11.4.3.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 80) Deoplic d\u00e6dbot bi\u00f0\u00fe\u00e6tl\u00e6\u01bfde man"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 81) \u00fe\u00e6t he \u01bfi\u00f0 god gebetanne m\u00e6ge aginne he hit georne"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 280"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 81-82", 
+            "text": "B.11.4.3.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 81) D\u00e6dbota syndgedihteon mistlice \u01bfisan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 82) \u00fe\u00e6nne bio\u00f0 his synna sona \u00fee leohtran"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "282"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 82-83", 
+            "text": "B.11.4.3.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 82) \u00c6nne dom mid scrifte ge\u00feeahte"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 83) \u00fe\u00e6the tihte to eacan himsylfum\u00e6lcne man to rihte s\u01bfa he geornost m\u00e6ge"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 284"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 83", 
+            "text": "B.11.4.8.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 83) Her cy\u00f0on hu seoc man mot his f\u00e6stan alysan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 83) ond\u00e6fre georne ges\u01bfican"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 284"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 222-27", 
+            "text": "B.14.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 222) Ualete feliciter in cristo"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 222) Her is ges\u01bfutelod on\u00feisumge\u01bfrite hu eadgar cyncg \u01bf\u00e6s smeagende"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 227) ondeo\u01bfeallums\u01bfy\u00f0e bli\u00f0e eom for\u00f0i \u00fee ge s\u01bfa georne ymbe fri\u00f0 syndon"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "p. 206"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 30", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 30) \u00feeh he beo s\u01bfi\u00f0esgebeden"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the words 'maxime cum petatur'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 110"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 39", 
+            "text": "C.62", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 39) gerim"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the word 'compotum'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "had774", 
+                    "page": "p. 417"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 41", 
+            "text": "C.62.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 41) Be m\u00e6isl\u00e6hte ond bro\u00f0ersl\u00e6lte"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the words 'De paricidiis et fratricidiis. Gloss written in rustic capitals, possibly by Coleman. For information on the hand, see Ker 1949, p. 29."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "ker95"
+                }, 
+                {
+                    "work": "had774", 
+                    "page": "p. 419"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 54", 
+            "text": "C.89.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 54) T\u01bfih\u00e6med. \u00fe\u00e6tis se \u00fee tu\u01bfa \u01bfifa\u00f0; \u00feryh\u00e6med se \u00fee \u00feri\u01bfa \u01bfifa\u00f0"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the words 'Bigamus' and 'Trigamus'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 60", 
+            "text": "C.89.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 60) ortry\u01bf\u00f0a"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the word 'desperatio'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 60"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 61", 
+            "text": "C.89.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 61) se ceorl"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the word 'maritus'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 63", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 63) untymende; unf\u00e6gr; stincende; \u01bfac; \u01bfeamod; un\u01bfis; gifre; teonful; yfel\u01bfyrde"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE glosses to the words: 'sterilis', 'deformis', 'fetida', 'temulenta', 'iracunda', 'fatua', 'gulosa', 'iurgatrix', 'maledicta'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 115"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 112", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 112) f\u00e6der; ealda f\u00e6der; \u00feridda f\u00e6der; Feor\u00f0a f\u00e6der; Fifta f\u00e6der; Sixta f\u00e6der"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE glosses to the words: 'Pater', 'Auus', 'Proauus', 'Abauus', 'Attauus', Tritauus'. These are marginalia unrelated to the text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 122", 
+            "text": "C.89.3.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 122) sylting \u019a werednys \u019a lucrum"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss to the word: 'condimentum'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 136", 
+            "text": "C.89.3.5.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 136) profectionibus \u00feeonde; circumdatus of \u00feryht"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE glosses to the words: 'exhibitionibus' and 'obsitus'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 53"
+                }, 
+                {
+                    "work": "nap562", 
+                    "page": "p. 107"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Hollie Morgan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship; ed. by Takako Kato (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#nap562"
+    ]
+}

@@ -1,0 +1,400 @@
+{
+    "id": "BL.Vite.C.iii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vitellius C. iii", 
+    "ker": "218; 219", 
+    "content": "Macer glosses, Pseudo-Apuleius, Herbarium, Macrobius, etc.", 
+    "location": "Canterbury or Rochester", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Fol. 10v", 
+            "text": "C.99.1.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "78 titles of the viribus herbarum glossed in Old English."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 12r-74v", 
+            "text": "B.21.1.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(Fol. 12r) \u01bfi\u00f0 unhyrum nihtgengum \u02e5 \u01bfi\u00f0 egeslicum gesyh\u00feum \u02e5 s\u01bfefnum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(Fol. 74v) \u01bfi\u00f0 hramman genim \u00feysse ylcan | \u01bfyrte s\u00e6d gecnucud syle | drincan on \u01bf\u00e6tere. hyt helpe\u00fe | se sylfa drenc eac s\u01bfylce on"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ending seems imperfect."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 17v", 
+            "text": "B.21.1.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(Fol. 17v) Se unbrade \u00feisel he hevat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 18v", 
+            "text": "B.21.5.8.1.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (Fol. 18v) Ad uertiginem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(Fol. 18v) Num betonica \u02e5 \u01bf\u00e6ll s\u01bfy\u00f0e on \u01bfin | o\u00fe\u00fee on ald eala\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 18v) nim si\u00f0\u00f0on \u00fea \u01bfyrtas \u01bf\u00e6r | ma alla \u01bfi\u00f0utan sauina \u02e5 bind | to \u00feam heafde alla niht"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 18v", 
+            "text": "B.21.5.8.1.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (Fol. 18v ) Ad pectoris dolorem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(Fol. 18v ) Num horsellens \u02e5 eft ge\u01bf\u00e6nen bare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Fol. 18v Eft \u01bfi\u00f0 \u00fe\u00e6t ilce nim readstalede harhuna | \u02e5 ysopo \u02e5 stemp \u02e5 do \u00e6nne neo\u01bfna | pott an flering of \u00f0a harhuna | 7 o\u00f0er of ysope \u02e5 dridde | of fersc | butur \u02e5 eft \u00fea \u01bfyrt \u02e5 s\u01bfa \u00fea butra | for\u00f0 \u00fe\u00e6t se pott beo full \u02e5 eo\u00f0 hig | s\u01bfy\u00f0e tog\u00e6dra tironian \u01bfring si\u00f0\u00f0en \u00feurh"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ending seems incomplete."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 75r-82v", 
+            "text": "B.21.1.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( Fol. 75r ) SAGAS\u00d0 \u00d0\u00c6T \u00c6GYP | ta cyning idpartus \u01bf\u00e6s haten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( Fol. 82v ) \u01f7it hunda re\u00f0nusse and \u01bfi\u00f0err\u00e6\u00f0 | nysse se \u00fee haf\u00e6th hundes heor | tan mid him ne beo\u00f0 ongean hine | hundas cene."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 82v-83r", 
+            "text": "B.21.5.8.2.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( Fol. 82v ) \u00d0is is seo seleste eah salf"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( Fol. 83r ) \u02e5 \u00f0eos salf | help \u01bfi\u00f0 \u00e6gh\u01bfylcum ges\u01bfelle | to \u00feicganne \u02e5 to smyrianne | in s\u01bfa h\u01bfylcum lime s\u01bfa hit | on bi\u00f0:"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 83r", 
+            "text": "B.21.5.8.2.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( Fol. 83r ) \u00d0is m\u00e6g to eahsalfe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( Fol. 83r) \u00feis is afandan l\u00e6ce | cr\u00e6ft"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 83r", 
+            "text": "B.21.5.8.2.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( Fol. 83r ) \u01f7i\u00f0 lungenadle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( Fol. 83r ) hit is | halu\u01bfende bote"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 83", 
+            "text": "B.21.5.8.2.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( Fol. 83r ) \u01f7i\u00f0 for adle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( Fol. 83r ) syle \u00fean | men drincan o\u00fe \u00f0\u00e6t he hal sy."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 83r", 
+            "text": "C.99.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(Fol. 83r ) '\u01bfret' glossing 'Warantie'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "An Old English gloss in a Latin recipe."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang98", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 283-85"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "ca. 250/260 mm x 190 mm (dimensions of all - size of the best preserved leaves; damaged by fire).\n220-250 mm x 150-170 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Part 1, fols 5-10, ruled for 64 long lines in two columns, column width 83 mm, in brown crayon, with inner and outer double bounding lines, three bounding lines between columns. Part 2, fols 11-85, rules 31 lines in two columns, except for fols 12-18, 30 lines, column width 65/70 mm, with inner and outer double bounding lines, three bounding lines between columns.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "several", 
+        "summary": "The hands of at least nine annotators can be found in this manuscript. Part 2, fols 11-85, is copied by one hand in a square insular script of s.xi", 
+        "hands": [
+            {
+                "name": "glosses", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker items 218 and 219", 
+                "description": "Fols 5-10. The hand of the English glosses is an English Vernacular Minuscule with insular letter forms.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span>: used."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span>: used."
+                    }
+                ], 
+                "date": "s. xii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in 1977.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The manuscript has been ascribed to several places. <a href=\"#jam602\">James</a> 1903 postulated that parts 1 and 2 may be identified with a <span class=\"name\">Canterbury, Christ Church</span> manuscript: <span class=\"italics\">Herbarius anglice depictus</span>, no. 308 in Prior Eastry's catalogue (p. xxv). <a href=\"#ker44\">Ker</a> refutes the suggestion as 'the twefth-century writing in the manuscript is not of the Canterbury type' (1957, p. 285). <span class=\"name\">Rochester</span> has also been associated with Vitellius C. iii (<a href=\"#flo859\">Flom</a> 1941, <a href=\"#voi864\">Voigts</a> 1977, n. 16, 44 and <a href=\"#ang98\">Doane</a> 1994, p. 20).", 
+        "provenance": "The names '<span class=\"name\">Richerd Hollond</span>/ and 'elysabet colmore' are written in a s. xvi hand. The manuscript is included in <span class=\"name\">Cotton</span>'s catalogue in 1621, British Library, Harley 6018 (<a href=\"#wan416\">Wanley</a> 1705, p. 217).", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee, and additional notes by Owen Roberson (2010; 2013). Thanks are due to Klaus-Dietrich Fischer for his helpful suggestions and feedback after the description was initially published in 2010.", 
+    "surrogate": true, 
+    "bib": [
+        "bec791", 
+        "bie832", 
+        "bri1165", 
+        "cho857", 
+        "coc404", 
+        "dar836", 
+        "dev838", 
+        "ang98", 
+        "flo859", 
+        "flo860", 
+        "fri858", 
+        "gne146", 
+        "gou861", 
+        "503", 
+        "jam602", 
+        "ker44", 
+        "moo862", 
+        "pla1170", 
+        "rob335", 
+        "tem30", 
+        "voi863", 
+        "voi864", 
+        "voi865", 
+        "wan470", 
+        "wil531"
+    ]
+}

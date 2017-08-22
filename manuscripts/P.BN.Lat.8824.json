@@ -1,0 +1,66 @@
+{
+    "id": "P.BN.Lat.8824", 
+    "city": "Paris", 
+    "repository": "Bib. Nat.", 
+    "collection": "Lat.", 
+    "shelfmark": "8824", 
+    "ker": "367", 
+    "content": "Psalter", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Psalter with Old English translation in the second column, next to the Latin text. One hand, origin unknown, but <a href=\"#ker44\">Ker</a> (1957, p. 440) notes: it 'belonged to <span class=\"name\">Jean, duc de Berry</span> (1340-1416)'.", 
+    "items": [
+        {
+            "locus": "fols 1-175", 
+            "text": "A.5", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "bri1610", 
+                    "page": "1907, 123"
+                }, 
+                {
+                    "work": "gre962", 
+                    "page": "1881-98, iii. 332"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 440-41"
+                }, 
+                {
+                    "work": "kra606", 
+                    "page": "1932, 3"
+                }, 
+                {
+                    "work": "tan1611", 
+                    "page": "1883, 125"
+                }, 
+                {
+                    "work": "tho1612", 
+                    "page": "1835"
+                }, 
+                {
+                    "work": "wor29", 
+                    "page": "1952, no. 55"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with reference to published scholarship (August 2010).", 
+    "surrogate": false, 
+    "bib": [
+        "#bri1610", 
+        "#gre962", 
+        "#ker44", 
+        "#kra606", 
+        "#tan1611", 
+        "#tho1612", 
+        "#wor29"
+    ]
+}

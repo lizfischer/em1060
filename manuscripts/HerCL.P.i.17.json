@@ -1,0 +1,48 @@
+{
+    "id": "HerCL.P.i.17", 
+    "city": "Hereford", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "P. i. 17", 
+    "ker": "120", 
+    "content": "Glosses", 
+    "location": "Cirencester", 
+    "summary": "57 English glosses to Aldhelm\u2019s prose <span class=\"italics\">De laude virginitatis</span>, of the same date as the main text, and added after Latin glosses to it. Flyleaf inscription localises manuscript to <span class=\"name\">Cirencester</span> (<a href=\"#ker44\">Ker 1957</a>, p. 157).", 
+    "items": [
+        {
+            "locus": "fols 2v-94v", 
+            "text": "C.31.4", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 2v) ad pontificale, episcopale, biscoplicum / conciliabulum colloquium syno\u00f0e"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 94v) indicium, dom"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fifty-seven glosses to Aldhelm, De laude virginitatis, in the prose version"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap959", 
+                    "page": "no.3, pp. 149-50"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#nap959"
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "id": "Ox.Bodl.155", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "155 (1974)", 
+    "ker": "303", 
+    "content": "Latin Gospel-Book; containing Barking, List of Lands", 
+    "location": "Barking", 
+    "summary": null, 
+    "decoration": null, 
+    "binding": "Soft bound, <span class=\"date_key\">s. xvii (?)</span> in polished white leather. Sewn on three thongs. Remains of two pins on upper cover.", 
+    "accompanying": "Fols. i, 197 are modern paper flyleaves, contemporary with the binding. Fols. ii, iii are a vellum bifolium introduced into the manuscript by Batman.", 
+    "history": {
+        "origin": null, 
+        "provenance": "The records on fol. 196v are most likely to have been added at Barking Nunnery.", 
+        "acquisition": "Acquired by the Bodleian before 1602, probably from <span class=\"name\">Sir Walter Cope</span> (1553?-1614)."
+    }, 
+    "admin": "Described by Mark Faulkner (September 2009)", 
+    "surrogate": true, 
+    "bib": [
+        "ale591", 
+        "ale588", 
+        "bac590", 
+        "bod587", 
+        "fre586", 
+        "gne146", 
+        "har672", 
+        "har671", 
+        "ker44", 
+        "mad369", 
+        "ohl31", 
+        "pac589", 
+        "tem30", 
+        "wor29"
+    ]
+}

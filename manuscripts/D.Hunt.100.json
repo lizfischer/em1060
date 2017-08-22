@@ -1,0 +1,138 @@
+{
+    "id": "D.Hunt.100", 
+    "city": "Durham", 
+    "repository": "Cathedral Library", 
+    "collection": "Hunter", 
+    "shelfmark": "100", 
+    "ker": "110", 
+    "content": "Liber de medicina, compoto, et astronomia, including Latin-Old English herbal glossary", 
+    "location": "Durham", 
+    "date": "s.xii^{in}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 82-84", 
+            "text": "D.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 82r) Absinthium.Vermod"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 84v) Zizania. coccel"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Scanned facsimile is too blurred to read. Incipit and explicit taken from Doane and Rollason 2007."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1635", 
+                    "page": "2007"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 110"
+                }, 
+                {
+                    "work": "myn182", 
+                    "page": "1939, no. 57"
+                }, 
+                {
+                    "work": "von800", 
+                    "page": "1941, p. 8"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "1864-66, iii, p. 299"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 106", 
+            "text": "B.21.5.10.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 106v) Ad papulami. blege"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1635", 
+                    "page": "2007"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 110"
+                }, 
+                {
+                    "work": "myn182", 
+                    "page": "1939, no. 57"
+                }, 
+                {
+                    "work": "von800", 
+                    "page": "1941, p. 8"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "1864-66, iii, p. 299"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "170 mm x 120 mm (dimensions of all - size of leaves).\n120 mm x 80 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Restored seventeenth-century binding.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to <a href=\"#ker44\">Ker</a> 1957, the manuscript 'was no doubt written at <span class=\"name\">Durham</span> shortly after 1100'. This is shown by the occurence of the hand identified as belonging to <span class=\"name\">Symeon</span>, cantor and historian of the church of <span class=\"name\">Durham</span> (d. ca. 1129), found in part of the first booklet (<a href=\"#doa1635\">Doane and Rollason</a> 2007, p. 111).", 
+        "provenance": "'The book presumably remained at <span class=\"name\">Durham</span>, and entered the collection of <span class=\"name\">Dr. Christopher Hunter</span> (1675-1757). An apparently intermediate owner is noted on fol. 121r: '<span class=\"name\">Roger Gan(d)sar</span> | hys Book 1710.' (<a href=\"#doa1635\">Doane and Rollason</a> 2007, p. 111).", 
+        "acquisition": "The book was bought from the executors of <span class=\"name\">Dr. Christopher Hunter</span> in 1757 by the Dean and Chapter of <span class=\"name\">Durham</span>. That it received its present arrangement in fairly recent times is shown by the eighteenth-century inscription at the top of fol. 85r: 'Liber Ecclesi\u00e6 | Cathedr. Dunelm.' (<a href=\"#doa1635\">Doane and Rollason</a> 2007, p. 111)."
+    }, 
+    "admin": "Described by Owen Roberson with the assistance of Hollie Morgan and Johanna Green (August 2010; 2013). Thanks are due to Monica H. Green and Klaus-Dietrich Fischer for their helpful suggestions and feedback after the description was initially published in 2010.", 
+    "surrogate": true, 
+    "bib": [
+        "alb765", 
+        "bak790", 
+        "bou792", 
+        "coc404", 
+        "cor793", 
+        "dek789", 
+        "doa1635", 
+        "gul794", 
+        "hau795", 
+        "jon796", 
+        "ker44", 
+        "kru797", 
+        "lap798", 
+        "lev799", 
+        "lin522", 
+        "maa801", 
+        "mcg802", 
+        "mcg803", 
+        "mey804", 
+        "myn182", 
+        "rol705", 
+        "sax529", 
+        "sto805", 
+        "str806", 
+        "tho452", 
+        "tho807", 
+        "van808", 
+        "von800", 
+        "809", 
+        "wor810", 
+        "sur786"
+    ]
+}

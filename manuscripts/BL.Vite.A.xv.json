@@ -1,0 +1,266 @@
+{
+    "id": "BL.Vite.A.xv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vitellius A. xv, fols 4-93", 
+    "ker": "215", 
+    "content": "Religious Prose and Pastoral Texts", 
+    "location": "Unknown", 
+    "date": "s.xii^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 4r-59v", 
+            "text": "B.9.4.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(4r) Gaderode me \u00feonne kicglas \u02e5 stu\u00fean sceaftas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(59v) H\u00e6r endia\u00f0 \u00fea cwidas \u00fee \u00e6lfred kining al\u00e6s of \u00fe\u00e6re bec \u00fee we hata\u00f0 on"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 215, article 1"
+                }, 
+                {
+                    "work": "", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 60r-86v", 
+            "text": "B.8.5.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(60r) hyne cumen hyder to foran"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(86v) Sig dryhtne lof and deoflum sorh a to worulde. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Begins imperfectly at Ch. I.2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 215, article 2"
+                }, 
+                {
+                    "work": "", 
+                    "page": "pp. 143-247."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 86v-93v", 
+            "text": "B.5.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(86v) Her ki\u00f0 hu saturnus. \u02e5 Saloman. fettode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(93v) vii hund hlafa \u02e5 xx hlafa buton morgeme[tt]en \u02e5 nonmettum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 215, article 3"
+                }, 
+                {
+                    "work": "", 
+                    "page": "pp. 25-34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 93v", 
+            "text": "B.3.3.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(93v) Hit sag\u00f0 \u00fe\u00e6t \u00f0a geforewritu cy\u00f0a\u00f0 by \u00feara haligra martira lyfe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(93v) \u00fe\u00e6t he \u00feam heofonlican criste hys gewinnu and his haligan drohtnunge..."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly due to loss of leaves"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 215, article 4"
+                }, 
+                {
+                    "work": "", 
+                    "page": "pp. 258-61"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "c. 200 mm x 130 mm (dimensions of all - size of leaves).\n157 mm x 100 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "18 lines per page, with an average of only eight words per line. Single bounding lines, ruled in pencil.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "According to", 
+        "hands": [
+            {
+                "name": "fols 4-95", 
+                "scope": "sole", 
+                "script": "mid-twelfth-century", 
+                "scribe": "Ker 215", 
+                "description": "Fols 4-95. The general aspect is upright.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "minims", 
+                        "note": "the shoulders of <span class=\"c\">minims</span> are often rounded, as are the feet to the right of minims."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are generally straight and tapering or tagged to the left;"
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> taper and usually curve to the left."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline, with a prominent bowl and relatively undeveloped head, which is occasionally ligatured to preceding letters."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span> is formed with a small, single compartment <span class=\"c\">a</span> plus a rounded <span class=\"c\">e</span> with a long back. This scribe also uses (as do the scribes of <a href=\"BL.Clau.B.iv.htm\">Claudius B. iv</a>, and <a href=\"BL.Hatt.116.htm\">Hatton 116</a>) a spurred <span class=\"c\">e</span> in place of <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> same shape as, but slightly shorter than, <span class=\"c\">\u00f0</span>."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is Caroline, but occasionally descends slightly below the line, and can be backward-leaning. Its cross-stroke is longer than the rounded headstroke, and often ligatures with the following letter."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular and rather s-shaped with the tail beginning at the left of the headstroke with an angular initial descent into a curved and open tail, which distinctively curls under the preceding letter."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is Caroline; the right limb often curves below the line."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is commonly insular, but with a very narrow angular shoulder, and a hooked end that finishes above the ruled line. Occasional 2-shaped <span class=\"c\">r</span> is used after <span class=\"c\">o</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is a hybrid version, somewhere between Caroline and long s. It has barely any shoulder, and the descender tapers beneath the line to the left; suprascript round <span class=\"c\">s</span> is occasionally used at the line end (fol. 55)."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> same shape as <span class=\"c\">d</span>, but usually has a higher ascender. The cross-bar is distinctive with a tag up at the left and a tag down at the right."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is distinctive, sitting more or less on the line. It is curved and dotted and sometimes tilted slightly to the right."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> leans to the left."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> has a large bowl, and could be easily confused with <span class=\"c\">p</span>."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are hooked, and occur quire frequently. Ker notes they occur on 'ic', 'is', 'on' (preposition), derived probably from an exemplar of s. ix/x or s. x (<a href=\"#ker44\">Ker 1957</a>, p. 280)."
+                    }, 
+                    {
+                        "char": "an", 
+                        "note": "The subscript <span class=\"c\">an</span> in the termination of 'anceran' (fol. 20) is derived probably from an exemplar of s. ix/x or s. x (<a href=\"#ker44\">Ker 1957</a>, p. 280). The <span class=\"c\">Tironian nota</span> sits on, or just below, the line, curving to the left; its head is curved."
+                    }, 
+                    {
+                        "char": "Hyphens", 
+                        "note": "Curved mark of abbreviation."
+                    }, 
+                    {
+                        "char": "Hyphens", 
+                        "note": "A vertical row of three dots marking the place for inseting omitted letters."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "Belonged to <span class=\"name\">Southwick priory, Hants.</span> The late-thirteenth-century inscription of ownership is at the foot of fol. 5: 'Hic liber est Ecclesie beate marie de Suwika quem qui ab eadem abstulerit. uel titulum istum dolose deleuerit nisi eidem ecclesie condigne satisfecerit; sit Anathema maranatha. fiat fiat; Amen; Amen' (<a href=\"#wan416\">Wanley 1705</a>, p. 218; <a href=\"#ker44\">Ker 1957</a>, pp. 280-81; <a href=\"#kie1653\">Kiernan 1997</a>, p. 112, n. 32).", 
+        "acquisition": "Acquired by the British Museum along with the rest of the Cotton library."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Owen Roberson and George Younge (2010; 2013). Special thanks are due to Kevin Kiernan for his helpful suggestions and feedback.", 
+    "surrogate": true, 
+    "bib": [
+        "end854", 
+        "end854", 
+        "for856", 
+        "for856", 
+        "for856", 
+        "hul428", 
+        "ker44", 
+        "kie1653", 
+        "kie1515", 
+        "mad369", 
+        "par149", 
+        "pla1170", 
+        "tho855", 
+        "hul428", 
+        "wan416"
+    ]
+}

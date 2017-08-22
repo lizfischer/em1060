@@ -1,0 +1,520 @@
+{
+    "id": "BL.Roya.2.B.v", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "2. B. v", 
+    "ker": "249", 
+    "content": "Gloss to Regius Psalter", 
+    "location": "Winchester;  Canterbury, Christ Church", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 6r", 
+            "text": "B.7.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6r) Selre by\u00f0 oft fe\u00f0re ;"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6r) only one sentence"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6v", 
+            "text": "B.12.4.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6v) Min drihten leof for \u00feinre \u00fe\u00e6re | micelan mildheortnysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6v) Si \u00fee lof \u02e5 \u01bfuldor a butan ende amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 8r-171r", 
+            "text": "C.7.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 8r) EADIG | \u01bfer se \u00fee na eode on ge\u00feeahte | \u02e5 arleasra on \u01bfeg | synfylra na stod \u02e5 on heahsetle \u02e5 c\u01bfyldes \u01bfa\u01bfan | set (incipit of the first psalm)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 171r) \u00e6lc gast herige drihten (explicit of the final psalm)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xmed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 171v", 
+            "text": "C.11.9.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 171v) Ic andette \u00fee \u00f0u eorsodes | gecyrred is hatheortes | \u00fein \u02e5 \u00feu frefredest me"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 171v) gef\u00e6gena \u02e5 here eardung ecclesi\u0119 | for\u00f0on micel on middele \u00feinum | halig"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 172r-73r", 
+            "text": "C.11.9.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 172r) ic cw\u00e6\u00f0 on middele daga minra | ic gange to gatum helle | ic sohte lafe geara"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 173r) hale us \u00feu do \u02e5 sealmas | ure \u01bfe singa\u00f0 eallum | dagum lifes ures on huse drihtnes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 173r-74v", 
+            "text": "C.11.9.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 173r) gef\u00e6gnode heorte min | on"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 174v) \u02e5 he gem\u00e6rsa\u00f0 horn cyning his"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 174v-75v", 
+            "text": "C.11.9.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 174v) uton singan drihtne \u01bfuldorfullice | so\u00felice he gear\u01bfeor\u00feod is | hors"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 175v) \u02e5 he in | l\u00e6dde ofer hy w\u00e6teru s\u00e6s | bearn eodon drigum fotum \u00f0urh middel s\u00e6s"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 175v-77v", 
+            "text": "C.11.9.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 175v) ic gehyrde gehyrnesse \u00f0ine"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 177v) \u02e5 ofer heahnessa gesette me \u00fe\u00e6t ic | ofers\u01bfi\u00f0e on beorhtnesse his"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 117v-81v", 
+            "text": "C.11.9.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 177v) begim \u00feu heafon \u02e5 ic sprece"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 181v) \u02e5 | \u00feam \u00fee hatedom hine he agylde\u00fe | \u02e5 gecl\u00e6snade eor\u00f0an | folces his"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 181v-82v", 
+            "text": "C.11.9.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 181v) bletsia\u00f0 ealle \u01bfeorc drihtnes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 182v) \u00feu gebletsod eart on trumnesse heofones | \u02e5 heriendlice \u02e5 oferupahafen | on \u01bforulde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 183v-83r", 
+            "text": "C.11.9.8.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 182v) gebletsod getreo\u01bfra | for\u00f0on he neosode \u02e5 he dyde alysednesse | folces his"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 183r) onlyhtan \u00fe\u00e6m \u00f0e on \u00feystrum | \u02e5 on scade dea\u00fees sitt\u00e6th to ge | reccanne fet ure on \u01bfeg | sybbe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 183r-v", 
+            "text": "C.11.9.9.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 183r) gemicla\u00f0 sa\u01bfl min drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 183v) s\u01bfa s\u01bfa he spr\u00e6c to f\u00e6derum urum \u02e5 s\u00e6ds\u01bforne his on \u01bforuld +'+' is a cross a\u01bforuld"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 183v-84r", 
+            "text": "C.11.9.10.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 183v) nu forl\u00e6t \u00f0eo\u01bf \u00feinne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 184r) leoht to a\u01bfrigennesse \u00feeoda | \u01bfuldor folces \u00f0ines"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 184r-86v", 
+            "text": "C.11.9.11.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 184r) s\u01bfa h\u01bfa s\u01bfa \u01bfile hal \u01bfesan | toforon eallum \u00feearf is so\u00felice | \u00fe\u00e6t he nime \u00feone fulfremedan geleafan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 186v) \u00feis is geleafa ciriclic \u00feone num\u00f0e | h\u01bfylc getreo\u01bflice \u02e5 trumlice gelyfe| hal \u01bfesan na he m\u00e6g"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "186v-87r", 
+            "text": "C.11.9.12.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 186v) \u01bfuldor on heahnessum gode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 187r) mid halgum gaste on \u01bfuldre | godes \u02e5 f\u00e6der gea la g\u0119 + '+' is a crosssy s\u01bfa"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 190v-92r", 
+            "text": "B.11.9.3.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 190v) Myn drihten god \u00e6lmihtig ic \u00fee eom andetta | minra synna \u00feara \u00fee ic in minre geme | l\u0119ste \u01bfi\u00fe \u00fee ge\u01bforhte"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 192r) Per te Ihesu Xriste saluator | mundi qui in trinitate perfecta uiuis et regnas in secula seculorum amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 192r-96v", 
+            "text": "B.12.4.3.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 192r) Min drihten \u00e6lmihtig si \u00fee | \u01bfuldor \u02e5 \u00feonc \u00fe\u00e6s \u00fee \u00f0u me o\u00f0\u00f0e \u00e6nigum men \u00e6fre | to miltsum fogeafe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 196v) Se man \u00fee \u00feis gef\u00e6st ne \u00feerf he na"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 197r-98r", 
+            "text": "B.11.9.3.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 197r) Eala \u00feu \u00e6lmihtiga god unasecgendlicere mildheortnesse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 198r) H\u00e6lend crist gehyr \u00feas \u01bford \u00feu \u00f0e | leofast \u02e5 rixast mid \u00feam \u00e6lmihtigan f\u00e6der \u02e5 \u00feam halgan gaste butan a | nginne \u02e5 ende. AMEN:"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 198r", 
+            "text": "B.12.4.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 198r) Man mote hine gebiddan s\u01bfa s\u01bfa he m\u00e6g \u02e5 can"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 198r) Ac se\u00fee \u00feis singan | \u01bfylle ne secge he na mare on \u00fe\u00e6re andetnysse \u00feonne he \u01bfyrcende w\u00e6s | for\u00fean\u00f0e ure h\u00e6lend nele \u00fe\u00e6t man on hine sylfne leoge ne eac | ealle menn on ane \u01bfisan ne syngia\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 318-20"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment, flyleaves are modern paper.", 
+        "extent": "272 mm x 184 mm (dimensions of all - size of leaves).\n196 mm x 125 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Binding is nineteenth-century red leather.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Probably written at <span class=\"name\">Winchester</span>, as the saints <span class=\"name\">Machutus</span> and <span class=\"name\">Eadburga</span> are invoked in a prayer added in fol. 1, in s. xi<span class=\"sup\">1</span> (<a href=\"#ker44\">Ker 1967</a>, p. 320).", 
+        "provenance": "The notes on fol. 198v and the letter mark 'r' on fol. 8r show that it was at <span class=\"name\">Christ Church, Canterbury</span> in s. xi and later. In the sixteenth century the manuscript belonged to <span class=\"name\">Archbishop Thomas Cramner</span> and then <span class=\"name\">Lord Lumley</span> (d. 1609).", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan and Sanne van der Schee (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "dav1495", 
+        "dav1494", 
+        "dew1496", 
+        "dob617", 
+        "for1500", 
+        "gne146", 
+        "hen516", 
+        "ker44", 
+        "log523", 
+        "mer1069", 
+        "mor481", 
+        "nap964", 
+        "one1497", 
+        "pul1498", 
+        "pul1493", 
+        "roe1499", 
+        "scr565", 
+        "sis738", 
+        "wan470", 
+        "wul968", 
+        "zup1080"
+    ]
+}

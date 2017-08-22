@@ -1,0 +1,41 @@
+{
+    "id": "BL.Arun.155", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Arundel", 
+    "shelfmark": "155", 
+    "ker": "135", 
+    "content": "Gloss to Prayers", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xi^{med}", 
+    "summary": "Interlinear gloss to 40 Latin prayers and forms of confession which follow a Roman psalter. <a href=\"#ker44\">Ker 1957</a> notes that the gloss is written by two hands almost contemporarty to the main hand, s. xi<span class=\"sup\">med</span> (p. 171). Calendar and litany are localizable to <span class=\"name\">Christ Church, Canterbury</span>.", 
+    "items": [
+        {
+            "locus": "fols 171r-93v", 
+            "text": "C.23.1", 
+            "notes": null,
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 135"
+                }, 
+                {
+                    "work": "pul1163",
+                    "page": "1994, item 175, pp. 32-36"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#pul1163"
+    ]
+}

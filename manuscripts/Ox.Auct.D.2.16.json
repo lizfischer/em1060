@@ -1,0 +1,397 @@
+{
+    "id": "Ox.Auct.D.2.16", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Auct.", 
+    "shelfmark": "D. 2. 16 (2719)", 
+    "ker": "291", 
+    "content": "List of Donations to Exeter by Leofric and \u00c6thelstan, and inscription, and possibly additional Old English text", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1-2v", 
+            "text": "B.16.10.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1) Her swutela\u00f0 on \u00feissere cristes bec hw\u00e6t leofric bisceop h\u00e6f\u00f0 gedon inn to sancte petres minstre on exanceastre"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 291"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6v", 
+            "text": "B.16.10.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6v) \u00d0ar crister boc gef leofric biscop sabcto petro."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 291"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 8-14", 
+            "text": "B.16.10.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 8) Her swutela\u00f0 on \u00feisum gewrite be \u00feam halgum reliquium. \u00fee \u00e6\u00feelsta se wur\u00f0fulla kyning geaf"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 291"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 190", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 190)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker 1957, there was probably an Old English text in the blank space after St. John's gospel, but only isolated letters are visible under ordinary or ultra-violet light."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 291"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Modern paper flyleaves are fols i-v and 196-98.", 
+        "extent": "295 mm x 215 mm (dimensions of quire 1 - size of leaves).\n195 mm x 125 mm (dimensions of quire 1, fols 1 and 2 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 in Old English between 1060 and 1220", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "Inventory", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 291 Art. a", 
+                "description": "Fols 1-2v. According to", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is in the rounded insular form; Caroline <span class=\"c\">a</span>,used for Latin, has a fully developed head, but is still open at the top-left."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "Sometimes <span class=\"c\">e</span> is slightly higher than <span class=\"c\">a</span> in the combination <span class=\"c\">\u00e6</span>, but there is no use of distinctly tall e in <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Insular <span class=\"c\">d</span> has a very short ascender which occasionally flicks up. Latin <span class=\"c\">d</span> has a straight ascender with a wedge at the top, and feet at the bottom."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>, with a straight back, often shows a small horn to the left and a short tongue. Latin <span class=\"c\">e</span> is usually round-backed."
+                    }, 
+                    {
+                        "char": "\u0119", 
+                        "note": "<span class=\"c\">\u0119</span> is sometimes used for <span class=\"c\">\u00e6</span> in Latin."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular; its tongue is on the writing line, and the descender curves to the left. Caroline <span class=\"c\">f</span>, with a serif to the right on the writing line, is used for Latin."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The loop of <span class=\"c\">g</span> closes in a small bowl, and the vertical stroke joins the horizontal bar somewhere between the middle and the left end. Caroline <span class=\"c\">g</span> has a round lobe on the top with a tongue from the upper right, and the loop starts from the middle of the lobe and finishes open with a hairline serif to the left."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "Both limbs of insular <span class=\"c\">h</span> have serifs to the right; the second limb of Caroline <span class=\"c\">h</span> turns inwards. In both forms, the ascenders are wedged at the top."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "The feet of <span class=\"c\">minims</span> finish with a serif to the right. The letters <span class=\"c\">i</span>, <span class=\"c\">n</span>, <span class=\"c\">m</span> and <span class=\"c\">u</span> are distinguishable."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has a round lobe, and its descender often has a foot with a serif to the right."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Insular <span class=\"c\">r</span> for English; Caroline <span class=\"c\">r</span> for Latin."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> arches at the top and finishes with its descender curving to the left; Insular low <span class=\"c\">s</span> is also used; the downstroke of Caroline long <span class=\"c\">s</span> ends at the writing line with a serif."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span> has a round back with a straight head. The back-stroke meets the middle of the head-stroke."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The long, straight, slanting backstroke of <span class=\"c\">\u00f0</span> begins with a downward serif, and its crossbar has an upward serif to its right."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has a straight descender, which begins with a wedge and finishes tapered with a slight curve to the left."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "The shape of <span class=\"c\">\u01bf</span> is similar to that of <span class=\"c\">p</span>, but the lobe of <span class=\"c\">\u01bf</span> is elongated, and the descender finishes tapered with a slight curve to the left without a foot."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is dotted. The left stroke of <span class=\"c\">y</span> often finishes with a upward serif."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are wedged; sometimes the top is split in two."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are shorter than the ascenders and often finish tapered and bending to the left. The descender of <span class=\"c\">p</span> with a foot is exceptional."
+                    }, 
+                    {
+                        "char": "tironian nota", 
+                        "note": "The descender of <span class=\"c\">tironian nota</span> curves to the left and tapers."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The cross-bar of <span class=\"c\">\u00fe</span> for '\u00fe<span class=\"expanded\">at</span>' is short and straight."
+                    }, 
+                    {
+                        "char": "b", 
+                        "note": "<span class=\"c\">b</span> with a cross-bar denotes 'biscep'."
+                    }, 
+                    {
+                        "char": "xp\u02c9e", 
+                        "note": "<span class=\"c\">xp\u02c9e</span> denotes'Christe'"
+                    }, 
+                    {
+                        "char": "xp\u02c9i", 
+                        "note": "<span class=\"c\">xp\u02c9i</span> denotes 'Christi'"
+                    }, 
+                    {
+                        "char": "sci\u02c9s", 
+                        "note": "<span class=\"c\">sci\u02c9s</span> denotes 'sanctis'."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Inscription", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "n.a.", 
+                "description": "Fol. 6v. Latin and English inscriptions are in Caroline and insular scripts.", 
+                "summary": "Drage's Scribe 2.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Old English <span class=\"c\">a</span> is insular"
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is the same height to <span class=\"c\">a</span> in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "The bow of <span class=\"c\">d</span> is very round, and its ascender is very short; the ascender of its Caroline form sometimes has a foot."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is mostly round; the insular form sometimes has a tongue and a horn."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The sizes of the upper and lower bows of insular <span class=\"c\">g</span> are almost identical. It is in the shape of an unfinished '8', with the right hand side of the upper bow being open."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "Insular <span class=\"c\">h</span> has distinct feet with the right limb curving inwards first."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> usually have feet to the upper right (but sometimes finish without serifs)."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The descender of <span class=\"c\">\u00fe</span> is shorter than the height of the body of the letter."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The upstroke of <span class=\"c\">\u00f0</span> is tall, and it ends in a distinctive tag to the left. Cross-stroke has a flick down to the right at the end."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are slightly longer than the height of the body of the letter. The split of <span class=\"c\">ascenders</span> in insular form is not very deep; the <span class=\"c\">ascenders</span> of Caroline form have wedges, of about the same height as those of insular letters."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> of insular letters are short. The ends of <span class=\"c\">descenders</span>, except <span class=\"c\">p</span>, turn to the left."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Record of Relics", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 291 Art. c", 
+                "description": "Fols 8-14. A 'large ill-formed hand', 'somewhat later' than the hand of Quire 1 (", 
+                "summary": "Round, neat and upright.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is in the rounded insular form."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "Sometimes the <span class=\"c\">e</span> component is slightly higher than the <span class=\"c\">a</span> component, but there is no use of distinctly tall <span class=\"c\">e</span> in <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "The bowl of <span class=\"c\">d</span> is small; <span class=\"c\">d</span> has a round back with a short up-stroke at 45'."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "Sometimes <span class=\"c\">e</span> is insular, and has a straight back, and is horned. It also has a tongue to the right."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "The insular form of <span class=\"c\">f</span> has its tongue below the writing line."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is in insular form with straight top, the loop of <span class=\"c\">g</span> closes in a round bowl, and the vertical stroke mostly joins the horizontal bar at the middle."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is insular."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "The feet of <span class=\"c\">minims</span> finish with serifs to the right. The letters <span class=\"c\">i</span>, <span class=\"c\">n</span>, <span class=\"c\">m</span> and <span class=\"c\">u</span> are distinguishable."
+                    }, 
+                    {
+                        "char": "l", 
+                        "note": "The foot of <span class=\"c\">l</span> curls up to the right, and its ascender is wedged."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has a round lobe."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Insular <span class=\"c\">r</span> is used."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> finishes with a straight line below the writing line, and insular low <span class=\"c\">s</span> also finishes with a straight line."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span> has a round back with a straight head; the back-stroke joins the head at the middle."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: the upstroke is at 45 degrees, and slightly curves backward. The crossbar does not transect, and has a downward hook at the right."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has a straight descender with a straight ending. The ascender has a wedge, sometimes split in the middle with a serif curving on the left. The bowl is round."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> has a straight descender and an elongated lobe."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is has a dot, sometimes round-limbed."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are generally not very high, straight and sometimes with a wedge."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are generally short and straight."
+                    }, 
+                    {
+                        "char": "tironian nota", 
+                        "note": "The descender of the <span class=\"c\">tironian nota</span> curves to the left. The head is above the writing line, and the descender is as long as other descenders"
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "The preliminary quires were written in <span class=\"name\">Exeter</span>. According to <a href=\"#ker44\">Ker</a>, Quire 1 was 'no doubt intended from the first for this gospel-book' (1957, p. 351). The book is one of the 'mycele cristes bec gebonede' recorded in the list of Leofric's gifts. The opening words of fol. 2, 'semina pulularent', identify the book with a Textus belonging to the cathedral in 1506 :'\"Textus argentus et deauratus cum Crucifixo, Maria, et Johanne, cum 4 Evangelistis in 4 angulis, cum 1 olla subtus pedem crucifixi, cum hac scriptura subtus eandem scopi curialiumque ejus\" 2 fo. Semina pulularent' (<a href=\"oli436\">Oliver 1861</a>, p. 323).", 
+        "provenance": null, 
+        "acquisition": "Given by the <span class=\"name\">Dean and Chapter of Exeter</span> in 1602 (<a href=\"#wan470\">Wanley 1705</a>, p. 80)."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "con141", 
+        "con1549", 
+        "dra419", 
+        "dug1072", 
+        "exe426", 
+        "for547", 
+        "for1071", 
+        "gne146", 
+        "ker44", 
+        "nic1070", 
+        "oli436", 
+        "rob439", 
+        "ros1073", 
+        "sch1518", 
+        "wan470"
+    ]
+}

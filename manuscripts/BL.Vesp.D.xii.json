@@ -1,0 +1,82 @@
+{
+    "id": "BL.Vesp.D.xii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vespasian D. xii", 
+    "ker": "208", 
+    "content": "Glosses to Hymnal", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Interlinear gloss to the following hymns: <span class=\"italics\">Nobis ece dies</span>; <span class=\"italics\">Surgentes ad te</span>; <span class=\"italics\">Sancte dei</span>; <span class=\"italics\">Audi benigne</span>; <span class=\"italics\">Summe largitor</span>; <span class=\"italics\">Maria Mater</span> (stanzas 1-4); <span class=\"italics\">Gabriel dei</span>; and a few lines of <span class=\"italics\">Eterne rerem</span>; also part of <span class=\"italics\">Sic ter quaternis</span>", 
+    "items": [
+        {
+            "locus": "fols 11-117", 
+            "text": "C.18.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 11v) forgif beorhtne \u00e6fen | \u00fe\u00e6t n\u00e6fre ne fealle lif ac \u00feonne | stande ece \u01bfuldor mede | haliges deades (incipit of the first texts)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 117v) forgife \u00fees d\u00e6g on \u00f0am \u00fee \u00feu | behyltst gehalgod \u01bfeofod | \u00fee ece gefean | us \u02e5 he \u00feeo on langum | bryce tide (explicit of the final texts)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 269-71"
+                }, 
+                {
+                    "work": "pul1609", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 125-55", 
+            "text": "C.12.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 125v) eala drihten gemiltsa ure \u00fee \u01bfe | anbidedan so\u00f0lice beo \u00feu ure | earnum on \u00e6rnemorgen \u02e5 ure h\u00e6l on | tide gedrefednysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 155v) swynugie eall flaesc fram ansine drihten | forthornon thorne he samoduparas of his halgan | wynununge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 269-71"
+                }, 
+                {
+                    "work": "pul1609", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010, 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#pul1609"
+    ]
+}

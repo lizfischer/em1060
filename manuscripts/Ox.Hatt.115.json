@@ -1,0 +1,1800 @@
+{
+    "id": "Ox.Hatt.115", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "115", 
+    "ker": "332", 
+    "content": "Homilies, etc.", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Fols 1r/1-10r/9", 
+            "text": "B.1.5.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r/2) ON SVMVM O\u00d0RVM SPELLE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r/3) we s\u00e6don hwilon \u00e6r hu se \u00e6lmihtiga God ealle \u00feing gesceop"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 10r/8-9) an so\u00f0 Scyppend ealra \u00feinga. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra497", 
+                    "page": "pp. 33-74"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 10r/10-16r/4", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 10r/11) SE H\u00c6LEND CRIST SY\u00d0\u00d0AN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 10r/12) he to \u00f0ysum life com"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 16r/3-4) on eallra worulda woruld. on ecynysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 325-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 2"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 16r/5-23r/2", 
+            "text": "B.1.1.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 16r/6) \u00c6lC CRISTEN MANN SCEAL \u00c6FTER"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 16r/7) rihte cunnan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 23r/2) a. on ecnysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 335-44"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 3"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 22r/3-30v/3", 
+            "text": "B.1.4.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 22r/3-4) Interrogatus autem iesus a phariseis quando uenit regnum dei et reliqua."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 30v/3) on unasecgendlicre blisse a butan ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "pp. 590-609 (no. XVIII)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 4"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 30v/4-35v/2", 
+            "text": "B.1.3.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 30v/4) SE APOSTOL"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 30v/5) paulus ealra \u00feeoda lareow manode \u00fea cristenan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 35v/2) Sy him wuldor \u02e5 lof a to worulde; AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "no. 17"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 5"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 35v/2-40v/11", 
+            "text": "B.1.4.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 35v/3) ON MANEGA WISAN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 35v/3) l\u00e6r\u00f0 godes lar \u00fea cristenan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 40v/10-11) Se us gel\u00e6de to \u00f0am ecan life"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "pp. 622-35 (no. XX)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 6"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 40v/12-47v/9", 
+            "text": "B.1.2.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 40v/13) L\u00c6WEDE MEN BEHOFIA\u00d0"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40v/14) \u00fe\u00e6t him lareowas secgan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 47v/9) se \u00fee a rixa\u00f0 on ecnysse. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 46r/3-16 are unique to this manuscript. The passage is printed in Pope 1967-68, p. 752 (no. XXIV)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 180-89 (no. XIX)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 7"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "p. 752 (no. XXIV)"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 47v/10-53v/21", 
+            "text": "B.1.2.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 47v/11) MEN \u00d0A LEOFESTAN PAVLVS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47v/12) se apostol ealra \u00feeoda lareow"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 53v/21) se \u00f0e is ealra leoda wealdend;"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 190-8 (no. XX)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 53v/22-57v/5", 
+            "text": "B.1.2.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 53v/23) BEDA VRE LAREOW AWRAT"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 53v/24) on \u00fe\u00e6re bec \u00fee is gehaten historia anglorum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57v/5) Sy wuldor and lof. \u00f0am welwillendum gode. A. on ecnysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 199-203 (no. XXI)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 57r/6-58r/1", 
+            "text": "B.1.2.26.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 57r/7) WE R\u00c6DA\u00d0 GEHW\u00c6R"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 57r/8) on halgum gewritum \u00fe\u00e6t seo halige m\u00e6sse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 58r/1) se \u00f0e hi oferr\u00e6dan wile;"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 204-5 (no. XXI)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 10"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 58r/2-59r/1", 
+            "text": "B.1.3.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 58r/2) IS NU SWA \u00d0EAH TO WITENNE \u00d0\u00c6T ON \u00d0YSSERE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 58r/3) worulde synd \u00fereo endebyrdnessa"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 59r/1) for\u00f0an \u00fee hi fur\u00feon noldon \u00e6nne fugel acwellan;"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "no. XXV, ll. 812-62"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 12"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 59r/2-59r/27", 
+            "text": "B.3.4.52", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 59r/2) SE SWICOLA DEOFOL"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59r/3) \u00f0e syrw\u00f0 embe mancynn"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 59r/27) for\u00fean \u00f0e Crist agylt \u00e6lcum be his d\u00e6de."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article"
+                }, 
+                {
+                    "work": "nap506", 
+                    "page": "pp. 155-6"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "no. VI, ll. 284-91 (see also p. 330)"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 59v/1-59v/13", 
+            "text": "B.1.9.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 59v/1) L\u00c6WEDVM MANNUM IS TO WITANNE. \u00d0\u00c6T HI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59v/2) sceolon healdan heora cl\u00e6nnysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 59v/13) \u02e5 eow gel\u00e6de to \u00f0am ecan life."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 13"
+                }, 
+                {
+                    "work": "", 
+                    "page": "II, 608"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 59v/14-60r/23", 
+            "text": "B.3.4.51", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 59v/14) WE BIDDA\u00d0 EOW MEN \u02e5 BEODA\u00d0 ON GODES"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59v/15) naman \u00fe\u00e6t ge wislicor. \u02e5 w\u00e6rlicor don"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 60r/22-3) \u02e5 h\u00e6f\u00f0 \u00feonne helle wite gif hit h\u00e6\u00feen acwyl\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 14"
+                }, 
+                {
+                    "work": "nap506", 
+                    "page": "pp. 154-5"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 61r/24", 
+            "text": "B.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 60r/24) HER GESWVTELA\u00d0 ON \u00d0YSVM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 60r/25) gewrite hu God \u00e6lmihtig forbead mancynne \u00e6lces cynnes blod to etenne."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 61r/23-4) ac \u00fe\u00e6t n\u00e6fre ne de\u00f0 nan \u00f0\u00e6ra mann \u00f0e deah."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 61r/25-63r/9", 
+            "text": "B.2.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 61r/25) Spiritus sanctus pro septenaria operatione"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 63r/8-9) hw\u00e6der him godes gast on wunige o\u00f0\u00f0e \u00fe\u00e6s gramlican deofles"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "no. VII, ll. 10-25 [Latin] and VIII [Old English]"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 16"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols. 63r/10-64v/26", 
+            "text": "B.1.4.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 63r/10) WYRDWRITERAS US SECGA\u00d0 \u00d0A \u00d0E AWRITAN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63r/11) be cyningum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 64v/25-6) Perdes omnes qui loquuntur mendacium"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin phrases"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "p. 725-33 (no. XXII)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 65r/2-65v/14", 
+            "text": "B.3.5.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 65r/2) Forl\u00e6te \u00e6lc cristen man stala and leasunge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 65v/13-4) f\u00e6der and \u00fee halige gast buton \u00e6lcum ende AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 18"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 65v/17-21", 
+            "text": "B.2.3.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 65v/21) Ne dear ic nu for godes ege so\u00f0es suwian"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 65v/20-1) a he him m\u00e6g \u01bfenan hetelices leanes."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 19"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "p. 191/20-3 (no. XLI)"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 66r/1-67v/24", 
+            "text": "B.1.3.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 66r/1) IS NV EAC TO WITANNE \u00d0\u00c6T MAN WITNA\u00d0 FOR"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 66r/2) oft \u00fea arleasan scea\u00f0an"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 67v/23-4) on \u00f0am is ece \u01bfuldor on ealra \u01bforulda \u01bforuld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "no. XIX, ll. 155-258"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 20"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 68r/1-70v/14", 
+            "text": "B.1.2.44", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 68r/2) \u00d0ES APOSTOLICA D\u00c6G"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 68r/3) mana\u00f0 us to sprecenne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 70v/14) on ealra \u01bforulda \u01bforuld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 298-303 (no. XXXV)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 21"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 70/14-73v/19", 
+            "text": "B.1.2.45", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 70v/15) SE H\u00c6LEND GECEAS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70v/16) him toeacan \u00feam twelf apostolum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 73v/19) Sy him a \u01bfuldor and lof ealra his [wel]d\u00e6da. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 304-9 (no. XXXVI)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 22"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 73v/20-78r/19", 
+            "text": "B.1.2.46", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 73v/21) Cum audieritis prelia et sedictiones. nolite terreri. et reliqua"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 78r/18-9) Sy him \u01bfuldor and \u01bfur\u00f0mynt on ealra \u01bforuld \u01bforuld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 310-17 (no. XXXVII)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 23"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 78r/20-82v", 
+            "text": "B.1.2.47", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 78r/21) Homo quidam peregre proficiscens"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 82v) \u01f7\u00e6licor by\u00fe se man geherod..."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly due to the loss of six leaves from the manuscript after fol. 86. One of these leaves is Kansas, Kenneth Spencer Research Library, Pryce MS C 2.2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 318-25 (no. XXXVIII, ll. 1-218)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 24"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 83r/1-87v/4", 
+            "text": "B.1.2.48", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 83r/1) \u00fea deopnysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 87v/4) on ealra \u01bforulda \u01bforuld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The homily begins imperfectly due to the loss of six leaves from the manuscript. Lines 85r/5-17 are a supplementary passage by \u00c6lfric on the Antichrist."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp.328-34 (no. XXXIX)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 25"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "pp. 784-5, (no. XXIV)"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 87v/5-94v/18", 
+            "text": "B.1.2.49", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 87v/6) MINE GEBRO\u00d0RA \u00d0A LEOFOS..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 87v/7)..tan we wylla\u00f0 sume tihtendlice spr\u00e6ce wi\u00f0 eow habban"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 94v/17-8) \u02e5 \u00feam halgum gaste on heora \u01bforuld \u01bforuld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 335-45 (no. XL)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 26"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 95r-99v/21", 
+            "text": "B.1.8.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 95r/2) WE R\u00c6DDON ON \u00d0AM \u00c6RRVM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95r/3) gewritum. hu se \u00e6lmihtiga god"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 99v/20-1) se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 a to \u01bforulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "pp.1-12 (Brief I, ll. 6-312)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 27"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "no. XIa, ll. 1-54a, 137, 142, 146-9, 154, 156, 162-70"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 99v/22-101v/3", 
+            "text": "B.1.1.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 99v/22) L\u00c6WEDE MENN BEHO..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 99v/23).. fia\u00f0 godre lare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 101v/2-3) \u00feam sy \u01bfuldor \u02e5 lof a to \u01bforulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 174-6, ll. 58-119"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 28"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 101v/4-108r/24", 
+            "text": "B.1.4.21", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 101v/5) WE HABBA\u00d0 NV GES\u00c6D SWA WE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 101v/6) sceortlicost mihton"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 108r/23-4) \u00feam is \u01bfuldor \u02e5 lof a to \u01bforulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 29"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "pp. 641-60 (no. XX)"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 108r/25-116r/18", 
+            "text": "B.8.1.7.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 108r/26) \u00c6FTER \u00d0AM \u00d0E MOYSES"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 108r/27) se m\u00e6ra heretoga \u00fe\u00e6t godes fold gel\u00e6dde"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 116r/17-8) se \u00f0e \u00e6fre rixa\u00f0 on ecnysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "pp. 401-17"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 30"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 116r/19-121r/20", 
+            "text": "B.1.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 116r/21) NV SYND TWELF ABVSIVA \u00d0\u00c6T"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 116r/22) synd twelf un\u00f0eawas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 121r/19-20) Sy him a \u01bfuldor \u02e5 \u01bfur\u00f0mynt. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor580", 
+                    "page": "pp. 299-304"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 31"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols. 121r/21-131v/11", 
+            "text": "B.1.6.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 121r/22) SAVL HATTE SE FORMA"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 121r/23) on engla \u00feeode."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 131v/10-11) for\u00fean \u00fee we habba\u00f0 \u00fea nyd he hefestan axunga nu awritene"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mac493", 
+                    "page": "pp. 2-54, l. 1-511"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 131v/12-139v/2", 
+            "text": "B.1.3.19", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 131v/13) SAVL HATTE SE FORMA"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 131v/14) cyning \u00fee ofer godes folc rixode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 130v/1-2) \u00e6fre rixigende \u00feam sy \u01bfulder on ealra \u01bforulda \u01bforuld. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "pp. 384-412 (no. XVIII)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 140r-147r/9", 
+            "text": "B.3.4.15.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 140r/1) Usse lareo\u01bfas \u02e5 usse leorneras"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 147r/8-9) rixian mid ure drihtne aa on \u01bfuldres \u01bfonge butan \u00e6lcum ende."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "scr125", 
+                    "page": "no. IX"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 148r/1-27", 
+            "text": "B.23.3.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 148r/1) \u00d0\u00c6re \u00e6resten nyhte \u00feonne niwe mone by\u00f0ecymen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 148r/27) buton fr\u00e6cnesse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "9.2.4/4"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 159-60"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35a"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 148v/1-18", 
+            "text": "B.23.3.6.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 148v/1) SE \u00f0e bi\u00f0 acennned on annihtne mona"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 148v/18) se bi\u00f0 \u00e6lces godes wyr\u00fee"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "9.2.2/4"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 160-2"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35b"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 148v/19-149r/11", 
+            "text": "B.23.3.6.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 148v/19) Swa hwilc man swa on sunnand\u00e6g"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 149r/11) \u02e5 lange he leofa\u00fe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "3.1.3/2"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 162"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35c"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 149r/12-149v/7", 
+            "text": "B.23.3.6.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 149r/12) Gif middeswintres messedeg b[i]\u00f0 on sunnandeg"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 149v/7) \u02e5 \u00fea clenan beo\u00f0 leahtrode;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "17/3"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 162-4"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35d"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 149v/8-23", 
+            "text": "B.23.3.6.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 149v/8) HER segh ymb drihtnes gebyrd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 149v/23) gefeoht on eor\u00f0an:-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "16/1"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 164-5"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35e"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 149v/24-150r/17", 
+            "text": "B.23.3.6.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 149v/24) \u00dey forma d\u00e6g drihtnes gebyrde"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 150r/17) \u02e5 by\u00f0 micel sib on eor\u00f0an:-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "14/2"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 164-6"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35f"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 150r/18-22", 
+            "text": "B.11.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 150r/18) An messe forstantxii. daga feasten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 150r/22) missesang \u02e5 sealmsang \u02e5 ealmesse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc404", 
+                    "page": "III, 166-7"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35g"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 150r/23-7", 
+            "text": "B.11.8.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 150r/23) Hund twelftig saltera sealma g\u00e6\u00f0 forxii. mon\u00fea f\u00e6sten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol.150r/26-7) \u02e5 swa fela pater nostra \u02e5 \u00feyn leor to eor\u00f0an astrecce:-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc404", 
+                    "page": "III, 166-7"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35h"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 150v/1-9", 
+            "text": "B.23.3.6.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 150v/1) ON anwardne ger gyf hit \u00feunrie"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 150v/9) \u00feonne tacna\u00f0 \u00fe\u00e6t demena ond gerestena cwealm"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "5.1.3/3"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 166-9"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35i"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 150v/10-152v/3", 
+            "text": "B.23.3.6.8.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 150v/10) Gyf mon mete\u00f0, \u00fe\u00e6t he geseo earn on his heafod ufan gesettan, \u00fe\u00e6t tacna\u00f0..."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 152v/3) god \u00fe\u00e6t by\u00f0:-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "7/3"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 168-77"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 332, article 35j"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 152v/4-153v/16", 
+            "text": "B.23.3.6.9.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 152v/4) ON annihte monan f\u00e6r to cyninge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 153v/16) ber \u00fe\u00e6t timber:-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cha1185", 
+                    "page": "9.2.1/2"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 176-80"
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 332, article 35k"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 154r/1-3", 
+            "text": "B.1.2.44.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "dritnes nome; is helend. \u00fe\u00e6t is ihesus christus. \u02e5 \u00fee bit on helendes nome; \u00fee \u00feet bit; \u00fe\u00e6t \u00fe\u00e6t bilimpe\u00fe to so\u00fere h\u00e6le. \u021dif eni bit \u00fe\u00e6t \u00fe\u00e6t him nout ne freome\u00fe. ne bit he nout on \u00fe\u00e6s helendes nome"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Written by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra188", 
+                    "page": "p. 43"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 302/110-3"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol 154r/4", 
+            "text": "B.27.4.16.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "fordwina\u00fe. Euanescit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Written by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra188", 
+                    "page": "p. 43"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 154v", 
+            "text": "Franzen 1991", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "adyt occidit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Written by the Tremulous Hand (in pencil)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra188", 
+                    "page": "p. 43"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 155r/1-3", 
+            "text": "B.24.10.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 155r/1) Nigen hundred \u01bfintre \u02e5 XXX adam liuede"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 155r/3) \u00feusend \u01bfintre \u02e5 twan hundred \u01bfuintre \u02e5 ehte \u02e5 twenti \u01bfintre."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "p. 402"
+                }, 
+                {
+                    "work": "scr125", 
+                    "page": "p. 327, n. to ll. 45-8"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "247 mm x 155 mm (dimensions of fols 1-64, 66-139 - size of leaves).\n195 mm x 98 mm (dimensions of fols 1-64, 66-139 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "7", 
+        "summary": "Fols 1-64v, 66-139v are in one hand; fols 140-7 in another; the inserted fol. 65 contains two hands; the final booklet is written by one hand except fols 154-55v, which are blank except for some lines by the Tremulous Hand and by another hand of s. xii", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 332 scribe 1", 
+                "description": "Fols 1-64v, 66-139v. A round and regular insular script with occasional Caroline features, undistinguished through script, 'not like the hands of other Anglo- Saxon manuscripts from Worcester' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is regular initially and medially but not finally."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The cross-bar of <span class=\"c\">\u00f0</span> is usually nearly horizontal and sometimes inclines slightly downwards from left to right. Tall tapered ascender curving to the left"
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: tapered descenders with a serif which turns to the left, except <span class=\"c\">p</span>, which ends with a flat foot."
+                    }, 
+                    {
+                        "char": "abbreviation", 
+                        "note": "The mark of <span class=\"c\">abbreviation</span> is cup-shaped."
+                    }
+                ], 
+                "date": "s.xi"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 332 scribe 3", 
+                "description": "Fols 65r-65v/14. A round, small English Vernacular hand.", 
+                "summary": "Probably s. xi", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: similar to <span class=\"c\">\u00f0</span>, but with short ascender which slightly curves to the right."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> with a hooked top, and a back which extends below the line of writing."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The cross-bar of <span class=\"c\">\u00f0</span> extends from the middle of the ascender to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span>: wedged, usually more prominent to the right."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "additions", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 332 scribe 4", 
+                "description": "Fol. 65v/17-21.", 
+                "summary": "Probably s. xi", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: similar to <span class=\"c\">\u00f0</span>, but with short often tapered ascender, at times with hook protruding to the left."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> with a hooked top, and a tapered back which extends below the line of writing."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The cross-bar of <span class=\"c\">\u00f0</span> is median, ending with a dot to the right of the cross-bar."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span>: wedged, usually more prominent to the left."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 332 scribe 5", 
+                "description": "Fols 140-7. A round, thick hand, 'quite different and perhaps rather earlier type' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "c", 
+                        "note": "<span class=\"c\">c</span>: horned."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: similar to <span class=\"c\">\u00f0</span>, but with a long thick ascender curving occasionally to the right at the top."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long and low forms of <span class=\"c\">s</span> are used indifferently and round <span class=\"c\">s</span> also occurs. The long <span class=\"c\">s</span> has a hooked top, and a tapered back which extends below the line of writing curving to the left."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: similar to <span class=\"c\">\u00f0</span>, but with a long thick ascender curving occasionally to the right at the top."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are tall and clubbed."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 332 scribe 6", 
+                "description": "Fols 148-53v.", 
+                "summary": "A clear upright, 'pointed hand' mixing Caroline and insular letter forms(", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: regularly Caroline."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: round back with a tapered ascender to the right."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is Caroline."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is Caroline."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> Caroline and insular."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is of the same size and shape as <span class=\"c\">d</span>. The cross-bar ends with a dot to the left of the cross-bar"
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is rounded and dotted."
+                    }, 
+                    {
+                        "char": "de", 
+                        "note": "The combined <span class=\"c\">de</span> with <span class=\"c\">e</span> attached to the top of the rounded back of <span class=\"c\">d</span> occurs."
+                    }
+                ], 
+                "date": "s. xii"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Hand", 
+                "description": "Extensive glosses, corrections and alterations by the", 
+                "summary": null, 
+                "date": "xiii"
+            }, 
+            {
+                "name": "addition", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 332 SC6", 
+                "description": "Fol. 155r. A hand with predominantly Caroline letter forms, but retaining insular features.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is used."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is used."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is used."
+                    }
+                ], 
+                "date": "s. xii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Brown leather binding, s. xvii/xviii. There are rust marks on fols iv, v, 155 perhaps from the strap-and-pin fastening on the medieval binding. <a href=\"#ker504\">Ker</a> (1957) notes that the manuscript was bound at the same time as <a href=\"EM.Ox.Hatt.20.htm\">Hatton 20</a>, <a href=\"EM.Ox.Hatt.76.htm\">Hatton 76</a> and <a href=\"EM.Ox.Hatt.116.htm\">Hatton 116</a>, probably soon after they were obtained by the <span class=\"name\">Bodleian Library</span> (pp. 16-17).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "The manuscript must have been in <span class=\"name\">Worcester</span> by s. xiii, as the extensive glossing by the <span class=\"name\">Tremulous Hand</span> can be dated to s. xiii is dated xiii<span class=\"sup\">1</span> (on a possible Worcester provenance, see also <a href=\"#tin1501\">Tinti 2010</a>, n. 297). Treharne suggests 'a south-eastern origin', and considering that at least some of the parts were copied by the same scribe who wrote <a href=\"EM.BL.Faus.A.x.htm\">Cotton, Faustina A. x</a> (fols 3-101), it may be possible to suggest that some parts of this manuscript may have a south-east provenance perhaps from Rochester or Christ Church, Canterbury (see also, <a href=\"#tre41\">Treharne 1998</a>, pp. 232-233 ). As noted above, <span class=\"name\">Tremulous Hand</span> does not annotate all the manuscript, so booklet four and five may have been separate to the rest of the manuscript in s. xiii<span class=\"sup\">1</span> (see, also <a href=\"#fra730\">Franzen 1998</a>). The manuscript remained in <span class=\"name\">Worcester</span> until after 1623, as it is mentioned in <span class=\"name\">Young</span>'s catalogue (<a href=\"#atk489\">Atkins and Ker 1944</a>, no. 317)", 
+        "acquisition": "Borrowed before August 1644 by <span class=\"name\">Lord Hatton</span> with the other manuscripts in the <span class=\"name\">Hatton collection</span> The manuscript was donated by Lord Hatton's son to the <span class=\"name\">Bodleian Library</span> in 1675."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "atk489", 
+        "cha1185", 
+        "cle112", 
+        "coc404", 
+        "col496", 
+        "cra497", 
+        "cra327", 
+        "502", 
+        "for499", 
+        "for501", 
+        "for498", 
+        "for500", 
+        "492", 
+        "fra730", 
+        "fra188", 
+        "gne146", 
+        "god42", 
+        "hol503", 
+        "kem930", 
+        "ker44", 
+        "ker504", 
+        "klu505", 
+        "lai45", 
+        "web1517", 
+        "mac493", 
+        "mci177", 
+        "mor580", 
+        "nap506", 
+        "nap123", 
+        "pop87", 
+        "rob33", 
+        "rob1299", 
+        "rob752", 
+        "scr565", 
+        "scr125", 
+        "ske153", 
+        "swa283", 
+        "tho57", 
+        "tre52", 
+        "tre41", 
+        "tin1501", 
+        "wan470", 
+        "wri853"
+    ]
+}

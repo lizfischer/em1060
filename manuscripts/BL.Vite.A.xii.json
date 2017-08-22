@@ -1,0 +1,107 @@
+{
+    "id": "BL.Vite.A.xii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vitellius A. xii", 
+    "ker": "214", 
+    "content": "Pater noster", 
+    "location": "Unknown", 
+    "date": "s.xii^{ex}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 184v", 
+            "text": "B.12.4.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 184v) Fader ure \u00fee giert on heofona"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 184v) sy hit s\u01bfo"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 279"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "fragment", 
+        "support": "parchment", 
+        "extent": "Damaged by fire; the best preserved leaves measure ca. 200 mm x 144 mm (dimensions of all - size of leaves).\n172 mm x 120 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "The penitential is written on two columns, 10 mm apart,\n                                                  scored 34 lines in lead, probably with single bounding\n                                                  lines.\n               ", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "The", 
+        "hands": [
+            {
+                "name": "Pater Noster", 
+                "scope": "major", 
+                "script": "Gothic", 
+                "scribe": "Ker 214", 
+                "description": "Fols 136-184v. A thick, gothic script, which adopts insular forms in the", 
+                "summary": "Caroline", 
+                "characters": [
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> long."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: the ends curve to the left."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>, insular."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span>, insular cross bar to the left."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span>, dotted."
+                    }
+                ], 
+                "date": "s. xii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "The earlier parts of this manuscript have been associated with texts and scribes from <span class=\"name\">Salisbury Cathedral</span> (<a href=\"#wat267\">Ker</a> 1985, <a href=\"#wat267\">Gameson</a> 1999, n. 419 for fols 4-77 and <a href=\"#cha1185\"> Chardonnens</a> 2007, p. 73, n. 20). However, the penitential and the <span class=\"italics\">Pater Noster</span> still remain unlocalised. The manuscript was in the Cotton library in 1621, see the inventory: British Library, Harley 6018.", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee, and further notes by Takako Kato (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "cha1185", 
+        "gam38", 
+        "ker44", 
+        "wat267", 
+        "bri1165", 
+        "lai45", 
+        "mor852", 
+        "pla1170", 
+        "scr1522", 
+        "wan416", 
+        "wri853"
+    ]
+}

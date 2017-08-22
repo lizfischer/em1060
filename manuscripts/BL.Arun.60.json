@@ -1,0 +1,229 @@
+{
+    "id": "BL.Arun.60", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Arundel", 
+    "shelfmark": "60", 
+    "ker": "134", 
+    "content": "Continuous gloss, etc., to Arundel Psalter", 
+    "location": "Winchester", 
+    "date": "s.xi^{2}", 
+    "summary": "The manuscript contains: <ul><li>Prefatory matter: tables and calendar etc. (fols 1r-12v)</li><li>Gallican version of the psalms (fols 13r-119r/17)</li><li>Latin paraphrase of psalm 50 (fols 46v-52r)</li><li>Canticles (fols 119/18-30r/18)</li><li>Litany (fols 130r/19-132v)</li><li>Litany and Latin prayers (fols 133-42. These two quires were added in s. xii<span class=\"sup\">2</span>. This litany is a continuation of the previous item, which lost its end and finishes incomplete at fol. 132v).</li></ul> Items in Old English are listed below, under Manuscript Items.",
+    "items": [
+        {
+            "locus": "fols 13r-46r, 52v-119r", 
+            "text": "C.7.5", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Gallican version of the psalms. Latin paraphrase of Ps. 50 (fols 46v-52r) is unglossed."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 131"
+                }, 
+                {
+                    "work": "pul", 
+                    "page": "item 174, p. 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 119r-30r", 
+            "text": "C.7.5", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "ic andette \u00fee drihten (the first gloss)"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "swa hwa swa wille (the last gloss)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 131"
+                }, 
+                {
+                    "work": "pul", 
+                    "page": "item 174, pp. 15-16"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 149r", 
+            "text": "B.24.25.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her onginne\u00f0 ky\u00fean ymbe \u00feises middangeardes | ylda"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Both in Latin and Old English versions."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The period from the nativity 'o\u00f0 nu to middan wintre kim\u00f0' is stated to be 1099 years (Ker 1957, p. 166)."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "for574", 
+                    "page": "p. 192"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 131"
+                }, 
+                {
+                    "work": "pul", 
+                    "page": "item 174, p. 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 149v", 
+            "text": "B.18.11", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "to Walkelin (1070-98)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 131"
+                }, 
+                {
+                    "work": "pul", 
+                    "page": "item 174, p. 18"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. The flyleaves are modern paper.", 
+        "extent": "ca. 302 mm x 200 mm (dimensions of most - size of leaves).\n250 mm x 155 mm (dimensions of Psalms and litany - size of written space).", 
+        "foliation": "Fols [i], 149, [i].",
+        "collation": "See <a href=\"#pul69\">Pulsiano 1994</a>, p. 14. Fols [i] + 149 + [i].<ul><li>1<span class=\"sup\">12</span> (fols 1-12),</li><li>2<span class=\"sup\">8</span> (fols 13-20),</li><li>3<span class=\"sup\">8</span> (fols 21-28),</li><li>4<span class=\"sup\">6+2</span> (fols 29- 46: stub of fol. 30 shows after fol. 34; that of fol. 34 shows after fol. 31),</li><li>5<span class=\"sup\">8+2</span> (fols 37- 46; stub of fol. 39 shows after fol. 43; that of fol. 44 shows after fol. 39),</li><li>6<span class=\"sup\">6</span> (fols 47-52),</li><li>7<span class=\"sup\">6+2</span> (fols 53- 60: stub of fol. 55 shows after fol. 58; that of fol. 58 shows after fol. 55),</li><li>8<span class=\"sup\">6+2</span> (fols 61-68: stub of fol. 63 shows after fol. 65; that of fol. 66 shows after fol. 62),</li><li>9<span class=\"sup\">6+2</span> (fols 69-76: stub of fol. 71shows after fol. 73; that of fol. 74 shows after fol. 70),</li><li>10<span class=\"sup\">6+2</span> (fols 77-84: stub of fol. 79 shows after fol. 81; that of fol. 82 shows after fol. 78),</li><li>11<span class=\"sup\">6+2</span> (fols 85- 92: stub of fol. 87 shows after fol. 90; that of fol. 90 shows after fol. 87),</li><li>12<span class=\"sup\">6+2</span> (fols 93-100: stub of fol. 95 shows after fol. 97; that of fol. 98 shows after fol. 94),</li><li>13<span class=\"sup\">6+2</span> (fols 101-08: stub of fol. 103 shows after fol. 105; that of fol. 106 shows after fol. 102),</li><li>14<span class=\"sup\">6+2</span> (fols 109-16: stub of fol. 111 shows after fol. 113; that of fol. 114 shows after fol. 110),</li><li>15<span class=\"sup\">8</span> (fols 117-24),</li><li>16<span class=\"sup\">8</span> (fols 125-32),</li><li>17<span class=\"sup\">4</span> (fols 133-36),</li><li>18<span class=\"sup\">6</span> (fols 137-42),</li><li>19<span class=\"sup\">4+3</span> (fols 143-49: stub of fol.144 shows after fol. 146; that of fol. 147 shows after fol. 143; that of fol. 149 before fol. 143).</li>",
+        "layoutDescription": "24 long lines (22-23 lines on fols 137-49). The lines are not spaced for an interlinear gloss (<a href=\"#ker44\">Ker 1957</a>, p. 167).",
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 in Old English from 1060 to 1220.",
+        "summary": null,
+        "hands": [
+            {
+                "name": "Old English gloss",
+                "scope": "Minor",
+                "script": "English Vernacular Minuscule",
+                "scribe": "Ker 134 SC1",
+                "description": "Fols 13r-46r and 52v-130r/18, except for the gloss to the opening words to Psalms, are by the second hand. Probably the same hand as 'the second of the two hands which wrote the texts of the psalms and canticles' (fols 29r-46v and 53r-130r). In smaller writing.",
+                "summary": "<a href=\"#ker44\">Ker 1957</a> describes this hand as 'large, round and clumsy' (p. 167). In brown or brownish ink.",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span> is insular in Old English. According to the <a href=\"#scr565\"><span class=\"italics\">C11 Database Project</span></a>, the form of <span class=\"c\">a</span> 'varies widely, from almost triangular to caroline'."},
+                    {"char": "æ", "note": "The <span class=\"c\">e</span> is high in the combination <span class=\"c\">æ</span>."},
+                    {"char": "d", "note": "<span class=\"c\">d</span> is insular in Old English, and its ascender extends further than the left end of the lobe."},
+                    {"char": "e", "note": " <span class=\"c\">e</span> is insular with a tongue and a horn."},
+                    {"char": "f", "note": "<span class=\"c\">f</span> is insular in Old English."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> is insular in Old English; its loop is closed."},
+                    {"char": "h", "note": "<span class=\"c\">h</span> is in caroline form."},
+                    {"char": "r", "note": "<span class=\"c\">r</span> is insular is Old English."},
+                    {"char": "s", "note": "<span class=\"c\">s</span> is insular in Old English. Long and low <span class=\"c\">s</span> are used indifferently."},
+                    {"char": "ð", "note": "The crossbar of <span class=\"c\">ð</span> is a straight line, which transects the bar."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are not very tall, and straight."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> are straight, or taper slightly to the left."}
+                ],
+                "date": "s. xi^{2}"
+            },
+            {
+                "name": "Gloss to the opening words to Psalms 1, 51, 101.",
+                "scope": "Minor",
+                "script": "English Vernacular Minuscule",
+                "description": " fols 13r, 53r, 85r. Glosses to the opening words of Psalms 1, 51 and 101 are in a later hand than the gloss of the rest of the manuscript. Its aspect is less round than that of the main glossator.",
+                "characters": [
+                    {"char": "æ", "note": "<span class=\"c\">a</span> and <span class=\"c\">e</span> are in the same height in the combination <span class=\"c\">æ</span>."},
+                    {"char": "d", "note": "<span class=\"c\">d</span> is insular, and its ascender is at 40º and short."},
+                    {"char": "h", "note": "<span class=\"c\">h</span> is insular."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> is insular, and its loop closes with a hairline."},
+                    {"char": "N", "note": "The scribe uses a capital <span class=\"c\">N</span> at the end of a word."},
+                    {"char": "ð", "note": "The ascender of <span class=\"c\">ð</span> curves backwards to the right; and the right end of its crossbar has a downwards serif."}
+                ],
+                "date": "s. xii"
+            },
+            {
+                "name": "Addition of 'the six ages of the world' to the last leaf of the volume.",
+                "scope": "Minor",
+                "script": "English Vernacular Minuscule",
+                "description": "fol. 149r. The same hand also wrote the Latin version of the six ages of the world and a list of bishops of Winchester to Walkelin (1070-98), fols 149r-v. As <a href=\"#ker44\">Ker (1957)</a> says, they were probably written during the vacancy of the see in 1099. <span class=\"name\">William of Giffard</span> succeeded to the see in 1100.",
+                "summary": "Angular script. The nib widths are unsteady, and strokes are sometimes not straight.",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span>, sometimes caroline <span class=\"c\">a</span> with small head."},
+                    {"char": "d", "note": "<span class=\"c\">d</span> is insular in Old English, with the top of its ascender curved backwards to the right; occasionally insular in Latin."},
+                    {"char": "f", "note": "<span class=\"c\">f</span> insular in both Latin and Old English."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> insular in both Latin and Old English. Its head is and its loop is open."},
+                    {"char": "h", "note": "<span class=\"c\">h</span> sometimes insular in Old English."},
+                    {"char": "i", "note": "<span class=\"c\">i</span> sometimes has a tick."},
+                    {"char": "r", "note": "<span class=\"c\">r</span> insular in Old English."},
+                    {"char": "s", "note": "<span class=\"c\">s</span> insular in Old English; occasionally insular in Latin."},
+                    {"char": "y", "note": "Both straight and rounded <span class=\"c\">y</span> are used. Sometimes dotted."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span>, which are approximately minim height, sometimes split at the top."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> often turn to the left."},
+                    {"char": "macrons", "note": "macrons are wavy."}
+                ],
+                "date":"Probably in 1099",
+                "place": "Probably at Winchester."
+            }
+        ]
+    },
+    "decoration": ["Red or blue initials begin each psalm.", "Large decorated initials on fols 13r, 53r and 85r, and a full-page illustration of Christ on the Cross, with Mary to the left and John to the right, and Sol and Luna represented in medallions at the top on fol. 52v (<a href=\"#pul69\">Pulsiano 1994</a>, pp. 13-15)."],
+    "additions": "Fols 8v, 9, 10v, 11 contain around 87 Latin lemmata and English glosses of s. xiii/xiv in pencil. The lemmata on fols 19v, 11 are arranged alphabetically from A-V.",
+    "binding": "<a href=\"#ker44\">Ker 1957</a> notes a binding of s. xviii (p. 167) <a href=\"#pul69\">Pulsiano 1994</a>: reports that it is rebound in modern oak boards (p. 13).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Probably written in <span class=\"name\">Winchester New Minster</span>, the second half of the 11th century. According to <a href=\"#ker44\">Ker 1957</a>, 'the calendar is contemporary with the psalter, and seems to be of New Minster use' (p. 167). <a href=\"#wat88\">Watson 1979</a> suggests that it was of <span class=\"name\">Hyde Abbey</span>.", 
+        "provenance": "Given to the <span class=\"name\">Royal Society</span> in 1667 by <span class=\"name\">Henry Howard</span>, afterwards 6th Duke of Norfolk.", 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> in 1831 with other Arundel manuscripts."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan and Owen Roberson, with reference to published scholarship (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bri1165", 
+        "for574", 
+        "gne146", 
+        "her1164", 
+        "ker44", 
+        "lap521", 
+        "log523", 
+        "mea877", 
+        "oes1087", 
+        "oes1086", 
+        "pul69", 
+        "sau1036", 
+        "scr565", 
+        "wan470", 
+        "wat88", 
+        "wor29", 
+        "wor1084", 
+        "wor1088"
+    ]
+}

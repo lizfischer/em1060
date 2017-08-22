@@ -1,0 +1,190 @@
+{
+    "id": "Ox.Bodl.163", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "163 (2016)", 
+    "ker": "304", 
+    "content": "C\u00e6dmon's Hymn; Latin-Old English glossary; Glosses", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "C\u00e6dmon's Hymn appears as an addition in the margin of a copy of Bede's <span class=\"italics\">Historia Ecclesiastia</span>, which contains also four glosses in Old English. A Latin-Old English glossary on fols 250-51. <a href=\"#ker44\">Ker</a> (1957, p. 358) observes that the 'manuscript appears to have been at <span class=\"name\">Peterborough</span> by s. xii<span class=\"sup\">in</span>'.", 
+    "items": [
+        {
+            "locus": "fol. 152v", 
+            "text": "A.32.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 152v) (beginning of line illegible) \u01bfe sc (part illegible) an | (second line illegible) | (most of line illegible) his | (most of line illegible) c | (entire line illegible) | (most of line illegible) lc | (most of line illegible) d | (end of inicipit illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 152v) (beginning of explicit illegible) st | (beginning of line illegible) bearnum | (beginning of line illegible) rofe | (line illegible) | (line illegible) | (most of line illegible) e | (most of line illegible) r tida | (beginning of line illegible) m on f (one graph illegible, probably 'o') ldum | (beginning of line lost due to trimming) a \u00e6lmihtig."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "An attempt was made to erase it and it was further damaged by a binder. Partly illegible."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 358"
+                }, 
+                {
+                    "work": "obr83", 
+                    "page": ""
+                }, 
+                {
+                    "work": "odo1613", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 66r", 
+            "text": "C.45.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 66r) stede (the gloss is visible but illegible on microfiche, based on Napier 1900, 'stede' glossing Latin 'ammissarium')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 358"
+                }, 
+                {
+                    "work": "nap959", 
+                    "page": ""
+                }, 
+                {
+                    "work": "obr83", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 111", 
+            "text": "C.45.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 111v) gre\u00f0e (glossing Latin 'dosalem')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 358"
+                }, 
+                {
+                    "work": "obr83", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 112r", 
+            "text": "C.45.3.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 112r) credic (the gloss is visible but illegible on microfiche, based on Napier 1900, 'credic' glossing Latin 'fiala')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 358"
+                }, 
+                {
+                    "work": "nap959", 
+                    "page": ""
+                }, 
+                {
+                    "work": "obr83", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 154", 
+            "text": "C.45.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 154r) pylu (glossing Latin 'ceruical')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 358"
+                }, 
+                {
+                    "work": "obr83", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 250r", 
+            "text": "D.23", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 250r) smeagende (glossing Latin 'disputantes')"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 250r) (the explicit is illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 358"
+                }, 
+                {
+                    "work": "obr83", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "obr83"
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "id": "Ox.Digb.146", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Digby", 
+    "shelfmark": "146", 
+    "ker": "320", 
+    "content": "Glosses to Aldhelm", 
+    "location": "Abingdon", 
+    "date": "s.xi^{med}", 
+    "summary": "Glosses to Aldhelm's <span class=\"italics\">De laude virginitatis</span> (fols 1r-95) and a letter to Ehrfrid (fols 95v-100) with an <span class=\"name\">Abingdon</span> provenance, s. x<span class=\"sup\">ex</span>. About thirty glosses are contemporary with the texts; glosses on fols 8-15 are probably s. xi<span class=\"sup\">in</span>; and the glosses to more than 5,4000 words in <span class=\"italics\">De laude virginitatis</span> in fols 8-95 are s. xi<span class=\"sup\">med</span> (<a href=\"#ker44\">Ker 1957</a>, p. 382).", 
+    "items": [
+        {
+            "locus": "fols 8-95", 
+            "text": "C.31.13", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "probably from s. ximed (Ker 1957)"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "'a small and neat, but uncalligraphic hand' (Ker 1957)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 320"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 30v", 
+            "text": "C.31.13.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 30v) wrangwise"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "probably twelfth-century (Ker 1957)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 320"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

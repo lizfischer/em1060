@@ -1,0 +1,54 @@
+{
+    "id": "BL.Roya.4.A.xiv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "4. A. xiv,", 
+    "ker": "250", 
+    "content": "A charm", 
+    "location": "Worcester", 
+    "date": "s.xii^{med}", 
+    "summary": "A wen charm written in a space on the verso of the final leaf. Main text of the manuscript is a Latin commentary on the Psalms of s. x<span class=\"sup\">med</span>. <a href=\"#ker44\">Ker</a> notes that the manuscript was originally from the same scriptorium perhaps in <span class=\"name\">Winchester</span> as <a href=\"EM.BL.Roya.2.B.v.htm\">Royal 2 B. v</a>, and that it was \u2018later at <span class=\"name\">Worcester</span>, perhaps already in s. xii, to judge from the script of the title in red rustic capitals on fol. 1\u2019 (1957, p. 320).", 
+    "items": [
+        {
+            "locus": "fol. 106v", 
+            "text": "A.43.12", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 106v) \u01f7enne \u01f7enne \u01f7enchichenne he ne scealt \u00feu timbrien"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 106v) s\u01bfa litel | \u00feu ge\u01bfur\u00fee als\u01bfa linsetcorn \u02e5 miccli lesse als\u01bfa anes hand | \u01bfurmes hupeban \u02e5 als\u01bfa licel \u00feu ge\u01bfur\u00fee \u00fe\u00e6t \u00feu na\u01bfiht | ge\u01bfur\u00fee"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 320"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#pul1609", 
+        "#ker44"
+    ]
+}

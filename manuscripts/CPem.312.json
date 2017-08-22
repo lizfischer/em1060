@@ -1,0 +1,122 @@
+{
+    "id": "CPem.312", 
+    "city": "Cambridge", 
+    "repository": "Pembroke College", 
+    "collection": "", 
+    "shelfmark": "312", 
+    "ker": "79", 
+    "content": "Continuous Psalter-gloss", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Two fragments of a Gallican Psalter with occasional readings from the Romanum, with continuous interlinear Old English glosses, known as C1 and C2. The fragments are from Pss. 73<span class=\"sup\">17</span>- 74<span class=\"sup\">3</span> and Ps. 77<span class=\"sup\">31-43</span>. Fragments from the same manuscript are <a href=\"EM.Haarlem.188.htm\">Haarlem, Stadsbibliotheek 188 fol. 53</a> and <a href=\"EM.Schloss.HS.Br.1.htm\">Sondershausen, Schlossmuseum, Hs Br. 1</a>. Place of production unknown.", 
+    "items": [
+        {
+            "locus": "fol. C1r", 
+            "text": "C.7.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. C1r) Old english: eor\u00f0an | scope \u00f0a | d | gecigde | andette rest of the line is illegible | \u00feinone graph illegiblea | \u00feinra | of\u00f0ystrede | sa | \u01bforden Latin: os terra | smasti ea | nicus | incitauit | line is illegible | tuum | turest of the line is illegible | scurati su | m | ctus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 126"
+                }, 
+                {
+                    "work": "bre1415", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. C1v", 
+            "text": "C.7.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "( fol. C1v) Old English: eora \u00fee fr | lce d\u00e6ge | na ofergyt \u00feu | \u00fea \u00f0e hatedon | \u01bfe andett | \u01bfe andet | nama | ic cy\u00fee | \u00feonne ic afo | deme Latin: tota die | eubliunt can | tuorum | L ++ iii inp | pst Imus | Confit | confi | nomen | arrabimus | cum accep | iudicabo"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 126"
+                }, 
+                {
+                    "work": "bre1415", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. C2r", 
+            "text": "C.7.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. C2r) Old English: \u00fea gyt | undrum h | dagas heora | on hyne | most of line illegible gen | god | god m\u00e6re | e heora | him | Latin: te | unt adhu | irabilibus ei | beginning unclear eorum | bant eum | iluculo | deus | us excelsu | e suo | nt ei | erat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 126"
+                }, 
+                {
+                    "work": "bre1415", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. C2v", 
+            "text": "C.7.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. C2v) Old English: he so\u00f0lice | he bi\u00f0 synnu | he gem\u00e6nig | na on\u00e6lde | line illegible | gast | la hu oft | on \u01bfestene | hine in\u01bf\u00e6 | \u02e5 hi geh\u01bfyfd | god | hy na synd | d\u00e6ge end of line illegible | \u00fe\u00e6s middle of line illegible \u00e6nd | s\u01bfa s\u01bfa he Latin: pse aute | fiet pecca | abund | et non ac | line illegible | spiritus | Quotiens | in deserto | eum in i | Et conuer | deum | Non sunt | die qua | tribula | Sicut po"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 126"
+                }, 
+                {
+                    "work": "bre1415", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Hollie Morgan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#bre1415"
+    ]
+}

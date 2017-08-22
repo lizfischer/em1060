@@ -1,0 +1,142 @@
+{
+    "id": "Ox.Bodl.340", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "340 + Bodley 342 (2104-5)", 
+    "ker": "309", 
+    "content": "Homilies and additions", 
+    "location": "Rochester", 
+    "date": "s.xi^{med}", 
+    "summary": "A two-volume homiliary written in s. xi<span class=\"sup\">in</span>. Bodley 342, fols 203-18 were added in s. xi<span class=\"sup\">med</span>, and they contain \u00c6lfric's homilies for St Andrew, the patron saint of Rochester. The scribe who copied these additional homilies also made numerous alterations and additions between the lines. The manuscript was probably at Rochester in s. xi.", 
+    "items": [
+        {
+            "locus": "Bodley 342, fols 203r-04v", 
+            "text": "B.1.2.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 203r) S\u01bfa h\u01bfa s\u01bfa syl\u00f0 anum \u00feurstigum menn | ceald \u01bf\u00e6ter on minum naman"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 204v) Mid \u00feam libba\u00f0. | \u02e5rixa\u00f0. on lichaman \u02e5on sa\u01bfle on eal | ra \u01bforulda \u01bforuld. ameN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 366, art. 76"
+                }, 
+                {
+                    "work": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "Bodley 342, fols 204v-06r", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 204v) [S]imle (no 's' at beginning) est regnum celorum homini pa | tri familias. qui exiit primo mane. | eno 's' at beginning h\u00e6lend s\u01bf\u00e6\u00f0 \u00fe\u00e6theofonan rice \u01bf\u00e6re | gelic sumum hiredes ealdre. se \u00f0e | ferde on \u00e6rnemerien. \u02e5 \u01bfolde hyri | an \u01bfyrhtan into his \u01bfinearde;"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 206r) s\u01bfa s\u01bfa halford his hired on his eal | le (ends abruptly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 366, art. 77"
+                }, 
+                {
+                    "work": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "Bodley 342, fols 206v-11v", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 206v)II. kalendas. NATALE SANCTI ANDREE. APOSTOLI."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 206v) Ambulans iesus iuxta mare galileae. & reliqua. | Crist on sumere ride ferde \u01bfi\u00f0 \u00f0a galileiscan s\u00e6"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 11v) geornlice gefelle. \u02e5 healde \u00feurh \u00f0one \u00fee leofa\u00f0 \u02e5 rixa\u00f0 a buton \u00e6nde. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 366, art. 78"
+                }, 
+                {
+                    "work": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "Bodley 342, fols 211v-18r", 
+            "text": "B.1.1.40.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 211v) EODEM DIE PASSIO SANCTI ANDREA. APOSTOLI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 322v) Se apostol andreas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 218r) a to \u01bfi\u00f0an feore. (Ends imperfectly. Part of lines on fol. 128 lost because outer part of folio was cut off)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 366-37, art. 79"
+                }, 
+                {
+                    "work": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan and Sanne van der Schee with reference to published scholarship (2010; 2013)", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        ""
+    ]
+}

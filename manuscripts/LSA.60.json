@@ -1,0 +1,232 @@
+{
+    "id": "LSA.60", 
+    "city": "London", 
+    "repository": "Society of Antiquaries", 
+    "collection": "", 
+    "shelfmark": "60", 
+    "ker": "", 
+    "content": "Black Book of Peterborough or Liber Niger", 
+    "location": "Peterborough", 
+    "date": "s.xii^{2/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 39v-40v", 
+            "text": "B.15.5.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 39v) \u00deis synd \u00fea madmas \u00fee Adeluuold bisceop sealde into \u00feam mynstre \u00fee is Medeshamstede gehatan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 40v) \u00dea \u00c6theluuine aldorman \u02e5 Ealdulf biscop sealdan \u00c6thestane \u02e5 Alfwolde for Iacesle \u02e5 Faresheued \u00feone latostan penig for \u00fean lande into Burch. \u00fea weron \u00feer festermen. Frana... \u02e5 Sumerlyda preost."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "rob439", 
+                    "page": "pp. 72-74"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 46rv", 
+            "text": "B.15.5.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 46v) In nomine patris et filii et spiritus sancti. Ceolred abbod \u02e5 \u00f0a higan on Medeshamstede sella\u00f0 Wulfrede \u00f0et land"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 46v) Ic Ceolred abbod \u00feas ure selene mid Cristes rode tacne trymme \u02e5 festnie."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "rob439", 
+                    "page": "pp. 12-13"
+                }, 
+                {
+                    "work": "tho434", 
+                    "page": "pp. 104-06"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47r-49r", 
+            "text": "B.15.5.37", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) \u00deis synd \u00fea festermen \u00fee Osfer\u00f0 swade beard funde. Adeluuolde biscop. \u02e5 Eadulfe abbod \u02e5 Sumerlydan preoste"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 49r).. \u02e5 on his wedde gesealde \u00feet land \u00e6t Wermingtune \u00e6fter his d\u00e6g into sancte PETRE for his saule on hyra gewytnesse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "rob439", 
+                    "page": "pp. 74-83"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 50r", 
+            "text": "B.15.8.606", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 50r) \u00deis sint \u00fea landgem\u00e6ro to Undelan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 50r) \u02e5 \u00feat land on beringa feld swa swa hit is mid land ge m\u00e6rum. ligg\u00e6\u00f0 into Vndelan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bir1276", 
+                    "page": "no. 1129"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 50v-51r", 
+            "text": "B.15.6.53", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 50v) \u00deis is se feorewearde \u00fee Vlf \u02e5 Madselin his gebedda worhtan wi\u00f0 \u02e5 wi\u00f0 sancte PETER. \u00fea hig to Ierusalem ferdon."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 51r) \u02e5 Lindbeorhge habban mine cnihtas gif ic ham ne cume. \u02e5 \u00fe\u00e6t land \u00e6t Lohtune \u00fe\u00e6t heo hafa\u00f0 \u00fe\u00e6t erinne [sic]. into \u00deornege."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "whi1657", 
+                    "page": "pp. 94-96"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 52r-54v", 
+            "text": "B.16.26.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 52r) \u00d0is is into Suttenes hundred, \u00feat is an hundred hida swa hit w\u00e6s on \u00c6duuardes deige kynges"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 54v) \u02e5 \u00feerof is wered I \u02e5 IL hide \u02e5 III sy\u00f0e twenti hide inland \u02e5 VIIII \u02e5 XL hide weste"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "rob439", 
+                    "page": "pp. 213-17"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 54v-55r", 
+            "text": "B.15.3.44", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 54v) Her sutela\u00f0 on \u00feyssum gewrite \u00feet A\u00feelwold bisceop \u02e5 Wulfstan Uccea hwyrfdon landa."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 55r) \u02e5 Wulstan Uccea his sunu hit sealde eft Adeluuolde bisceope. swa swa hit her bufan s\u00e6g\u00f0."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bir1276", 
+                    "page": "no. 1131"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "pp. 68-69"
+                }, 
+                {
+                    "work": "tho434", 
+                    "page": "pp. 229-30"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "253 mm x 170 mm (dimensions of all - size of leaves).\n194 mm x 107 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Nineteenth-century binding of brown leather, blind-tooled. Dark green slipcase (<a href=\"#nat1146\">National Archives</a>).", 
+    "accompanying": "On fol. 2v is the note 'Iste Liber vocatur Niger Liber anglice The black bowke', s. xvi.", 
+    "history": {
+        "origin": "Written in <span class=\"name\">Peterborough</span>.", 
+        "provenance": "Remained in <span class=\"name\">Peterborough</span> until at least s. xvi. At some point the manuscript was owned by <span class=\"name\">Sir Robert Wingfield</span> of <span class=\"name\">Upton</span> (d. 1636). <span class=\"name\">Wingfield</span> also owned two Peterborough registers: London, BL, Cotton Vespasian E. xxi, fols 45- 106 and London, BL, Cotton Vespasian E. xxii (<a href=\"#rob945\">Robinson 2003</a>, p. 69).", 
+        "acquisition": "Presented to the <span class=\"name\">Society of Antiquaries</span> in 1778 by <span class=\"name\">Brownlow, 9th Earl of Exeter</span>."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "nat1146", 
+        "bir1276", 
+        "bis385", 
+        "dav12", 
+        "gra679", 
+        "ker44", 
+        "kin1149", 
+        "mar1148", 
+        "mel1147", 
+        "mor1561", 
+        "rob439", 
+        "rob945", 
+        "rof1150", 
+        "sta1151", 
+        "tho434", 
+        "wil1152", 
+        "whi1657"
+    ]
+}

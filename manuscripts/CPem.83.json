@@ -1,0 +1,44 @@
+{
+    "id": "CPem.83", 
+    "city": "Cambridge", 
+    "repository": "Pembroke College", 
+    "collection": "", 
+    "shelfmark": "83", 
+    "ker": "76", 
+    "content": "List of payments", 
+    "location": "Bury St Edmunds", 
+    "summary": "A list of payments relating to an Anglo-Scandinavian burial and funeral feasts, at the top of a flyleaf of a copy of Bede's Latin commentary of St. Luke. <span class=\"name\">Bury St Edmunds</span> by the time of the s. xiv ex-libris inscription.", 
+    "items": [
+        {
+            "locus": "fol. 1r", 
+            "text": "B.16.5.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 124-25"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Sanne Van Der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

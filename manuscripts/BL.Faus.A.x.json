@@ -1,0 +1,529 @@
+{
+    "id": "BL.Faus.A.x", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Faustina A. x", 
+    "ker": "154A; 154B", 
+    "content": "\u00c6lfric's Grammar, etc.; Rule of St. Benedict, etc.", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": "Made up of two parts:\n\nPart 1, fols 3-101: fols 3-100 contains Ã†lfric's <span class=\"italics\">Grammar and Glossary</span> , beginning on fol. 3 'gif hÆ¿a Ã¾as boc'. Portions of the text are missing due to loss of leaves (fols 82-87). The glossary begins on fol. 92v. The text was corrected in s. xi/xii, and heavily annotated in several hands towards the end of the twelfth-century in Latin, Anglo-Norman and English. The Latin annotations are mainly marginal; the Anglo-Norman and English are glosses to words added at this time, especially to the glossary (see <a href=\"#zup447\">Zupitza 1880</a> and <a href=\"#ker44\">Ker 1957</a>, p. 194, for a transcript <a href=\"#hun680\">Hunt 1991</a>, pp. 101-11). Running titles are in Latin. Fols 100v-101v contain a proverb and two maxims in Latin and Old English from the eleventh century (see <a href=\"#zup447\">Zupitza 1880</a>, p. 285 and <a href=\"#dob617\">Dobbie 1942</a>, p. 109); a proverb: 'Ad traem dixit pereant tot buffo magistri. Ã¾a tadda cÆ¿ to Ã¾ar Ã©iÃ¾a ForÆ¿urÃ¾a sÆ¿a fola maistres' written in the second half of the twelfth-century, and some Latin grammatical dialogue and maxims (<a href=\"#ker44\">Ker 1957</a>, p. 194; <a href=\"#doa1195\">Doane 2007</a>, pp. 4-6).\n\nPart 2, fols 102-51: Ã†thelwold's translation of the <span class=\"italics\">Rule of St Benedict</span> in Old English: 'Her beginÃ° seo foresprÃ¦c muneca regules' (fols 102-48), beginning 'Gehyr Ã¾u min bearn geboda Ã¾ines lareowes'. Fols 104v-06r contain a table of 74 chapters which only occurs in this copy of the Old English version. Chapter 7 of the <span class=\"italics\">Rule</span> is divided into two parts, both in the table and the text, which are numbered VII and VIII. Annotations to the number of the items are written out: 'an tÆ¿a Ã¾reo feower fif' by a contemporary hand, and 'sex sofana Ã¦hta nigon tin' by a late twelfth-century hand. Each chapter in the text is preceded by its title. In the table of contents and the titles of the chapters the forms are masculine, but in the text are many examples of feminine gender which have been erased and rewritten as masculine (see <a href=\"#sch892\">Schroer 1885-88</a>). According to <a href=\"#ker44\">Ker 1957</a>, the manuscript was 'evidently a version for nuns [that] has been altered for the use of monks' (p. 195). Some words and sentences are glossed occasionally in Latin. The lower parts of fols 115v and 116r, which were originally blank, now contain two recipes for eyesalve; a charm 'Æ¿iÃ¾ utsiht'; three charms in Latin; and later twelfth-century English recipes (see <a href=\"#coc404\">Cockayne 1864-66</a>, iii, p. 292). Fols 148-51v contain the only surviving copy of <span class=\"italics\">An Account of King's Edgar's Establishment of Monasteries</span> originally composed in the tenth century, and here beginning 'geard mid Ã¾Ã¦m leoman Ã¾Ã¦s halgan geleafan'. Fols 148-49 contain a number of marginal and interlinear annotations, most of which are marked for insertion in the main text, and most of which come from Ã†lfric's <span class=\"italics\">Homily on St. Gregory</span> from the First Series of <span class=\"italics\">Catholic Homilies</span> (see, <a href=\"#god42\">Godden 1979</a>, ix, pp. 71-80, and <a href=\"#ker44\">Ker 1957</a>, p. 195, <a href=\"#swa347\">Swan 2000</a>, pp. 76-78, and <a href=\"#swa126\">Swan 1993</a>, pp. 160-64 for a discussion of the textual sources of the annotations and their relationship to the main text, and pp. 318-21 for a transcription of the annotated section of the main text and the marginal annotations).",
+    "items": [
+        {
+            "locus": "fols 3r-92r", 
+            "text": "B.1.9.1.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 3r) hic i[n]cipunt excerptiones de arte gra[m]matica anglice"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) [...] gif h\u01bfa \u00feas boc a\u01bfritan \u01bfylle \u00fe\u00e6t he hi gerihte \u01bfel be \u00f0\u00e6re bysne for\u00f0an \u00f0e ic nah ge\u01bfeald \u00feeah hi h\u01bfa to \u01bfoge gebringe \u00feurh lease \u01bfriteraondhit bi\u00f0 \u00f0onne his pleoh na min. mycel yfel de\u00f0 se un\u01bfritere gif he nele his \u01bfoh gerihtan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 92r) \u00fee \u01bf\u00e6ron gedone onealdumdagumondus dyrne \u01bf\u00e6ron si \u00feeos boc \u00f0us her geendod"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "zup447", 
+                    "page": "3-296"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 92v", 
+            "text": "B.1.9.1.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92v) In leden spr\u00e6c synd menigfealde get\u00e6l on englisc nis nan \u00fe\u00e6ra ge\u01bfunelic buton \u00ferimanum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 92v) libra on leden is pund on englisc fif \u01bfenegas gemacia\u00f0 \u00e6nne scyllingond\u00ferittig penega \u00e6nne mancus"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "zup447", 
+                    "page": "296"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 92v-100v", 
+            "text": "B.1.9.1.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 100r) \u01f7e ne magon s\u01bfa \u00feeah ealle naman a\u01bfritan. NE FUR\u00d0ON GE\u00d0ENCAN"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "zup447", 
+                    "page": "296-332"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 100v", 
+            "text": "B.1.9.1.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 100v) pomum licetab arbore igitur unde reuoluiturtamenprouiditunde nascitur. Se appel n\u00e6fre \u00fe\u00e6s feorr ne trend de\u00f0he cy\u00f0 h\u01bfanon hecom"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 100r) \u00fe\u00e6s \u00fee ece ne by\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "dob617", 
+                    "page": "109 and p.cxi n.2"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 100v", 
+            "text": "B.1.9.1.2.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 100v) ad traeam dixit pereant tot buffo magistri \u00fea taddac\u01bf\u00e6\u00f0to \u00fear ei\u00fea for\u01bfur\u00fea s\u01bfa fola maistres"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 101r-v", 
+            "text": "B.1.9.1.2.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 101r) prima declinatio quot litteras terminales habet"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 101v) datiuus et\nablatiuus inbus correptam"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102r-04v", 
+            "text": "B.10.3.1.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102r) Her begin\u00f0 seo forespr\u00e6c muneca regules. GEHYR \u00d0U MIN BEARN geboda \u00feines lareo\u01bfesondanhyld \u00feinre heortan eare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 104v) ondgefean mid him agan moton"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sch892"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 104v-06r", 
+            "text": "B.10.3.1.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 104v) Her onginna\u00fe \u00fe\u00e6ra mynstra capitulas. i. an Be muneca cynne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 106r) xliiii Be \u00feeam\u00fe\u00e6t\u00e6lc riht\u01bfisnysse gemen on \u00feissum regule nis geset Her endeia\u00fe \u00fea captlas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sch892"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 106r-10r", 
+            "text": "B.10.3.1.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 106r) De generibusmonachorum>ueluita. Be muneca cynne Syx synt muneca cynerna \u00feara synt \u00fereo \u00fea se lestan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 110r) ac mid worda andetnesse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sch892", 
+                    "page": "p.134-39"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 110r-41v", 
+            "text": "B.10.3.1.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 110r) Hwylc se abbod beon sceal Se abbod \u00fee \u00fe\u00e6s \u01bfeor\u00fee is \u00fe\u00e6t he mynstres \u01bfealde"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 141v) Ne do \u00feu o\u00ferum\u00fe\u00e6t\u00feu nelle \u00fe\u00e6t \u00fee sylfum gedon sy"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sch892"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 141v-42r", 
+            "text": "B.10.3.1.1.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 141v) BE MYNSTRES sacredumondhyra \u00feenum. lxii Gif h\u01bfylc abbod ge\u00feafa\u00fe\u00fe\u00e6t m\u00e6ssepreost o\u00fe\u00fee diacon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 142r) ac heora goda hlisa gear\u01bfeor\u00feige \u00fea \u00fee hy to \u00fe\u00e6re m\u00e6ssan \u00feenunge gecuron"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This version of Ch. 63 is unique to this manuscript."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sch892"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 142r-48r", 
+            "text": "B.10.3.1.1.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 142r) Be ealles geferes endebyrdenesse. lxiii. \u00c6lc endebyrdnes on mynstre sceal beon gehealden"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 148r) gemundun\u00fe\u00e6tage \u01bfor\u00fee. ece lif to leanond[...] \u01bfynuncg mid god eallum \u00feam \u00fee \u00feysum regule filigea\u00fe. Her geenda\u00fe \u00fe\u00e6s regules bec federys healicesond\u00fe\u00e6s eadigan abbodes benedictes. in naman godes ures helendes crystes"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115v-16r", 
+            "text": "B.23.1.10.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115v) \u00d0eos eah sealf m\u00e6g wi\u00fe \u00e6lces cynnes broc on eagon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 116r) ondnim \u00fe\u00e6r gode eahsealfe"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 116r", 
+            "text": "B.23.1.10.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 116r) Sy ge menged tog\u00e6dere hunig tear"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 116r) nim \u00fe\u00e6r gode eah sealfe"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116r", 
+            "text": "B.23.1.10.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 116r) \u00d0is man sceal singan nigon sy\u00feon wi\u00fe utsiht on anhreren br\u00e6den \u00e6g \u00fery dagas + Ecce dol gold ne dit dudum bethe cunda br\u00e6the cunda"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 116r) noe uis terre dulge do\u00fe.pater\nnoster o\u00fe endeond c\u01bfe\u00fe symle \u00e6t \u00feam drore huic \u00f0is"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "p. 307, no. 82"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 116r", 
+            "text": "B.23.1.10.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 116r) + Contra frigoraomnibushoris scribis in cartsetcum licio ligas ad collum egroti hora deficiente"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 116r) + Eugenius stephanusprotaciussambucius dionasius chesiliusetquiriacus ista nomina scribe etsuperse portatquipatitur"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "pp. 40-41, no. 40"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 116r", 
+            "text": "B.23.1.10.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 116r) + contra febres in nominescanteet indiuidue.trinitatis in effeso ciuitate chelde ibi requiescunt. vii.sanctidormientes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 116r) et de omni populo inimici. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "p. 40, no. 39"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 148r-51v", 
+            "text": "B.17.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 148r) [...] middangears mid \u00fe\u00e6m leoman \u00fe\u00e6s halgan geleafan mildheortlice \u01bfear\u00f0 gefylled"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 151v) \u00de\u00e6t la ne ge\u01bfeor\u00fee \u00fe\u00e6t minra \u00e6ftergengenna \u00e6nig \u00fea yrm\u00fee geearnige [...]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa1195"
+                }, 
+                {
+                    "work": "whi128", 
+                    "page": "ll. 142-54"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "c. 220 mm x 145 mm (dimensions of all - size of leaves).\nc. 187 mm x c. 103 mm (dimensions of Part 1: fols 3-101, size varies, but all slightly larger than part 2 - size of written space).\nc. 175 mm x c. 95 mm (dimensions of Part 2: fols 102-51 - size of written space)",
+        "foliation": "Fols vi + 149 + v, foliated (i-iv), 1-151, (152-56). Fols (i-iv), 1, 2, (152-6) are post-medieval parchment and paper. An old foliation of perhaps s. xii occurs at the foot of the rectos of fols 3-36, 41, 51, 61, 62, 71, 81, 89 as follows: ii-xxxxv, xl, l, lx, l, x, xx, xxx. They are written in a similar hand to <a href=\"EM.BL.Roya.15.B.xxii.htm\">Royal 15. B. xxii</a>, but appear in the right corner of the rectos.",
+        "collation": "<span class=\"itemHeading\">Quires:</span> Collation of fols 3-151: 1<span class=\"sup\">8</span> wants 1 before fol. 3, 2-10<span class=\"sup\">8</span>, 11<span class=\"sup\">8</span> wants 1 before fols 82 and 8 after fols 87, 12<span class=\"sup\">8</span>, 13<span class=\"sup\">6</span> wants 6, probably blank, +1 leaf after 4 (fol. 100), 14<span class=\"sup\">8</span>, 15<span class=\"sup\">12</span> wants 3-5 after fol. 111, 16<span class=\"sup\">10</span>, 17<span class=\"sup\">12</span>, 18<span class=\"sup\">6</span>, 19 five (fols 147-51). A leaf is missing after fol. 81 and after fol. 87. <a href=\"#Ker44\">Ker 1957</a> (p. 196) notes that 'fols 104-07 are two bifolia formed by folding in half two leaves of a larger manuscript which was ruled but not written on: the old ruling runs vertically down the page'.",
+        "layoutDescription": "Written in 28 long lines (27 in Quire 16), frame in dry point and double bounding lines on both side of the frame. External pricking to guide the ruling of the lines.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "4", 
+        "summary": "One main hand for \u00c6lfric's", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Insular Minuscule", 
+                "scribe": "Ker 154 scribe 1", 
+                "description": "Fols 3-101. A round and regular insular script with occasional Caroline features, which does not distinguish between Caroline and insular letter forms. This hand also shares some similarities with", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is regular initially and medially but not finally."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The cross-bar of <span class=\"c\">\u00f0</span> is usually nearly horizontal and sometimes inclines slightly downwards from left to right. Tall tapered ascender curving to the left"
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: tapered descenders with a serif which turns to the left, except <span class=\"c\">p</span>, which ends with a flat foot."
+                    }, 
+                    {
+                        "char": "abbreviations",
+                        "note": "The common mark of abbreviation is cup-shaped. <span class=\"c\"></span>\n<span class=\"expanded\"></span>"
+                    }
+                ], 
+                "date": "s. xi^{2}",
+                "otherManuscripts": ["<a href=\"EM.Ox.Hatt.115.htm\">Hatton 115</a>, fols 1-64v, 66-139v (see also <a href=\"#Ker44\">Ker 1957</a>)."]
+
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 154 scribe 2", 
+                "description": "Fols 102-51 (except lower parts of 115v and 116v). A regular, angular hand mixing insular and Caroline features.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> Caroline."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: tapered descenders with sharp, short serifs to the left."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span>: flat, upright ascenders which thick strokes."
+                    }, 
+                    {
+                        "char": "hypens", 
+                        "note": "<span class=\"c\">hypens</span> curl upwards."
+                    }
+                ], 
+                "date": "s. xii^{1}"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 154 scribe 3", 
+                "description": "Fols 115v lower half and 116r lower half. A similar hand to the main hand of the", 
+                "summary": null, 
+                "date": "s. xii^{1}"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 154 scribe 4", 
+                "description": "Fol. 116r top and right-hand margin. Another hand including English and Latin additions.", 
+                "summary": null, 
+                "date": "s. xii^{2}"
+            }
+        ]
+    }, 
+    "decoration": ["Fols 3-101, red initials, titles in red rustic capitals, some capitals tinted in red.", "Fols 102-51, green and red initials."],
+    "binding": "Rebound in nineteenth-century; nail-mark from a former binding on fols 149-51.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown", 
+        "provenance": "Part 1 was probably written in the same scriptorim as <a href=\"EM.Ox.Hatt.115.htm\">Hatton 115</a> (<a href=\"#ker44\">Ker 1957</a>, p. 196). Parts 1 and 2 have probably been together since the twelfth-century: the annotations on fols 92v and 103 are by the same hand (see also <a href=\"#hun680\">Hunt 1991</a>, p. 111). The contents of the manuscript suggest a south-east origin; perhaps <span class=\"name\">Rochester</span> or <span class=\"name\">Christ Church, Canterbury</span> (<a href=\"#tre41\">Treharne 1998</a>, pp. 232-33). The manuscript probably travelled 'to <span class=\"name\">Worcester</span> in the twelfth-century, and was reorganised there' (<a href=\"#swa283\">Swan 2007</a>, p. 39).", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold and Mary Swan with the assistance of Hollie Morgan and Johanna Green (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "coc404", 
+        "doa1195", 
+        "dob617", 
+        "hic721", 
+        "gne146", 
+        "god42", 
+        "hun680", 
+        "ker44", 
+        "lai45", 
+        "bri1165", 
+        "lus1521", 
+        "men1189", 
+        "pla1170", 
+        "rob818", 
+        "scr565", 
+        "sto907", 
+        "sch892", 
+        "swa126", 
+        "swa347", 
+        "swa283", 
+        "tre41", 
+        "whi128", 
+        "wri819", 
+        "zup447"
+    ]
+}

@@ -1,0 +1,85 @@
+/* CSS Document */
+
+.short 
+{color:#387C44;
+
+font-size:1.02em;
+font-weight:bold;
+text-decoration: none;
+/*background-color:#E2FBD5;
+border:1px solid #999999;*/
+}
+
+
+
+.WithShortTitle {text-decoration:none;}
+
+.menutitle{
+cursor:pointer;
+margin-left: 13px;
+margin-bottom: 5px;
+background-color: #E2FBD5;
+/*  #C6D6B1   */
+color: #003300;
+/*width:140px;*/
+width: 75%;
+padding:2px;
+text-align:center;
+font-size: 1.06em;
+border:1px solid #999999;
+}
+
+.menutitle_quick{
+cursor:pointer;
+margin-left: 13px;
+margin-bottom: 5px;
+background-color: #E2FBD5;
+/*  #C6D6B1   */
+color: #003300;
+/*width:140px;*/
+width: 74%;
+padding:2px;
+text-align:center;
+font-size: 1.1em;
+border:5px solid #003300;
+}
+
+#menutitle{
+	margin-left: 20px;}
+	
+#submenu{
+	margin-left: 5px;
+}
+
+#sub1 {font-size:0.95em;}
+
+.submenu{
+margin-bottom: 1em;
+margin-left: 20px;
+font-size: 1em;
+}
+
+.box{
+margin-bottom: 5px;
+color:#003300;
+/*width:140px;*/
+width: 77%;
+padding:2px;
+text-align:center;
+font-size: 1.1em;
+}
+
+a.noline:link {text-decoration: none; color:#003300; background-color: #E2FBD5; }
+a.noline:visited {text-decoration: none; color:#003300; background-color: #E2FBD5;}
+a.noline:hover {text-decoration: none; color:#003300; background-color: #E2FBD5;}
+a.noline:active {text-decoration: none; color:#003300; background-color: #E2FBD5;}
+
+
+.menu_summary{
+cursor:pointer;
+margin-bottom: 5px;
+width: 77%;
+padding:2px;
+font-size: 1.1em;
+font-weight:130;
+	}

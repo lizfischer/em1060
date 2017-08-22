@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?oxygen RNGSchema="../schema/EM.rnc" type="compact"?>
+<!-- use stylesheet: EM-b-noSurrogate.xsl -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <title>
+      The Production and Use of English Manuscripts: 1060 to 1220
+    </title>
+    <title>
+      Homilies, etc.
+    </title>
+    <title type="uniform">
+      first
+    </title>
+    <title type="uniform">
+      second series of Ælfric's Catholic Homilies
+    </title>
+    <title type="uniform" xml:lang="en" lang="en">
+      Anonymous Homilies , Homilies for Specified Occasions, Sanctorale: Saint Neot
+    </title>
+    <title type="uniform">
+      homily on the Phoenix
+    </title>
+    <title>
+      Dicts of Cato
+    </title>
+    <title>
+      Elucidarium of Honorius Augustodunensis
+    </title>
+    <title type="uniform">
+      Letters: Letter to Sigefyrð
+    </title>
+    <title type="uniform">
+      Letters: First Old English Letter for Wulfstan
+    </title>
+    <title type="supplied" xml:lang="lt" lang="lt">
+      Prayer to the Virgin Mary
+    </title>
+    <title type="supplied" xml:lang="lt" lang="lt">
+      Prayer to St. Thomas
+    </title>
+    <title type="uniform" xml:id="B.1.1.2">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: De Initio Creaturae
+    </title>
+    <title type="uniform" xml:id="B.1.8.5">
+      Ælfric, Letters: Letter to Sigefyrð
+    </title>
+    <title type="uniform" xml:id="B.7.1" xml:lang="en" lang="en">
+      Proverbs: Distichs of Cato
+    </title>
+    <title type="uniform" xml:id="B.1.1.22" xml:lang="en" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Feria III de fide catholica
+    </title>
+    <title type="uniform" xml:id="B.1.8.3">
+      Ælfric, Letters: Second Old English Letter for Wulfstan
+    </title>
+    <title>
+      extract
+    </title>
+    <title type="uniform" xml:id="B.1.6.2" xml:lang="en" lang="en">
+      Ælfric, Tracts: De Duodecim Abusivis
+    </title>
+    <title type="uniform" xml:id="B.1.3.17" xml:lang="en" lang="en">
+      Ælfric, Third Series of Homilies [Lives of Saints]: Memory of the Saints
+    </title>
+    <title>
+      extracts
+    </title>
+    <title type="uniform" xml:id="B.1.3.17.2.EM" xml:lang="en" lang="en">
+      Ælfric, Third Series of Homilies [Lives of Saints]: Memory of the Saints [extracts]
+    </title>
+    <title>
+      extracts
+    </title>
+    <title type="uniform" xml:id="B.1.1.27">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: John the Baptist
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.28" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Peter and Paul
+    </title>
+    <title type="sub">
+      Gospel text only
+    </title>
+    <title type="uniform" xml:id="B.3.3.11" xml:lang="en" lang="en">
+      Anonymous Homilies, Homilies for Specified Occasions, Sanctorale: James the Greater
+    </title>
+    <title>
+      According to Ker, "Concerning James, the Brother of John".
+    </title>
+    <title type="uniform" xml:id="B.1.2.34" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: James and the Seven Sleepers
+    </title>
+    <title type="uniform" xml:id="B.1.2.31" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: Peter and Paul
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.30" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Eleventh Sunday after Pentecost
+    </title>
+    <title type="uniform" xml:id="B.1.2.35" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: Twelfth Sunday after Pentecost
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.32" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Assumption of the Virgin
+    </title>
+    <title type="uniform" xml:id="B.1.2.36" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: Assumption of the Virgin
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.32.1.EM" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Assumption of the Virgin [second part]
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.34" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Decollation of St John the Baptist
+    </title>
+    <title type="uniform" xml:id="B.1.4.4" xml:lang="en" lang="en">
+      Ælfric, Homilies of Ælfric: Dominica III in Quadragesima
+    </title>
+    <title type="uniform" xml:id="B.1.1.23" xml:lang="en" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Ascension
+    </title>
+    <title type="uniform" xml:id="B.1.2.40" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: Matthew
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.36" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Dedicatio ecclesiae sancti Michaelis
+    </title>
+    <title type="uniform" xml:id="B.1.2.37.1.EM" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: First Sunday in September [partial]
+    </title>
+    <title type="uniform" xml:id="B.9.8">
+      Augustine
+    </title>
+    <title>
+      Excerpt from Homilies of St Augustine
+    </title>
+    <title type="uniform" xml:id="B.1.8.2">
+      Ælfric, Letters: First Old English Letter for Wulfstan
+    </title>
+    <title type="uniform" xml:id="B.23.3.5">
+      Prognostic
+    </title>
+    <title type="uniform" xml:id="B.24.21">
+      The Coming of Antichrist
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.42" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Second Sunday in Advent
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.38" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: All Saints
+    </title>
+    <title type="uniform" xml:id="B.8.4.6.4">
+      Gospels: John
+    </title>
+    <title>
+      14:1-13
+    </title>
+    <title type="uniform" xml:id="B.8.5.3">
+      Apocrypha: Gospel of Nicodemus Homilies
+    </title>
+    <title type="uniform" xml:id="B.8.5.4">
+      Apocrypha: Vindicta Salvatoris
+    </title>
+    <title type="uniform" xml:id="B.24.22">
+      The Fifteen Days Before Judgement
+    </title>
+    <title type="uniform" xml:id="B.23.3.5.3.EM">
+      Prognostic
+    </title>
+    <title type="ms">
+      Emb þunre
+    </title>
+    <title type="uniform" xml:id="B.9.7">
+      Alcuin, De Virtutibus et Vitiis
+    </title>
+    <title>
+      Translation of Alcuin, De Virtutibus et Vitiis, Chapters 1-16, each with its own rubric and textual demarcation within the manuscript.
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.39" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Clement
+    </title>
+    <title>
+      abbreviated
+    </title>
+    <title type="uniform" xml:id="B.1.2.25" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: Feria III in Letania Maiore
+    </title>
+    <title>
+      Visio Fursei
+    </title>
+    <title type="uniform" xml:id="B.1.2.26" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: Alia Visio
+    </title>
+    <title type="uniform" xml:id="B.1.1.20">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: In Letania Maiore
+    </title>
+    <title>
+      extract
+    </title>
+    <title type="uniform" xml:lang="en" xml:id="B.1.1.29" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Paul
+    </title>
+    <title type="uniform" xml:id="B.1.2.37" xml:lang="en" lang="en">
+      Ælfric, Second Series of Homilies [Catholic Homilies II]: First Sunday in September
+    </title>
+    <title type="uniform" xml:id="B.3.3.28" xml:lang="en" lang="en">
+      Anonymous Homilies, Homilies for Specified Occasions, Sanctorale: Saint Neot
+    </title>
+    <title type="uniform" xml:id="B.3.3.22" xml:lang="en" lang="en">
+      Anonymous Homilies, Homilies for Specified Occasions, Sanctorale: In Festis Sancte Marie
+    </title>
+    <title>
+      a translation of a Latin sermon by Ralph d'Escures
+    </title>
+    <title type="uniform" xml:id="B.24.26.2">
+      The Age of the World
+    </title>
+    <title>
+      (possibly two texts, since enlarged initial M at fol. 159r/5 is in red ink. Ker (1957, p. 275), decides on two textual items here.)
+    </title>
+    <title type="uniform" xml:id="B.9.9">
+      Honorius of Autun, Elucidarium
+    </title>
+    <title>
+      Honorius Augustodunensis, Elucidarium
+    </title>
+    <title type="uniform" xml:id="B.9.9.1.EM">
+      Honorius of Autun, Elucidarium [second part]
+    </title>
+    <title type="uniform" xml:id="B.1.1.21" xml:lang="en" lang="en">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Feria III de dominica oratione
+    </title>
+    <title type="uniform" xml:id="B.3.4.17" xml:lang="en" lang="en">
+      Anonymous Homilies [for unspecified occasions, published]: Kluge 1885, 474: De sancto iohanne
+    </title>
+    <title type="uniform" xml:id="B.1.1.14">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Annunciation
+    </title>
+    <title type="uniform" xml:id="B.1.1.11">
+      Ælfric, First Series of Homilies [Catholic Homilies I]: Quinquagesima
+    </title>
+  </head>
+  <body>
+    Elaine Treharne Initial file creation - bwg; rewrite of previous file. Material taken from that file noted hereunder. <!-- An older version of this file sets id attribute to EMMS3, 
+                                                but this is the current identifier in mss_names.htm -->
+     United Kingdom London British Library Cotton Vespasian D. xiv s. xiimed
+    <summary n="metatextual">
+      A broad collection of homiletic, hagiographic and educative material, much of it drawn from the and . Among the materials not attributed to Ælfric are the (fols 145v-51r), a (fols 166r-68r), the Old English (fols 7r-11v), a collection of prognostications (fol. 75v), the Vision of St Furseus, translations of a homily by Ralph d'Escures on the Virgin Mary (fols 151v-58r), and extracts from the (fols 159r-63v, 163v-65r). Also present are portions of Ælfric's (fol. 6v) and (fols 13v-15r, 75r-v), and many other short texts, some of which are extracts from longer English works, and others of which are composite texts filling previously blank parts of folios. A copy of Isidore's Synonyma is among a number of Latin texts comprising a second volume written in a continental hand of s. ix, bound together with the twelfth-century English collection at least since Cotton's acquisition. The former volume has a few glosses in English in drypoint. The first and second items in the manuscript assist in understanding the provenance of the English collection, which seems to be in the hands of an 'ancilla' by the later twelfth-century. The same hand, in the second item on fol. 4r, writes a prayer concerning Thomas Becket, who was 'recalled from exile to our [or "his"] own church', suggesting that this prayer was written, perhaps, in Canterbury. It may be that the writer ('ego ancilla') was a member of St Sepulchre's, a nunnery founded by Anselm to the south-east of Christ Church. While the origin of Vespasian D. xiv has been variously posited as Christ Church (see Handley 1974) or Rochester (see Richards 1979), incremental evidence does point more convincingly to Canterbury.
+    </summary><!-- TODO: Add msitem for non-English items -->
+    Fol. 4r/1-13 Oratio de sancta maria matre domini. O dulcissima domina maria pietatis et misericordie Aue maria gratia plena dominus tecum benedictum in multis Latin Ker 1957, Art. 54 Fol. 4r/14-19 Deus qui beatum Thomam archipresulemab exilio reuocatum in ecclesia propria. Per dominum nostrum Ihesum Amen. Latin Ker 1957 Art. 54 Fols 4v/1-6v/14 <!-- <title type="supplied">An adapted version of Ælfric, <hi rend="title">Catholic Homilies</hi>,
+                            <hi rend="title">De initio creaturae</hi>
+                        </title> -->
+     English Text ends mid-page. fol. 4v/1-2 AN anginn is ealra þingen. þæt is god ælmihtig. fol. 6v/13-14 ˥ hine þæt gelogode. ac he ƿearð þurh deofles sƿicdome ut adræfd Ker 1957, Art. 1 Warner 1917 for 1915, 1, pp. 1-3 Thorpe 1844-46, pp. 8-12 Clemoes 1997 pp. 178-89 Fol. 6v/14-22 English fol. 6v/14 Emb Clænnysse þe gehadede mæn healden scylen <!-- Thus in ASMMF; unreadable in facs. -->
+     fol. 6v/15 Ælfric abbod gret Sigefryð.ʹ freondlice fol. 6v/21-22 Nu secge ic þe leofe man þæt me is lað to tælen ægne godes freond.ʹ gyf he godes riht drifð. Fragment. Ker 1957, Art. 2 Warner 1917 for 1915, 2, p. 3 Assmann Angelsächsiche, 1889, p. 13 Wilcox 1994, p. 125, no. 8d, cf. 83-4 Fols 7r/1-11v/21 English fol. 7r/1-2 Mann sceal þurh his modes snoternysse hine sylfre geglengen to ƿisre lare. fol. 11v/19-21 Ne nym þu medsceattesfor heo ablændeð ƿisra manna geðancas. ˥ ƿændeð rihtƿisra ƿord. Cox 1972 Ker 1957, Art. 2 Warner 1917 for 1915, 2, p. 3 Assmann Angelsächsiche, 1889, p. 13 Wilcox 1994, p. 125, no. 8d, cf. 83-4 Fols 12r/1-13v/7 English fol. 12r/1-2 AN Scyppend is ealra þingen geseoƿenlicre ˥ ungeseoƿenlicre. fol. 13v/6-7 For þan þe heo hæfeð þry þing on hire untodælendlice ƿyrcende. Ker 1957, Art. 4 Warner 1917 for 1915, 4, pp. 8-9 Thorpe 1844-46, pp. 274-76, 282, 288 Clemoes 1997, pp. 335-36, 341-42, II. 7-38, 112-13, 185-208 Fols 13v/8-15r/19 fol. 13v/8 Decalogum moysi. English fol. 13v/9-10 ƿe sculen cunnen gemyndelice ˥ mannen eac seggen. þa ten ælice ƿord þe god tæhte moysen. fol. 15r/18-19 ˥ us þe nu synden.ʹ æfter <!-- CHECK: Is this expansion correct? -->christes acænnednysse. Ker 1957, Art. 5 Warner 1917 for 1915, 5, pp. 9-11 Fehr 1914, pp. 189-205 Fols 15r/19-21r/20 fol. 15r/19-20 De .xii. abusiuis secundem disputatione Sancti Cipriani martyris. fol. 15r/21-2 Nu synd tƿelf abusiua . þæt synd tƿelf unðeaƿes þe ƿe eoƿ secgeð onleden. fol. 21r/18-20 þæt hé ure faƿlen underfo. þe he asænde to þan lichamen. by him a ƿuldor ˥ ƿurðmynt. amen. English Ker 1957, Art. 6 Warner 1917 for 1915, 6, pp. 11-16 Morris 1867-68, pp. 299-304 Fols 21r/20 - 22r/19 English fol. 21r/20 De .via. principalibis viciis. fol. 21r/21-22 Nu syndon ehte heafodlehtres þe us on ƿinneðsƿyðe. fol. 22r/17-19 ˥ þone mann macað eac gyf he modegað tofƿðe. þæs deofles gefere þe feoll ær þurh heo. Ker 1957, Art. 7 Warner 1917 for 1915, 7, pp. 16-17 Skeat 1881-1900, pp. 354-58, II. 267-311 Fols 22r/19-23v/20 fol. 22r/19 De .via. virtutibus. English fol. 22r/20 Nu synden ehte heafodmægna. fol. 23v/20 ámid gode sylfen gyf þe sƿincað nu her. <!-- CHECK -->
+     Ker 1957, Art. 8 Warner 1917 for 1915, 8, pp. 17-19 Skeat 1881-1900, pp. 358-62, ll. 312-81 Fols 23v/21 - 25r/12 fol. 23v/21 Of Sanctus Iohanne baptiste. English fol. 23v/21-22 Se Godspellere lucas aƿrat on cristes bech beo accænnednysse jahes þæs fulhteres þuss cƿeðende. fol. 25r/12 Ofet hine fedde ˥ ƿude hunig. ˥ oðre ƿaclice þing. Ker 1957, Art. 9 Warner 1917 for 1915, 9, pp. 19-20 Thorpe 1844-46, pp. 350-52 Clemoes 1997, pp. 379-80 Fols 25r/13-25v/11 fol. 25r/13 In Festo Sancti Petra apostoli. English fol. 25r/13-15 Venit iesus in partes cesaree philippi.ʹ ˥ reliqua. Matheus se godspellere aƿrat on þære godspellice gesettnysse þuss cƿeðende. fol. 25v/11 þæt byð gebunden on heofone. ˥ sƿahƿætt sƿa þu unbinst on eorðen; þæt byð unbunden on heofonen. Ker 1957, Art. 10 Warner 1917 for 1915, 10, p. 20 Thorpe 1844-46, p. 364 Clemoes 1997, pp. 388, II. 1-16 Fols 25v/12-30r/10 fol. 25v/12 Of Iacobe Iohannes broðer. English fol. 25v/13-15 Ðæt iudeissce folc brohte þan hundredes ealdren feo. for þy þæt heo mosten jacoben sƿa ateon sƿa heo ƿolden. fol. 30r/9-10 ƿan sy ƿuldor ˥ ƿurðmynt and on ealra ƿurlde ƿurld. amen. Ker 1957, Art. 11 Warner 1917 for 1915, 11, pp.21-25 Schmetterer 1981, pp. 54-93 Fols 30r/11-31v/5 fol. 30r/11 VI. kalendes Augusti. Sanctorum Septem Dormientium. English fol. 30r/12-13 ƿe ƿylleð eoƿ eac gereccen seortlice þæt nu æfter tƿam dagen is þære seofan slæpe ran gemynd. fol. 31v/4-5 se þe leofað ˥ rixeð <!-- ?? --> and on ecnysse. ameN. <!-- CHECK: Facsimile is unclear -->
+     Ker 1957, Art. 12 Warner 1917 for 1915, 12, pp. 25-26 Godden 1979, pp. 274-48, II. 182-231 Fols 31v/5-33r/3 fol. 31v/5-6 Kalendes Augusti. Ad Vincula Sanctt Petri apostoli English fol. 31v/7-10 LVcas se godspellere us sæde on þyssen pistol rædinge. þæt herodes king ƿolde æfter cristes upstige to heofone gesƿæncen sume of þære ge laðunge. fol. 33r/2-3 þiss ƿæs gedon on þysser nihte. ˥ on þan andƿeardan dæge þe ƿe hateð hlafmæsse. Ker 1957, Art. 13 Warner 1917 for 1915, 13, pp. 26-27 Godden 1979, pp. 221-22, ll. 1-52 Fols 33r/4-40r/5 fol. 33r/4 Dominica .xi. post Pentecosten. English fol. 33r/5 Cum appropinuaret iesus ierusalem. ˥ reliqua. On summere tide ƿæs se hælend farende to ierusalem fol. 40r/4-5 Seo þe lof ˥ ƿuldor on ealra ƿurlda ƿurld. amen. Warner 1917 for 1915, 14, pp. 28-34 Thorpe 1844-46, pp. 402-14 Clemoes 1997, pp. 410-17 Fols 40r/5-48v/10 fol. 40r/5-6 Dominica .xii. post Pentecosten. English fol. 40r/6-8 Dixit iesus ad quosdam qui in se confidebant tanquam iusti et aspernabantur ceteros parabolam istam ˥ reliqua. fol. 48v/9-10 oððæt se hae lend crist to þussen life becom. Concludes with the story of Daniel from Ælfric, <q>De falsis diis</q> ed. Pope 1967-68, 693-703, no. 21, ll. 300-496. Pope 1967-68, 693-703, no. 21, ll. 300-496 Warner 1917 for 1915, 34-41, no. 15 Godden 1979, 249-54 Fols 48v/10-54v/3 fol. 48v/10-11 In Assumptione Sancte Marie. English fol. 48v/11-13 IERonimus se halge sacerd aƿrat ænne pistol beo forðsiðe þære eadigen marien godes cænnestre. to sumen halgen mædene. fol. 54v/1-3 ˥ cƿæð þæt heo him geðingod hæfde ƿið þone heofonlice deme hire agene sune. cf. fols 58r/1- 60r/18 below. Warner 1917 for 1915, 41-46, no. 16 Thorpe 1844-46, 436-48 Clemoes 1997, 429-36, ll. 1-198 Fols 54v/3-57v/22 English fol. 54v/10 Omelia fol. 54v/3-8 Mænn þa leofeste hƿi lon ær ƿe gerehten eoƿ þone pistol þe se halge ieroni mus sette beo forðsiðe þære eadigen marien christes moder þurh þone he adƿæsete þa dƿollice gesettnysse þe samlærede mæn sæden beo hire forðsiðe. fol. 57v/20-22 Synd sƿa þeh get þa dƿollice bec æigðer gea on leden gea on ænglisc.ʹ ˥ heo rædeð ungeræde mæn. The explanatory note and pericope, fol. 54v/3-10, is written over an erased rubric and follows the preceding item without a break, but is followed by a red rubric at fol. 54v/10 and an enlarged and decorated coloured initial. Thus, Warner (1917 for 1915) edits this as a new text, but the manuscript textual divisions on fol. 54v are ambiguous, with a large initial 'S' apparent at line 54v:11, even though Warner's item begins at line 3 on fol. 54v, with the incipit as above. Warner 1917 for 1915, 47-50, no. 17 Godden 1979, 255-59, ll. 1-126 Fols 58r/1-60r/18 English fol. 58r/1-2 ƿe ƿylleð eoƿ gereccen beo geændunge þæs arleasen godes ƿiðersacan julianes. fol. 60r/16-18 Se þe leofeð ˥ rixeð mid fæder ˥ halgen gaste on eallre ƿurlde ƿurld. ameN cf. fols 48v/10-54v/2 above Warner 1917 for 1915, 50-52, no. 18 Thorpe 1844-46, 448-54 Clemoes 1997, ll. 199-273 Fols 60r/18-67r/23 fol. 60r/18-19 .iiii. kalendes septembris Passio Sancti Iohannis baptiste. English fol. 60r/19-20 Misit herodes ˥ tenuit iohannem. et reliqua. fol. 67r/21-23 To þan life us gelæde se mildheorte drihten se leofeð ˥ rixeð mid fæder ˥ mid halge gaste. abuten ænde. amen. Warner 1917 for 1915, 52-58, no. 19 Thorpe 1844-46, 476-90 Clemoes 1997, 451-58 Fol. 67v/1-21 English <q>Final two sentences, partly differentiated through a coloured initial 'S' at fol. 67/17, drawn from Ælfric, CH I. 21</q> (Ker 1957, Item 209). Ker (1957) notes that this item has been added in a blank space, is <q>perhaps [of] another hand</q>, and that the last 5 lines (17-21) <q>are not part of the homily</q>; they come instead from . See Thorpe 1844-46, p. 304, ll. 4-5, and Clemoes 1997, p. 350, ll. 146-48. (Wilcox 2000). fol. 67v/1 Se helend cƿæð on his godspelle. fol. 67v/20-21 's'e byð ƿyrse þone se deofel. Warner 1917 for 1915, 58-59, no. 20 Pope 1967-68, 267, no. 4, ll. 41-55 Fols 68r/1-70r/12 fol. 68r/1 In .xi. kalendas octobres. De Sancto Matheo apostolo. English fol. 68r/2-3 Se godspellere matheus þe ƿe todæig ƿurðigeð fol. 70r/11-12 Sy him þæs ƿuldor aa on ecnysse. Amen. Warner 1917 for 1915, 59- 61, no. 21 Godden 1979, 272-74, ll. 1-79 Fols 70r/13-74v/11 fol. 70r/13 In .iii. kalendas Octobres. English fol. 70r/14-15 Accesserunt ad iesum discipuli dicentes. Quis putas maior est in regno coelorum. Et reliqua. fol. 70r/16-17 Ðiss dægðerlice godspell cƿyðð þæt drihtenes leorningcnihtes fol. 74v/10-11 ˥ þingere on heofone to þan aelmihtigan gode. se þe leofeð ˥ rixeð a on ecnysse. amen. Warner 1917 for 1915, 61-65, no. 22 Thorpe 1844-46, 510-18 Clemoes 1997, 469-75, ll. 133-279 Fol. 74r/12-15 English fol. 74v/12 Godes gecorene synd fol. 74v/15 to bitere sarnysse. The full homily occurs below beginning at fols 139r-145v, and these lines recur at fol. 143v/4-7. Warner 1917 for 1915, 65, no. 23 Godden 1979: 265, ll. 157-59 Fols 74v/16-75r/5 English fol. 74v/16 Augustinus sæde on his cƿiðbocan þæt nan mann ne mihte asmeagan godes ǽ. fol. 75r/5 sƿa sƿa he sylf cƿæð on his godspelle. Warner 1917 for 1915, 65, no. 24 Schmetterer 1981, 94-105 Fols 75r/6 - 75v/2 English fol. 75r/6-7 Iohannes se godspellere on his gastlican gesihðe þone hælend geseh fol. 75v/2 sƿa sƿa he sylf getæhte ær his þroƿunge Warner 1917 for 1915, 65-66, no. 25 Fehr 1914, 83-87 Fol. 75v/3-21 English fol. 75v/3-4 Ðonne forme geaƿesdæig byð sunendæig.ʹ hit byð god ƿinter. fol. 75v/20-21 ˥ ealle ƿæstmes yfeles geƿænde. scep cƿelleð ˥ ealde mænn. Warner 1917 for 1915, 66, no. 26 Assmann, Angelsächsiche, 1889, 369 Fols 76r/1-76v/18 <!-- <title type="supplied">
+                            Ker: "A piece on Antichrist and his imminent coming"
+                        </title> -->
+     English fol. 76r/1-2 Hit sæigð on halgen bocan. þæt æfter gearan ymbryne fol. 76v/17-18 byð sƿyðe mycle ungeðƿærnysse. ˥ ðrahlice ƿiten on manna bearnen. Warner 1917 for 1915, 66-67, no. 27 Schmetterer 1981, 106-28 Fols 76v/18-82v/8 fol. 76v/18 Dominica .ii. iN aduentu domini English fol. 76v/19 Erunt signa in sole et luna. ˥ stellis. et Reliqua. 76v/20-21 Se godspellere lucas aƿrat on þyssen dæigðerlicen godspelle. fol. 82v/5-8 for þy brucan þæs fyrstes þe us god forgeaf. ˥ geearnigen þæt ece lif mid him. se þe leofeð. ˥ rixeð on eallra ƿurlda ƿurld ameN. Warner 1917 for 1915, 67-72, no. 28 Thorpe 1844-46, 608-18 Clemoes 1997, 524-30 Fols 82v/10-86v/23 fol. 82v/10 Secundum matheum. English fol. 82v/10 Videns turbas iesus. fol. 82v/11-12 Ðæt halige godspell þe nu lyttle ær ætforan eoƿ gerædd wæs.' fol. 86v/21-23 scyppend ˥ alysend ealre halgena mid fæder ˥ mid þan halgen gaste. a on ecnysse. ameN. Fol. 86v ruled for an extra line to complete this item. Warner 1917 for 1915, 73-77, no. 29 Thorpe 1844-46, 548-56 Clemoes 1997, 491-96, ll. 147-291 Fols 87r/1-87v/8 English fol. 87r/1-2 Iohannes se godspellere aƿrat hƿu se hælend spæc to his leorningcnihten. ˥ cƿæð. fol. 87v/7-8 ˥ eall þæt ge beseceð æt mine fæder on minen name.ʹ eall ic hit do. Warner 1917 for 1915, 77, no. 30 Fols 87v/9-100r/22 fol. 87v/9 De Resurrectione domini English 87v/9-11 Ðæs dæiges þe ure hælend for ure alesednysse geðolede pine on þær halgen rode. fol. 100r/22 Seo drihtene lof.ʹ ˥ deofle sarege. ameN. Warner 1917 for 1915, 77-88, no. 31 Hulme 1903-04 Fols 100v/1-102r/8 English fol. 100v/1-3 ON Tiberies dagen þæs mycele caseres hit ge lamp binnen lyttle fæce æfter þan þe crist ahangen ƿæs. fol. 102r/7-8 ˥ ƿyrðmynt fæder[?] ˥ sune. ˥ þan halgen gaste. aa buten ænde. Amem. Warner 1917 for 1915, 88-89, no. 32 Assmann, Angelsächsiche, 1889, 193-94 Fols 102r/9-103v/9 English fol. 102r/9-10 On þan nexten fiftene dagen beforen domes dæge. fol. 103v/9-9 sƿa þæt on middenearde ne belæfð naht unclænes gesene. Warner 1917 for 1915, 89-91, no. 33 Assmann, 'Vorzeichen', 1889 Fol. 103v/9-24 fol. 103v/9-10 Emb þunre English fol. 103v/9 On Ianuarius monðe gyf hit þunreð. fol. 103v/23-24 On decembre. hit bodeð god gear on tilðe. ˥ sibb. ˥ sehte. The scribe has here written two extra lines to end this item at the end of this folio, which is the last in its quire. Warner 1917 for 1915, 91, no. 34 Assmann 1888 Fols 104r/1-119r/20 fol. 104r/1 De Scientia. English fol. 104r/1-3 Ærest ealre þingen æighƿylce mæn is to secene hƿæt seo se soðe ƿisedom. fol. 119r/18-19 his saƿle to forƿyrde on ecere pine. Internal rubrics are in red and followed by coloured initials, alternately green and red. Warner 1917 for 1915, 91-105, no. 35. Assmann, 'Übersetzung', 1889 Fols 119r/21-123r/8 English fol. 119r/21-22 Oft hƿonlice gelefde mænn smegeð mid heora stunten gescade. fol. 123r/8-9 ˥ to þan ecen life gelæde. se þe leofeð ˥ rixeð. abuten ænde. amen. Warner 1917 for 1915, 106-9, no. 36 Thorpe 1844-46, 566-76 Clemoes 1997, 502-6, ll. 148-280 Fols 123r/8-130v/22 fol. 123r/8 Sanctus Furseus gesihðe. English fol. 123r/9-10 Mæn þa leofeste. Paulus se apostel eallra þeode larðeaƿ aƿrat beo him sylfen fol. 130v/22 se þe is ealre leode ƿealdend. Warner 1917 for 1915, 109-16, no. 37 Godden 1979, 190-98 Fols 131r/1-136r/14 fol. 131r/1 Of Drihtelme English fol. 131r/1-4 BEDA ure larðeaƿ aƿrat on þære bech þe is gehaten historia anglorum be sumes mannes æriste on þyssen eglande. fol. 136r/12-14 on þan mæig æighƿa beo þyssen genihtsumlice geheren se þe heo oferræden ƿyle. gyf he þæt andgit understanden cann. Doxology omitted, per Ker. Note that Ker (1957) makes two items of this one item, breaking the text at fol. 135r/15, when the manuscript shows no indication of a new textual item. We thus retain the single item numbering here, as Warner (1917 for 1915) item 38. Early Modern note, <q>Liber Dialogorum gregory Anglie habebat</q>, at the foot of fol. 136r refers to the OE at fol. 136r/9-10. Warner 1917 for 1915, 116-20, no. 38 Godden 1979, 199-205 Fols 136r/15-137r/7 English fol. 136r/15-16 God spæc to anen ƿitege þe ƿæs Ionas gehaten. fol. 137r/6-7 for heora lehtren mid heofonlice fyre forbærnde. sƿa sƿa þe eoƿ gereccen mugen. Warner 1917 for 1915, 120-21, no. 39 Thorpe 1844-46, 244-46 Clemoes 1997, 317-18, ll. 14-39 Fols 137r/8-139r/2 English fol. 137r/8 Soð is to secgene. þa þa ƿyreceð on godes ƿille. þa becumeð on myrhðe. Ðæt godspell cweðð. Ælc þære þe forlæt. fol. 139r/1-2 ˥ geefenlæcen þan apostlen þæt ƿe mid heom and mid gode þæt ece lif habben moten. Amen. Warner 1917 for 1915, 121-22, no. 40 Fols 139r/3-145v/18 fol. 139r/3 Forbisne of Iob. The entire text of a homily, a fragment of which is also included above at fol. 74v/12. English fol. 139r/3-5 Mine gebroðre. ƿe rædeð nu æt godes þenunge beo þan eadigen ƿere Iob. fol. 145v/16-18 eallra his ƿundra ˥ his ƿeldæden se þe ana is god a on ecnysse. amen. Warner 1917 for 1915, 123-29, no. 41 Godden 1979, 260-67 Fols 145v/18-151r/23 fol. 145v/18 Of Seinte Neote. English fol. 145v/19-20 Mæn þa leofeste. Ƿe ƿylleð eoƿ cyðen beo su[?] men dæle emb þyssen halgen fol. 151r/22-23 ˥ þæt ƿe moten æfter forðsiðe to ecere reste becumen. Rubric on fol. 145v is in green, unlike the red used in all other cases. The text is fitted onto fol. 151r through the addition of a half-line beneath the usual ruled space. Warner 1917 for 1915, 129-34, no. 42 Richards 1971 Fols 151v/1-158r/12 fol. 151v/1 Sermo in festis Sancte Marie virginis. English fol. 151v/2-4 Se godspellere Lucas sæigð on þyssen godspelle. þæt se hælend com in to sumen cæstele. fol. 158r/10-12 sohten urne drihten mid smerigeles inne his þruge þa þa he bebyriged ƿæs Warner 1917 for 1915, 134-39, no. 43 Förster 1925 Treharne 2006 Fols 158r/13-159r/8 English fol. 158r/13-14 Ƿe rædeð on bocan þæt Nabugodonosor geheregode ierusalem. fol. 159r/6-8 Mann sægð þæt fram þan time þe ærest Adam gescapen ƿæs. oððe christes tocyme. ƿæron agane fif þusend. ˥ fif hundred ˥ fif ˥ tƿentig geare. [This is the whole of Ker's Art. 47.] <q>Darius</q> at fol. 158r/20 and 158v/15 overwrites an erasure in a different hand; D tipped with green. At fol. 158r/20, <q>Swa swa writen seggeþ</q> is written in a different hand in fading red ink. On fol. 159r/9, lines of Latin have been squeezed in, beginning 'cum sit nostra presens intentio'. Warner 1917 for 1915, 139-40, no. 44 Förster, 'Weltzeitalter', 1925 Fols 159r/10-163v/8 Condensed translation of Book 2, Chapters 1-6 English fol. 159r/10 Sum mann sæigð þæt synne nis nan þing fol. 163v/8 heo gebideð frofre ˥ blisse. Warner 1917 for 1915, 140-43, no. 45 PL 172: 1133-38 Fols 163v/11-165r/13 Condensed translation of Book 1, Chapters 23-25. English fol. 163v/11-12 hƿy aƿas ure drihten /of deaðe\ þæs formeste dæges þære ƿuca.ʹ fol. 165r/12-13 feoƿertig dagen æfter þær pine þe heo þoligeð under ante criste; Written in the hand of a minor scribe (see below). Warner 1917 for 1915, 144-45, no. 46 Förster 1901 PL 172: 1126-27 Fols 165r/14-166r/10 English fol. 165r/14-15 NE becymð nan mann to godes rice buten he sy afondod. fol. 166r/8-10 þonne he mid softnesse ˥ mid yfele lusten geearnian þa ece tintrege mid deofle on helle ƿite. aa. Fols 165v/1-166r/10 are in the hand of a minor scribe (see below); fol. 165r/14-22 is in the hand of another scribe. Warner 1917 for 1915, 145-46, no. 47 Thorpe 1844-46, 268-70 Clemoes 1997, 330-31, ll. 148-77 Fols 166r/12-168r/23 Known as the Homily on the Phoenix English fol. 166r/12 SANCTUS Iohannes geseh ofer garseg sƿylc hit an land ƿære. fol. 168r/21-23 crist us generige þæt ƿe on ƿynne ƿunigen móte. mid þan þe leofeð ˥ rixeð a bute ænde. Amen. In the hand of Scribe 3. A line is added to fol. 168r to complete the item on this leaf. Warner 1917 for 1915, 146-48, no. 48 Kluge 1885 Fols 168v/1-169r/21 English fol. 168v/1-2 Sum æƿfest godes þeign ƿæs gehaten zacharias. fol. 169r/20-21 ˥ tostencte þa modigan. In the hand of Scribe 3. Warner 1917 for 1915, 148-49, no. 49 Thorpe 1844-46, 202 Clemoes 1997, 287, ll. 169-90 Fol. 169v/1-21 English fol. 169v/1-2 Se hælend cƿæð on his godspelle. Ic eam weig fol. 169v/21 Hit gelimpð gelomlice þone se mann Ends imperfectly. Warner 1917 for 1915, 149, no. 50 Thorpe 1844-46, 154-56 Clemoes 1997, 261, ll. 59-71 <!--  <note type="team"> TODO: Add msItems for Latin texts.  Add msItem for English glosses of Isidore (class="marginalia", not sure how best to include this </note> -->
+     <!--        <note type="team"> part 2 of this ms is mostly outside of our time remit, so I described as below. TK </note> -->
+     Fols 170-224v Part 2 of the manuscript is written in s. ix, and probably from Italy. Texts include extracts from the Meters of Boethius's Consolatio Philosophiae, Isidore, Synonyma: De lamentatioaone animæ peccatricis. English glosses, mostly in s. x. Ker 1957, Item 210 Watson 1979 109 Fol. 170v, top margin S.Y. Ker (1957) notes that this mark may be s. xii. An Isidore text from Christ Church, Canterbury, now CUL Kk. 1. 28 has the same mark. Ker 1957, Item 210 Substrate, probably vellum, of relatively good quality. First original folio, fol. 4, is damaged and yellowed, and has tear repaired with silk thread. Final folio, fol. 169v, is darker and shows signs of exposure, as does succeeding folio, the opening of the earlier conjoined codex. Most folios in the English part show signs of use, as corners and foredge margins are soft and dirty. Hairsides are generally very yellow and waxy. Manuscript smells smokey. Hair faces hair, flesh faces flesh throughout. Part 1: fols 4-169 ii + 223 + iv leaves, trimmed; some marginal text cropped. The thickness of the unpressed volume is 57mm. Not all leaves are full size: fol. 106 is 159 mm tall, fol. 144 is 104 mm wide, fol. 166 is 112 mm wide (Wilcox 2000). c. 159 c. 146
+    <p>
+      The manuscript has been foliated three times, the two erroneous foliations are now both struck through.
+    </p>
+    <p n="quires">
+      Part I: 12, 28, wants 2-8, 310, wants 1, 4-88, 910, 108, 1110+1 leaf after 10, 128, 138+1 leaf after 8, 14-158, 1610, 17-218. Part II: 16+2 singletons, 2-58, 68, wants 4, 78
+    </p>Quire 2, 8-13, 15 are signed respectively II, I-IV, VIII at the foot of last versos, often trimmed and just visible.
+    <p>
+      The manuscript is in good condition. First original folio, fol. 4, is damaged and yellowed, and has tear repaired with silk thread. Final folio, fol. 169v, is darker and shows signs of exposure, as does succeeding folio, the opening of the earlier conjoined codex. Most folios in the English part show signs of use, as corners and foredge margins are soft and dirty. Hairsides are generally very yellow and waxy. Manuscript smells smoky. Repairs are made to damaged areas, such as fol. 4. An original repair can be seen in the outer margin of fol. 51, where it is stitched at lines 3-4. Notable is the fold across the middle of fols 4, 5, 6, the first quire, which suggests this was carried separately for some time before being joined to the manuscript.
+    </p><!-- ker's description: '165-175 x 110 mm in 21-26 long lines and 29 lines on fols 26v-28. Ruling in plummet. Single bounding lines. Pricks in both margins of quires 5, 17-21 to guide ruling. -->
+    <!-- xml:id="IDL01" -->
+    Fols 1-24r <!-- n=indicate which column if more than one -->
+     35mm 27mm <!-- <p>
+                                    <ref target="EM.one-col.jpg">image which describes the layout of the
+                                        text</ref> on <locus>fol. 59v</locus>, etc.).</p> -->
+    <p>
+      Written in <!--<ref target="layout/EML-1col.jpg">-->one column throughout; 24 lines per page. Double vertical bounding lines, ruled in plummet, with top and bottom horizontal rulings extended full page width. Writing on top line. Generous interlinear spacing rendering manuscript highly legible.
+    </p>
+    <p n="desc">
+      <!--TREHARNE'S DESCRIPTION-->
+       Scribe A - fols 4v-169r (except folios noted below) fols 4v/15-169r A relatively formal bookhand. This hand is not found elsewhere, but is generally similar in aspect to the prickly script of Christ Church, Canterbury and Rochester.
+    </p>
+    <p n="char">
+      <s type="a">Hybrid forms of single-compartment a with a very indistinct head.</s> <s type="d">Tall, round-backed d.</s> <s type="f">Vernacular minuscule forms of f.</s> <s type="g">8-shaped g (typical of mid-twelfth-century script), often ligatured by straight stroke to next letter, has a hairline stroke closing lower bowl from which an otiose tail extends from the left corner, probably contemporary, but possibly added later.</s> <s type="h">h is Caroline.</s> <s type="minim">Slightly uneven minims, with generous space between doubling of nasal consonants.</s> <s type="p">p has a pronounced onset stroke, with a distinctive 45º foot to the right of the descender.</s> <s type="r">Vernacular minuscule form of r.</s> <s type="s">Tall, uncial and long forms of s.</s> <s type="t">t has a notable otiose onset stroke at 45º to the headstroke.</s> <s type="y">Straight-limbed, dotted y.</s> <s type="ð">ð has an exaggerated cross-stroke low on the ascender, with a flick down to the right at the end.</s> <s type="þ">Backward leaning þ.</s> <s type="ƿ">ƿ has a pointed bowl.</s> <s type="ascenders">Tall ascenders, often wedged or split.</s> <s type="descenders">descenders taper to the left.</s> <s type="other">bowls are angular.</s>
+    </p>
+    <p n="ligature">
+      Ligatures include st, comprosed of long or high s and t, crossed at half-way point.
+    </p>
+    <p n="abbreviations">
+      Abbreviations are few, but include þ with angular, upward-curving stroke towards the top of the ascender.
+    </p>
+    <p n="punctuation">
+      Punctuation includes punctus on, or slightly above, line; punctus elevatus; and very angular hairline hyphens at line-ends to show run-over of lexemes.
+    </p>
+    <p n="desc">
+      fols 4v-6v/14, 67v, 165r/14-22, 166r/13-168 Additional articles in the manuscript (). Written in a hand later than - but, arguably, identical to - the first. It has a rounded duct, and letter forms are laterally expansive.
+    </p>
+    <p n="char">
+      <s type="a">a is two-compartment.</s> <s type="d">Tall, round-backed d.</s> <s type="e">e often has an extended tongue in final position.</s> <s type="f">Vernacular minuscule forms of f where the mid-bar curves up (as opposed to Scribe 1, where it curves down).</s> <s type="g">8-shaped g (typical of mid-twelfth-century script), often ligatured by a straight stroke to the next letter, has a very angular hairline stroke closing lower bowl; insular g also occurs in final folios, used for the palatal spirant, where Caroline g is used for the stop.</s> <s type="h">h is Caroline with an exaggerated right limb, curving under the left limb.</s> <s type="minim">Slightly uneven minims, with generous space between doubling of nasal consonants.</s> <s type="p">p has a distinctive 45º foot to the right of the descender.</s> <s type="r">Vernacular minuscule form of r is distinctive with its shoulder curving back towards the downstroke and occasionally closing before it curves up to the right.</s> <s type="s">s is generally tall in all positions.</s> <s type="t">t has a notable angular onstroke at 45º to the headstroke.</s> <s type="y">Dotted y has limbs that turn outwards, the whole letter tipping slightly to the right.</s> <s type="ð">ð is formed with a wavy stroke piercing the ascender; in the latest stints, the top of the crossbar is emphatically flagged to the left.</s> <s type="þ">þ has a low ascender.</s> <s type="ƿ">ƿ has pointed bowl.</s> <s type="ascenders">ascenders are tall, often wedged or split.</s> <s type="descenders">descenders exploit the generous interlinear space and taper to the left.</s>
+    </p>
+    <p n="ligature">
+      Ligatures include st, which occurs frequently. There is some biting (e.g., fol. 5r/17, <q>scyppend</q>).
+    </p>
+    <p n="abbreviations">
+      The tironian nota often sits on the line, and curves up at the bottom to the right. Abbreviations are few, but include þ with a cross-stroke through the ascender; cw with a macron over the ƿ; a Latin curved hook for <q>-er</q>, and an upward curved macron over nasal or denoting (in English) omission of nasal.
+    </p>
+    <p n="punctuation">
+      Punctuation includes low punctus; punctus elevatus; and hyphen at varying heights and angles at line-end. <s type="corrections">Corrections by insertion mark and interlinear addition.</s>
+    </p>
+    <p n="desc">
+      Additional articles in the manuscript (fols 163v/11-165r/13, 165v-166r/10). Partially written by Scribe 3 and Scribe 2. The main characteristics of Scribe 3's hand are its rounded, slightly backward-leaning aspect, and its regular duct. The script is calligraphically consistent. The scribe uses rustic capitals occasionally for Latin names.
+    </p>
+    <p n="char">
+      <s type="a">a is two-compartment.</s> <s type="æ">æ is formed with single compartment a, the lower part of e descending slightly below the line.</s> <s type="d">d is round-backed.</s> <s type="e">e often has an extended tongue in final position.</s> <s type="f">Vernacular minuscule forms of f where the mid-stroke is often slightly longer than the headstroke.</s> <s type="g">8-shaped g, often ligatured by straight stroke to next letter, has a hairline stroke closing lower bowl, with an occasional oblique stroke finishing the lower part of the tail. Insular g begins from the left of the headstroke and sweeps round into an angular, but controlled tail. Insular g is used for the spirant; Caroline, for the stop.</s> <s type="h">Caroline h.</s> <s type="minim">Even minims, often with slight serifs to the right.</s> <s type="p">There is a very slight 45º foot to the right of the descender of p.</s> <s type="r">Vernacular minuscule form of r with very slight hook up at end of right limb.</s> <s type="s">s is generally long in all positions; uncial s occurs in Latin names.</s> <s type="t">t has a well-formed curved downstroke.</s> <s type="ð">ð is formed with a short curved stroke piercing the ascender.</s> <s type="þ">þ has a curved, tapered descender.</s> <s type="y">y is dotted, with both upper limbs turning to the left.</s> <s type="ƿ">ƿ has pointed bowl, but otherwise is quite similar to p.</s> <s type="N">Rustic N is used at line-ends.</s> <s type="ascenders">Tall ascenders are controlled, and often flagged to the left.</s> <s type="descenders">descenders exploit the generous interlinear space, tapering and curving to the left.</s>
+    </p>
+    <p n="ligature">
+      Ligatures include st, with a narrow, high aperture, and t crossed through a mid-point. There is some biting.
+    </p>
+    <p n="abbreviations">
+      The tironian nota has a slightly wavy head, and usually descends below the line, but occasionally sits on the line and flicks up at the bottom to the right. Abbreviations are few, but include þ with a cross-stroke to the right of the ascender; Latin 9-shaped mark for <q>-us</q>, and upward curved macron over <q>sce</q> or denoting English omission of nasal.
+    </p>
+    <p n="punctuation">
+      Punctuation includes low punctus; punctus elevatus; punctus interrogativus (tipped over); and punctus versus at end of text. <s type="corrections">Corrections by insertion mark, interlinear addition, erasure and overwriting.</s>
+    </p>
+    <p>
+      Frequent decorated initials in red and green to mark main items, sometimes alternating between the two colours, for example; fol. 4r, O and D in red, together with the rubrics; fol. 4v, red A with green infill and additional red splashes on particular graphs within the text; fol. 7r, green M with red lines along the two oblique bars.
+    </p>
+    <p>
+      Fourteenth-century pen-trials (<q>Sciant presentes</q> <q>Domine dominus noster</q>) in margins of fol. 58v; pencil scratches at bas-de-page of fol. 76r. Erased pen-trials in margins of fols 111v, 113v, 116v. Richard James's table of contents appears on fol. 2r and another table of contents appears on fol. 3r.
+    </p>
+    <p>
+      The manuscript contains later sixteenth-century annotations in the hands of Robert Talbot, John Joscelyn, and Laurence Nowell.
+    </p>
+    <p>
+      Bound in s. xvii in brown and red leather with shield on front in gold tooling, with green leather on the spine. Number 691 at top, A at bottom. <q>Homilies of Abbat AElfric, Saxon, etc.</q> written in a green square.
+    </p>
+    <p>
+      Added flyleaves of a printed edition of a Latin text at the beginning and the end of the manuscript.[check whether it is possible to determine which text this is]
+    </p>
+    <p>
+      Written in the South-East of England, almost certainly at Christ Church, in the period 1140-1160. The manuscript seems to show a gradual accumulation of texts over time, if alterations in the various hands' letter-forms are anything to go by, including the identification of the same or a very similar hand in a Christ Church charter of the same period (Treharne forthcoming).
+    </p>
+    <p>
+      Nothing is known of the manuscript's history, prior to its acquisition by Cotton, except that it seems to have been used by a female 'ancilla' (as noted above) by the later twelfth century. Further annotations and pen-trials show the manuscript was available for users, but little else can be deduced as yet. What is known is fully detailed in Wilcox (2000).
+    </p>
+    <p>
+      Given to British Library as part of Cotton collection.
+    </p><source> Manuscript described by Elaine Treharne with the assistance of Orietta Da Rold, Zöe Enstone, Hollie Morgan, Owen Roberson, William Green and Takako Kato (2010; 2013). <!-- <p>Information encoded by Orietta Da Rold and Zoe Enstone on <date>10 March 2005</date>. The rest of Incipits encoded by Hollie Morgan on <date>26th June 2009</date>. William Green also edited the 2005 version. Takako Kato compiled two versions, and added the bibliography in Sep 2009. Elaine Treharne wrote the introductory matter, all of the descriptions of the hands, and added information to each textual item, particularly where our numbered items differ from Ker's (whose description differs from Warner's edition). Hollie Morgan typed up Owen Roberson's corrections, also proofread, tagged items in the introduction, tagged manuscripts and references to individual items, hid team comments and tidied up the hand descriptions (July 2010)</p> -->
+     Assmann, Bruno, ed., Angelsächsischen Homilien und Heiligenleben, Bibliotek der angelsächsischen Prosa, 13 (Kassel: Wigand, 1889; repr. 1964) ---, 'Eine Regel über den Donner', Anglia, 10 (1888), 185 ---, 'Prophezeiungen aus dem 1. Januar für das Jahr', Anglia, 11 (1889), 369 ---, 'Übersetzung von Alcuins De virtubius et vitiis liber ad Widonem comitem', Anglia, 11 (1889), 371-91 ---, 'Vorzeichen des jüngsten Gerichts', Anglia, 11 (1889), 369-71 Clemoes, Peter, ed., Ælfric's Catholic Homilies: The First Series. Text, EETS, SS 17 (London: Oxford University Press, 1997) Cox, R. S., 'The Old English Distichs of Cato', Anglia, 30 (1972), 1-42 Crawford, S. J., ed., The Old English Version of the Heptateuch, Aelfric's Treatise on the Old and New Testament, and his Preface to Genesis, EETS, OS 160 (London: Oxford University Press, 1922) Davis, G. R. C., Medieval Cartularies of Great Britain: A Short Catalogue (London: Longmans Green, 1958) Fehr, Bernard, ed., Die Hirtenbriefe Ælfrics, Bibliothek der angelsächsicschen Prosa, 9 (Hamburg: Henri Grand, 1914; repr. with a supplement to the introduction by Peter Clemoes, Darmstadt: Wissenschaftliche Buchgesellschaft, 1966) Förster, Max, 'Der Inhalt der altenglischen Handschrift Vespasianus D. XIV', Englische Studien, 54 (1920), 46-68 ---, 'Die spätaltenglische Übersetzung der Pseudo-Anselmschen Marienpredigt', Palaestra (Anglica: untersuchungen zur englischen Philologie, 148 (1925), 8-69 ---, 'Die Weltzeitalter bei den Angelsachen', in Neusprachliche Studien: Festgabe Karl Luick zu seinem 60. Geburtstage, ed. by Friedrich Wild (Marburg: Elwert, 1925), pp. 198-99 ---, 'Two Notes on Old English Dialogue Literature', in An English Miscellany Presented to Dr. Furnivall (Oxford: Clarendon Press, 1901), pp. 86-106 Godden, Malcom, ed., Ælfric's Catholic Homilies: The Second Series, EETS, SS 5 (London: Oxford University Press, 1979) Hall, Joseph, Selections from Early Middle English, 1130-1250., 2 vols (Oxford: Clarendon Press, 1920) Handley, R., 'British Museum MS Cotton Vespasian D. xiv', Notes and Queries, 21 (1974), 243-50 Hardy, Thomas Duffus, Descriptive Catalogue of Materials Relating to the History of Great Britain and Ireland to the End of the reign of Henry VII, Rolls Series, 26 (London: Longman, 1871) Hulme, W. H., 'The Old English Version of the Gospel of Nicodemus', PMLA, 13 (1898), 471-515 ---, 'The Old English Version of the Gospel of Nicodemus', Modern Philology, 1 (1903-04), 591-610 Ker, N. R., Catalogue of Manuscripts Containing Anglo-Saxon (Oxford: Clarendon Press, 1957; repr. 1990) item 209 Kluge, F., 'Zu altenglischen Dichtungen', Englische Studien, 8 (1885), 474-79 Le Patourel, John, 'The Reports on the Trial on Penendon Heath ', in Studies in Medieval History Presented to Frederick Maurice Powicke , ed. by R. W. Hunt, W. A. Pantin and R. W. Southern (Oxford: Clarendon Press, 1948) Meritt, Herbert Dean, 'Old English Glosses, Mostly Dry Point', Journal of English and Germanic Philology, 60 (1961), 441-50 Morris, Richard, ed., Old English Homilies of the 12th and 13th Centuries, EETS, OS 29, 34 (London: Oxford University Press, 1867-68; repr. as one volume, 1988) Page, R. I., 'New Work on Old English Scrathced Glosses', in Studies in English Language and Early Literature in Honour of Paul Christophersen, ed. by P. M. Tilling, Occasiional Papers in Linguistics and Language Teaching (Coleraine: New University of Ulister, 1981) Pope, John C., ed., Homilies of Aelfric: a Supplementary Collection, EETS, OS 259 and 260 (London: Oxford University Press, 1967-68) Richards, Mary P., 'An Edition of the Old English Of Seinte Neote' (unpublished doctoral dissertation, University of Wisconsin, 1971) Richards, M. P., 'Innovations in Aelfrician Homiletic Manuscripts at Rochester', Annuale Medievale, 19 (1979), 13-26 ---, 'MS Cotton Vespasian A. XII: the Vespasian Homilies', Manuscripta, 22 (1978), 97-103 ---, 'On the date and provenance of MS Cotton Vespasian D. xiv, ff. 4-169', Manuscripta, 17 (1973), 31-35 Richards, Mary P., Texts and their Traditions in the Medieval Library of Rochester Cathedral Priory, Transactions of the American Philosophical Society, 78:3 (Philadelphia: American Philosophical Society, 1988) Rye, W. B., 'Catalogue of the Library of the Priory of St. Andrew, Rochester A.D. 1202', in Archaelogia Cantiana: Transactions of the Kent Archaelogical Society 3 , 3 (1860), pp. 47-64 Schmetterer, Viktor, Drei altenglische religiöe Texte aus der Handschrift Cotton Vespasianus D XIV, Dissertationen der Universität Wien, 150 (Vienna: VWGÖ, 1981) Skeat, W. W., ed., Ælfric’s Lives of Saints, EETS, OS 76, 82, 94, 114 (London and Oxford: Kegan Paul, Trench, Trübner, 1881-1900; repr. as 2 vols, 1966) Stubbs, William, The Historical Works of Master Ralph de Diceto, Dean of London, Rolls Series, 68, 2 vols (London Longman, 1876) Thorpe, B., ed., The Sermones Catholici or Homilies of Aelfric, Aelfric Society, 2 vols (1844-46) Traxel, Oliver M., Language Change, Writing and Textual Interference in Post-Conquest Old English Manuscripts: The Evidence of Cambridge, University Library, Ii.1.33 (Frankfurt am Main: Peter Lang, 2004) Treharne, Elaine M., 'The Production and Script of Manuscripts containing English Religious Texts in the First Half of the Twelfth Century', in Rewriting Old English in the Twelfth Century, ed. by Mary Swan and Elaine M. Treharne (Cambridge: Cambridge University Press, 2000), pp. 11-39 -----------------, 'The Life of English in the Mid-Twelfth Century: Ralph D'Escures's Homily on the Virgin Mary', in Literature of the Reign of Henry II, ed. by Ruth Kennedy and Simon Meecham Jones (London: Routledge, 2006), pp. 169-86 -----------------, 'Categorization, Periodization: The Silence of (the) English in the Twelfth Century ', in New Medieval Literatures, 8, ed. by Rita Copeland, Wendy Scase and David Lawton (Turnhout: Brepols, 2006), pp. 248-75 ------------------, 'The Form and Function of the Old English Dicts of Cato', in Journal of English and Germanic Philology 102.4, (2003), pp. 65-85 ---------------, The Ideology of Early English, 1000-1200 (Oxford: University Press, Forthcoming) Waller, K. M., 'The Library, Scriptorium and Community of Rochester Cathedral Priory c. 1080-1150' (unpublished doctoral dissertation, Liverpool University, 1981) Wanley, Humfrey, Antique literature septentrionalis liber alter (Oxford: Sheldonian Theatre, 1705) Warner, Rubie D. N., ed., Early English Homilies from the Twelfth Century MS. Vesp. D. xiv, EETS, OS 152 (Oxford: Oxford University Press, 1917 for 1915) Watson, Andrew George, Catalogue of Dated and Datable Manuscripts, c.700-1600 in the Department of Manuscripts, the British Library, 2 vols (London: British Museum, 1979) Wilcox, Jonathan, ed., Aelfric's Prefaces, 9 (Durham: Durham Medieval Texts, 1994) ---, 'London, British Library, Cotton Vespasian D. xiv: Homiles, etc; Isidore, "Synonyma"', in Anglo-Saxon manuscripts in Microfiche Facsimile, 8: Wulfstan Texts and Other Homiletic Materials (Tempe, AZ: Arizona Center for Medieval and Renaissance Studies, 2000), pp. 53-64
+  </body>
+</html>

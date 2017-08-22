@@ -1,0 +1,195 @@
+{
+    "id": "Ox.Juni.85", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Junius", 
+    "shelfmark": "85", 
+    "ker": "336", 
+    "content": "Homilies", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Five homilies, fragments, owing to the loss of leaves after and before quires. The manuscript is part of <a href=\"EM.Ox.Juni.86.htm\">Junius 86</a>. Origin unknown.", 
+    "items": [
+        {
+            "locus": "fol. 2r", 
+            "text": "B.3.2.40", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 2r) song 7 godes lof [...] | stan cynincges"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 2r) so\u00f0lice buton | \u00e6nde; AMEN"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragment"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 2-17", 
+            "text": "B.3.5.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 2v) Men \u00f0a leofestan we gelornodon on godcundum gewritum \u00fe\u00e6t [...] \u00e6ghwylces monnes sawul"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 17) mid his gecorenum | \u00e6nglum; a in ealra wurulda wu|ruld; a buton \u00e6nde; amen"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3-11", 
+            "text": "B.3.5.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) 7m[en \u00f0a leofestan]. hit s\u00e6g\u00f0 her on \u00f0isum halgum ge-|write"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 11v) 7 hio hin[e] \u00f0an[ne] gegreta\u00f0 \u00f0\u00e6s synfullan mannes"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hea1427", 
+                    "page": "1978, pp. 63-73"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 17", 
+            "text": "B.23.1.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 17r/5) wi\u00f0 | wif bearneacenu"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 17v/17) [imperfect ending]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc1435", 
+                    "page": "1864-66, I pp. 392-94"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "1948, 283, no. 45; 286, no. 49; 279, no.41"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 18-24", 
+            "text": "B.1.2.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 18r) MEN \u00d0A LEOFESTAN EOW EALLUM IS CU\u00d0."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 24r)\u00c1. in ealra worulda woruld Amen"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "1979, pp. 60-66"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 25-35", 
+            "text": "B.3.5.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 25r) Gehera\u00f0 nu m\u00e6n \u00f0a leofestan hu us | godes bec moniega\u00fe. 7 myndiga\u00f0 to | ures lifes cl\u00e6nnesse 7 lichaman | 7 saule"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 35) continued in Junius 86"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lui328", 
+                    "page": "1977, pp. 6-31"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28."
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson August 2010 with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#lui328", 
+        "#ker44", 
+        "#wil1614"
+    ]
+}

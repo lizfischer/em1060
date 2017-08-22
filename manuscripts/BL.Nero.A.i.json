@@ -1,0 +1,709 @@
+{
+    "id": "BL.Nero.A.i", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Nero A. i", 
+    "ker": "163", 
+    "content": "Laws", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "A collection of laws on fols 3-57, written in two hands, s. xi<span class=\"sup\">med</span> (<a href=\"#ker44\">Ker 1957</a>, p. 211). Origin unknown.", 
+    "items": [
+        {
+            "locus": "fols 3r-41r", 
+            "text": "B.14.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) \u0110is is seo ge r\u00e6dnys \u00dee cnut cininge ealles engla landes cininge onddena cining mid his \u01bfitena ge \u00deeahte ge r\u00e6dde."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 41r) God \u00e6lmihtig us eallum ge miltsige swa his milda willa sig. ondge healde us \u00e6fre on etnesse - si hit swaAMEN:~"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 163"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42r-44v", 
+            "text": "B.14.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 42r) \u0110is is seo ger\u00e6dnys \u00dee eadgar cyng mid his \u01bfitenage \u00f0eahte ger\u00e6dde gode to lofe. ondhim sylfum to cynescipe ondeallum his leodscipe to \u00deearfe."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 44v) ondga seo \u01bf\u00e6g \u01bfulle to ealsan \u01bfunde ondhie nan man na droror ne sylle."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 163"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45r-48r", 
+            "text": "B.14.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 45r) Be \u00deon \u00de\u00e6t man nescyle o\u00f0rum deman butan s\u01bfa he \u01bfille \u00de\u00e6t man him deme."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 48r) Be dan gif man o\u00f0res godsunu slea o\u00f0\u00f0e his god f\u00e6der"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 163"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 48r", 
+            "text": "B.14.53", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48r) Romgescot sy agifen on sanctes petrus m\u00e6sse d\u00e6g \u00e6rundern \u00e6ftermidde sumera. gif hit h\u01bfa forgunne gylde.lx scilling. ondbet\u01bfelf fealdan agife \u00deene rompeninncg."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 163"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 48r-50v", 
+            "text": "B.14.54", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48r) \u00c6lcman \u00feeriht deme\u00f0 heh\u00e6f\u00f0 \u01bf\u00e6ga onhanda ondon \u00e6g\u00f0ere sceale hebyr\u00fe riht \u01bfisnesse. 7mild heort nes\u01bfe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 50v) ond\u00fea \u00f0e him god ondr\u00e6dende rihtdeme\u00f0. hi onfo\u00f0 \u00e6t gode ece endlean."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 163"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 51r-57v", 
+            "text": "B.14.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 51r) rihten \u01bf\u00e6s sprecende \u00f0as \u01bford tomoyse ond\u00feus c\u01bf\u00e6\u00fe Ic eom drihten \u00fein godic \u00fee ut gel\u00e6dde of egypta lande ondof hyra \u00feeo\u01bfdome"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57v) \u00feis \u00f0onne \u00f0\u00e6t geforberan \u00f0\u00e6t ge deofol gyld ne\u01bfeordian neblod nediegan neasmorod ondframdyrnum geligerum ond\u00fe\u00e6tge\u01bfillen \u00fe\u00e6t don nedo\u00fe ge \u00f0\u00e6t o\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 163"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 70r-76v", 
+            "text": "B.13.2.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70r) Cristenum cyninge gebyre\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 76v-83v", 
+            "text": "B.2.2.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70r) Leofan men eallum cristenum mannum is micel \u00feearf \u00fe\u00e6t hy heora cristendomes gescad \u01bfitan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 86v-87v", 
+            "text": "B.2.4.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70r) Leofan men \u01bfutan spyrian be bocan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 86v-87v", 
+            "text": "B.14.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 86v) \u00c6\u0110ELSTANES GER\u00c6DNES"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 86v) Ic \u00e6\u00feelstan cyng mid ge\u00feelice \u01bfulfelmes arcebiscop ondeac minra o\u00feerra biscopa cy \u00fee \u00feam gerefan togeh\u01bfylcere byrig"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 87v) beorga\u00f0 \u00e6g\u00feer ge eo\u01bf. ge\u00f0am \u00feege mynglan seylan. \u01bfi\u00f0 godes yrre ond\u01bfi\u00f0 mine ofer yrnes se"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 87v", 
+            "text": "B.14.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 87v) Eadmundes ger\u00e6dnes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 87v) Eadmund cyning. gesomnode micelne sino\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 87r-89r", 
+            "text": "B.14.17.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 88r) twelftig scill to bote"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 89r-92v", 
+            "text": "B.14.23.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 89r) \u0110is is seo ger\u00e6dnes \u00fee engla cyng"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 92v-95v", 
+            "text": "B.14.51", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 92v) Be gri\u00f0e. ondbe munde."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92v) Godes gri\u00f0 is ealra gri\u00f0a selast"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 95v-96v", 
+            "text": "B.14.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 96v) Be cyricgri\u00f0e"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95v) In nomine domini. \u0110is is an \u00f0\u00e6ra ger\u00e6dnessa"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 96v", 
+            "text": "B.14.52", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 96v) ond nor\u00f0hymbra lage"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 97r-97v", 
+            "text": "B.13.2.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 97r) Biscopum gebyria\u00f0 ealdlice wisan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 97v-98v", 
+            "text": "B.13.2.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 97v) Biscopas scylan bocum ond gebedum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 98v) Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 98r-100r", 
+            "text": "B.13.2.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 99r) Deus in atiutorium meum. Ter. et tunc Gloria patri. kyrie. pater noster. Et ne nos. Adiuua nos deus. Adiutorium nostrum. Benedictio et reliqua. Biscopum gebyre\u00f0 on sino\u00f0e"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 100v-02r", 
+            "text": "B.13.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 100v) Biscpas scoldan symle godes riht bodian"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102r-03v", 
+            "text": "B.13.2.2.5.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 102r) Be sacerdan"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102r) Sacerd sceal on his scrift scire"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 103v", 
+            "text": "B.13.2.2.6.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 103v) Be abbodum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 103v) Riht is \u00fe\u00e6t abbodas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 103v-04v", 
+            "text": "B.13.2.2.7.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 103v) Be munecum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 103v) Riht is \u00fe\u00e6t munecas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 105r-05v", 
+            "text": "B.13.2.2.8.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 105r) Be gerefan"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 105r) Riht is \u00fe\u00e6t gerefan geornlice tilian"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 109r-09v", 
+            "text": "B.13.2.2.9.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 109r) Be \u00feeod\u01bfitan"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 109r) Cyningan ond biscpan. eorlan ond heretogan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 110r-15v", 
+            "text": "B.2.4.2_c", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 110r) Sermo lupi. ad anglos quando dani. maxime. persecuti sunt eos quod fuit.anno millesimo. XIIII. ab incarnatione domini nostri iesu cristi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 110r) Leofan men gecna\u01bfa\u00f0 \u00fe\u00e6t so\u00f0 is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115v-16r", 
+            "text": "B.2.4.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 115v) Her is gyt rihtlic warnung. ond So\u00f0lic myngung \u00feeode to \u00feearfe. Gyme se \u00fee \u01bfille"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115v) Leofan men. utan unterstandan eal s\u01bfa us \u00feearf is. \u00fe\u00e6t \u01bfe heonan for\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 116v-19v", 
+            "text": "B.14.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 116v) Be angolwitena ger\u00e6dnesse"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 116v) \u0110is is seo ger\u00e6dnes \u00fee engla cyng"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 120r", 
+            "text": "B.13.2.2.10.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 120r) Be hefonlicum cyninge"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 120r) An is ece god"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 120r", 
+            "text": "B.13.2.2.11.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 120r) Be eor\u00f0licum cyninge"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 120r) Cristenum cyninge gebyre\u00f0 sw\u01bf\u00f0e rihte \u00fe\u00e6t he cristenfolc"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 164"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Thom Gobbitt, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

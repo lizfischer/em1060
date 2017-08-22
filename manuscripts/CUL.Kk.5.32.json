@@ -1,0 +1,50 @@
+{
+    "id": "CUL.Kk.5.32", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Kk. 5. 32", 
+    "ker": "26", 
+    "content": "Note in Old English", 
+    "location": "Unknown", 
+    "summary": "<a href=\"#ker44\">Ker</a> describes the note, on fol. 60v, as \u2018derived from <span class=\"name\">Byrhtferth</span>\u2019s handbook\u2019 and written into what was a blank space of a manuscript of s. xi<span class=\"sup\">1</span> (fols 49-60) and s. xi/xii (fols 61-72), in \u2018a small hand generally like that of [the main Latin text on fols] 61-72\u2019 (1957, p. 39). <a href=\"#ker44\">Ker</a> reports <span class=\"name\">Armitage Robinson</span>\u2019s attribution of the calendar on fols 50-55 to <span class=\"name\">Glastonbury</span> (1957, p. 39).", 
+    "items": [
+        {
+            "locus": "fol. 60v", 
+            "text": "B.20.20.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 60v) Gif \u00f0e gelustfulla\u00f0 tod\u00e6lan \u00f0\u00e6s geres dagas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra1110", 
+                    "page": "pp. 188-92"
+                }, 
+                {
+                    "work": "hen1622", 
+                    "page": "p. 123"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 26"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#cra1110", 
+        "#hen1622", 
+        "#ker44"
+    ]
+}

@@ -1,0 +1,90 @@
+{
+    "id": "CUL.Ff.1.23", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Ff. 1. 23", 
+    "ker": "13", 
+    "content": "Continuous Glosses", 
+    "location": "Winchcombe", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 5-250v", 
+            "text": "C.7.1", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sixteen Old English glosses were added in black ink later in s. xi."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 251-74", 
+            "text": "C.11.1", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The Te Deum, Nunc dimittis, Gloria, Pater noster and Credo (fols 267-70) are not glossed."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 11"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Flyleaves are parchment from the date of binding.", 
+        "extent": "ca. 270 mm x 160 mm (dimensions of all - size of leaves).\n250 mm x 113 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "32 long lines. The gloss is in red ink on ruled lines, line for line above the Latin text, in a script the same size as that of the Latin text.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3", 
+        "summary": "Most of the text, both Latin and Old English, is copied by one scribe, whose hand is 'large and clumsy', according to", 
+        "hands": []
+    }, 
+    "decoration": null, 
+    "binding": "Sixteenth-century gold-tooled binding.", 
+    "accompanying": "The words 'to y<span class=\"sup\">e</span> Lord Keper' in <span class=\"name\">Parker</span>ian red pencil and a printed armorial book-plate with the words 'N. Bacon eques auratus et magni sigilli Angliae Custos librum hunc bibliothecae Cantabrig. dicauit. 1574' are on the front pastedown. <p> </p>", 
+    "history": {
+        "origin": "<a href=\"#ker44\">Ker 1957</a> suggests that the manuscript is perhaps from <span class=\"name\">Winchcombe</span>, because <span class=\"name\">Kenelm</span>'s name is in majuscules and he precedes the other English martyrs in the litany (p. 12). <a href=\"#gne146\">Gneuss 2001</a> suggests <span class=\"name\">Christ Church, Canterbury</span> or possibly <span class=\"name\">Ramsey</span> (item 4).", 
+        "provenance": "Unknown.", 
+        "acquisition": "Given by <span class=\"name\">Archbishop Parker</span> to <span class=\"name\">Sir Nicholas Bacon</span>, the Lord Keeper, and by <span class=\"name\">Bacon</span> to <span class=\"name\">Cambridge University</span> in 1574."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan and Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "gne146", 
+        "ken1425", 
+        "ker44", 
+        "lin967", 
+        "rob65", 
+        "scr565", 
+        "wan416", 
+        "wil1424", 
+        "wor631", 
+        "wor29"
+    ]
+}

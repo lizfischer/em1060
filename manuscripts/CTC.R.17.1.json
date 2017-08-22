@@ -1,0 +1,117 @@
+{
+    "id": "CTC.R.17.1", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "R. 17. 1", 
+    "ker": "91", 
+    "content": "Eadwine Palter", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xii^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 6r-262r", 
+            "text": "C.7.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(6rb) \u00c6\u00f0i | se were | \u00fee ne eode | on \u00f0ere rede v(el) \u00fe\u00e6hte | arleasre"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(262rb) e\u00e6lle | g\u00e6st herg\u00e6d drihten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "The Roman version is glossed in Old English."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiimed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gib175"
+                }, 
+                {
+                    "work": "pul635"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 262v-281r", 
+            "text": "C.11.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(262v) Ic andette | \u00f0e drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(281rb) ne meagan heo | hi borhgen beon"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiimed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gib175"
+                }, 
+                {
+                    "work": "pul635"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Very large codex; each opening is the equivalent of one whole skin. Membrane probably vellum. In generally excellent condition. Numerous careful repairs.", 
+        "extent": "455 mm x 326 mm (dimensions of all - size of leaf).\n482 mm x 343 mm (dimensions of front and back cover - size of boards of binding).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Extraordinarily complex layout, designed carefully and with each Psalm or Canticle individually assessed. Pricking is still evident on many leaves, and each textual component of the page has been individually ruled. Generally, the Psalm folios are ruled in five columns: the widest column (112 mm) is for the Gallicanum, with narrower columns (45mm each) on the inner part of the leaf for the two columns of the Romanum and Hebraicum. In the case of the Gallicanum, interlinear space is 16 mm; x-height is 5 mm; ascenders and descenders 3 mm each. The measurements for the smaller columns are exactly half those of the Gallicanum. The gloss fills all the available interlinear space (with ascenders and descenders of 2mm, and an x-height of 1-1.5 mm).", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Seventeenth-century leather binding, tooled, with metal boss in middle and broken hinges on back board. Some of the leather has come off now. 5 covered bands on spine.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Produced at <span class=\"name\">Christ Church, Canterbury</span>, and recorded in the catalogue in <span class=\"name\">Prior Eastry</span>'s inventory there in the early fourteenth-century.", 
+        "provenance": null, 
+        "acquisition": "Given by <span class=\"name\">Thomas Nevile</span>, Dean of <span class=\"name\">Canterbury Cathedral</span> to <span class=\"name\">Trinity College</span> in the early seventeenth-century."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Christopher Tracy and Hollie Morgan (2010; 2013)", 
+    "surrogate": true, 
+    "bib": [
+        "fro597", 
+        "bak596", 
+        "bro599", 
+        "bur600", 
+        "bur601", 
+        "gib1584", 
+        "gib175", 
+        "har174", 
+        "hes982", 
+        "jam602", 
+        "jam603", 
+        "jam604", 
+        "ker44", 
+        "key605", 
+        "kra606", 
+        "mar1000", 
+        "ohl607", 
+        "one608", 
+        "pfa609", 
+        "pul610", 
+        "pul611", 
+        "pul635", 
+        "rob102", 
+        "ver261", 
+        "ver612", 
+        "ben598"
+    ]
+}

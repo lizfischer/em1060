@@ -1,0 +1,136 @@
+
+/* Base Styles */
+#cssmenu,
+#cssmenu ul,
+#cssmenu li,
+#cssmenu a {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  list-style: none;
+  font-weight: normal;
+  text-decoration: none;
+  line-height: 1.1;
+  font-size: small;
+  position: relative;
+}
+#cssmenu a {
+  line-height: 1.3;
+  padding: 5px 13px;
+}
+#cssmenu {
+  width: 120%;
+}
+#cssmenu > ul > li {
+  cursor: pointer;
+  background: #000;
+  border-bottom: 1px solid #797a80;
+}
+#cssmenu > ul > li:last-child {
+  border-bottom: 1px solid #3e3d3c;
+}
+#cssmenu > ul > li > a {
+  font-size: small;
+  display: block;
+  color: #ffffff;
+  text-shadow: 0 1px 1px #000;
+  background: #6a6b72;
+  background: -moz-linear-gradient(#6a6b72 0%, #4c4e53 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #6a6b72), color-stop(100%, #4c4e53));
+  background: -webkit-linear-gradient(#6a6b72 0%, #4c4e53 100%);
+  background: linear-gradient(#6a6b72 0%, #4c4e53 100%);
+}
+#cssmenu > ul > li > a:hover {
+  text-decoration: none;
+}
+#cssmenu > ul > li.active {
+  border-bottom: none;
+}
+#cssmenu > ul > li.active > a {
+  background: #a5ce27;
+  background: -moz-linear-gradient(#a5ce27 0%, #709400 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #a5ce27), color-stop(100%, #709400));
+  background: -webkit-linear-gradient(#a5ce27 0%, #709400 100%);
+  background: linear-gradient(#a5ce27 0%, #709400 100%);
+  color: #4e5800;
+  text-shadow: 0 1px 1px #a5ce27;
+}
+#cssmenu > ul > li.has-sub > a:after {
+  content: '';
+  position: absolute;
+  top: 10px;
+  right: 3px;
+  border: 5px solid transparent;
+  border-left: 5px solid #ffffff;
+}
+#cssmenu > ul > li.has-sub.active > a:after {
+  right: 7px;
+  top: 12px;
+  border: 5px solid transparent;
+  border-top: 5px solid #4e5800;
+}
+/* Sub menu */
+#cssmenu ul ul {
+  padding: 0;
+  display: none;
+}
+#cssmenu ul ul a {
+  background: #efefef;
+  display: block;
+  color: #797979;
+  font-size: x-small;
+}
+#cssmenu ul ul li {
+  border-bottom: 1px solid #c9c9c9;
+}
+#cssmenu ul ul li.odd a {
+  background: #e5e5e5;
+}
+#cssmenu ul ul li:last-child {
+  border: none;
+}
+
+
+/* This is for the floating toc                */
+/***********************************************/ 
+#showHideDiv {
+	position: fixed; bottom: 20px; left: 2px;
+	padding-left: 1px;
+	padding-top: 1px;
+	background-color:#FFFFFF;
+	width: 15%;
+	border-right-color:#015A4D;
+	border-right-width: 2px;		
+	border-top-color:#015A4D;	
+	border-top-style: solid;
+	border-top-width: 2px;
+	margin-top: 2px;
+	margin-bottom: 10px;
+	padding-right:2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+#ShowToc {
+	position: fixed; bottom: 10px; left: 2px;
+	padding-left: 1px;
+	padding-top: 1px;
+	background-color:#FFFFFF;
+	width: 15%;
+	border-right-color:#015A4D;
+	border-right-width: 2px;		
+	margin-top: 2px;
+	padding-right:2px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: small;
+}
+
+#showHideDiv a {
+	text-decoration: none;
+	color: #005C00;	
+	background-color: white;
+}
+
+.green {background-color: #336633; color: white; border-color: #330033; }
+
+.top-right {text-align:right}

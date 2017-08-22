@@ -1,0 +1,45 @@
+{
+    "id": "Schloss.HS.Br.1", 
+    "city": "Sondershausen", 
+    "repository": "Schlossmuseum", 
+    "collection": "", 
+    "shelfmark": "HS Br. 1", 
+    "ker": "", 
+    "content": "Continuous Psalter-gloss", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "A strip from a single leaf of a Gallican Psalter with occasional readings from the Romanum, with continuous interlinear Old English glosses. It contains parts of Psalms 6<span class=\"sup\">9</span>- 7<span class=\"sup\">9</span> with glosses. Other fragments from the same manuscript are <a href=\"EM.CPem.312.htm\">Cambridge, Pembroke College, 312</a> and <a href=\"EM.Haarlem.188.htm\">Haarlem, Stadsbibliotheek, 188 F 53</a>.", 
+    "items": [
+        {
+            "locus": "r-v", 
+            "text": "C.50.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Facsimile illegible."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bre1415", 
+                    "page": "2006"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Description by Hollie Morgan (June 2010) with the assistance of Owen Roberson, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#bre1415"
+    ]
+}

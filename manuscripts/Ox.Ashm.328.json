@@ -1,0 +1,97 @@
+{
+    "id": "Ox.Ashm.328", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Ashmole", 
+    "shelfmark": "328", 
+    "ker": "288", 
+    "content": "Byrhtferth of Ramsey's handbook", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Computus handbook written in Latin and Old English, and two homiletic pieces. One hand, origin unknown.", 
+    "items": [
+        {
+            "locus": "pp. 1-247", 
+            "text": "B.20.20.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "in capite (The contents of pp. 1-54 are disarranged.)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Inscription relating to a diagram: 'byrhtfer\u00f0 monachus ramesiensis' on the seventh leaf of the first quire (a fragment)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 288"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 247-51", 
+            "text": "B.3.4.38", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 247) Iohannes ait. post mille annos."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 247) Se halga iohannes cw\u00e6\u00f0 \u00e6fter \u00feam \u00feusende by\u00f0 se deofol unbunden"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 288"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 251-58", 
+            "text": "B.3.4.39", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 251) Ammonitio amici. \u00fe\u00e6t ys freodlic mynegung."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 251) Eala \u00feu wynsuma man. \u00feu \u00e6\u00f0ela wer"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 288"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

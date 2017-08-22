@@ -1,0 +1,325 @@
+{
+    "id": "CTC.R.15.32", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "R. 15. 32", 
+    "ker": "90", 
+    "content": "Note requesting a copy of verse", 
+    "location": "Unknown", 
+    "date": "s.xi^{ex}", 
+    "summary": "Note (<a href=\"#EM.CTC.R.15.32-msItem-13\">Item 13</a>) in the margin of a manuscript of Latin computistical texts. The note is transcribed by <a href=\"#ker44\">Ker</a> thus: '7 ic bidde \u00f0e \u00fe\u00e6t \u00feu me writ \u00feas VII uers 7 send me' (1957, p. 135). Ker notes that it refers to the <span class=\"italics\">Ratio certa de terminis tenenda</span> and the <span class=\"italics\">De epacta et de concurrenti ratio</span> in the main text on the same page. Main text written in <span class=\"name\">Winchester</span>, s. xi<span class=\"sup\">in</span>; marginal hand from s. xi<span class=\"sup\">ex</span> is not localised.", 
+    "items": [
+        {
+            "locus": "p. 15", 
+            "text": "B.24.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 15) giuli"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 16", 
+            "text": "B.24.4.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 16) Soll mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 17", 
+            "text": "B.24.4.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 17) Hreod mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 18", 
+            "text": "B.24.4.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 18) Easter"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 19", 
+            "text": "B.24.4.6.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 19) \u00d0rymylce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 20", 
+            "text": "B.24.4.7.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 20) Li\u00f0a mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 21", 
+            "text": "B.24.4.8.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 21) Li\u00f0a mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 22", 
+            "text": "B.24.4.9.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 22) \u01f7eod mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 23", 
+            "text": "B.24.4.10.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 23) Halig mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 24", 
+            "text": "B.24.4.11.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 24) \u01f7inter fylle\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 25", 
+            "text": "B.24.4.12.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 25) Blod mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 26", 
+            "text": "B.24.4.13.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 26) Iul mona\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 36", 
+            "text": "B.27.2.6", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 36) \u02e5 ic bidde \u00f0e \u00fe\u00e6t \u00feu me \u01bfrit | \u00feas vii. uers \u02e5 send me"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wri1623"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Description by Mary Swan and Owen Roberson with the assistance of Sanne Van Der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#wri1623", 
+        "#ker44"
+    ]
+}

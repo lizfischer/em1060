@@ -1,0 +1,65 @@
+{
+    "id": "Ox.LC.Lat.31", 
+    "city": "Oxford", 
+    "repository": "Lincoln College", 
+    "collection": "Lat.", 
+    "shelfmark": "31", 
+    "ker": "356", 
+    "content": "C\u00e6dmon\u2019s Hymn and Bede\u2019s Death Song", 
+    "location": "Unknown", 
+    "date": "s.xii^{med}", 
+    "summary": "<span class=\"italics\"> C\u00e6dmon\u2019s Hymn</span> and <span class=\"italics\">Bede\u2019s Death Song</span>, which was added, in a hand roughly contemporary with that of the main text, in Old English to ruled lines in the bottom margins of fols 83r and 112v of a s. xii<span class=\"sup\">med</span> copy of the Latin text of the <span class=\"italics\">Historia ecclesiastica</span>. Place of production not known.", 
+    "items": [
+        {
+            "locus": "fol. 83r", 
+            "text": "A.32.2", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "433-34"
+                }, 
+                {
+                    "work": "dob699", 
+                    "page": "39 (Ln)"
+                }, 
+                {
+                    "work": "plu652", 
+                    "page": "ii.252 (O)"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 112v", 
+            "text": "A.33.3", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "433-34"
+                }, 
+                {
+                    "work": "dob699", 
+                    "page": "89"
+                }, 
+                {
+                    "work": "bro409", 
+                    "page": "185"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#dob699", 
+        "#bro409"
+    ]
+}

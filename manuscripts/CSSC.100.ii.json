@@ -1,0 +1,65 @@
+{
+    "id": "CSSC.100.ii", 
+    "city": "Cambridge", 
+    "repository": "Sidney Sussex College", 
+    "collection": "", 
+    "shelfmark": "100, pt. II", 
+    "ker": "82", 
+    "content": "Liturgical directions", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Directorial annotations, s. xi<span class=\"sup\">med</span>, which are written in the margins of <span class=\"italics\">Ordo de sacris ordinibus benedicendis</span> (s. xi<span class=\"sup\">1</span>). 'liber sancti cuthberti' is written on the first page by a s. xii/xiii hand in <span class=\"name\">Durham</span> (<a href=\"#ker44\">Ker 1957</a>, p. 128).", 
+    "items": [
+        {
+            "locus": "fol. 1v", 
+            "text": "B.12.5.4.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1v) her \u00feonne. k\u0119gie"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 128"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 2v", 
+            "text": "B.12.5.4.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 2v) her \u00fea onsong boc"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 128"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

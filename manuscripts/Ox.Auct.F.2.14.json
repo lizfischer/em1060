@@ -1,0 +1,217 @@
+{
+    "id": "Ox.Auct.F.2.14", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Auct.", 
+    "shelfmark": "F. 2. 14 (2657)", 
+    "ker": "295", 
+    "content": "Wordlist and glosses", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 11-19v", 
+            "text": "D.21.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11) GLOS\u0228"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 295"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 11-12", 
+            "text": "D.21.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11) swert"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 295"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 39, 40v", 
+            "text": "C.98.2", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 295"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 80v", 
+            "text": "C.90", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 295"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "262 mm x 168 mm (dimensions of all - size of leaves).\n102 mm x 202 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Single column, 35 lines. Ruling and pricking are visible. Ruled with double bounding lines at both sides. Coloured initial letters are placed between the left bounding lines.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3 in Old English", 
+        "summary": "The Latin poetry is by one hand in a round and neat Caroline minuscule. The glosses to the", 
+        "hands": [
+            {
+                "name": "Interlinear glosses", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 295 Art b", 
+                "description": "Fols 39, 40v.", 
+                "summary": "Four glosses to Wulfstan. In the same hand and brown ink as the Latin interlinear glosses. In very small writing.", 
+                "characters": [
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular, its loop is angular, and closes."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> insular <span class=\"c\">r</span> used once ('hearpslege') and Caroline <span class=\"c\">r</span> used twice."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> insular high <span class=\"c\">s</span> is angular."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "Word list and glosses", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 295 Arts a, c", 
+                "description": "Fols 11-19v, 80v.", 
+                "summary": "A 'neat hand' (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> insular used for Old English."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span>, <span class=\"c\">a</span> and <span class=\"c\">e</span> are the same height."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is insular with a round back."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> insular used for Old English."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> insular used for Old English. Its round loop is closed."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> insular used for Old English."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> insular (high) form used for Old English."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is used."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "Word list", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 295 Arts a", 
+                "description": "Fols 11r, 12r. The second set of A and C lists: the only English words are 's\u01bfert' and 'blac'.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> insular used for Old English."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Caroline <span class=\"c\">r</span> is used for Old English."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Caroline short <span class=\"c\">s</span>"
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is used."
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Binding is English, s. xv. The flyleaves are from s. xiii<span class=\"sup\">1</span> Antiphoner (see <a href=\"#mad369\">Madan and others</a> 1953, no. 2657).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The origin is unknown.", 
+        "provenance": "According to <a href=\"#ker44\">Ker</a> (1957, p. 354), the manuscript is 'no doubt the \"Vita Swithuni carmine heroico\"' which <span class=\"name\">Leland</span> consulted at <span class=\"name\">Sherborne</span> (see <a href=\"#lel1077\"><span class=\"italics\">De script. Britt.</span></a>, p. 164) and used in his <a href=\"#lel1078\"><span class=\"italics\">Collectanea</span></a>, i, pp. 151-56.", 
+        "acquisition": "The manuscript was acquired by the <span class=\"name\">Bodleian library</span> c. 1618-20."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold and Takako Kato with the assistance of Hollie Morgan (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "cam1075", 
+        "der1564", 
+        "ell1076", 
+        "gne146", 
+        "ker44", 
+        "lel1077", 
+        "lel1078", 
+        "web1517", 
+        "mad369", 
+        "nap1074", 
+        "nap959"
+    ]
+}

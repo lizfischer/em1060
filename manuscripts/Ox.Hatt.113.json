@@ -1,0 +1,937 @@
+{
+    "id": "Ox.Hatt.113", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "113", 
+    "ker": "331", 
+    "content": "Wulfstan's Homiliary, part 1", 
+    "location": "Worcester", 
+    "date": "s.xi^{3/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1-3", 
+            "text": "B.3.4.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) Adam se \u00e6resta man"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3-4", 
+            "text": "B.24.25.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) On \u00feisre worulde fruman. [gloss: i[n]icio] god \u00e6lmihtig | gesceop. 7 geworhte"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 62"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 4-10", 
+            "text": "B.2.2.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 4r) Leofan men us b[isceopum] [gloss: episcopis] is deope beboden"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 6"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 10-16", 
+            "text": "B.2.2.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 10v) Leofan men do\u00f0 swa eow mycel \u00feearf is"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 7"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 16-21", 
+            "text": "B.2.2.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 16r) Leofan men eallum | cristenum mannum is mycel \u00feearf"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 8c"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 21-27", 
+            "text": "B.2.2.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 23v) FEla is on bocum \u00fe\u00e6s \u00f0e | m\u00e6g to bysnan"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 11"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 27-31", 
+            "text": "B.2.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 27v) BE \u00d0AM SEOFANFEALDAN GODES GYFAN. | ISAIAS SE WITEGA AWRAT ON HIS | witegunge be \u00f0am halgan gaste."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 9"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 31-34", 
+            "text": "B.2.1.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 33r) Leofan men understanda\u00f0 swy\u00f0e georne \u00fe\u00e6t ge [gloss: vos} rihtlice 7 w\u00e6rlice"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "nos. 1a nd 1b"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 34-44", 
+            "text": "B.2.2.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 38r) HER ONGYN\u00d0 BE CRISTEN|DOME Eallum cristenum mannu[m] is mycel | \u00feearf"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "nos. 10b and 10c"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44-47", 
+            "text": "B.2.1.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) L[eofan men] We eow willa\u00f0 be sumum d\u00e6le [gloss: ex parte] secgan hu."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 5"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47-49", 
+            "text": "B.2.1.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48r) Leofan men. Hit gewear\u00f0 hwilum on \u00f0\u00e6re | byrig"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 2"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 49-52", 
+            "text": "B.2.1.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 49v) \u00d0is godspel seg\u00f0. 7 swutela\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 3"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 52-56", 
+            "text": "B.2.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 52r) Leofan men us is mycel | \u00feearf \u00fe\u00e6t we w\u00e6re [gloss: caue] beon."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 4"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 52-56", 
+            "text": "B.2.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 52r) Leofan men us is swy\u00f0e mycel \u00feearf | on \u00e6lcne timan"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 14"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 58-61", 
+            "text": "B.2.2.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 58v) Eala gefyrn is. \u00fe\u00e6t \u00f0urh deofol fela \u00feinga | misfor [gloss: eode]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 12"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 61-66", 
+            "text": "B.2.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 61r) Leofan men understanda\u00f0 \u00fe[\u00e6t] \u00e6rest cristenra | manna gehwylc [gloss: \u00e6urice]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 13"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "nos. 24, 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 66-73", 
+            "text": "B.3.4.26", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 66r) Her is halwendlic lar. 7 dearflic l\u00e6wedu[m] | mannum \u00fee \u00fe\u00e6t l\u00e6den ne cunnon"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 29"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 73-80", 
+            "text": "B.3.4.27", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 73r) Mycel is nyd\u00feearf cristenum | mannum"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 30"
+                }, 
+                {
+                    "work": "scr125", 
+                    "page": "p. 396-403"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 80-81", 
+            "text": "B.3.4.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 80v) We willa\u00f0 nu secgan sume bysene to \u00feisum"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 31"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 81-83", 
+            "text": "B.3.4.28.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 81r) Leofan men ic wille cy\u00f0an eow eallu[m]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 15"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 83rv", 
+            "text": "B.3.4.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 83r) Eala leofan men swytele is gesyne... a he m\u00e6g him wenan hetelices leanes."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "nos. 37, 177"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 83-84", 
+            "text": "B.3.4.28.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 83v) BE GODES | BYDELUM. Godcundlice bydelas 7 godes | lage lareowas."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 17"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 84-90", 
+            "text": "B.2.4.2_c", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 84v) Leofan men gecnawa\u00f0 \u00fe\u00e6t so\u00f0 is"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 20"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "whi1308", 
+                    "page": "pp. 47-67"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 90-91", 
+            "text": "B.2.4.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 90v) Leofan men utan understandan ealswa | us \u00feearf is."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 21"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 91-93", 
+            "text": "B.3.4.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 91v) BE MIST|LICAN GELIMPAN. Gyf hit geweor\u00f0e \u00fe[\u00e6]t on | \u00feeodscype becume healic [gloss: p[re]cipu[us]] ungelimp."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "no. 35"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 93-94", 
+            "text": "B.2.4.2_b", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 93v) BE BISCHOPHADU[M]. | L[eofan men] Se halga godspellere lucas... \u00fe\u00e6r hi scoldan | clypian. & r[e]l[iqua]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 17"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 94-102", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 94v) Se h\u00e6lend crist sy\u00f0an he to \u00f0isum life | com"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 19"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102-15", 
+            "text": "B.1.4.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102v) We willa\u00f0 eow secgan sume swutelunge | nu"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "no. 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115-24", 
+            "text": "B.1.2.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102v) MINE GEBRO\u00d0RA \u00d0A LEOFESTAN | on \u00feisum d\u00e6ge"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "no. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 124-30", 
+            "text": "B.1.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 124r) WE R\u00c6DA\u00d0 ON \u00d0\u00c6RE BEC"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 3"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 3"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 130-39", 
+            "text": "B.1.1.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 130v) IOHANNES SE GODSPELLERE CRISTES | dyrling [gloss: dilect[us]]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 4"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 4"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 139-44", 
+            "text": "B.1.1.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 139v) NU ROD\u00c6G GODES GELA|\u00feung"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 144v) \u00e6t \u00feissum unsc\u00e6\u00f0\u00feingum martiru[m] hy synd"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "no. 5"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "pp. 26-34"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 391-99"
+                }, 
+                {
+                    "work": "tho660", 
+                    "page": "no. 5"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment. Leaves arranged HFFH. Fols i and 147 are medieval parchment flyleaves; fols 145-46 are paper leaves inserted by", 
+        "extent": "255 mm x 158 mm (dimensions of all - size of leaves).\n200 mm x 95 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Franzen 1998", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "4 in English, and glosses by the Tremulous Hand", 
+        "summary": "Fols 1-144 were written by one scribe, probably between 1062 and 1070. This scribe also wrote the majority of", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 331 scribe 1", 
+                "description": "Fols 1-144v. Worcester type.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "The shape of the second element of <span class=\"c\">\u00e6</span> is influenced by the letter which succeeds it."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is round-backed or horned depending on its place in the word and the following letter."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The descender of <span class=\"c\">\u00fe</span> is notched."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Most <span class=\"c\">ascenders</span> except that of <span class=\"c\">\u00fe</span> are clubbed, but some ascenders have wedged clubs and some are wedged; for example, <span class=\"c\">h</span> and <span class=\"c\">b</span>, in English and Latin."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "additions", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 331 SC2", 
+                "description": "Fols ii v- xi v.", 
+                "summary": "'an attractive and unusual hand' (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Caroline <span class=\"c\">a</span>, sometimes with high tail."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is almost round-backed."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is wide and open with long descender."
+                    }, 
+                    {
+                        "char": "or", 
+                        "note": "<span class=\"c\">or</span> ligature is not very straight on the line."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "marginal notes", 
+                "scope": "major", 
+                "script": "Rustic", 
+                "scribe": "Coleman", 
+                "description": "Found on fol. 78v signed as '[c]plfman' and unsigned in obits of fols ii- viii, notes on fols 39v-40r and marginalia on fols 70v, 78r, 108v, 128v and 134r.", 
+                "summary": "Rustic capitals and some minuscule.", 
+                "date": null
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "The", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "binding": "<a href=\"#pol1306\">Pollard 1975</a> describes the binding as: '256 x 168 mm. Whittawed sheepskin over oak boards. Sewn on four bands of thong including the head- and tail-bands. The thongs are rather wide (13mm unsplit). Tabs at the head and tail of the spine. Traces of head and pin fastening. The bands enter tunnels and are pegged into grooves entirely on the inside of the boards. Bound (or entirely rebound) possibly at Worcester, about A.D. 1200 more than a hundred years after it was written' (p. 157). <a href=\"#ker44\">Ker</a> (1957, p. 399) notes that 'Sermones anglice XX can be read on the spine [\u2026] where, however, letters have been retouched'.", 
+    "accompanying": "In the sixteenth century the inscription 'Liber Ecclesi\u00e6 Wygorn' was added in the top margin of fol. iir and subsequently erased. The manuscript was annotated by <span class=\"name\">John Joscelyn</span> and was a source for his Anglo-Saxon glossaries in London, Lambeth Palace 692, fol. 37.", 
+    "history": {
+        "origin": "Written at <span class=\"name\">Worcester</span>. There are many references to <span class=\"name\">Wulfstan</span> and <span class=\"name\">Worcester</span> and the script is considered to be of Worcester type.", 
+        "provenance": "Likely to have been in <span class=\"name\">Worcester</span> in the early thirteenth-century, when the Tremulous Hand annotated it, and still in Worcester in 1622-23 when <span class=\"name\">Patrick Young</span> made his catalogue (<a href=\"#atk489\">Atkins and Ker 1944</a>, no. 318).", 
+        "acquisition": "<a href=\"#fra730\">Franzen 1998</a> (p. 27) notes 'borrowed by <span class=\"name\">Christopher, Lord Hatton</span> along with the other manuscripts that make up the <span class=\"name\">Hatton collection</span> [...] sometime before August 1644 when it was indexed by <span class=\"name\">Dugdale</span> (Oxford, Bodleian, Dugdale 29, fol. ivv)'. The manuscript was kept by Hatton's son after his death. In 1675 he gave it to the <span class=\"name\">Bodleian library</span>. It was then lent to <span class=\"name\">Dr Thomas Marshall</span>, who lent it to <span class=\"name\">Junius</span>. It returned to the <span class=\"name\">Bodleian</span> with the <span class=\"name\">Junius collection</span> on <span class=\"name\">Junius</span>' death in 1678. The shelfmark was formerly Junius 99."
+    }, 
+    "admin": "Manuscript described by Mary Swan and Helen Foxhall Forbes with the assistance of Hollie Morgan (2010; 2013)", 
+    "surrogate": true, 
+    "bib": [
+        "atk489", 
+        "ban1304", 
+        "bet109", 
+        "cle112", 
+        "dar1305", 
+        "dew677", 
+        "fra730", 
+        "fra188", 
+        "gne146", 
+        "god42", 
+        "ker44", 
+        "ker94", 
+        "ker95", 
+        "web1517", 
+        "mci177", 
+        "nap123", 
+        "pol1306", 
+        "pop87", 
+        "rob1307", 
+        "rud1566", 
+        "scr565", 
+        "scr125", 
+        "tho660", 
+        "wan416", 
+        "whi1308"
+    ]
+}

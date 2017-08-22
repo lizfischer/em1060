@@ -1,0 +1,165 @@
+{
+    "id": "BL.Vesp.D.xxi", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vespasian D. xxi, fols 18-40", 
+    "ker": "344", 
+    "content": "Life of St. Guthlac; alphabet", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 18r-40v", 
+            "text": "B.3.3.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 18r/1) VRVUM WEALDENDE RIHT GELYFENDVM AWORVLD aworuld minum \u00feam leofestan hlaforde ofer ealle o\u00f0re men eor\u00f0lice kyningas alfwold"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 40v/2) Sy urum Drihtne lof \u02e5 wuldor \u02e5 wur\u00f0mynt \u02e5 \u00feam eadigan were Sancte GVTHLACE on ealra worulda woruld aa buton ende on ecynysse. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The title and false attribution is an addition of s. xiii/xiv"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gon1264"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 344, article 5"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 40v", 
+            "text": "B.27.4.15.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(40v/3) abcdef\u021d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00f0\u00e6\u00fe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 344, article 5"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 40v", 
+            "text": "B.12.4.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (40v/4) Pater noster qui es in celis sanctificetur nomen tuumadueniat regnumtuum. fiat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Breaks of imperfectly leaving the rest of the verso blank"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker", 
+                    "page": "item 344, article 5"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "193 mm x 132 mm (dimensions of fols 18-40 - size of leaves).\n152 mm x 95 mm (dimensions of fols 18-40 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 344 SC1", 
+                "description": "Fols 18-40v.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> open-headed"
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> low or long <span class=\"c\">s</span> used. The long <span class=\"c\">s</span> is not used at the end of a word and has a broken shaft made in two strokes."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long upstroke tagged to the left at the top, the cross-stroke not transecting the upstroke."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> the ends turn to the left."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "binding": "Nineteenth-century binding. The previous Cottonian binding included <span class=\"name\">Cotton</span>'s 'armes and claspes in 4<span class=\"sup\">to</span>', according to a list of Cotton's loans of books in British Library, Harley 6018, fol. 148v.", 
+    "accompanying": "Bound with (fols 1-17) Nennius, <span class=\"italics\">Historia Brittonum</span> (s. xii)<span class=\"sup\">1</span> and (fols 41-71) Sedulius, Hymns and <span class=\"italics\">Carmen Paschale</span> (s. x<span class=\"sup\">1</span>?).", 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "Part of the Old Royal collection, <span class=\"name\">Westminster</span>, before 1542 (<a href=\"#car475\">Carley 1992</a>, p. 64), then part of <a href=\"EM.Ox.Laud.509.htm\">Laud Misc. 509</a>. The manuscript was dismembered and rebound in its present combination by 1606, as on 20 December 1606: 'Nennius and Vita Guthlaci 8<span class=\"sup\">(0)</span> was lent to <span class=\"name\">Camden</span> (British Library, Harley 6018, fol. 154r).", 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> along with the rest of the <span class=\"name\">Cotton</span> collection."
+    }, 
+    "admin": "Described by Hollie Morgan with the assistance of Sanne van der Schee; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ber1263", 
+        "car475", 
+        "ang86", 
+        "gon1264", 
+        "fro936", 
+        "hue1265", 
+        "ker44", 
+        "ker478", 
+        "mom1266", 
+        "mor1267", 
+        "rob1268"
+    ]
+}

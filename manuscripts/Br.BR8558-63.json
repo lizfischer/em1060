@@ -1,0 +1,368 @@
+{
+    "id": "Br.BR8558-63", 
+    "city": "Brussels", 
+    "repository": "Biblioth\u00e8que Royale", 
+    "collection": "", 
+    "shelfmark": "8558-63", 
+    "ker": "10", 
+    "content": "OE annotation on blank leaf", 
+    "location": "Unknown", 
+    "date": "s.xii^{1}", 
+    "summary": "English annotation written on recto of the blank first leaf of the penitential texts in this manuscript (fol. 140r) in \u2018the earlier part of twelfth century\u2019, \u2018in a poor sloping hand\u2019 (<a href=\"#ker44\">Ker</a> 1957, p. 9). Ker transcribes the annotation as \u2018Gyf m\u00e6ssepreost his agen lif rihtlice fadie\u2019. Main texts are in Latin and Old English, and were also glossed in Old English in s. x.", 
+    "items": [
+        {
+            "locus": "fol. 80r", 
+            "text": "C.89.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 80r) nu \u00e6fter \u00fees senne deplice her behinne\u00fe | \u00fe\u00e6t is. Erest ofer modnesse swa hit gewriten is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 132-33", 
+            "text": "B.11.4.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 132v) \u00d0\u00e6t sceal ge\u00feencean se \u00fee by\u00f0 monna saula | l\u00e6ce"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol.133r) \u00c6lce d\u01fdde toscade man w\u00e6rlice for god 7 for | worolde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 133-37", 
+            "text": "B.11.4.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 133r) \u00d0as \u00feeawas man helade\u00fe begeondan s\u01fd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 137v) Swa swa him man t\u01fdce"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 137", 
+            "text": "B.11.4.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 137v) BE SCRIFTUM | ON wisum scrifte swi\u00f0e by\u00f0 for\u00f0gelang forsyngodes | mannes nyd help"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 137v) 7 sumum ealle lifdagas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 137-38", 
+            "text": "B.11.4.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 137v) Se l\u00e6ce \u00fee sceal sare wunda | wel geh\u00e6lan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 138v) 7 his sylfes geornful | nesse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 138v", 
+            "text": "B.11.4.1.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 138v) Deoplic d\u00e6dbot by\u00f0 \u00fe\u00e6t l \u00e6wede man his w\u00e6pne | lecge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 138v) Aginne he hit georne"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 138-39", 
+            "text": "B.11.4.1.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 138v) D\u00e6dbota synd gedihte. On mistlice wisan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 139v) \u00e6nige brohte. Gebringe hine[...]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 140r", 
+            "text": "B.13.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 140r) GYF m\u00e6sseprest his agen lif rihtlice fadie \u00f0onne is | riht \u00fe\u00e6t his wur\u00f0scipe wexe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 140r) \u00de\u00e6t he n\u00e6fre on | wimmannes bedde for\u00f0 ne gewite"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 140-45", 
+            "text": "B.11.3.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 140v) HIT IS \u00d0EAH TO WITANNE HWI \u00d0EOS FEOR | \u00d0E BOC SY UNCAPITULOD. \u00de\u00e6t is for\u00feon \u00f0eos feor\u00f0e | boc is genumen of \u00feam \u00ferym bocum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 145r) Gif he wile mid | so\u00f0re godes lufan him sylfum \u00feingian"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 145-46", 
+            "text": "B.11.2.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 145r) ALIA. And on halgum gewritum is ger\u00e6d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 146r) nu to d\u00e6g \u00feu bist mid | me on mines f\u00e6der rice"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 146", 
+            "text": "B.11.2.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 146r) ALIA | And \u00fe\u00e6t nis na to forl\u00e6tenne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 146r) 7 | mid teara agotennesse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 146rv", 
+            "text": "B.11.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 146r) SANCTUS GREGORIUS SE HALGA PAPA GEGADERODE SINO\u00f0 | on rome"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 146v) forgifnesse geearnian mid so\u00f0um | geleafan untweogendum"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 146", 
+            "text": "B.11.2.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 146r) ALIA. | Ne sceal se bisceop him sylf n\u00e6[.]nie abbod geceosan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 146r) Swa hwylc man swa \u00f0as scriftboc tilige to abrecanne | ecre fordemednysse he sy fordemed. AMEN"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 146v-53v", 
+            "text": "B.11.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 146v) ALIA | Ne sceal se bisceop him sylf"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 153v) Ker does not supply the explicit"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 153v", 
+            "text": "B.20.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 153v) \u00d0is synt \u00fea riht ymbrendagas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 153v) On \u00fea nyhstan | wucan CRISTES M\u00c6SSAN"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 8-10"
+                }, 
+                {
+                    "work": "bre1415"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Sanne Van Der Schee, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#bre1415"
+    ]
+}

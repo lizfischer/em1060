@@ -1,0 +1,52 @@
+{
+    "id": "BL.Harl.2961", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "2961", 
+    "ker": "236", 
+    "content": "[Inscription] in Leofric Collectar", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": "According to <a href=\"#ker44\">Ker</a> (1957, p. 308), this manuscript used to contain an Old English donation inscription, as suggested by the note by <span class=\"name\">Samuel Knott</span> on fol. 1: '...extant fragmenta subscripsionis SaxonicÃ¦ in laceris extremi folii reliquiis quibus opinor testatum (?) fuit Leofricum eundem donasse'. The section containing Old English is now missing. The inscription might have been on the verso of the final leaf of text, as it is in <a href=\"EM.Ox.Auct.F.1.15.htm\">Auct. F. 1. 15</a> and <a href=\"EM.CTC.B.11.2.htm\">CTC B. 11.2</a>.",
+    "items": [
+        {
+            "locus": "missing", 
+            "text": "B.16.10.5", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 236"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written in Exeter.", 
+        "provenance": "Given to <span class=\"name\">Exeter Cathedral</span> by <span class=\"name\">Bishop Leofric</span>, probably the <span class=\"italics\">Collectaneum</span> in the list of his gifts (<a href=\"#exe426\"><span class=\"italics\">Exeter Book</span></a>, p. 35). <span class=\"name\">Knott</span> passed the manuscript to <span class=\"name\">Robert of Burscough</span>, rector of <span class=\"name\">Totnes</span>, who passed it to <span class=\"name\">Harley</span> on 17th May, 1715.", 
+        "acquisition": "Acquired by the British Museum along with the other <span class=\"name\">Harley</span> manuscripts in 1753."
+    }, 
+    "admin": "Description by Hollie Morgan and Takako Kato (August 2010).", 
+    "surrogate": true, 
+    "bib": [
+        "exe426", 
+        "bis642", 
+        "dew535", 
+        "dew677", 
+        "dra419", 
+        "for547", 
+        "ker44", 
+        "war93"
+    ]
+}

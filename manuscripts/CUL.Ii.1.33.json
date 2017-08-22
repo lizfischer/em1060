@@ -1,0 +1,2301 @@
+{
+    "id": "CUL.Ii.1.33", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Ii. 1. 33", 
+    "ker": "18", 
+    "content": "Homilies and lives of saints", 
+    "location": "South East", 
+    "date": "s.xii^{2}", 
+    "summary": "The manuscript contains a collection of \u00c6lfric's homilies and saints' lives. It also includes penitential material: three anonymous texts and a translation of Alcuin's <span class=\"italics\">De uirtutibus et uitiis</span>, chapters 1-13. Several items have interlineata and marginalia in English, Latin and French.", 
+    "items": [
+        {
+            "locus": "Fols 2r-24v/8", 
+            "text": "B.8.1.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00c6lfric munuc gret \u00e6\u00feel\u01bfeard ealdorman eadmod | lice.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'sealde hyre \u00e9arpreo | nas eallgildene sona; gildene biagas god herIENDE.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Almost identical to the versions in Claudius B. iv and Laud Misc. 509. However, according to Crawford 1922, Chapters iv, v, xi, xxiii and xxiv offer an independent translation of the Vulgate and vary from the versions in these two manuscripts. Crawford edited these versions in parallel columns (see Crawford 1922, p. 5)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "pp. 76-149"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 24v/9-28v/8", 
+            "text": "B.1.2.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "' \u00deeos tid fram \u00feisum\nand \u01bfeardum d\u00e6ge o\u00f0 \u00f0a halgan eastertide is | gec\u01bfeden cristes \u00fero\u01bfungtid.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy him l\u00f3f and \u01bfuldor his orm\u00e6tum eadmodnesse on ealra \u01bforulda \u01bforuld. amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Textually close to CUL Ii. 4. 6; Faustina A. ix and CCCC 302 (See Godden 1979, p. 356). Godden's edition includes lines 1-41, fols 24v-25r/22 and lines 42-65, 74-107, 118-36, 144-72, 176-223 and 237-94, fols 25r2/3-28v/8."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 127-28 and pp.\n                                                           128-36"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 2"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 25r/3-18 right margin", 
+            "text": "Traxel", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Ego demonium non | sed honorifico patrem | meum\net ues inhonor []\u00a0(unclear: trimming).. | me. Ego non quaero [...]\u00a0(unclear: trimming) | meam est qui quar [...]\u00a0(unclear: trimming) | et iudicet. amen [...]\u00a0(unclear: trimming) | dica uobis Si quis se [...]\u00a0(unclear: trimming) | meu mortem uide [...]\u00a0(unclear: trimming) | in eternum dixvrunt [...]\u00a0(unclear: trimming) | daei. Nunc cognouim [...]\u00a0(unclear: trimming) | demonium habe [...]\u00a0(unclear: trimming) | Abraham mortu [...]\u00a0(unclear: trimming) | est et prophete et tu [...]\u00a0(unclear: trimming) | si quis sermonem meum non [...]\u00a0(unclear: trimming) | bit in eternum. [Numquid]\u00a0(unclear: legibility) tu [...]\u00a0(unclear: trimming) | or es patre nostro Abr [...]\u00a0(unclear: trimming) | qui [mortuus est:]\u00a0(unclear: legibility) et prophe [...]\u00a0(unclear: trimming) | tui sunt Quem te ipsum [...]\u00a0(unclear: trimming) | respondit Iesus. Si [...]\u00a0(unclear: trimming) | glorifico me ipsum: [...]\u00a0(unclear: trimming) | mea nichil est. | Est pater meus qui glor [...]\u00a0(unclear: trimming) | me; quem uos dici [...]\u00a0(unclear: trimming) | quia deus [est noster :]\u00a0(unclear: legibility) et non [...]\u00a0(unclear: trimming) | uistis eum ego autem n [...]\u00a0(unclear: trimming) | eum Et si dixero | [non sciu]\u00a0(unclear: legibility) eum ero simi [...]\u00a0(unclear: trimming) | uobis mendax Sed sc [...]\u00a0(unclear: trimming) | et sermonem eius seru [...]\u00a0(unclear: trimming) | Abraham pater uester e [...]\u00a0(unclear: trimming) | tauit ut uideret diem [...]\u00a0(unclear: trimming) | uidit et gauisus [...]\u00a0(unclear: trimming)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A quotation from John, 8:49-8:56 copied by Scribe 1 (Traxel's Scribe 4) next to \u00c6lfric's Catholic Homilies, Second Series, XIII, Fifth Sunday in Lent. This passage appears almost verbatim in CUL, Ii. 4. 20: 'The Monastic Breviary-Missal of Ely Cathedral Priory', fol. 82r."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "http://www.cursus.uea.ac.uk/", 
+                    "page": "[12/01/2007],"
+                }, 
+                {
+                    "work": "http://www.cursus.uea.ac.uk/ms/ely"
+                }, 
+                {
+                    "work": "tra278", 
+                    "page": "pp. 125-26"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 29r-34v/12", 
+            "text": "B.1.1.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VIII kalendas ianuarii. Nativitas Domini Nostri Iesu\nChristi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e \u01bfilla\u00f0 to trymminge eo\u01bfres geleafan | eo\u01bf gereccan \u00fe\u00e6s h\u00e6lendes acennednysse be | \u00fe\u00e6re godspellican endeburdnysse.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee he for ure lufe gefremode | us to alysednesse. and to ecere blisse. \u00deam si \u01bfuldor and lof | mid \u00feam \u00e6lmihtigan f\u00e6der on annysse \u00fe\u00e6s halgan | gastes on ealra worulda woruld. Amenn.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Royal 7 C. xii; Vitellius C. v; Cleopatra B. xiii and Lambeth 489; CUL Gg. 3. 28; CCCC 302; CCCC 188; CCCC 178 and CCCC 162; Bodley 343."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 190-97"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 3"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 31r/12 right margin", 
+            "text": "B.27.4.6.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "sunu S\u01bfilche heo o\u00f0 [[...]]\u00a0(unclear: trimming) | ne si\u00f0\u00f0an bere [[...]]\u00a0(unclear: trimming) | ac for\u00f0i \u00fee crist [[...]]\u00a0(unclear: trimming) | frumcenned of | manegum gast [[...]]\u00a0(unclear: trimming) | cum bro\u00f0rum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This marginalia is in fact a correction which was added in the right margin by Scribe 1 to \u00c6lfric's Catholic Homilies, First Series, II, Christmas Day to supply a few lines from the text which were probably omitted at some stage due to eye-skip (See Clemoes 1997, p. 193, ll. 88-90)."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 34v/12-36v", 
+            "text": "B.1.3.21", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u00c6\u00feeldre\u00fee uirginis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e \u01bfyllad nu a\u01bfriten \u00feeah \u00f0e hit \u01bfundorlic sy | be \u00f0\u00e6re halgan \u00e6\u00feeldryde \u00feam englisean m\u00e6den'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Manega bysna syn\u00f0 | on bocum be s\u01bfilcum, hu oft \u01bferas and \u01bfif \u01bfundorli | ce drohtnodon. and on cl\u00e6nnysse \u01bfunodon to \u01bfuldre | \u00feam h\u00e6lende. \u00fee \u00f0a cl\u00e6nnysse astealde crist ure | drihten. \u00feam is a \u01bfur\u00f0mynt. and \u01bfuldor on ecnysse. | Amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Another copy in Otho B. x (See Skeat 1966, I, p. 551)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 4"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, pp. 432-41"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 36r/1 top margin", 
+            "text": "B.27.4.7.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "\u01bfeall standende ge\u01bforht of marmstun"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This annotation, which refers to \u00c6lfric's Catholic Homilies, First Series, II, Christmas Day, is in fact a correction by Scribe 1 which was added in the top margin to supply a line from the text which was probably omitted due to eye-skip (cfr. Skeat 1966, p. 436, ll. 80-81)."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 37r-52v", 
+            "text": "B.1.2.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'XII. kalendas aprellis. Sancti Benedicti Abbatis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Benedictus se halga abbud on \u00f0isum and | \u01bfardan d\u00e6ge ge\u01bfat of \u00f0isum deadlican life | to \u00f0am ecan \u00fee he \u00e6r deoplice mid hali | gre drohtnunge geearnode'."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'his halga lichama \u01bfear\u00f0 \u00fea bebyrged to his s\u01bfus | ter lice scolastican. s\u01bfa s\u01bfa he sylf bebead binnan | iohannes cyrican \u00fe\u00e6s halgan fulluhteres on'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Bodley 240 and 342, CCCC 198 and 267, CUL Gg. 3. 28. CCCC 198 and CUL Ii. 1. 33 share a common source against Bodley 340 and Bodley 342 (See Godden 1979, p. 354)."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends at line 572 of Godden's edition. A folio is missing after fol. 52v."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 92-109"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 5"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 53r-57v/8", 
+            "text": "B.1.3.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VIII. kalendas Marcii. Cathedra Sancti Petri Apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e c\u01bfe\u00fea\u00f0 on gerim cr\u00e6fte cathedra Sancti petri seofan nih | ton \u00e6r \u00f0am mon\u00f0e \u00fee \u01bfe martius hata\u00f0.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'He ge | \u01bfat \u00f0a to heofonum to h\u00e6lende criste \u00feam is \u01bfuldor and | \u01bfur\u00f0 mynt on ealra \u01bforulun\u00a0(deletion: ) da \u01bforold. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Junius E. VII and Bodley 343."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 6"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, 218-39"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 57v/9-60v/10", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Conuersio Sancti Pauli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Godes gela\u00f0ung \u01bfur\u00f0a\u00f0 \u00feysne d\u00e6g \u00feam m\u00e6ran | Paule to \u01bfyr\u00f0mynte.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'ac se bi\u00f0 ges\u00e6lig. \u00fee his mynegungum | mid gecneordnysse gehyrsuma\u00f0;'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Other copies: Royal 7 C. xii, Bodley 343; CCCC 303; Bodley 340 and Bodley 342, CCCC 198; Vespasian D. xiv; Vitellius Cv; CUL Gg. 3. 28; CCCC 188; Hatton 116; Hatton 113 and 114; Junius 121; Vitellius D. xvii; The Hague, Koninklijke Bibliothek 133.D.22 and Copenhagen, Rigsarkivet, Aftagne pergamentfragmenter 637-664, 669-71, 674-98"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Text ends at line 122 of Clemoes's edition."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 400-404"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 60v/11", 
+            "text": "B.11.7", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Gif \u00f0u \u01bfille for \u00feinra synna bereo\u01bfsunge gedon. and andet | nesse \u00feinra scylda. \u00feonne scealt \u00feu s\u01bfa mycel s\u01bfa \u00f0u meaht | mid inre\u01bfeardan heortan. na mid efestlican \u01bfordan. ac | mid ge\u00feencendan mode \u00feas VII. daui\u00f0es psalmis. to d\u00e6dbote gelomlice | singan : and \u00feu find\u00e6st s\u01bfi\u00f0e hr\u00e6dlice godes mildheortnes\u00a0(addition: ) se ymban | \u00f0e. and \u00fein mod bi\u00f0 mid gastlicere blisse on lihted.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Six lines of texts which were inserted by Scribe 1 in a blank space at the end of Quire 8 (see also Ker 1957, p. 24). This is a translation of the section Primus usus psalmorum of Alcuin's De psalmorum usu liber (see Traxel 2004, p. 27, n. 48). Unique translation from Latin."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 60v/ 17-21", 
+            "text": "B.1.1.39.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Men \u00fea leofestan eo\u01bfer geleafa bi\u00f0 \u00fee trumra gif ge | gehyra\u00f0 be godes halgum hu hi \u00fe\u00e6t heofenlice rice ge | earnodon. and be magon \u00fee cu\u00f0licor to heo\u00a0(addition: ) me clypian gif heo | ra lifes drohtnunga eo\u01bf \u00feurh lareo\u01bfa bodiunge cu\u00f0e | beo\u00f0.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "First four lines of the homily only, copied by Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "p. 496, ll. 4-6"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 60v/ 21-24", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'\u01f7e \u01bfylla\u00f0 eo\u01bf gereccan \u00feara apostola drohnun | ge. and geendunge PETRUS and PAULUS mid sceortre race. for | \u00fean \u00fee heora \u00fero\u01bfung ys geh\u01bf\u00e6r on \u00e6ngliscum gereor | de fallice geendebyrd\u00feus c\u01bfe\u00feende.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "This version survives in Ii. 1. 33 only (Clemoes 1997, p. 388, apparatus)."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The homily starts at line 98 in Clemoes's edition."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "p. 391, ll. 98-100"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 61r-65v/15", 
+            "text": "B.1.1.28.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Passione Apostolorum Petri et Pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'After drihtnes upstige \u01bf\u00e6s petrus bodigen | de geleafan \u00feam leodscipum \u00fee synd gec\u01bfedene. | Galatia. Cappadocia bi\u00feinia asia Italia.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Cu\u00f0 is geond ealle \u00feeodscipas \u00fe\u00e6t | fela \u01bfundra gelumpon \u00e6t \u00f0\u00e6ra apostola byrgenum \u00feurh | \u00f0\u00e6s h\u00e6lendes ti\u00f0e. \u00feam sy \u01bfuldor and lof a on ecnysse.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Other copies: Royal 7 C. xii; Bodley 343; CCCC 303; Bodley 340 and Bodley 342, CCCC 198; Vespasian D. xiv; Cotton, Vitellius C. v; CUL Gg. 3. 28; CCCC 188; Hatton 116; Hatton 113 and Hatton 114; Junius 121; Gloucester CL 35; The Hague, Koninklijke Bibliothek 133.D.22 and Copenhagen, Rigsarkivet, Aftagne pergamentfragmenter 637-664, 669-71, 674-98"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Passion only without the beginning; see the two preceding items above."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 391-9, ll. 100-295"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 9"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 65v/16-71r/3", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): II. kalendas decembris passio Sancti Andree Apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'SE apostol andreas \u00e6fter cristes \u00fero\u01bfunge ferde | to \u00f0am lande \u00fee is gehaten achaiga and \u00fe\u00e6r boda | de drihtnes geleafan.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Vton nu biddan \u00feone \u00e6lmih | tigan \u01bfealdend \u00fe\u00e6t his eadiga apostol ure \u00feingerer | beo s\u01bfa s\u01bfa he \u01bfunode his gela\u00f0unge bydel. Sy \u00feam metodan drihtne \u01bfyr\u00f0mynt and lof a on | eccnesse. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Texts starts at the Passion, as in Vitellius D. xvii. A version is also in Bodley 343."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 513-19, ll. 170-351"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 10"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 70v/1 left margin", 
+            "text": "B.27.4.8.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Maximilla | \u01bfas an l\u00e6fdie | inne \u00fe\u00e6re burh | ofer \u00fea o\u00f0re | hl\u00e6fdie. heo \u01bfeor\u00f0ede sainnt | andreu \u02e5 com | mid heore cnihte \u02e5 nam \u00feone halige | licame mid my | cele \u01bfyr\u00f0munte | \u02e5 hine smerede mid aromate | Aromat is ge | macad of godes | cynnes \u01bfeorte | \u00f0e \u01bfille s\u01bfote | stince hu | h\u00e6fde gecore | \u00e6nne s\u01bfi\u00f0ne | fairne stede | on to licgende. | \u00fe\u00e6r hu leide | saintes Andreas | lichame mid | \u01bfeor\u00f0munte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This annotation was inserted by Scribe 1 (Traxel 2004's Scribe 4). It fills the left margin over 24 lines ruled for the purpose of the insertion. Traxel 2004 comments extensively on the passage, suggesting a Latin source from a lost version of the Passio Sancti Andrea Apostoli. He also includes a detailed linguistic analysis of the English version."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tra278", 
+                    "page": "pp. 68-77"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 70v bottom margin", 
+            "text": "Traxel 2004", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "French"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This was inserted by Scribe 1 (Traxel's Scribe 4). It is written on two lines which were ruled for the purpose of the insertion. For comments on possible sources and language, see Traxel 2004, pp. 77-79."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tra278", 
+                    "page": "pp. 77-79"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 71r/3-79r/3", 
+            "text": "B.1.1.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VI. kalendas Ianuarii Assumptio | Sancti iohanis Apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'IOHANNES se godspellere cristes | dyrling \u01bfear\u00f0 on \u00feysum d\u00e6ge to heofonan rices myrh | \u00fee \u00feurh godes neosunge genumen.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00de\u00e6r beo\u00f0 fela tacna \u00e6teo\u01bfde. and untru | me geh\u00e6lde. and fram eallum frecednyssum alysede | \u00feurh \u00fe\u00e6s apostoles \u00feingunge. \u00fe\u00e6s him geti\u00fea\u00f0 | drihten crist \u00feam is \u01bfuldor and \u01bfyr\u00f0mynt mid f\u00e6der | and halgan gaste a butan ende. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Other copies: Royal 7 C. xii; Bodley 340 and Bodley 342, CCCC 198; Vitellius C. v; CUL Gg. 3. 28; CCCC 302 and 188; Hatton 116; Hatton 113 and Hatton 114; Junius 121; Harley 2110"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 206-16"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 77v bottom margin", 
+            "text": "Traxel", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Dominus dicit. Si conuersus fueris et ingemueris; saluus eris. quia deus per prophetam dicit. Non | uult mortem morientis; quantum ut reuertatur a uia sua mala. et uiuet anima eius.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Parts of two biblical verses: Isaiah 30. 15 and Ezekiel 33. 11. According to Traxel (2004), the verses appear in the work of Fulgentius Ruspensis, 'De fide ad Petrum', in Corpus Christianorum, Seria Latina, 91 A, pp. 736-9, ll. 750-822 (Traxel 2004, p. 82)."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1. Written on two lines which were ruled for the purpose of the insertion."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tra278", 
+                    "page": "pp. 80-84"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 79r/3-80v/5", 
+            "text": "B.1.2.21.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Kalendas mai. Apostolorum philippi et jacobi.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'PHilippus se godes apostol \u00fee \u01bfe on \u00feysum dage | \u01bfur\u00f0ia\u00f0.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'micele \u01bfel | d\u00e6da and \u01bfundra gelome geleaffullum mannum se \u00fee leo | fa\u00f0a. amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Other copies in Bodley 340 and Bodley 342; CCCC 198; CUL Gg. 3. 28; Hatton 113 and Hatton 114 and Junius 121; Vitellius D. xvii (Godden 1979, 361-362)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 167-71"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 12"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 80v/5-82r/19", 
+            "text": "B.1.2.21.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'de sancto Iacobo apostolo'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7E \u01bfur\u00feia\u00f0 eac on \u00feissere and\u01bferdan freolstide. | O\u00feerne apostol iacob \u00feone riht\u01bfisan.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Vton nu ge bro\u00f0ru biddan geornlice \u00feas halgan | apostolas. \u00fee \u01bfe tod\u00e6g \u01bfur\u00f0ia\u00f0. \u00fe\u00e6t hi us \u00feingian to urum | scyppende se \u00fee ana rixa\u00f0 on ecnesse god. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Other copies in Bodley 340 and Bodley 342; CCCC 198; CUL, Gg. 3. 28; Hatton 113 and Hatton 114 and Junius 121; Vitellius D. xvii (Godden 1979, 361-362)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 171-3"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 13"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 82r/19-91r/4", 
+            "text": "B.1.1.33", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VIII Kalendas Septembris passio Sencti Bartholomei Apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7yrd \u01bfriteras secga\u00f0 \u00fe\u00e6t \u00fery leodcipas synd gehate | ne India; seo forme India li\u00f0 to \u00fe\u00e6re silhear\u01bfenarice.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Hw\u00e6t | \u01bfylle \u01bfe endemenn \u00feyssere \u01bferolde gif \u01bfe for urum | synnum gebrocode beo\u00f0 buton herian urne drihten | andeadmodlice biddan \u00fe\u00e6t he us \u00feurh \u00fea h\u01bfil\u01bfendlican s\u01bfingle | to \u00feam ecan gefean gel\u00e6de sy him \u01bfuldor and lof on | ealra \u01bforulda \u01bforold.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 439-50"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 14"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 82r interlinear ", 
+            "text": "B.27.4.9.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Gode men gehryra\u00f0 her \u00fea mihtan \u00fee ure drihten forgeaf Sanct bartholomei \u00feam apostole."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "This is a non-\u00c6lfrician insertion by Scribe 1 (Traxel's Scribe 4), which was originally written in the right margin of the folio and then inserted interlinearly. Although it was erased from the margin, it is still visible."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tra278", 
+                    "page": "pp. 90-91"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 82v/10 left margin", 
+            "text": " Scribe 1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "untrumnessum a\u01bfurde. et ands\u01bferede him \u00feurh \u00f0a anlicnysse. | \u00fe\u00e6t hi him lac offrian sceoldan et he hi geh\u00e6lde. ac he hym | ne heolp mid nanre h\u00e6le ac \u00f0a \u00fea hi to him bugon \u00fea geswac he | \u00fe\u00e6re lichamlice gedreccednysse for\u00fean \u00fee ahte heora sa\u01bfla. \u00fea \u01bfende | dysige men \u00fe\u00e6t he hi geh\u00e6lde \u00fea \u00f0a he \u00fe\u00e6re geh\u00e6lde \u00fea \u00f0a he \u00fe\u00e6re gedreccednysse ges\u01bfac \u00dea | mid \u00feam \u00f0e se | apostol into."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "This passage is \u00c6lfrician and it corresponds to lines 12-18 in Clemoes's edition."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "This passage was inserted by Scribe 1 after some lines were erased. The writing, however, is not completely contained in the erasure and part of the passage is written in the left margin beyond the central framing line."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "p. 439, ll. 12-18"
+                }, 
+                {
+                    "work": "tra278", 
+                    "page": "pp. 87-91"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 91r/4-95r/10", 
+            "text": "B.1.2.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'VIII kalendas augusti passio Sancti iacobi apostoli.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'ON \u00feysum d\u00e6ge \u01bfe \u01bfur\u00feia\u00f0 on urum | lofsangum and on freolse \u00feone m\u00e6ran apostol | iacobum.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and hi sigef\u00e6ste samod ferdon to criste \u00feam | is \u01bfuldor and \u01bfyr\u00f0mynt on ealra \u01bforulda \u01bforuld AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "First part only as compared to Godden's edition."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 241-7, ll. 1-181"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 95r/10-98r/5", 
+            "text": "B.1.2.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'XI. kalendas octobris passio Sancti mathei apostoli et ewangeliste.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'SE APOSTOL Matheus and godspellere becom \u00feurh | godes sande \u00e6fter drihtnes upstige to heofonum to ethiopian | \u00fe\u00e6t is \u00fe\u00e6ra silhearpena rice'."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fe\u00e6r beo\u00f0 gefremode fela \u01bfundra gelome | \u00feurh geearnunge \u00fe\u00e6s eadigan apostoles \u00feurh godes mihte man | num to frofre Sy \u00fe\u00e6s gode lof a on ecnesse AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The text starts at the Passion."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 275-9, ll. 80-225"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 16"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 95v bottom margin, left corner", 
+            "text": "Scribe 1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'.eunuchi.' | [[...]]\u00a0(unclear: treamming)"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Probably Scribe 1"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 98r/5-103v/13", 
+            "text": "B.1.2.41", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'V. kalendas nouembris passio apostolorum Simonis et Iuvis.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'MEN \u00fea leofostan \u01bfe \u01bfylla\u00f0 eo\u01bf secgan \u00fe\u00e6ra apostola \u00fero | \u01bfunge \u00fee \u01bfe nu tod\u00e6g \u01bfur\u00f0ia\u00f0 Simones and eudan'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Vton nu biddan \u00feas eadigan apostolas | Simon and iudan. \u00fe\u00e6t hi us abiddan godes miltronge. se \u00fee leof | a\u00f0 on ea\u00fera \u01bforolda \u01bforold. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "In CUL Gg. 3. 28; Vitellius D. xvii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 280-287"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 103v/13-110r/13", 
+            "text": "B.1.3.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Kalendas ianuarii passio Sancti Thome apostoli.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00c6FTER \u00fe\u00e6s h\u00e6lendes \u00fero\u01bfunge and \u00e6riste of | dea\u00f0e and up stige to heofonum \u00fea \u00f0a his apostolas to | ferdon geond \u00feysne middan eard \u00dea becom ihonias | to cesaream byrg'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and se go | des apostol \u01bfear\u00f0 sy\u00fe\u00fean geferod to syrian lande mid | micelre ar\u01bfur\u00f0nysse \u00feam \u00e6lmihtigan to lofe Se \u00f0e | on ecnesse rixa\u00f0 riclice mihtig. AMEN;'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The text starts without the Latin introduction (see Hill 1997, p. 420). The introduction is included in Julius E. vii and Caligula A. xiv."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 18"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, pp. 400-25, ll.\n                                                           13-424"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 110r/13-114r/6", 
+            "text": "B.1.3.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'VII Kalendas mai passio Sancti marci ewangeliste.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'MARCVS se godspellere be godes dihte gefer to | egipta lande and \u00fe\u00e6r l\u00e6rde \u00fe\u00e6t folc'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u01f7e ge | endia\u00f0 \u00feus \u00feas gesetnysse HER."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Julius E. vi, CCCC 198 and Vitellius D. xvii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 19"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, pp. 320-37"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 114r/6-120v/6", 
+            "text": "B.1.3.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit sermo de memoria Sanctorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'EGo sum alfha eto. initium et finis dicit dominis qui est | et qui erat et qui uenturus est omnipotens. \u00de\u00e6t is on en | glisc '"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and habban | us on ende \u00feone ecan \u01bfur\u00femynt a mid gode sylfum gif | \u01bfe s\u01bfinca\u00f0 nu her \u00fe\u00e6r to us gefultumige se \u00f0e leofa\u00f0 | and rixa\u00f0 a buton ende AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Julius E. vi; CCCC 303."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 20"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, pp. 336-63"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 120r bottom margin", 
+            "text": "Traxel 2004", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "\u00b6 li uilan dit en repruuier; de iueune seint uiel auersier. | pur ceo dit li uilain uerite; Tels l unt ki ne ten seuent gre. | qu entre l aueir e le bricun; ne sunt pas longes cumpaignun. | li uilains dit la u il ueolt Que oil ne ueit a cuer ne duelt."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "French"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Four proverbs about 'the peasant', found in the Old French metrical Life of St Giles by Guillaume de Berneville (Traxel 2004, p. 106, n. 304 in particular)."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "This passage was inserted by Scribe 1 (Traxel's Scribe 4)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tra278", 
+                    "page": "pp. 105-10"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 120v/6-124v/12", 
+            "text": "B.1.1.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'VII. kalendas ianuari passio Sancti Stephani prothomartyris.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e r\u00e6da\u00f0 on \u00fe\u00e6re boc | \u00fee is gehaten actus apostolorum \u00fe\u00e6t \u00fea apostolas gehadodon seofon | diaconas on \u00fe\u00e6re gela\u00f0unge'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'nu tod\u00e6g | hi underfengon stephanum blissiende on heora gefer\u00e6dene | mid \u00feam he \u01bfuldra\u00f0 and blissa\u00f0. a on ecnesse AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This item was extensively corrected in a twelfth-century hand with interlinear annotations; probably Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 198-205"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 21"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 123r bottom margin", 
+            "text": "Dolbeau\n                                                    2003", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Vbi te inuenero. Ibi te iudicabo.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This annotation is probably copied by Scribe 1 and it is not found in the Bible, but it is an agraphon, which was attributed either to Jesus or Ezekiel, and it is well-known and established in Greek and Latin preaching texts. For instance in Bernard of Clairveaux, Sententia, III 74, there is an identical quotation: 'Ubi te inuenero, ibi te iudico'. A thorough historical survey of this agraphon appears in Dolbeau 2003."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 124v/12-128v/4", 
+            "text": "B.1.1.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'V. kalendas ianuari Natale Innocentium.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'NV tod\u00e6g godes gela\u00feung geond ealne | ymbh\u01bfyrft m\u00e6rsa\u00f0 \u00fe\u00e6ra eadigra cildra freolstide.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Se \u00fee leofa\u00f0 and rixa\u00f0 a butan ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This item was extensively corrected in a twelfth-century hand with interlinear annotations; probably Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 217-23"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 22"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 124v top margin", 
+            "text": "B.27.4.10.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "[...]\u00a0(unclear: unreadable) \u00e6fe man sceal herian \u00feone d\u00e6g"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Probably inserted by Scribe 1"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 128v/4-132v/19", 
+            "text": "B.1.3.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'XI kalendas febrari. passio Sancti uincentii martiris'."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'ON ispanian lande \u00fe\u00e6re | speoniscan leode. \u01bf\u00e6s se halga martir \u00fee hatte | uincentius to menn geboren.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and mid mycelre lufe hi man | \u01bfyr\u00f0a\u00fe geh\u01bf\u00e6r s\u01bfa s\u01bfa us secga\u00f0 bec for his so\u00f0an gelea | fan \u00feam h\u00e6lende to lofe \u00fee leofa\u00f0 a on ecnesse amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Bodley 343. This item was extensively corrected in a twelfth-century hand with interlinear annotations, probably by Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 23"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 426-43"
+                }, 
+                {
+                    "work": "irv117", 
+                    "page": "pp. 99-115"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 132v/19-139r", 
+            "text": "B.1.1.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'IIII Uus avgustis passio beati Laurentii martiris'."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'ON Decies d\u00e6ge \u00fe\u00e6s \u01bf\u00e6lhreo\u01bfan caseres \u01bf\u00e6s se halga | bisceop sixtus on romana byrig drohtniende.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'for \u00fe\u00e6s naman he \u00fero\u01bfa\u00f0e mid cenum mode menigfealde tin | tregu mid \u00feam he orsorlice on ecnesse \u01bfuldra\u00f0. amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Royal 7 C. xii, Bodley 343, CCCC 303, CCCC 198, CUL Gg. 3. 28, Vitellius C. v, CCCC 188, Hatton 116, The Hague, Koninklijke Bibliothek 133.D.22 and Copenhagen, Rigsarkivet, Aftagne pergamentfragmenter 637-664, 669-71, 674-98, Otho A. xviii, Vitellius D. xvii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 418-28"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 24"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 139v-144r/24", 
+            "text": "B.1.2.10", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): IIII Idus martii Sancti Gregorii pape uibis romane inclitus."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Gregorius se halga papa englisere \u00f0eode apostol | on\u01bfisum and\u01bferdan d\u00e6ge after menigfealdum gedeorufum | and halgum gecnyrdnyssum'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and sy\u00f0\u00f0an on \u00f0ysum d\u00e6ge ge\u01bfat to \u00feam ecan setle heofenan | rices on \u00feam he leofa\u00f0 mid gode \u00e6lmihtigum a on ecnesse AMEN'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "In Bodley 340 and Bodley 342; CCCC 198; CUL Gg. 3. 28; Vitellius D. xvii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 72-80"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 144r/25-147r/12", 
+            "text": "B.1.3.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'VIII Kalendas mai. passio Sancti Georgii martiris'."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Ged\u01bfolmenn | a\u01bfriton ged\u01bfyld on heora bocum be \u00feam halgan \u01bfere | \u00fee is gehaten Georius'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'And se halga georivs si\u00f0ode to | criste mid \u00feam he a \u01bfuna\u00f0 on \u01bfuldre. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Julius E. viii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 26"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, 306-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 147r/12-149v/4", 
+            "text": "B.1.3.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'X Kalendas iulii. passio Sancti Albani martiris.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Sum h\u00e6\u00feen casere \u01bf\u00e6s gehaten | dioclicianus se \u01bf\u00e6s to casere gecoren'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy \u01bfuldor | and lof \u00feam \u01bfel\u01bfillen\u00f0an scyppende. se\u00f0e ure f\u00e6deras feon | dum \u00e6tbr\u00e6d and to fulluhte gebigde \u00feurh his bydelas. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Julius E. viii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 27"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, 414-25"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 149v/5-151r/15", 
+            "text": "B.1.3.20.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'IS nu eac to \u01bfitenne \u00fe\u00e6t man \u01bfitna\u00f0 for | oft \u00fea arleasau scea\u00f0an and \u00fea s\u01bficolan \u00feeofas.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'on \u00feam is ece \u01bfuldor on ealra \u01bforolda \u01bforold amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Julius E. viii; Junius 23; CCCC 303"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 28"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, 424-25"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 151r/16-155v/23", 
+            "text": "B.1.3.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'XII Kalendas Decembres. Passio Sancti eadmundi Regis\net martiris'."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'EAdmund \u00f0e eadiga eastengla Kyning \u01bf\u00e6s. | snoter and \u01bfur\u00f0full and \u01bfur\u00f0ode symle mid \u00e6\u00f0e | lum \u00feea\u01bfum \u00f0onne'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00de\u00e6s him sy | \u01bfuldor a mid his heofonlice f\u00e6der and \u00feam halgan gaste AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Without Preface. Other copies in Otho B. x; Vitellius D. xvii and Bodley 343."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 29"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 314-35, ll.\n                                                           13-276"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 155v/24-161r/15", 
+            "text": "B.1.2.37", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Vir erat in terra hus : nomine Iob. Et erat uir ille sim | plex et rectus ac timns deum et recedens a malo bi \u00feam eadige iobe"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Mine gebro\u00f0ra \u01bfe r\u00e6da\u00f0 nu \u00e6t godes \u00feenungum be \u00feam | eadigan \u01bfere iob'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy \u01bfuldor and \u01bfyr\u00f0mynt \u00feam \u01bfel \u01bfillendan scyp | pende ealra his \u01bfundra and his \u01bfel d\u00e6da. Se \u00f0e ana | is god a on ecnusse AMEN '"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Bodley 343; Vespasian D. xiv and CUL Gg. 3. 28."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 260-67"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 30"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 161r/15-166r/13", 
+            "text": "B.1.3.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): NONI AUGUSTI. Passio Sancti os\u01bfald"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00c6fter \u00feam \u00fee Agustinus Regis and martiris. | to engla lande be com \u01bf\u00e6s sum Kyning Os\u01bfald | gehaten on nor\u00f0humbrja lande'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy \u00fe\u00e6s \u01bfuldor \u00feam \u00e6lmihtigan gode | a to \u01bforolde \u01bforld'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Other copies in Vitellius D. vii and Julius E. vii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 31"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 124-42"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 166r/13-172r/17", 
+            "text": "B.1.3.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): VII. idus octobri. passio Sancti Dionisii sociorum eius"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Pavlus \u00feeoda lareo\u01bf \u00fea\u00f0a he | geond land ferde bodigende geleafan | s\u01bfa s\u01bfa him bebead \u00fee h\u00e6lend '"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'to lofe \u00feam \u00e6lmihtigum \u00fee leofa\u00f0 a | on ecnesse AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Another copy in Julius E. vii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 32"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 168-91"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 172r/18-175r", 
+            "text": "B.1.1.39", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'VIII Kalendas decembris. passio Sancti Clementis martiris."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Men \u00fea leofostan eo\u01bfer geleafa by\u00f0 \u00fee trum | ra gif ge gehyra\u00f0 be godes halgum hu hi \u00fe\u00e6t | hefonlice rice geearnodon.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'se \u00f0e his halgan mid tacnum | and \u01bfundrum ge\u01bfur\u00f0ad and s\u01bfa heora geearnunga ge | s\u01bfutelia\u00f0. Sy him \u01bfuldor and \u01bfur\u00f0mynt a to \u01bforolde AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "As compared with Clemoes' edition lines 34-50 and 148-280 are not present in this item. The explicit re-works the ending in an unique version."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 497-502, ll. 1-33,\n                                                           51-147"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 175v-184v", 
+            "text": "B.1.4.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De Falsis Diis'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): ''O fratres dilectissimi diuina scriptura | cultum unius ueri dei'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Eft \u00fea \u00f0a \u00f0e tima com on theodosies dagum | \u00fe\u00e6s \u00e6\u00f0elan caseres \u00fee ealle het to brecan \u00fea'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Some lines not present as compared with Pope's edition, and end missing due to loss of leaves. Another version in CCCC 178."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 34"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "pp. 676-706, l. 1-140,\n                                                           150-508, 510-44"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 185r-193v/8", 
+            "text": "B.1.3.25", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "' here samod mid s\u01bfy\u00f0licre bylde and \u00fe\u00e6r \u01bfurdon ofsla | gene eahta hund \u01bfera'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy \u01bfuldor and lof | \u00feam \u01bfel \u01bfillendan gode a on ecnyss \u01bfe c\u01bfe\u00f0a\u00f0 Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Acephalus, due to loss of leaves; in Julius E. vii; CCCC 303 and 198, and Vitellius D. xvii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 35"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 86-120, ll.\n                                                           319-811"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 193v/9-194v/8", 
+            "text": "B.1.3.25.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Is s\u01bfa \u00feeah to \u01bfitenne \u00fe\u00e6t on \u00feyssere \u01bforolde synd \u00fereo | endebyrdnyssa on annysse gesette \u00fe\u00e6t synd Laboratores | Oratores Bellatores '"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and hi mid gode nu lybb\u00a0(addition: ) a\u00f0 for\u00f0an \u00f0e hi fur\u00f0on noldon | \u00e6nne fugol ac\u01bfellan:-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "In Julius E. vii; CCCC 178, CCCC 303 and CUL 198."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 36"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 120-24, ll.\n                                                           812-60"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 194v/8-197v/16", 
+            "text": "B.1.3.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'II Kalendas Augusti passio Sanctorum Abbon and Sennem."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'ON Decies dagum \u00fe\u00e6s deoflican | Kaseres \u01bf\u00e6ron t\u01bfegen cyningas on crist ge | lofede. Abdon and Sennes'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feam h\u00e6lende to lofe \u00fee lyfa\u00f0 a on ecnysse':-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Julius E.vii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 37"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 54-67"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 197v/17-203r/3", 
+            "text": "B.1.3.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Epistola pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Pavlus \u00f0e apostol ealra \u00feeoda | lareo\u01bf manode \u00fea cristenan \u00fee he sylf \u00e6r to ge | leafan gebigde on anum pistole.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'sy him \u01bfuldor and lof a to \u01bforulde. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English."
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 303 and CCCC 302."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 38"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, 364-83"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 203r/3-206v", 
+            "text": "B.1.3.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Exal | tatio Sancte Crvcis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e \u01bfur\u00f0ia\u00f0 mid lofsangum | for ures geleafan trymminge t\u01bfegen dagas | on geare drihtne to \u01bfurdimynte for \u00f0\u00e6re halgan | rode sy\u00f0an heo afunden \u01bf\u00e6s.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy \u01bfuldor | and lof \u00f0am \u01bfellendan gode \u00fee \u00f0e \u00e6fre rixa\u00f0 | on ecnysse AMEN;'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "In Vitellius D. xvii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 39"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, 144-59"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 207r-211r/5", 
+            "text": "B.3.5.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Mage \u01bfe gyt her gehyran in. eo\u01bfre sa\u01bfle | \u00feearfe gif ge me hlystan \u01bfylla\u00f0.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feam sy ar and \u01bfur\u00f0munt and miht and \u01bfuldor and an\u01bfeald | \u00e6fre butan \u00e6lcum ende AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Another version in Junius 85."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 40"
+                }, 
+                {
+                    "work": "lui328", 
+                    "page": "pp. 144-57"
+                }, 
+                {
+                    "work": "wil334", 
+                    "page": "pp. 963-65, from fol.\n                                                           208v/13 to fol. 210r/17"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 211r/5-219v/19", 
+            "text": "B.9.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Scientia."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00c6rest ealra \u00feinga geh\u01bfilcum men is to secenne.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'and \u00fe\u00e6t \u01bfe moton | mid him \u01bfunian \u00fe\u00e6r he lifa\u00f0 and rixa\u00f0 on ealra \u01bforul | de \u01bforuld a butan ende AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The explicit differs from Assmann's edition, as the text finishes at line 386. This edition is based on Vespasian D. xiv."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass329", 
+                    "page": "pp. 371-86, l. 386"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 41"
+                }, 
+                {
+                    "work": "tra278", 
+                    "page": "pp. 122-26"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 219v/20-222r", 
+            "text": "B.13.1.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Ne beode \u01bfe nanum mannum nane ni\u01bfe bebodu.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy | him lof and \u01bfuldor a on ecnesse. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Scragg 1979 notes that this is 'a unique composite homily which opens with a sentence from the end of Vercelli xix and concludes with part of the Canons of Edgar' (p. 257). Edited lines of this homily appear in Fowler who edits lines from 221v/22 to 222r/13. His edition is based on eleventh-century manuscripts: Brussels, Biblioth\u00e8que Royale 8558-62 (2498), CCCC 265 and CCCC 201, Tiberius A. iii, Claudius A. iii, CUL Add. 3206, Junius 121, Laud Misc. 482 (Fowler 1965, pp. 1-3)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "pp. 29-30, ll. 355-81 and\n                                                           393-94"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 42"
+                }, 
+                {
+                    "work": "lui328", 
+                    "page": "pp. 176-85"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 222v-224v/6", 
+            "text": "B.1.2.26", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Her \u01bfas drihthelm sum \u00e6\u00feele \u00feegen on nor\u00f0humbra | lande on \u00e6fnunge of \u00feissum life gelead and his lic leag ealle | \u00fea niht inne besett.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fea hine mon geaxode hu he mihte \u00feonne myclan cyle s\u01bfa for be\u01bfan. | he and\u01bfyrde and c\u01bfoth Sci\u00f0ran and \u01bfyrsan hic\u00a0(addition: ) e geseah S\u01bfa he hit ma | code on his life and manega o\u00f0re he gerihtleahte mid \u01bforde | ge mid bysnonge to rihtan geleafan. Gerihtl\u00e6ce us drihten | h\u00e6lend crist \u00feurh \u00feinran myclan mil\u00a0(addition: ) dheortnesse s\u01bfa s\u01bfa | \u00fein \u01bfilla sy amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Incipit and explicit differ as compared with Godden's edition, starting in the middle of line 7 and finishing at line 111. The Homily is found in Bodley 340 and Bodley 342; Hatton 115; Vespasian D. xiv and CUL Gg. 3.28 (Godden 1979, pp. 367-68)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 199-203, ll. 7-111"
+                }, 
+                {
+                    "work": "hil339", 
+                    "page": "p. 417"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 43"
+                }, 
+                {
+                    "work": "swa126", 
+                    "page": "pp. 141-43"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 224v/7-227v", 
+            "text": "A.44", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Syle ece gode \u00e6hta \u00feinra \u00feone teo\u00f0an d\u00e6l he gety\u00fea\u00f0 \u00fee.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'ac he ge\u01bfent heora mod onsa | rgnysse for\u00fean\u00f0e hi \u00fe\u00e6t yfel on \u01bfeorulda gesecen \u00fe\u00e6t hi mid | \u00fe\u00e6s yfelan under gytenysse magon beon on gean\u01bfende to | drihtne geh\u01bforfe Ne."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Unique"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Item 18, article 44"
+                }, 
+                {
+                    "work": "ros330", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ros331", 
+                    "page": ""
+                }, 
+                {
+                    "work": "swa126", 
+                    "page": "pp. 157-59, 316-17,\n                                                           including transcription of fols 224v-225r"
+                }, 
+                {
+                    "work": "tor332"
+                }, 
+                {
+                    "work": "you333", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 224v bottom margin", 
+            "text": "B.1.1.34.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Se \u00feisa Salomon c\u01bfoth. \u00de\u00e6t selre \u01bf\u00e6re to \u01bfunienne mid leon and mid draca;\u00a0(addition: ) \u00feonne mid yfelum \u01bfife and ofersp\u00e6cum spr\u00e6cum.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Sentence from First Series of Homilies [Catholic Homilies I]: Decollation of St John the Baptist."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Annotation by Scribe 1 (Traxel 2004, p. 120). Swan compares the purpose of this annotation to those in Faustina A. x, suggesting that they 'increase the range of reference of the main text' (Swan 2000, p. 80)"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 456-7, ll 175-76"
+                }, 
+                {
+                    "work": "swa126", 
+                    "page": "pp. 158-59, 316"
+                }, 
+                {
+                    "work": "swa347", 
+                    "page": "pp. 78-80"
+                }, 
+                {
+                    "work": "tra278", 
+                    "page": "p. 120"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 225r top margin", 
+            "text": "B.1.1.34.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Se \u01bfisa eft c\u01bf\u00e6th.\u00de\u00e6t nan \u01bfild deor ne on feo\u01bfer fotum. ne on creopendum nis to \u01bfi\u00f0 | metenne yfelum \u01bfife.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Sentence from \u00c6lfric, First Series of Homilies [Catholic Homilies I]: Decollation of St John the Baptist."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Annotation carried out either by Scribe 4 or Scribe 1 (Traxel 2004, p. 120). Swan compares the purpose of this annotation to those in Faustina A. x, suggesting that they 'increase the range of reference of the main text' (Swan 2000, p. 80)"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "p. 456, ll. 172-73"
+                }, 
+                {
+                    "work": "swa126", 
+                    "page": "pp. 158-59, 316"
+                }, 
+                {
+                    "work": "swa347", 
+                    "page": "pp. 78-80"
+                }, 
+                {
+                    "work": "tra278", 
+                    "page": "p. 120"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 2r", 
+            "text": "See\n                                                                   diagram.", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO1"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 24"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 1-3: fols 2r-25v; Quire 7: 47v, 48r; Quire 8: 55r, 56r-60v; Quire 9-11; 12 (fol. 87v has the double pricking on the left inside, but no double binding line), 13-14, 16, 28: fol. 223"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 175 mm x 110 mm / 103 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil and/or crayon on both sides. Double bounding lines on both sides of the frame, ca. 50 mm apart. The lines are guided by two small pricks at the top and bottom on the left and right of the folio. Small pricks appear on the external margin ca. 80 mm apart to guide line ruling still visible. The writing is above the line, but the number of lines varies from 21 to 24. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fol. 2r", 
+            "text": "See diagram.", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO2"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 26"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 4: fols 26r and 28v (with 29 lines)"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 175 mm - 180 mm x 115 mm - 120 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil. Double bounding lines on the left ca. 60 mm apart, and single on the right side of the frame. Lines are guided by small pricks at the top and bottom on the left and right of the folio. Small pricks appear on external margin 70 mm apart to guide line ruling still visible. Fols 26v and 27r have the symmetry reverted the single line on the left side of the frame and the double on the right. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fol. 2r", 
+            "text": "See\n                                                           diagram.", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO3"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 24"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 5: fols 29-36v; 17, 18, 19, 20, 21; Quires 7: fol. 52v; 16: fols 122v-126v (These folios are pricked for two double binding lines at both sides of the frame, but the ruling is single); 22, 23, 24, 25, 26, 27, 28: fols. 218r-222r, 225-227v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 170 mm x 116 mm / 110mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil. Single bounding line on both sides of the frame. Lines are guided by small pricks at the top and bottom on the left and right of the folio. Small pricks appear on both side of the page, 70 mm apart to guide line ruling still visible. The number of ruled lines per page can vary between 24 and 25. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fol. 2r", 
+            "text": "See diagram.", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO4"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 21"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 6: fols 37r-39r; 43r, 44v; Quire 7: 47v, 48r"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 163 mm x 120 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil. Double bounding lines on the right and left side of the frame, ca. 70 mm apart. Lines are guided by small pricks at the top and bottom on the left and right of the folio. Small pricks appear on external margin 90 mm apart to guide line ruling still visible. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fol. 2r", 
+            "text": "See diagram.", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO5"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 21"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 6: fols 39v-42v, 43v, 44r; 7: fols 45r-47v, 49r, 50r, 51r, 52r, 52v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 160 mm x 110 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil. Double bounding lines 6 mm a part on left side of the frame, single on the right. Lines are guided by small pricks at the top and bottom on the left and right of the folio. Small pricks appear on external margin 90 mm apart to guide line ruling still visible. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fol. 2r", 
+            "text": "See diagram.", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO6"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 22"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 15, 16: fols 119-122r (fol. 120r includes the pricking for a double binding line on the right, but there is no ruling)."
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 170 mm x 110 mm / 150 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil. Double bounding lines on one side of the frame, single on the other. As a rule the double bounding line is on the outside of the verso and the recto, the single on the inside when the page is opened. Small pricks appear on external margin 70 mm apart to guide line ruling still visible. Number of ruled lines can vary up to 24 per page. See diagram."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "decoration": null, 
+    "binding": "Bound, s. xvii in brown suede.", 
+    "accompanying": "Added flyleaves of a printed edition of a Latin text at the beginning and the end of the manuscript.", 
+    "history": {
+        "origin": "Treharne suggests a South-Eastern origin, probably <span class=\"name\">Christ Church, Canterbury</span> or <span class=\"name\">Rochester</span> (<a href=\"#tre41\">Treharne 1998</a>, pp. 240-44). Schipper argues that part of the manuscript was copied in the cathedral-priory of St \u00c6thelthryth and St Peter in <span class=\"name\">Ely</span>. This argument is based on the presence, in the manuscript, of this homily, which could have constituted the central starting point for the process of copying (<a href=\"#sch173\">Schipper 1983</a>, pp. 291-92). Traxel does not offer a conclusive argument on the history of the manuscript. However, he suggests a possible compilation originally from St Augustine's Canterbury and then Ely (<a href=\"#tra278\">Traxel 2004</a>, p. 207). Richards\u2019 review of Traxel re-proposes a possible Rochester provenance (<a href=\"#ric1556\">Richards 2007</a>). <a href=\"#fra444\">Frankis 2007</a> proposes a connection with the priory of Barnwell, an house of Augustinian canons which was dedicated to St Giles.", 
+        "provenance": "It is possible that the manuscript was at <span class=\"name\">Ely</span> in virtue of the evidence on fol. 25r. The manuscript was amongst the collection of <span class=\"name\">Matthew Parker</span> (<a href=\"#jam354\">James 1912</a>, p. xxxvii, n. 17, see also <a href=\"#ker44\">Ker 1957</a>, p. 23). It is not clear how the manuscript came into the possession of Parker. However, it may be possible that he found Ii. 1. 33 at Ely during his residence there. On 10 September 1541, Ely was re-founded with a new chapter, a dean and eight canons (<a href=\"#fea\">'Ely Introduction'</a>) and Parker was 'among the first canons of the new foundation'. Other manuscripts now in <span class=\"name\">Corpus Christi College Cambridge</span> came into Parker's possession while he was at Ely (CCCC 44, 335, 393 and 416, see <a href=\"\">Owen 1973</a>, p. 4).", 
+        "acquisition": "Donated to <span class=\"name\">Cambridge University Library</span> in 1574 by <span class=\"name\">Matthew Parker</span> together with other manuscripts containing Old English texts: <a href=\"EM.CUL.II.2.4.htm\">Ii. 24</a>; <a href=\"EM.CUL.Ii.2.11.htm\">Ii. 2. 11</a>; <a href=\"EM.CUL.Ii.4.6.htm\">Ii. 4. 6</a>; <a href=\"EM.CUL.Kk.3.18.htm\">Kk. 3. 18</a> and <a href=\"\">Hh. 1. 10</a>. At a similar time Parker gave also <a href=\"EM.CUL.Ff.1.23.htm\">Ff. 1. 23</a> and Gg. 3. 28 (<a href=\"#oat353\">Oates 1986</a>, pp. 97-101). Possibly under the influence of <span class=\"name\">Andrew Perne</span>, master of <span class=\"name\">Peterhouse</span> in 1554 and dean of <span class=\"name\">Ely</span> in 1557, who was restoring the <a href=\"http://www.lib.cam.ac.uk/History/2.htm\">University Library</a> in 1574 (see also, <a href=\"#wri32\">Wright 1949-53</a>, p. 224)."
+    }, 
+    "admin": "Manuscript described and encoded by Orietta Da Rold, with suggestions by Elaine Treharne, Mary Swan and Oliver Traxel, edited by Takako Kato and Hollie Morgan (2010; 2013). The author thanks Oliver Traxel for sharing his material with her, and Michael Gullick for his suggestions.", 
+    "surrogate": true, 
+    "bib": [
+        "ass329", 
+        "gog42", 
+        "cle112", 
+        "cat355", 
+        "curs", 
+        "dol352", 
+        "fow349", 
+        "fea", 
+        "fra444", 
+        "hil339", 
+        "pop87", 
+        "irv117", 
+        "jam354", 
+        "ker44", 
+        "lain45", 
+        "ske153", 
+        "myn182", 
+        "lui328", 
+        "oat353", 
+        "irv117", 
+        "owe351", 
+        "ric1556", 
+        "ros330", 
+        "ros331", 
+        "sch173", 
+        "scr350", 
+        "swa126", 
+        "swa347", 
+        "tra278", 
+        "cra327", 
+        "owe357", 
+        "tor332", 
+        "tre41", 
+        "wil334", 
+        "wri32", 
+        "you333"
+    ]
+}

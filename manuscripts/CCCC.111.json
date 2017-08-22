@@ -1,0 +1,462 @@
+{
+    "id": "CCCC.111", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "111, pp. 7-8, 55-56", 
+    "ker": "35", 
+    "content": "Relic Lists, Manumissions, Agreement of Confraternity", 
+    "location": "Bath", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "p. 7/1-21", 
+            "text": "B.16.2.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0is is se haligdom \u00fee \u00e6lsige abbod \u02e5 \u00fea gebro\u00f0ra \u00fee mid him w\u00e6ron fundon on \u00feam scrinon \u00fea \u00fea heom | tweonode hw\u00e6t haligdomes hi h\u00e6fdon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "De capillis mariae magdlenae"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi2"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxv"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 7/22-29", 
+            "text": "B.16.2.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0is is se haligdom \u00fee \u01bful\u01bfine on re\u00e1dingon gef into \u00feam mynstre on ba\u00f0on"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "De sanctaemargarete virgine"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s.xi2"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxv"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 8/1-7", 
+            "text": "B.16.2.3.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her s\u01bfutela\u00f0 on \u00feisse cristes bec \u00fe\u1d57 leofeno\u00f0 \u00e6gel | no\u00f0es"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 on ealre \u00fe\u00e6re | burhware on ba\u00f0on crist hine ablende \u00fee \u00feis \u00e6fre | a\u01bfende"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 268"
+                }, 
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxvi"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 8/8-10", 
+            "text": "B.16.2.3.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her s\u01bfutela\u00f0 on \u00feisse cristes bec \u00fe\u1d57 \u00e6gelsige \u00e6t linncume h\u00e6f\u00f0 | geboht"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 \u00e6t eallon hirede | to ecean freote."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 268"
+                }, 
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxvii"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 8/11-13", 
+            "text": "B.16.2.3.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her s\u01bfutela\u00f0 on \u00feisse cristes bec \u00fe\u1d57 \u00e6gelsige byttices sunu h\u00e6f\u00f0 ge | boht hildesige"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "mid syxtigon penegon to ecean freote."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 268"
+                }, 
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxvii"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 8/14-18", 
+            "text": "B.16.2.3.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her s\u01bfutela\u00f0 on \u00feisse cristes bec \u00fe\u1d57 god\u01bfig se bucca h\u00e6f\u00f0 ge | boht leofgife"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "crist hine a | blende \u00fee \u00feis \u00e6fre a\u01bfende."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 268"
+                }, 
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxvii"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 8/19-21", 
+            "text": "B.16.2.3.1.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her s\u01bfutela\u00f0 on \u00feisse cristes bec \u00fe\u1d57 \u00e6lsige a\u0180\u0180 h\u00e6f\u00f0 gefreod god\u01bfine bace \u00e6t | stantune"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 \u01bful\u01bfiges \u00e6t prisctune \u02e5 \u00e6lfrices cermes"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 3"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 269"
+                }, 
+                {
+                    "work": "hun1201", 
+                    "page": "p. lxxvii"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 55-56", 
+            "text": "B.16.2.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "On drihtnes naman h\u00e6lendes cristes is \u00fe\u1d57 \u01bfulstan \u0180"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0is syndon \u00feara gebro\u00f0ra naman on ba\u00f0an. \u00fe\u1d57 is \u00e6rest| \u00e6lfige a\u0180\u0180. \u02e5 \u00e6lfric. leof\u01bfig. \u02e5 hie\u00f0e\u01bfulf. \u00e6lf\u01bfig \u02e5 \u00e6gelm\u00e6r. | ead\u01bfig \u02e5 god\u01bfine \u00e6gel\u01bfine \u02e5 os\u01bfold. \u00e6lm\u00e6r. \u02e5 \u00feeod\u01bfold. eadric. \u00e6gelm\u00e6r s\u00e6\u01bfulf. \u00feured. \u00e6gelric. \u02e5 H\u00e6rle\u01bfine \u02e5 Godric | munuc on m\u00e6ldmes byrig eals\u01bfa ure an \u02e5 eals\u01bfa \u01bful\u01bferd | pices bro\u00f0or ontantune."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 4 and Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'An agreement of confraternity between the prior of Worcester and the abbots of Evesham, Chertsey, Bath, Pershore, Winchcombe and Gloucester.' The last seven words were added later (Ker 1957, p. 48, art. 9)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hun1201", 
+                    "page": "pp. 3-4"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 48, art. 9"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Rather thick, yellowish and smooth or suede-like surfaces (", 
+        "extent": "c. 304 mm x 211 mm (dimensions of pp. 7-8, 55-56 - size of leaves).\nc. 242 mm x 174 mm (dimensions of pp. 7-8, 55-56 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "CCCC 140", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "4", 
+        "summary": "According to the", 
+        "hands": [
+            {
+                "name": "1", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 35 Art.            7", 
+                "description": "Scribe at p. 7, list of relics,", 
+                "summary": "An angular hand.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is drawn like <span class=\"c\">u</span>, with a relatively flat top created by a second stroke."
+                    }, 
+                    {
+                        "char": "c", 
+                        "note": "Horned <span class=\"c\">c</span>."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "Distinctive <span class=\"c\">p</span> with a rounded and curled bowl that does not quite close."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "This scribe uses high <span class=\"c\">s</span> with an almost curled shoulder and also a low form of the graph."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "2", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 35 Art. 8", 
+                "description": "Scribe at p. 8, manumissions,", 
+                "summary": null, 
+                "date": null
+            }, 
+            {
+                "name": "3", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 35 art              8", 
+                "description": "Scribe at p. 8, the fifth manumission,", 
+                "summary": null, 
+                "date": null
+            }, 
+            {
+                "name": "4", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 35 art 9", 
+                "description": "Scribe at pp. 55-56.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is single compartment and slightly triangular, but rounded. Sometimes caroline too, and with a longish tail when it comes at the line end. Enlarged <span class=\"c\">a</span>, rare but present."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span> has a high <span class=\"c\">e</span>, often with an elongated tongue."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is small and round-backed but the upstroke is at 45\u00ba, rather than curved back over the bowl. The upstroke frequently flicks upwards and to the right at the end."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> has a small bowl in relation to the bow; horned with an extended tongue, especially at the end of the line."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular with a tongue (midstroke) that is longer than the curled shoulder."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The downstroke of insular <span class=\"c\">g</span> starts in the middle of the head and curves round into an abundant and rounded closed tail. It has a small attack stroke (like the <span class=\"c\">t</span>, on occasion)."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> has serifs to the right of the downstrokes."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are straight and regular."
+                    }, 
+                    {
+                        "char": "o", 
+                        "note": "<span class=\"c\">o</span> is generally very round."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has flat feet at the end or just one oblique foot to the right."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular with a straight oblique foot across the descender to the left and to the right."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span>, made in two strokes, swooping up and over at the top, and then curving to the left under the line. Final <span class=\"c\">s</span> tends to be low, with a hooked curve over."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span> has an occasional attack stroke from right to left."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is a dramatic graph with straight, wedged ascender."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a very long upstroke, straight, at 45\u00ba, and longer than other ascenders. The crossbar transects the upstroke closer to the top than the bowl, and has two small serifs at either end, the lower pointing upwards, the upper pointing down."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is rounded and dotted, curving to the right: both limbs turn over to the right at the top. The tail curves slightly under the preceding letter."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "Many <span class=\"c\">descenders</span> are straight, but some curve round to the left at the bottom, and others have flattened feet at the end (<span class=\"c\">p</span>, <span class=\"c\">f</span>, <span class=\"c\">\u01bf</span>)."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Wedged or even clubbed <span class=\"c\">ascenders</span> (<span class=\"c\">\u00fe</span> with a split ascender), comprised generally of two strokes."
+                    }, 
+                    {
+                        "char": "Tironian notae", 
+                        "note": "<span class=\"c\">Tironian notae</span> are quite dramatic rising above x-height, with a high cross-stroke and straight descender at 90\u00ba going below the line. Occasional minor <span class=\"c\">flourish</span> to right of the descender; occasional <span class=\"c\">flick</span> to the left at the end."
+                    }, 
+                    {
+                        "char": null, 
+                        "note": "Abbreviation for <span class=\"c\">\u00fe<span class=\"expanded\">\u00e6t</span></span> is crossed <span class=\"c\">\u00fe</span>, with a pronounced cross-stroke with reverse facing serifs."
+                    }, 
+                    {
+                        "char": null, 
+                        "note": "<span class=\"c\">B<span class=\"expanded\">iscop</span></span> in line 1; <span class=\"c\">abb'</span> for <span class=\"c\">abb<span class=\"expanded\">ot</span></span>."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "In Latin, abbreviation mark is slightly curved."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Sent to be rebound between 25th and 31st August, 1748, along with thirteen manuscripts and one printed book. Rebound again in 1937 or 1938 by the <span class=\"name\">Cambridge Binding Guild</span>. Binding is a half-binding of tanned pigskin with green Ingres-type paper sides over millboards. There are triple endpapers at each end (<a href=\"#bud189\">Budny 1997</a>, p. 582). Disbound for the Parker on the Web project, at which point it was examined by Elaine Treharne.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "A composite manuscript. The two leaves come from <a href=\"EM.CCCC.140.htm\">CCCC 140</a>, which comes from <span class=\"name\">Bath</span>. Much of this manuscript contains documents from and relating to Bath, including a twelfth-century cartulary from <span class=\"name\">Bath Abbey</span>.", 
+        "provenance": "Probably remained in <span class=\"name\">Bath</span> until <span class=\"name\">Parker</span>'s ownership.", 
+        "acquisition": "Passed as <span class=\"italics\">membra disiecta</span> to the keeping of <span class=\"name\">Corpus Christi College</span> by <span class=\"name\">Parker</span>'s indenture of 1575."
+    }, 
+    "admin": "Described by Takako Kato, Hollie Morgan and Elaine Treharne with the assistance of George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bri421", 
+        "bud189", 
+        "par1182", 
+        "ear432", 
+        "gne146", 
+        "gru537", 
+        "hun1201", 
+        "kem1203", 
+        "ker44", 
+        "liu1204", 
+        "mas219", 
+        "pop581", 
+        "scr565"
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "BL.Add.28188", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Add.", 
+    "shelfmark": "28188", 
+    "ker": "note in 213", 
+    "content": "List of Kings, Saints and Bishops in Litanies", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}",
+    "authors": ["Hollie Morgan", "Takako Kato"],
+    "summary": "<a href=\"#dew677\">Dewick</a>, an 'East Anglian type adapted for use at Litanies in a Pontifical (fols 1-76v) and Benedictional (fols 77r-166v) text. They are, according to <span class=\"name\">Exeter Cathedral</span>' (1921, pp. 613-18). The greater litany contains the names of numerous Anglo-Saxon saints, including saint Ægelflæd, an abbess of <span class=\"name\">Romsey</span>, who also occurs in the lesser litany.",
+    "items": [
+        {
+            "locus": "fols 2-4v, 7r", 
+            "text": "B.18.12.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin, with names of English saints."
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The litanies are also found in London British Library, Cotton Vitellius A.vii, fols 17v-18r, 20r, copied in s. xi1 (Ker 1957, item 213)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew677", 
+                    "page": "p. 615"
+                }, 
+                {
+                    "work": "dra419", 
+                    "page": "p. 357"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Flyleaves are modern paper.", 
+        "extent": "181 mm x 120 mm (dimensions of all - size of leaves).\n130 mm x ca. 80 mm (dimensions of all - size of written).", 
+        "foliation": "Fols [ii], 1-166, [ii].<p>Foliated in pencil 1-166.\nPaginated in ink in the top right hand corner of the rectos and top left hand corner of the versos 1-269, 269-333. The paginations on the rectos have been crossed out in pencil.</p>",
+        "collation": "<span class=\"itemHeading\">Quires: </span> 1-9<span class=\"sup\">8</span>, 10<span class=\"sup\">5</span>, 11-15<span class=\"sup\">8</span>, 16<span class=\"sup\">10</span>, 17-21<span class=\"sup\">8</span>.<p>Fol. 153 is blank and glued at the inner edge to fol. 152. Fols 1r and 166v are stained and worn, suggesting that the manuscript was unbound for a long time. Drage suggests that the manuscript may originally have been designed as 'two booklets' (Pontifical and a Benedictional), which were 'easily portable' (<a href=\"#dra419\">Drage 1978</a>, p. 359).</p>",
+        "layoutDescription": "Ruled in drypoint for 19 lines. Double bounding lines 3mm apart on each side. Coloured initial capitals are placed between the left bounding lines. The horizontal lines are 4 mm apart. The top two and bottom two lines transect the bounding lines and run to the edge of the page.",
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 for the Old English", 
+        "summary": "Written by two scribes. The first scribe started each of the three sections (Pontifical, Blessings for the Temporale Masse and Blessings for the Sanctoral and Commune Sanctorum Masses), and the second scribe completed them. The first scribe copied: fols 1-75r/3; 77r-99v/10 and 127r-154v. The second scribe copied: fols 75/4-76v; 99v/11-126v and 155r-166v. The litanies with Anglo-Saxon names were copied by the first scribe.", 
+        "hands": [
+            {
+                "name": "Main text", 
+                "scope": "Major", 
+                "script": "Caroline Minuscule", 
+                "scribe": "not in Ker", 
+                "description": "Fols 1-75r/3; 77r-99v/10; 127r-154v.", 
+                "summary": "There is no major distinction between Latin and English names.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "is used."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is insular, rounded."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is Caroline. "
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is Caroline; its loop finishes open."
+                    }, 
+                    {
+                        "char": "ſ",
+                        "note": "<span class=\"c\">ſ</span> is used medially and finally. Sometimes its descender extends below the writing line."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">þ</span> is not used"
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">ð</span> is not used. "
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">ƿ</span> is not used. "
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> finish straight."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": ["Initials are in red, blue, green or metallic red.","Rubrics are in red, blue, orange or green."],
+    "binding": "A note on the pastedown says the manuscript was 'Bound April 1956'. Red leather with gilt letters on the spine that reads 'Benedictionale | Sec. Usum Angl. | BRIT. MUS. | Additional MS 28,188'. Each quire is now mounted onto an individual guard.", 
+    "accompanying": "The back of the last flyleaf has written in pencil '166 Fol's. W. L. May 1870 4\u00b0 [xxx]'.", 
+    "history": {
+        "origin": "The litanies were written in <span class=\"name\">Exeter</span>.", 
+        "provenance": null, 
+        "acquisition": "A note on the flyleaf says the manuscript was 'purchased of the <span class=\"name\">Rev. J. C. Jackson</span> 7 October 1869' by the British Museum. This note corresponds to the name 'Johan C. Jackson' in the top right hand corner of fol. 1r."
+    }, 
+    "admin": "Manuscript described by Hollie Morgan and Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "bis642", 
+        "bri1165", 
+        "dew677", 
+        "dra419", 
+        "fre1510",
+        "gas732", 
+        "gne146", 
+        "ker44", 
+        "wan416"
+    ]
+}

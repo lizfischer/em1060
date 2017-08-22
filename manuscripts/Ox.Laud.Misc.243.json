@@ -1,0 +1,54 @@
+{
+    "id": "Ox.Laud.Misc.243", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Laud Misc.", 
+    "shelfmark": "243", 
+    "ker": "341", 
+    "content": "C\u00e6dmon's Hymn", 
+    "location": "Unknown", 
+    "date": "s.xii^{2}", 
+    "summary": "Main text is a copy of the Latin version of Bede\u2019s <span class=\"italics\">Historia ecclesiastica</span>. C\u00e6dmon\u2019s Hymn is on a tab, attached to the margin later, probably in the main text hand. Place of production not known.", 
+    "items": [
+        {
+            "locus": "fol. 82v, a tab, attached to the outer margin", 
+            "text": "A.32.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 82v a tab, attached to the outer margin) Ny \u01bfe sceolan herian heo | fonrices \u01bfeard. metudes mihte | beginning of line missing, probably ' \u02e5 / and' his modge\u00feanc. \u01bfeorc \u01bfulder f\u00e6 | der. S\u01bfa he \u01bfundra gepart illegible, probably 'h\u01bf\u00e6s ece | drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 82v a tab, attached to the outer margin) \u00fea he \u00e6rest sceop eor\u00f0e | bearnum heofon to hrofe. \u00fea mid | dangeard moncynnes \u01bfeard ece | drihten \u00e6fter teide fyrum on | folden frea \u00e6lmihtig halig scyp | peod"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 418-19"
+                }, 
+                {
+                    "work": "odo1613", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#odo1613"
+    ]
+}

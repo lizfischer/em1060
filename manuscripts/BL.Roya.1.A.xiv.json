@@ -1,0 +1,382 @@
+{
+    "id": "BL.Roya.1.A.xiv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "1. A. xiv", 
+    "ker": "245", 
+    "content": "Gospels", 
+    "location": "Unknown", 
+    "date": "s.xii^{2}", 
+    "summary": "A copy of the Gospels in English. Royal 1 A. xiv is textually related to <a href=\"EM.Ox.Hatt.38.htm\">Hatton 38</a> either by being its exemplar or by sharing a common copy of the text. Both manuscripts relate, textually, to Oxford, Bodleian, Bodley 441. For an excellent discussion of the textual tradition of the Old English Gospel see <a href=\"#liu155\">Liuzza</a> (1994, pp. xliii-lxxiii).", 
+    "items": [
+        {
+            "locus": "Fols 3r-32r/18", 
+            "text": "B.8.4.7.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Initium sancti evvangelii secundum marcum. Ecce mitto | angelum meum ante faciem tuam. qui preparabit | uiam tuam ante te;'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Her ys Godspelles angin; halendes cri | stes godes sune'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Hyo \u00fea fulfoed bodeden s\u01bfa \u01bfid s\u01bfa al. \u00deas | hlafordes \u01bfeorces \u02e5 his bispelles fulfellende mid | felgenden tacnen. Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CUL Ii. 2. 11; Bodley 441; CCCC 140; Hatton 38 and Beinecke 578."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Verse 16:14-20 (explicit) textually different from the one edited in Liuzza 1994 but the same as Hatton 38."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu155", 
+                    "page": "pp. 63-97."
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": "pp. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 33r-82r/15", 
+            "text": "B.8.4.7.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Liber generationis iesu christi filii dauid filii | abraham.'"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Her angin\u00f0; matheus boc \u00feas | halgan godspelleres.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'So\u00f0lice \u01bfel is to understanden \u00fe\u00e6t | \u00e6fter matheus gerecednysse her his on cneor | nesse boc'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u02e5 l\u00e6re\u00f0 \u00fe\u00e6t hyo | healdon ealle \u00fea \u00feing. \u00fee ic eo\u01bf be bead \u02e5 ic | heo mid eo\u01bf ealle dagas o\u00f0\u00f0e \u01bfeoruld en\u00f0\u00a0(addition: ) unge.' | Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CUL Ii. 2. 11; Bodley 441; Otho C. i (text partly missing due to fire); CCCC 140; Hatton 38."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu155", 
+                    "page": "pp. 3-62."
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": "p. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 83r-133v/18", 
+            "text": "B.8.4.7.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Nu \u00f0e \u01bfilla\u00f0 her eo\u01bf areccen'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'lucas boc \u00d0as halgan godspelleres. for \u00f0an | \u00f0e \u01bfytodlice manega \u00feohte \u00feare \u00feinge race geendebyrden'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'So\u00f0lice he gel\u00e6dde hyo ut on bec hanian \u02e5 he | bletsade hyo his handa upahafenum. \u02e5 hit \u01bf\u00e6s ge | \u01bfarden'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CUL Ii. 2. 11; Bodley 441; CCCC 140; Hatton 38."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu155", 
+                    "page": "pp. 98-156."
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": "p. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 133v/14 following from the main\n                                          text ", 
+            "text": "B.8.4.7.3.a", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'\u00fe\u00e6t he hyo ge blestode. he \u01bfente fram he | om \u02e5 he smat in to heofene. And hyo \u00fea gebidden | de gecynden in to ierusalem mid muchelere blis | se. \u02e5 \u01bf\u00e6ren efre in \u00feare temple heriende and blet | siende god. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Verse 23:51-53 is written at the end of the gospel by a later hand. It is textually different from the one edited in Liuzza 1994, but the same as Hatton 38, in which it is included by the main hand who copied the manuscript."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu155", 
+                    "page": "p. 156, 24:53."
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": "p. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 134r/19 on the ruled blank recto ", 
+            "text": "B.27.4.11.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'So\u00f0lice ge syn'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 3."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu81", 
+                    "page": "p. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 134r/22 on the ruled blank recto ", 
+            "text": "B.27.4.12.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Sancte GREGORIES se mid grecum crissostomas ys haten'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 3."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu81", 
+                    "page": "p. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 135r-173r ", 
+            "text": "B.8.4.7.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'In principio erat erat uerbum'"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Her ongin\u00f0 \u00fe\u00e6t | godspell \u00fee Iohannes se godspellere ge | \u01bfrat on pathmos \u00feam eigtlande.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'On anginne \u00e6rest \u01bf\u00e6s \u01bford'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u01f7itodlice o\u00f0re mane | ga \u00feung synt \u00fee se h\u00e6lend \u01bforhte gif \u00f0a \u00e6lle'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CUL Ii. 2. 11; Oxford, Bodleian, Bodley 441; CCCC 140; Hatton 38."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu155", 
+                    "page": "pp. 157-202."
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": "p. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 148r/2 right margin", 
+            "text": "B.8.4.7.4.a", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'gif ymbsny\u00f0enysse tache man on restdaige'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 4."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The scribe completed verse John 7:22."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu81", 
+                    "page": "p. 17."
+                }, 
+                {
+                    "work": "liu155", 
+                    "page": "p. xxxviii."
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 173v/5 following from the main\n                                              text ", 
+            "text": "B.8.4.7.4.b", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01bfritene be heom sylfe \u01bf\u00e6ren. ac syo \u01bferld be clyp | pen ne mihten \u00fea \u01bfriteres \u00fee hit \u01bfriten scolden on bokeN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The end of verse 21:25 is written at the end of the gospel by a later hand. These verses are textually different from the one edited in Liuzza 1994, but the same as Hatton 38."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Scribe 2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "liu155", 
+                    "page": "p. 202, 21:25."
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": "pp. 18."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 3r", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO24"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 22-25"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 1-22: fols 3-174"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 155 x 105; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil on the hair sides, writing on top line. Single bounding lines. See diagram."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "decoration": null, 
+    "binding": "Rebound in 1967.", 
+    "accompanying": "Fols 1, 2 and 175 are medieval binding-leaves from a twelfth-century missal. Fol. 1 was pasted down. Texts refers to the services for the Vigil of the Nativity, fol. 175rv, Christmas fol. 2rv and Stephen and John fol. 1v (see <a href=\"#liu155\">Liuzza</a> 1994).", 
+    "history": {
+        "origin": "On fol. 3r there is a medieval press mark 'D xvi Gra IIII', which refers to the pressmark used by the <span class=\"name\">library of Christ Church</span>, <span class=\"name\">Canterbury</span>.", 
+        "provenance": "It is probably the 'textus iv evangeliorum anglice' listed in Cambridge, CUL Ii. 3. 12, which started to be compiled ca. 1170 (<a href=\"#jam354\">James</a> 1912, p. 51).", 
+        "acquisition": "Belonged to <span class=\"name\">John Lumley</span> (c.1533-1609) and is listed in the catalogue of his collection, 1609. <span class=\"name\">Lumley</span> passed the manuscript to <span class=\"name\">Henry, Prince of Wales</span> (1594-1612). His collection became part of the <span class=\"name\">Royal library</span>. Presented to the <span class=\"name\">British Library</span> by <span class=\"name\">King George II</span> in 1757 as part of the Old Royal Library (<a href=\"#bri1165\">British Library Catalogue</a>)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Helena Cooper, Owen Roberson and Hollie Morgan (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bri1465", 
+        "bri423", 
+        "bro1286", 
+        "bro248", 
+        "bro1469", 
+        "cha1467", 
+        "for1466", 
+        "jam354", 
+        "sea1179", 
+        "ken1464", 
+        "ken1468", 
+        "ker44", 
+        "ker196", 
+        "liu155", 
+        "bri1165", 
+        "mor481", 
+        "qua1462", 
+        "rob335", 
+        "scr1463", 
+        "ske360", 
+        "ske361", 
+        "ske363", 
+        "ske362", 
+        "tho1461", 
+        "war764"
+    ]
+}

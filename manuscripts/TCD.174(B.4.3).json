@@ -1,0 +1,120 @@
+{
+    "id": "TCD.174(B.4.3)", 
+    "city": "Dublin", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "174 (B. 4. 3)", 
+    "ker": "103", 
+    "content": "Scribble", 
+    "location": "Salisbury", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 1r", 
+            "text": "B.27.3.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) of searbyrig ic eom"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 103"
+                }, 
+                {
+                    "work": "ker958", 
+                    "page": "1949, p. 179"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "278 mm x 174 mm (dimensions of all - size of leaves).\n225-232 mm x 123-126 mm (dimensions of Booklet A - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Some pricking is visible and all ruling is in hardpoint.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 in OE", 
+        "summary": "The scribble in Old English is by a s. xi/xii hand. Latin items were written by many hands in minuscule script of s. xi/xii.", 
+        "hands": [
+            {
+                "name": "Scribble", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 104", 
+                "description": "fol. i.r. A scribble, 'of searbyrig ic eom'", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Caroline <span class=\"c\">a</span> with a very short head."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "Insular <span class=\"c\">f</span>."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span>, its loop closes with a hairline."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Insular <span class=\"c\">r</span>, with its descender of the second <span class=\"c\">r</span> curves to the left."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Caroline short <span class=\"c\">s</span>, finishes on the writing line."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Bound in white vellum in 1987.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "According to <a href=\"#ker44\">Ker</a> (1957, p. 143), 'the manuscript was, no doubt, at <span class=\"name\">Salisbury</span> from about the time of the first establishment of canons there by <span class=\"name\">St. Osmund</span>' (Bishop of <span class=\"name\">Salisbury</span> 1078-1099). It was catalogued as no. 160 <span class=\"italics\">Vita et miracula S. Andreae</span> in <span class=\"name\">Patrick Young</span>'s catalogue, 1622 (<a href=\"#luc70\">Lucas</a> 1997, p. 11).", 
+        "acquisition": "The manuscript was borrowed by <span class=\"name\">James Ussher</span> (1581-1656), archbishop of <span class=\"name\">Armagh</span>, on 30th September 1640 according to a memorandum kept in <span class=\"name\">Salisbury</span>. <span class=\"name\"> Ussher</span> did not return the book: 'supposedly it was lost in the looting of his home at <span class=\"name\">Chelsea</span> in 1643' (<a href=\"#luc70\">Lucas</a> 1997, p. 11). It came to <span class=\"name\">Trinity College</span> through <span class=\"name\"> Ussher</span>."
+    }, 
+    "admin": "Described by Takako Kato with the assistance of Hollie Morgan and Johanna Green, with reference to published scholarship (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "arb935", 
+        "bir937", 
+        "bol938", 
+        "bon940", 
+        "bon939", 
+        "cav941", 
+        "che942", 
+        "col943", 
+        "col946", 
+        "gai947", 
+        "dek789", 
+        "fro936", 
+        "gne146", 
+        "gro719", 
+        "ker949", 
+        "ker44", 
+        "ker958", 
+        "kru950", 
+        "kru952", 
+        "kru951", 
+        "luc70", 
+        "mom953", 
+        "mor954", 
+        "Osu723", 
+        "pel955", 
+        "rem956", 
+        "sur957", 
+        "geb948", 
+        "web176"
+    ]
+}

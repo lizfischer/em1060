@@ -1,0 +1,51 @@
+{
+    "id": "BL.Faus.B.iii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Faustina B. iii, fols 158-98 + Tiberius A. iii, fols 174-77", 
+    "ker": "155", 
+    "content": "Translation of Regularis Concordia", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "An OE translation of parts of the <span class=\"italics\">Regularis Concordia</span>, dismembered by <span class=\"name\">Cotton</span>. The original order can be ascertained to have been Faustina fol. 158, <a href=\"EM.BL.Tibe.A.iii.htm\">Tiberius A. iii</a> fols 174-76, Faustina fols 159-98, Tiberius fol. 177. It is written by one hand in the Latin and English parts of the text (<a href=\"#ker44\">Ker 1957</a>, p. 197). The manuscript seems to have been in use at <span class=\"name\">Christ Church, Canterbury</span>.", 
+    "items": [
+        {
+            "locus": "Faustina fols 158-98 + Tiberius fols 174-77", 
+            "text": "B.10.5.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her ongyn\u00f0 seo endebyrdnyss. hu munecum gerist"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 155, pp. 196-97"
+                }, 
+                {
+                    "work": "sch1641", 
+                    "page": "p. 294"
+                }, 
+                {
+                    "work": "1642", 
+                    "page": "p. 365"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson and Orietta Da Rold with the assistance of Johanna Green, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#sch1641", 
+        "#1642"
+    ]
+}

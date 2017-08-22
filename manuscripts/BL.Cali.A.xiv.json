@@ -1,0 +1,157 @@
+{
+    "id": "BL.Cali.A.xiv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Caligula A. xiv", 
+    "ker": "138", 
+    "content": "Lives of Saints", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "A composite manuscript which contains music and hymns in Latin and Saints' Lives in English. The <span class=\"italics\">Lives of Saints</span> is contained in the second part of the manuscript on fols 93-130v. <a href=\"#ker44\">Ker</a> (1957) notes one hand, s. xi<span class=\"sup\">med</span>. Origin unknown, belonged to <span class=\"name\">Thomas Allen</span>.",
+    "items": [
+        {
+            "locus": "fols 125-30v, 93r-111v",
+            "text": "B.1.3.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 125r) [...] ond \u00fea b\u00e6rmen sona stedef\u00e6ste stodon s\u01bfylce his astifode \u01bf\u00e6ron"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 111v) mid \u01bfundrum se \u00f0e on ecnysse rixa\u00f0 \u00e6lmihtig \u01bfealdend AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Bound out of order. One leaf is missing between fol. 130v, which ends with 'he sa.t to\u00feam casereondhi s\u01bfi\u00f0e bly\u00f0e w\u00e6ron' and fol. 93r which begins with 'for his ingangeondnolde hine \u01bfylcumian ac \u00f0\u00e6r \u01bfear\u00f0 godes miht'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker101", 
+                    "page": "1957, Art. 1"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "1881-1900, II, pp. 242-, ll.\n                                                       374-"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": "2000"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 111v-21v ", 
+            "text": "B.1.3.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 111v) XX.KALENDARIS IANUARIASPASSIOSANCTITHOME APOSTOLI DUBITABAM DIUTRANSFERRE ANGLICEPASSIONEM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 111v) \u00c6FTER \u00d0\u00c6S H\u00c6LENDES \u00d0RO\u01f7UNGEOND\u00c6RIST of dea\u00f0e"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 121v) \u00e6lmihtigan to lofe re\u00f0e on ecnysse rixa\u00f0 riclice mihtig AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "According to Ker, the text is 'very like that in no. 162'."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Bound out of order"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker101", 
+                    "page": "1957, Art. 2"
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "1881-1900, II, pp. 398-, ll, p. 1-"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": "2000"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 121v-24v ", 
+            "text": "B.3.3.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 121v) III.IDUSIULII.NATALESANCTAEMILDRY\u00d0Euirginis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 121v) On drihtnes namanSANCTUSaugustinus geful\u01bfihte \u00e6\u00feelbryht cant\u01bfara cyning"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 124v) ond\u00f0a sona \u00e6fter\u00feyssum\u01bfordum se eor\u00f0e tohlad [...]"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Bound out of order"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc404", 
+                    "page": "1864-66, I, p. 551"
+                }, 
+                {
+                    "work": "ker101", 
+                    "page": "1957, Art. 3"
+                }, 
+                {
+                    "work": "lie722", 
+                    "page": "1889, pp. 1-9"
+                }, 
+                {
+                    "work": "rol1319", 
+                    "page": "1982, pp. 29-31"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": "2000"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Johanna Green with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#coc404", 
+        "#ker101", 
+        "#lie722", 
+        "#rol1319", 
+        "#wil78"
+    ]
+}

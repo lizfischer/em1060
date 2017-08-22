@@ -1,0 +1,3137 @@
+{
+    "id": "Ox.Juni.121", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Junius", 
+    "shelfmark": "121", 
+    "ker": "338", 
+    "content": "Ecclesiastical Institutes, Homilies", 
+    "location": "Worcester", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": " Fols iii r-v ", 
+            "text": "D.60.1.EM", 
+            "notes": [
+                {
+                    "head": "Hand", 
+                    "body": "Tremulous Hand"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "fol. iii r: nine words in four columns; fol. iii v: two word pairs. All in the Tremulous Hand."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. v r ", 
+            "text": "D.60.2.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English; Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One word pair in the Tremulous Hand (pencil)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, p. 59"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. vi r", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (vi r/1 -vi r/1) : Robertus rex francorum victime pascali.."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (vi r/13-vi r/14) : Robertus eboracensis: exultemus i hac die festiva; Quidam canonicus toruacensis.\u02b9 historiam de trinitate."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii/xiii (Franzen 1998, p. 59)"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A list of writers of hymns, and hymns ascribed to them. Reproduced in Crawford 1928, p. 5."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra654", 
+                    "page": "1928, p. 5"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, p. 59"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 40"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. vi r", 
+            "text": "B.12.3.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(vi r/15) : Ic ileue on enne god f\u00e6der almihti"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiii"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra654", 
+                    "page": "1928, p. 5"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, p. 59"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 41"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. vi r", 
+            "text": "D.60.3.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Tremulous Hand"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In top margin, s. xiii, 'recti diligunt te suete lefdi seinte marie'; immediately below it, in the Tremulous Hand, a string of Latin synonyms."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": " Fol. 1r/1-2 ", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Benedicamus uos regnanti desuper\ngratias\ndomino || Deo per secula pueri reddite gratias."
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "writ \u00f0us"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "1080-1100 (Franzen 1998, p. 59)"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "On first page after composition of manuscript [not main hand]"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This page is blank apart from two neumed lines, and \"writ \u00f0us\" above this."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fre1635", 
+                    "page": "1894, p. 144"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. 1v/1-5 ", 
+            "text": "CCCC 190", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (1v/1-marginal) Canon Affricanus (also Canon Affricanus, cut away on left: marginal, later)."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (1v/1) : Clericus non debet armis uti"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (1v/5) :.. tamen non priuetur"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cro1410", 
+                    "page": "1999, pp. 98 (no. 75) and 167 (no. 159)"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 2"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 36.i"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 1v/5-23", 
+            "text": "Cross and Hamer", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE HOMICIDIO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Si quis clericus homicidium fecerit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "See also Cross and Hamer 1999, pp. 108 (no. 102) and 171 (no. 167)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho446", 
+                    "page": "1840, pp. 126/33-127/7"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 3"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 36.ii"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. 2r/1-6 ", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE HOMICIDIO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (2r/1) Si clericus homicidium fecerit"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin):.. nolens. i. annum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 4"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 36.iii"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 2r/7-2v/10 ", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE TEMPERANTIA PENITENTIUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (2r/7) Pro capitalibus criminibus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 5"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 36.iv"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, pp. 3/28-4/3"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 2v/10-3r/10 ", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): CAPITULA CONCILII APUD WINCEASTRAM CELEBRATI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (2v/11) : Quod nulli liceat duobus episcopatibus praesidere."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (3r/10) Quod calici non sint cerei"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "after 1070"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 3"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 6"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, art 37"
+                }, 
+                {
+                    "work": "spe658", 
+                    "page": "1664, ii.12"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 3r/11-4r/10 ", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (3r/11) Haec est p\u0119nitentie institutio"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 4"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The bowls of P, Q, S are coloured in green."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 7"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 38"
+                }, 
+                {
+                    "work": "spe658", 
+                    "page": "1664, ii.12-13"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 4r/11-4v/18 ", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (4r/11) Anno ab incarnatione domini millesimo. lxx.vi."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (4v/17-18x) Supplan|tationes uero \u0119cclesiarum omnibus modis inter dicimus. FINIT."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "after 1076"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 5"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 8"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 39"
+                }, 
+                {
+                    "work": "par657", 
+                    "page": "1572, p. 98"
+                }, 
+                {
+                    "work": "man656", 
+                    "page": "1775, p. 462"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 5r/1-8r/13 ", 
+            "text": "B.11.12.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (5r/1-2) INCIPIUNT CAPITUL CANONICORUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(5r/3) I Be heofonlicum cynincge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(8r/13) Be preoste sino\u00f0e"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Numbered in five sections: I-XLIII (fols 93-69v); I-XV (fols 69v-74r); I-XXX (fols 74r-80v); I-XVI (fols 80v-84v); I-XXX (fols 84v-110v). The last four sections are referred to as Books 1-4; the first three books correspond to the first three books of the 'Penitential of Pseudo-Egbert', while the fourth is miscellaneous (fol. 8v blank). Fol. 5 has wormholes (just); fol. 6 does not. Fol. 7v: scribe stops using two columns and just writes contents out in one column. Fol. 8r TOC stops, l. 13. Fol. 8v is blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 9"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 412"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 9r/1-7", 
+            "text": "B.13.2.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (9r/1)i. BE HEOFONLICUM CYNINGE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(9r/2-4) IN NOMINI DOMINI | An is ece cyning \u01bfealdend and \u01bfyrhta ealra gesceafta."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(9r/6-7) Him symble sy lof and \u01bfuldor and ece \u01bfyr\u00f0mynt \u00e1 to \u01bforulde. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, p. 39"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10a"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.i"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 9r/8-10r/22", 
+            "text": "B.13.2.4.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (9r/8)ii. BE EOR\u00d0LICUM CYNINGE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(9r/9-12) CHRISTENUM CYNINGE gebyre\u00f0 on cristenre \u00feeode \u00fe\u00e6t he sy eals\u01bfa hit riht is folces fr\u00f3fer and riht\u01bfis hyrde ofer cristene heorde."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(10r/20-22) Ac se by\u00f0 ges\u00e6lig \u00fee godcunde lare oftost gehyre\u00f0 and geornlicast healde\u00fe."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand, and some word divisions"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 41-51"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10b"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.ii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 10r/22-10v/16", 
+            "text": "B.13.2.4.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (10r/22)iii. BE CYNEDOME"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(10r/23) EAHTA S\u01f7ERAS SYNDON || \u00fee rihtlicne cynedom trumlice up\u01bfega\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(10v/14-16) \u02e5 seofo\u00f0e, \u00fe\u00e6t he be freondan and be fremdan fadige gelice on rihtlican dome."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 52-4"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10c"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.iii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 10v/16-11r/19", 
+            "text": "B.13.2.4.4.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (10v/16)iv. BE CYNESTOLE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(10v/17-19) \u00c6LC RIHT CYNESTOL STENT | on \u00ferym stapelum \u00fee fullice ariht stent | on \u00ferym stapelum \u00b7 \u00fee fullice a riht stent | \u00e1ris."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(11r/17-19) Ac d\u00f3 man s\u01bfa hit \u00feearf is alecge man \u00fanriht and r\u00e6re up Godes riht \u00fe\u00e6t m\u00e6g to \u00feearfe for Gode and for \u01bforulde. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 55-8"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10d"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.iv"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 11r/20-12v/2", 
+            "text": "B.13.2.4.5.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (11r/20)v. BE \u00d0EOD\u01f7ITAN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(11r/21-12r/2) CYNINGAN AND BISCEOPAN. | eorlan \u02e5 heretogan gerefan and deman | lar\u01bfitan and lah\u01bfitan gedafena\u00f0 mid rihte || for Gode and for \u01bforulde | \u00fe\u00e6t hi \u00e1nr\u00e6de \u01bfeor\u00f0an and Godes riht lufian."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(12r/21-12v/2) Ic \u01bfat s\u01bfy\u00f0e georne me sylfne for\u01bforhtne | \u01bfordes and d\u00e6de ealles to s\u01bfy\u00f0e ne dear || \u00feeah for fors\u01bfygian mid ealle | Godes ege fela \u00feara \u00feinga \u00fee dere\u00f0 \u00feisse \u00feeode."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 62-6"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10e"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.v"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 12v/3-13v/6", 
+            "text": "B.13.2.4.6.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (12v/3)vi. ITEM DE EPISCOPIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(12v/4-7) BISCEOPAS SCULAN BOCVM | \u02e5 gebedum fyligean \u02e5 d\u00e6ges \u02e5 nihtes oft \u02e5 gelome clypian to Criste \u02e5 for eall cristen | folc \u00feingian georne."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(13v/3-6) Nu l\u00e6re \u01bfe eac georne | manna geh\u01bfylcne \u00fe\u00e6t he Godes larum \u02e5 his | lagum fylgie \u00feonne geearna\u00f0 he him ece | myrh\u00f0e."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 67-74"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10f"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.vi"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 13v/6-15r/3", 
+            "text": "B.14.55", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (13v/6)vii. ITEM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(13v/7-9) BISCEOPE GEBYRE\u00d0 \u00c6LC | rihting ge on godcundan \u00feingan ge on | \u01bforuldcundan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(15r/1-3) \u00dey \u01bfe agan \u00feearfe \u00fe\u00e6t \u01bfe \u00f0am beorgan \u00fee us | scylan hyran \u00feonne gebide \u01bfe \u00fee mare | gebeorh \u00e6t Godes agenum dome."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10g"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.vi"
+                }, 
+                {
+                    "work": "whi128", 
+                    "page": "1981, pp. 422-27"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 15r/3-16", 
+            "text": "B.13.2.4.7.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (15r/3) ITEM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(15r/4-7) BISCEOPES D\u00c6G\u01f7EORC \u00d0\u00c6T | bi\u00f0 mid rihte his gebedu \u00e6rest \u02e5 \u00f0onne | his boc \u01bfeorc \u00b7 \u02e5 r\u00e6ding o\u00f0\u00f0on rihting lar o\u00f0\u00f0on leornung"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(15r/14-16) \u02e5 eac him geris\u00f0 \u01bfel \u00fe\u00e6t he on gemote | oft \u02e5 gelome godcunde lare d\u00e6le \u00feam | folce \u00fee he \u00feonne mid sy."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand, and one erasure (fol. 15r)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 75-6"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10h"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.viii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 15r/16-15v/3", 
+            "text": "B.13.2.4.8.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (15r/16) ITEM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(15r/17-20) A GERIST. BISCEOPUM. \u01f7ISDOM | \u02e5 \u01bf\u00e6rscype \u02e5 \u00fe\u00e6t \u00fea habban \u01bfeor\u00f0lice | \u01bfisan \u00fea \u00fea heom fylian \u02e5 \u00fe\u00e6t hy sundor|cr\u00e6fta sumne eac cunnen."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(15v/1-3) Ac \u01bfisdom \u02e5 \u01bf\u00e6rscipe gedafenia\u00f0 heora hade \u02e5 gedrih\u00fea gerisa\u00fe \u00feam \u00f0e heom fylia\u00f0."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, p. 77"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10.i"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.ix"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 15v/4-17r/10", 
+            "text": "B.13.2.4.9.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (15v/4) INCIPIT DE SYNODO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (15v/5) Deus in adiutorium meum intende. ter."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Bisceopum gebyre\u00f0 \u00fe\u00e6t hi mid ge\u00feylde ge\u00feo|lian \u00fe\u00e6t hi sylfe begetan ne magan o\u00f0 \u00fe\u00e6t | hit \u00fea, cyncge gecy\u00feed \u01bfeor\u00f0e \u02e5 bete he | sy\u00f0\u00f0an Godes abylh\u00fee \u00fe\u00e6r bisceop | ne m\u00e6ge gif he Godes \u01bfillan rihte \u01bfylle | \u01bfyrcean \u02e5 his agene cynescype rihtlice | ar\u00e6ran."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 210-16"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10j"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.x"
+                }, 
+                {
+                    "work": "whi128", 
+                    "page": "1981, pp. 406-13"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 17r/10-17v/13", 
+            "text": "B.13.2.4.10.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (17r/10) uiiii BE EORLUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(17r/11-14) EORLAS AND HERETOGAN. | \u02e5 \u00f0as \u01bforuld deman. and eac s\u01bfa gere|fan agan nyd\u00feearfe \u00feaet hi riht lufian | for Gode \u02e5 for \u01bforulde."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(17v/9-13) Ac d\u00f3 freonda | gehy\u01bfylc ealls\u01bfa hit \u00feearf is \u01bfarnige hine | georne \u02e5 beorge him sylfum \u00fe\u00e6t he God ne \u00e1|belge ealles to s\u01bfy\u00f0e ac c\u01bfeme his drihtne | mid rihtlicre d\u00e6de."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand, erasure in margin on fol. 17v"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 78-80"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10k"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xi"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 17v/13-18r/17", 
+            "text": "B.13.2.4.11.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (17v/13) x BE GEREFAN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(17v/14-16) RIHT IS \u00d0\u00c6T GEREFAN GE|eornlice tylian \u02e5 symle heora hla|fordan strynan mid rihte."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(18r/14-17) \u02e5 \u01bfa \u00fe\u00e6s gestreones \u00feam \u00fee his m\u00e6st hafa\u00fe | on unriht gestryned butan he ges\u01bfice | \u02e5 \u00f0e deoppor gebete for Gode \u02e5 for \u01bfor|ulde."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand, and erasure in word division on fol. 18r"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 81-82"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10l"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 18r/17-18v/3", 
+            "text": "B.13.2.4.12.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (18r/17) xi BE ABBODUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(18r/18-21) RIHT IS \u00de\u00c6T ABBODAS \u02e5 HVRV | abbadissan f\u00e6ste on mynstrum sing|allice \u01bfunian \u02e5 georne heora heorda | symle beguman \u02e5 \u00e1\u00e1 heom \u01bfel bysenian | \u02e5 rihtlice bodian"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(18v/2-3) s\u01bfa gebyre\u00f0 abbo|dan \u02e5 munuchades mannum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, p. 122"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10m"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xiii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 18v/3-19r/22", 
+            "text": "B.13.2.4.13.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (18v/3) xii BE MUNE|CUM."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(14v/4-7) RIHT IS \u00de\u00c6T MUNECAS BEON | d\u00e6ges \u02e5 nihtes in\u01bfeardre heortan | \u00e1 to Gode \u00feencan \u02e5 geornlice clypian \u02e5 mid | eallum eadmedum regollice libban."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(19r/19-22) Ac \u01bfe agan n\u00e9ode \u00fe\u00e6t \u01bfe hit gebetan s\u01bfa \u01bfe | geornost magan \u02e5 \u01bfeor\u00f0an anmode | to gem\u00e6nelicre \u00feearfe for Gode and for | \u01bforulde."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, p. 123-27"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10n"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xiv"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 19r/22-19v/7", 
+            "text": "B.13.2.4.14.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (19r/22) xiii BE MYNECENAN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(19v/1-5) ARIHT IS \u00de\u00c6T MYNECENA | mynsterlice macian efne s\u01bfa \u01bfe c\u01bf\u00e6don \u00e6ror be munecan \u02e5 ne to\u01bfettan \u01bforuldmannum ne \u00e6nige sundorcy\u00f0\u00f0e to heom habban ealles to s\u01bfy\u00f0e"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(19v/5-7) ac \u00e1 regolice libban \u02e5 hi symle asyndrian fram \u01bforuldbysegan s\u01bfa hi geornost magan."
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, p. 128"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10o"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xv"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. 19v/7-13", 
+            "text": "B.13.2.4.15.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (19v/7-8) xiiii BE PREOSTAN | \u02e5 BE NUNNAN."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(19v/9-13) RIHT IS \u00d0\u00c6T PREOSTAS | \u02e5 efen \u01bfel nunnan regollice libban \u02e5 cl\u00e6nnysse healdan be \u00feam \u00fee hi \u01bfillan on mynstran ge\u01bfunian o\u00f0\u00f0on for \u01bforulde \u01bfeor\u00f0scypes \u01bfealdan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glosses throughout by the Tremulous Hand. Fol. 19r/23 is blank - there is a tear in the parchment."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, p. 129"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10p"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xvi"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 19v/13-19v/23", 
+            "text": "B.13.2.4.16.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (19v/13) xu BE \u01f7UDE\u01f7AN"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(19v/14-15) RIHT IS \u00d0\u00c6T \u01f7YDE\u01f7AN. AN|nan bysenan geornlice fylian."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(9v/22-3) S\u01bfa sceall g\u00f3d | \u01bfyde\u01bfe hyran hyre drihtne."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 136-37"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10q"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xvii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 20r/1-20v/12", 
+            "text": "B.13.2.4.17.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (20r/1) BE GODES \u00deEO\u01f7VM."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(20r/2-5) LEOFAN MEN IC BIDDE. | geyra\u00f0 h\u01bf\u00e6t ic \u01bfylle secgan \u00feurh godes | gyfe us eallum to \u00feearfe gecna\u01bfe se \u00fee | cunne."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(20v/11-12) And gyf he elles | do gebete hit georne."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 167-69"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10r"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xviii"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 20v/12-23v/3", 
+            "text": "B.13.2.4.18.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (2-v/12) xuiii BE SACERDUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(20v/13-16) SACERDAS SCULAN ON HEORA | scrift scirum \u01bfislice \u02e5 \u01bf\u00e6rlice l\u00e6dan | \u02e5 l\u00e6ran \u00fea godcundan heorda \u00fee hi healdan | sculan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(23r/22-23v/3) Nis se man on life \u00fee areccan m\u00e6ge | ealle \u00fea yrm\u00f0a \u00fee se gebidan sceall se \u00f0e || on \u00fea \u01bfitu ealles behreose\u00f0 \u02e5 hit is ealles | \u00fee \u01bfyrse \u00fee his \u00e6nig ende ne cym\u00f0 n\u00e6fre | to \u01bforulde."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i; Tiberius A. iii; CCCC 201"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 85-108"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10s"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 1.xix"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 23v/3-24r/21", 
+            "text": "B.13.2.4.19.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (23v/3) xuiii AD SACERDOTES"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(23v/4-7) LA LEOF VNDERSTANDA\u00d0 | eo\u01bf sylfe \u02e5 lufia\u00f0 \u02e5 \u01bfeor\u00f0ia\u00f0 God \u00e6lmih|tigne ofer ealle o\u00f0re \u00feinc \u02e5 healda\u00f0 his | beboda georne."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(24r/18-21) Be mannes ge\u01bfrihtum hit man mot secan | \u00e6fter canond\u00f3me \u02e5 eac medemian be mihtum | \u02e5 be m\u00e6\u00fee \u02e5 be \u00feam \u00fee man ongit his heortan | hreo\u01bfsunge \u02e5 his sylfes geornfulnesse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CUL Add 3206"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fols 23v/14-24r/21 appear as fols 67r/7-67v/17 below. Glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 170-72"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10t"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 2"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 24r/22-25v/6", 
+            "text": "B.13.2.4.20.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (24r/22) xuiiii AD SACERDOTES"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(25r/1-4) T\u00c6CA\u00d0 CRISTENUM MANNUM | georne \u02e5 gelome rihtne geleafan \u02e5 \u00fe\u00e6t hi | cunnon heora cristendome \u02e5 heora | fulluhtes gescead \u01bfitan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(25v/3-6) God \u00e6lmihtig helpe ure \u02e5 sancta | Maria \u02e5 gefultumie us eallum \u00fe\u00e6t \u01bfe \u00e6g\u00f0er | ge us sylfe ge \u00fea \u00fee \u01bfe \u01bfisian sceolan s\u01bfa | ge\u01bfisian motan s\u01bfa s\u01bfa ure ealra \u00feearf sy."
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CUL Add 3206"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 173-77"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10u"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 3, 4"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 25v/7-31v/9", 
+            "text": "B.13.1.1.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (25v/7) xx ITEM DE SINODALIA DECRETA."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(25v/8-10) RIHT IS \u00de\u00c6T PREOSTAS BEON | geornlice gode \u00feeo\u01bfiende \u02e5 \u00f0eniende | \u02e5 for eall cristen folc \u00f0ingiende"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(31v/8-9) \u00deonne geleana\u00f0 him \u00fe\u00e6t | god \u00e6lmihtig s\u01bfa him leofost bi\u00f0. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 201; CUL Add 3206"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 206-08"
+                }, 
+                {
+                    "work": "fow655", 
+                    "page": "1972, pp. 3-19"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 11"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 5"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 31v/10-32r/14", 
+            "text": "B.13.2.4.21.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (31v/10) xxi Be l\u00e6\u01bfedum mannum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(31v/11-13) RIHT IS \u00d0\u00c6T GEHADODE MEN | l\u00e6\u01bfede \u01bfisian hu hi heora \u00e6\u01bfe rihtlicost | sculon healdan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(32r/11-13) Nagon l\u00e6\u01bfede men | freolst\u00eddum ne f\u00e6stent\u00eddum \u00feurh h\u00e6med|\u00f0ing \u01bfifes gemanan \u00fee ma \u00fee heahhades men | \u00fe\u00e6t \u00f0ing agan \u00e6nigum timan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 130-34"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10v"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 6"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 32r/14-34r/3", 
+            "text": "B.13.2.4.22.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (32r/14-15) xxii BE GEHADEDUM | MANNVM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(32r/15-18) GEHADEDVM MANNVM | gebyre\u00f0 \u00e6lc cl\u00e6nnes for\u00f0am \u00fee hi | sculon eallum o\u00f0rum mannum \u00e6lce un|cl\u00e6nnesse forbeodan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(34r/1-3) God eo\u01bf getrymme to eo\u01bfre agenre \u00feearfe \u02e5 us ealle gehealde s\u01bfa his \u01bfylla sy. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 201"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 109-21"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10w"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 34r/3-35v/17", 
+            "text": "B.13.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (34r/3-4) xxiii BE GE|HADEDUM MANNUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(34r/5-9) LEOFAN MEN IN LIBRO VISI|onum is a\u01bfriten hu \u00fea m\u00e6ssepreostas | \u02e5 \u00f0a diaconas \u00fee misleofedan her on \u01bforulde | \u01bf\u00e6ron on \u01bf\u00e6lhreo\u01bflice gese\u01bfene | s\u01bfa s\u01bfa se encgel ges\u01bfutelode on \u00f0\u00e6re gesih\u00f0e.|"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(35v/12-17) \u02e5 se \u00fee | heahh\u00e1d underfo gyf he sy m\u00e6ssepreost | \u00feonne gem\u00e6ssige he for his biscop XXX | m\u00e6ssan \u02e5 diacon gesinge XXX psaltera | \u02e5 \u00e1\u00e1 heora lifdagas gebiddon \u00fe\u00e6rto|eacan for hine georne."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "glosses throughout by the Tremulous Hand. Also, glosses from the scribe with the very long ascenders and descenders."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 217-22"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10x"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 35v/17-42r/18", 
+            "text": "B.13.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (35v/17-18) xxiiii DE ECCLESIASTI|CUS GRADIBUS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(35v/19-21) HEAHHADAS SYNDON | to healdenne. mid s\u01bfi\u00f0e miclum \u01bfis|dome \u02e5 mid ealre cl\u00e6nnesse."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(42r/17-18) God us gefylste \u00fe\u00e6t \u01bfe moton ealle s\u01bfa don. | Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 190; CCCC 201. Second half also in Napier XLVI"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "There is a major heading on fol. 40r/15 [beg. NE BEO NAN MAN O\u00d0RES but this seems to be a division in one text rather than two since there is no new rubric. Glosses throughout by the Tremulous Hand, who has also noted each of the orders in the margins (as well as other glossing). fol. 39: small hole in parchment."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 223-47"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10y"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 9, 10"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 42r/18-55v/20 ", 
+            "text": "B.12.7.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (42r/18) xxu De officiis diurnalium noctur|nalium horarum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(42r/20-23) GODCUND \u00deEO\u01f7DOM IS GE|sett on cyriclicum \u00feenungum \u00e6fter | canoneclican ge\u01bfunan to n\u00fddrihte eallum | gehadedum mannum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(55v/20) God \u00fas gefultumige. to ure \u00f0earfe s\u01bfa his \u01bfylla sy. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 201 contains the prose parts of this exposition with minor variations, and a poem (Gloria) which has been used in the composition of this text. The metrical psalm-verses are almost identical to those in the Paris Psalter."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glosses throughout by the Tremulous Hand. Fol. 43r (half-sheet) has two small holes in the bottom righthand corner, and on fol. 51v note by Coleman."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dob617", 
+                    "page": "1942, pp. 74-86"
+                }, 
+                {
+                    "work": "fox1636", 
+                    "page": "2011"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 12"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 11"
+                }, 
+                {
+                    "work": "ure661", 
+                    "page": "1957"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 55v/20-57v/19", 
+            "text": "B.2.2.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (55v/20) xxxiiii DE REGU|LA CANONICORUM."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6ALDLICE LAH | ge\u01bfritu. | \u02e5 eac god\u01bfpellice bebodu us l\u00e6ra\u00f0 \u02e5 myngia\u00f0 \u00fe\u00e6t \u01bfe eallum mode || \u02e5 eallum m\u00e6gene \u00e6rest God lufian \u02e5 \u01bfur\u00f0ian \u02e5 sy\u00f0\u00fean ure nextan lufian \u02e5 healdan s\u01bfa s\u01bfa us sylfe."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feonne geearna\u00f0 hy lof \u00e6t mannum \u02e5 \u00e6t Gode sylfum ece edlean."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "1957, no. 10a"
+                }, 
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 248-55"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 13"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 12"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 57v/19-59r/8", 
+            "text": "B.13.2.4.23.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): xxxu BE CYRICAN."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "RIHT IS \u00d0\u00c6T CRISTENE MEN | cristendom georne healdan mid rihte \u02e5 Cristes cyrican \u00e6gh\u01bf\u00e6r geornlice \u01bfeor\u00feian \u02e5 \u01bferian."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 utan \u00e6nne cynehlaford holdlice healdan \u02e5 freonda geh\u01bfylc o\u00f0erne healde mid rihtan getry\u01bf\u00f0an."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 201; Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 138-52"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10z"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 13"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 59r/9-59*r/9", 
+            "text": "B.13.2.4.24.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (59r/9) xxxui Be eallum christenum mannum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "RIHT IS \u00d0\u00c6T EALLE CRISTE|ne men heora cristendom rihtlice | healdan \u02e5 \u00f0am life libban \u00fee heom to gebyra\u00f0 \u00e6fter Godes rihte \u02e5 \u00e6fter \u01bforuldgerysenum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 beorgan us georne \u01bfi\u00f0 \u00feone \u01bfeallendan bryne helle\u01bfites \u02e5 geearnian us \u00f0a m\u00e6r\u00f0a \u02e5 myrh\u00f0a \u00f0e God h\u00e6f\u00f0 gegear\u01bfod \u00feam \u00f0e his \u01bfillan on \u01bforulde ge\u01bfyrca\u00f0. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 201; Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jos459", 
+                    "page": "1959, pp. 154-64"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 10aa"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 14"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 59*r/9-61v/13", 
+            "text": "B.2.4.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): xxxuii Be godcundre \u01bfarnunge."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "VTAN SPURIAN | be bocan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0is s\u00fdnd \u00fea Godes \u01bford \u00fee god s\u00fdlf gedihte | \u02e5 mo\u00fdse bef\u00e6ste \u02e5 eal hit m\u00e6g to b\u00fdsne | \u00e6gh\u01bf\u00fdlcere \u00f0eode g\u00fdme se \u00f0e \u01bfille god | XXXVIII us gehealde \u00b7 amen \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 201; Nero A. i"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "major heading at fol. 60r/17L EALA LEOFAN MEN BE \u00feylcan bysenan \u01bfe us magon \u01bfar|nian."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "1957, no. 19"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 14"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 61v/13-62v/23", 
+            "text": "B.11.2.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her is scrift \u02e5 an|detnes \u00e6g\u00f0er t\u01bfegra ge gehadodra. gel\u00e6|\u01bfedra. \u00fe\u00e6ra \u00fee \u00fe\u00e6s andgites habba\u00f0. \u02e5 \u00f0\u00e6s | ledenes deopnesse ne cunnon."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deONNE MAN TO HIS SCRIFTE | gange\u00f0 \u00b7 \u00feonne sceall he mid s\u01bf\u00fd\u00f0e m\u00fd|celum godes ege \u02e5 eadmodnesse beforan | christum hine a\u00feenian \u00b7 and hine biddan \u01bf\u00e9pen|dre stefne \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 190; Tiberius A. iii"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra1634", 
+                    "page": "2010,"
+                }, 
+                {
+                    "work": "http://www.anglo-saxon.net/penance/index.html"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 15a"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "1934, no. 1a, pp. 170-71"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 16"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 63r/1-64r/17", 
+            "text": "B.3.5.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "LEOFA MAN \u00d0E IS MYCEL | \u00feearf \u00fe \u00e6t \u00f0u \u00feas drihtenlican t\u00edde georne ge\u00feence."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra492", 
+                    "page": "1973"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 16"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, art 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 64r/17-65v/14 ", 
+            "text": "B.2.2.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (64r/17) xxxuiiii Be \u00f0\u00e6s halgan sun|nand\u00e6ges gebede."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "LEOFAN MENN | understanda\u00f0 georne ealls\u01bfa eo\u01bf mycel | \u00f0earf is."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 17"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 18"
+                }, 
+                {
+                    "work": "nap123", 
+                    "page": "1883, no. 26"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 65v/14-66v/9", 
+            "text": "B.11.4.5.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (65v/14) xl Be \u00fe\u00e6s m\u00e6ssepreostas ge|scead\u01bfisnysse."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00de\u00c6T SCEALL GE|\u00feencan se \u00f0e by\u00f0 manna sa\u01bfla l\u01fdce."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 3, ll. 82-112"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 18"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 19"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 66v/9-67r/7", 
+            "text": "B.11.4.5.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (66v/9) xli BE SCRIFTUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ON \u01f7ISUM SCRIFTE BY\u00de | s\u01bfy\u00f0e for\u00f0 gelang."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 5, ll. 305-16"
+                }, 
+                {
+                    "work": "fra1634", 
+                    "page": "2010,"
+                }, 
+                {
+                    "work": "http://www.anglo-saxon.net/penance/index.html"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 19a"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 20"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 67r/7-67v/17", 
+            "text": "B.11.4.5.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (67r/7) xlii BE SYNNA | LACNUNGE."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE L\u00c6CA \u00d0E SCEL | sare \u01bfunda \u01bfel geh\u00e6lan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 5, ll. 317-40"
+                }, 
+                {
+                    "work": "fra1634", 
+                    "page": "2010,"
+                }, 
+                {
+                    "work": "http://www.anglo-saxon.net/penance/index.html"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 19b"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 21"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 67v/17-69v/8", 
+            "text": "B.11.2.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (67v/17) xliii Be | \u00fee\u00f3dores gesetnysse hu man sceall f\u00e6s|ten al\u00fdsan."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0EODORVS SE HALGA. | \u02e5 se goda biscop gesetta \u00feas r\u00e6dinge."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Laud misc 482"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 15b"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 22"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "1934, no. 1c, pp. 172-74"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 69v/8-87r/11", 
+            "text": "B.11.3.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (69v/8) i INCIPIT | LIBER primus. cum capitolis atque cum suis sentialis, \u00deis is \u00e6rest se forma capitul.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "HIT GEBYRA\u00d0 \u00de\u00c6T SE SA|cerd smeage"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Laud misc. 482"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Chapters are numbered i-xu (Book 1); i-xxx (Book 2); i-xui (Book 3); i (Book 4)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra1634", 
+                    "page": "2010,"
+                }, 
+                {
+                    "work": "http://www.anglo-saxon.net/penance/index.html"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 20a"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 23"
+                }, 
+                {
+                    "work": "rai494", 
+                    "page": "1933, vols 1-4.11, pp.\n                           1-53 (up to fol. 86v/10); pp. 6-70 (the rest)"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 87r/11-101r/7", 
+            "text": "B.11.1.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (87r/11) ii Iu|dicium de peccatis multis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Seo \u00e6reste forl\u00e6tnes is fyrena ful\u01bfiht."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In Spindler's edition the order of the sections differs."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra1634", 
+                    "page": "2010,"
+                }, 
+                {
+                    "work": "http://www.anglo-saxon.net/penance/index.html"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 15c"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 24"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "1934, nos. 2-28,\n                           \tpp. 174-94"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 101r/7-15", 
+            "text": "B.11.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (101r/7) xxuiiii"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "GYF HY\u01f7LC MAN \u01f7IFIGE ON HIS | nextan magan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "It also occurs on fol. 77v as Book 2, chap. 17"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra1634", 
+                    "page": "2010,"
+                }, 
+                {
+                    "work": "http://www.anglo-saxon.net/penance/index.html"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 20b"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 25"
+                }, 
+                {
+                    "work": "rai494", 
+                    "page": "1933, vols 2.18, pp. 26-26"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 101r/15-18", 
+            "text": "Franzen", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(101r/15-18) Me scripsit wulfgeatus scriptor | wigornensis. ora obsecrio pro ipsius neuis | cosmi satorem. Amen. Et qui me scripsit | semper sit felix. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Possibly copied from exemplar rather than original to the main scribe, since it follows directly from the previous item."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 20c"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 101v/1-10v/23", 
+            "text": "B.1.8.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (101v/1) INCIPIT EPISTOLA DE CANONIBUS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): \u00c6lfricus humilis frater uenerabili episcopo | wulfsino salutem indigno."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 190"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "After this item there are possibly some pages missing. This marks a change of plan in the production of the manucript, which seems originally to have been intended with Hatton 113 and Hatton 114 as one large volume."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "feh573", 
+                    "page": "1914, no. I.1-149"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 21"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 26"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 111r/1-24r/18", 
+            "text": "B.1.8.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (111r/1) DE SEUNDA [sic] EPISTOLA QUANDO DIUIDIS | CRISMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eala ge m\u00e6ssepreostas mine gebro\u00f0ru."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Gefultumige us se h\u00e6lend to his halgum bebodum se \u00fee leofad mid his leofan f\u00e6der \u02e5 \u00f0am halgan gaste on anre godcundnysse hi \u00fer\u00fd \u00e1n God, \u00e6fre rixiende. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "CCCC 190; Bodley 343; Vespasian D. xiv; Tiberius A. iii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "feh573", 
+                    "page": "1914, no. III"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 22"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 27"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 124r/18-30v/1 ", 
+            "text": "B.1.8.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Esto consentiens aduersario."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This is a homily adapted from \u00c6lfric's Letter to Wulfgeat: it does not contain the first 89 lines in Assman's edition."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "1889, no. 1"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 23"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 28"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 130v/3-36v/9", 
+            "text": "B.1.4.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (130v/3) DOMINICA POST ASCENSIONEM DOMINI."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum autem uenerit paraclitus quem | ego mittam uobis a patre. Et reliqua. | Se h\u00e6land her on life."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "1967-68, no. 9, I. 378-9"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 24"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 29"
+                }
+            ]
+        }, 
+        {
+            "locus": "136v/9-37v/17", 
+            "text": "B.2.1.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (136v/9) DE ANTICRISTO."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men understanda\u00f0 s\u01bfy\u00f0e georne | \u00fe\u00e6t ge rihtlice \u02e5 \u01bf\u00e6rlice"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 137v/18-22 is blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "1957, no. 1b"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 25"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 30"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 138r/1-42r/7", 
+            "text": "B.1.1.41", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (138r/1) DOMINICAIa. DE ADUENTU DOMINI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0\u00edses d\u00e6ges \u00fe\u00e9ning \u02e5 \u00feissere tide m\u00e6r\u00f0 | spreca\u00f0 ymbe godes tocyme."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 6"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "1997, no. 39"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 26"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 31"
+                }
+            ]
+        }, 
+        {
+            "locus": "142r/8-48v/9 ", 
+            "text": "B.1.1.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (142r/8) DOMINICAIIa. DE ADUENTU DOMINI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se godspellere lucas a\u01bfr\u00e1t on \u00f0isum d\u00e6g\u00f0erlican godspelle."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 6"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "1997, no. 40"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 27"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 148v/10-54v/12", 
+            "text": "B.3.2.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Nu \u01bfe habba\u00f0 eo\u01bf ges\u00e6d | anfealdlice"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feurh ealra \u01bforulda \u01bforod Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hands 3, 7, 8"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "1997, no. 14, 296/167-78 (fols\n                           153r/21-153v/14)"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 28"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 154v/13-57r/3", 
+            "text": "B.1.1.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Menn behofia\u00f0 godre lare"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The preface has been adapted as a homily: the same adaptation is found in Hatton 115."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi2 (Ker 1957); 1060-1080 (Franzen 1998)."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 9"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "On fol. 155v, with musical notes: Iste homo ab atholescentia sua partim meruit in firmos curare dedit illi dominus claritatem magnam cecos illuminare et demones effugare."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "1997, 174/57-176/119"
+                }, 
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 29"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 157r/4-60r/15", 
+            "text": "B.1.2.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): IN ASSUMPTIONE SANCT\u0118 Marie UIRGINIS."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): INTRAUIT IESUS IN QUODDAM CASTELLUM. RELIQUA. | Se h\u00e6lend becom into sumere ea\u00f0lican byrig."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Hand 10"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 161v is blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra662", 
+                    "page": "1998, art. 30"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "1979, no. 29"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 338, art. 35"
+                }
+            ]
+        }
+    ], 
+    "handDesc": {
+        "number": "11", 
+        "summary": "The bulk of the manuscript (fols 5-137) is written by one hand (Ker's Hand 1,", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC1", 
+                "description": "Fols 5-137.", 
+                "summary": null, 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "same occasional high <span class=\"c\">a</span>"
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "The shape of the second element of <span class=\"c\">\u00e6</span> is influenced by the letter which succeeds it."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is round-backed or horned depending on its place in the word and the following letter."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Wide tail on <span class=\"c\">g</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is slightly wedgier."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The descender of <span class=\"c\">\u00fe</span> is notched."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Most <span class=\"c\">ascenders</span> except that of <span class=\"c\">\u00fe</span> are clubbed, but some ascenders have wedged clubs and some are wedged; for example, on <span class=\"c\">h</span> and <span class=\"c\">b</span>, in English and Latin."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC1", 
+                "description": "Fols 1v-2v. This is very like the main hand; in fact, since the first folios are in Latin and much of Hand 1 is written in Old English, the two are not always directly comparable. Where Hand 1 writes in Latin there are similar features: some mixing of clubs and wedges; slant on Caroline", 
+                "summary": "Some letters are distinct enough to suggest that these are two separate hands:", 
+                "characters": [
+                    {
+                        "char": "s", 
+                        "note": "more of a wedge on long <span class=\"c\">s</span> has a long descender in this hand."
+                    }, 
+                    {
+                        "char": "x", 
+                        "note": "<span class=\"c\">x</span> has a long descender in this hand."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "possibly Hemming", 
+                "description": "Fols 148v/10-22; 150r; 150v/16-151r; 152r-3v; 154r/17-154v/12. This hand is angular and upright, the letters are quite narrow, it is possibly the hand of", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "The top of <span class=\"c\">e</span> in <span class=\"c\">\u00e6</span> is very high."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> has a very short and tiny ascender."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> has an open bowl."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> has very tiny feet."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is sometimes almost flat-topped."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "The <span class=\"expanded\">orum</span> abbreviation slants downwards."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Caroline", 
+                "scribe": "Ker 338 SC4", 
+                "description": "Fols 3-4. This is quite a rounded Caroline script, wedges and clubs are not mixed (unlike in other hands in this manuscript).", 
+                "summary": null, 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "The <span class=\"expanded\">orum</span> abbreviation is straight."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC5", 
+                "description": "Fols 4r-v. This hand has long loopy descenders and wedges.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Occasionally a big loopy Caroline <span class=\"c\">a</span>."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC6", 
+                "description": "Fols 138r-48v. This is quite like Hand 2, and just possibly could be the same as it, except that this hand seems less practised. This hand is rounder than Hand 1 and sometimes leans to the right slightly.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> tends to flick to the right."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC7", 
+                "description": "Fols 149r-v; 150v/1-15; 151v. This hand has wedges on the feet of minims. \u02e5 is almost at right-angles. The descenders don't usually have wedges on their feet. On fol 150v/1-15 possibly a thinner pen.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span>: curves to the left noticeably."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>: has a closed bowl."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span>: very high and has quite a long descender, too. Very wedgy. This is similar to Hands 1 and 2, but quite thick."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC8", 
+                "description": "Fols 154r/1-16. Uneven hand. The letters are not always firmly on the ruled line.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "Ascender on <span class=\"c\">d</span> very short long."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "Has <span class=\"c\">a</span> high <span class=\"c\">e</span>, slightly left-leaning."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> few."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "Odd <span class=\"c\">\u00f0</span> where the scribe has drawn <span class=\"c\">o</span> and then added an ascender."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Closed bowl on <span class=\"c\">g</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "Long <span class=\"c\">descenders</span>."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC9", 
+                "description": "Fols 154v-157. This scribe is not good at writing on the lines. This is a left-leaning, flowing script.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: round."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span>: round."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Open <span class=\"c\">g</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "High long <span class=\"c\">s</span> sometimes with descender drooping below the line."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "<span class=\"c\">\u02e5</span> is high."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The top of <span class=\"c\">\u00f0</span> curls round to the right. The bottoms of the descenders flick to the left"
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> long and left-flicking"
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "Chunky feet on <span class=\"c\">minims</span>."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 338 SC10", 
+                "description": "Fols 157-60. This hand is quite square and wedgy.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> the ascender is short."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is long and flicks to the left"
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The bowl of <span class=\"c\">g</span> is open."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "glosses and alterations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Hand", 
+                "description": "There are several layers of glosses by the", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Bound, <span class=\"date_key\">s. xviii</span>, in <span class=\"material\">blind-tooled brown leather</span> (<a href=\"#ure661\">Ure</a> 1957, p. 3)", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written in <span class=\"name\">Worcester</span>", 
+        "provenance": "Worcester", 
+        "acquisition": "It was amonst the manuscripts of <span class=\"name\">Francis Junius</span>, and acquired by the <span class=\"name\">Bodleian Library</span> in 1678."
+    }, 
+    "admin": "Manuscript described by Helen Foxhall Forbes with the assistance of Hollie Morgan (September 2010).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "ivo489", 
+        "bat905", 
+        "bet109", 
+        "cle112", 
+        "cra654", 
+        "cro1410", 
+        "dob617", 
+        "feh573", 
+        "fow349", 
+        "fow655", 
+        "fox1636", 
+        "fra492", 
+        "fra1634", 
+        "fra662", 
+        "fra188", 
+        "fre1635", 
+        "gne146", 
+        "god42", 
+        "jos459", 
+        "ker44", 
+        "ker95", 
+        "lie467", 
+        "web1517", 
+        "man656", 
+        "mci177", 
+        "nap123", 
+        "par657", 
+        "pop87", 
+        "rai494", 
+        "sau1409", 
+        "spe658", 
+        "spi659", 
+        "tho446", 
+        "tho660", 
+        "ure661", 
+        "whi128"
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "id": "Ox.Bodl.297", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "297 (2468)", 
+    "ker": "306", 
+    "content": "Bede's Death Song; and Boundary List", 
+    "location": "Bury St. Edmunds(?)", 
+    "date": "s.xii^{med}", 
+    "summary": "Old English text of Bede\u2019s <span class=\"italics\">Death Song</span> is part of Cuthbert\u2019s letter <span class=\"italics\">De obitu Bed\u00e6</span>, which itself is part of a chronicle to the year 1131. An Old English list of boundaries is written at the same time, but in a different hand, with a Latin charter recording the grant of lands to <span class=\"name\">Bury St Edmunds</span> by <span class=\"name\">King Edmund</span>. <a href=\"#ker44\">Ker</a> notes that \u2018the manuscript was at <span class=\"name\">Bury St Edmunds</span> not long after it was written\u2019 (1957, p. 360).", 
+    "items": [
+        {
+            "locus": "p. 281", 
+            "text": "A.33.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Occurs in the course of a chronicle extending to the year 1131, next to A.D. 734."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 306"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 328-29", 
+            "text": "B.16.5.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 328) This synden tha landgem\u00e6ro. the \u00e6dmund kyng gebocade into sancte \u00e6dmunde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker 1957, this is inserted into the lower margins of a Latin charter in which King Edmund grants lands to Bury St. Edmunds, A. D. 945."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 306"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Description by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

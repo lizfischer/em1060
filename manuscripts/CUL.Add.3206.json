@@ -1,0 +1,134 @@
+{
+    "id": "CUL.Add.3206", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "Add.", 
+    "shelfmark": "3206", 
+    "ker": "11", 
+    "content": "Ecclesiastical law", 
+    "location": "South West", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "objectDesc": {
+        "form": "Fragment", 
+        "support": "Parchment. Two adjacent leaves.", 
+        "extent": "160 mm x 118 mm (dimensions of first leaf - size of leaf).\n151 mm x 108 mm (dimensions of first leaf - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "Both leaves (Items", 
+        "hands": [
+            {
+                "name": "Main hand", 
+                "scope": "Sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 11", 
+                "description": "The aspect is broad but pointed and slightly backward-leaning. Rustic capitals are used at the beginning of sections.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Insular single compartment <span class=\"c\">a</span> is triangular, but rounded."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "The <span class=\"c\">a</span> component of <span class=\"c\">\u00e6</span> is rounded triangular, and the same height as or slightly higher than <span class=\"c\">e</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Insular <span class=\"c\">d</span> is round-backed, with the short upstroke at 45\u00ba, and tapering backward to the right."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is round and its horizontal line goes up to the right and often finishes with a tongue."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "Insular <span class=\"c\">f</span>: the downstroke is straight with a wedged top and finishes with a serif that turns up to the right, and the tongue is longer than the shoulder. The shoulder consists of a upright diagonal and a short downward vertical line."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> has a flat top; the vertical stroke joins the horizontal bar towards the left, and the lower lobe is closed. The sizes of the upper and lower lobes are the same."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "Insular <span class=\"c\">h</span>: the ascender has a split top; both limbs are straight and have distinct serifs that turn up to the right at 45\u00ba."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> have distinct serifs that turn up to the right at 45\u00ba."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "There are two kinds of <span class=\"c\">s</span>: insular <span class=\"c\">s</span> with a straight descender with a serif to the right, and a long <span class=\"c\">s</span> with a descender which descends slightly below the writing line. The descender of long <span class=\"c\">s</span> tapers slightly to the left at the end."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span> is round-backed and its head-stroke is horizontal. The back-stroke joins the head-stroke at the left side."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The ascender of <span class=\"c\">\u00f0</span> is tall at 45\u00ba and tapers slightly backward to the right. The prominent cross-bar has an upward serif to the right at its left end, and downward serif to the left at its right end."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The ascender of <span class=\"c\">\u00fe</span> is wedged or has a split, and its descender is short and has a serif to the right."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "The descender of <span class=\"c\">\u01bf</span> is straight and finishes with an upward serif to the right."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is dotted and the first stroke is thick, whereas the second stroke is a thin line with a wedge of a split at the top, and its descender finishes with a upward serif to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are often split or wedged at the top (see <span class=\"c\">b</span>, <span class=\"c\">l</span>, <span class=\"c\">\u00fe</span>)."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> Straight descenders are as long as the height of the body, or sometimes shorter, and often finish with distinct serifs that turn up to the right at 45\u00ba. (See insular low <span class=\"c\">r</span>, low <span class=\"c\">s</span>, <span class=\"c\">\u01bf</span>)."
+                    }, 
+                    {
+                        "char": "\u00fe\u00e6t", 
+                        "note": "the cross-bar of <span class=\"c\">\u00fe\u00e6t</span> has an upward serif to the right at its left-hand end, and a downward serif to the left at its right-hand end."
+                    }, 
+                    {
+                        "char": "macron", 
+                        "note": "<span class=\"c\">macron</span> has an upward serif to the right at its left-hand end, and a downward serif to the left at its right-hand end."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "the descender of <span class=\"c\">\u02e5</span> is straight and usually has a serif to the right at the end. Its head slightly curves inwards. Sometimes a larger <span class=\"c\">\u02e5</span> is used at the beginning of sentences."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "The fragment is now kept in a black loose cover.", 
+    "accompanying": "<p>A fragment of a printed book, which was probably also used for the binding, is attached to the second leaf (pp. 3-4). Some letters of the printed fragment are visible on the right-hand side of p. 3. </p><p>A note in the handwriting of <span class=\"name\">Felix Liebermann</span>, which explains the contents of the leaves, is kept with the fragments. </p><p>Another note signed by 'The Librarian University Library' contains information about the most recent sale: 'Add. 3206 Saxon Homilies. Ab. 1050 two leaves. 1893. Sotheby's Bateman Sale lot. 1528'.</p>", 
+    "history": {
+        "origin": "Unknown, but the palaeography suggests possibly <span class=\"name\">South-West England</span>.", 
+        "provenance": "The leaves were pastedowns in the binding of a book of octavo size. Formerly part of CUL, Additional 4166, a collection of fragments bought by <span class=\"name\">S. Sandars</span> in the Bateman sale at <span class=\"name\">Sotheby's</span>, 25 May 1893, lot 1528.", 
+        "acquisition": "Bequeathed to <span class=\"name\">Cambridge University</span> by <span class=\"name\">Sandars</span> in 1894."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Simon Patterson and Hollie Morgan (2010).", 
+    "surrogate": true, 
+    "bib": [
+        "cam462", 
+        "fow349", 
+        "ker44", 
+        "tho446"
+    ]
+}

@@ -1,0 +1,955 @@
+{
+    "id": "BL.Nero.E.i", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Nero E. i, pt 2", 
+    "ker": "", 
+    "content": "Worcester Cartulary", 
+    "location": "Worcester Cathedral Priory", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 182r/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ego kinsig episcopus"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): EGO \u00c6LFHERE MINISTER"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 428, dated 930"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 182r/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): BREODVN CVNCTA LABILIS VITE SVBSISTENTIA MOMENTANEA"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Signum eadboldi ducis"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 117, dated 780"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 182r/cols 1-2", 
+            "text": "B.15.3.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Bisceop omnibus namque sapientibus notum ac manifestum constat."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Eadric. \u01f7lfhun. \u00c6\u00feeredes ger\u00e6dness and \u00e6\u00feelfl\u00e6de \u01bfi\u00f0 \u01bferfri\u00f0 bisceop and \u01bfi\u00f0 \u00feone hired on \u01bfegernaceaster."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1280, dated 904. 'W\u00e6rferth, bishop, and the community at Worcester, to \u00c6thelred and \u00c6thelfl\u00e6d, their lords; lease, for their lives and that of \u00c6lfwyn, their daughter, of a messuage (haga) in Worcester and land at Barbourne in North Claines, Worcs., with reversion to the bishop. Bounds of appurtentant meadow west of the Severn' (Sawyer and Keynes 2013)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }, 
+                {
+                    "work": "saw1604"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 182r/col. 2-82v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Bradanleah."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Donante domino nostro iesu christo"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u01f7aldhere confirmaui. Hanc cartam composui in. iii. feria viii. kalendas december passio sancti chrisogoni. martryis."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 95, dated 723x737"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 182v/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Intanbeorge\u02e5 bradanleah."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Seculi namque labentis tempora velocius vento ad finem tranant."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Signum \u00e6\u00f0elhardi principis. Signum bynnan principis."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1430, dated 789"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 182v/col. 2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Intanbeorge\u02e5 bradanleah."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine domini nostri iesu christi"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego byrn\u01bfald princeps. Ego aldred princeps."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1260, dated 903"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 182v/col. 2", 
+            "text": "B.15.5.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Bremesgraf.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ceolulf rex \u01bfilnade \u00f0\u00e6s landes \u00e6t bremergrafan to heaberhte bisceope and to his hirede. and \u00fea sende"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Continues on to BL Add. 46204, Item 1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }, 
+                {
+                    "work": "saw1604"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 183r/col. 1", 
+            "text": "Item 7", 
+            "notes": [
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego aldberht MINISTER ; -"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 192, dated 840. Continues from BL Add. 46204, Item 7."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 183r/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Breodun."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Agio et alto domino deo sabaoth regnanti in euum honor."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u01bfihtred abbas. Ego ceolred abbas."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 193, dated 841"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 183r/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Uptun."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Anno dominic\u00e6 incarnationis. dccc. xcvii. indictione. xv. contigit quod \u00e6\u00feelwulf uenerabilis dux."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u01f7igs\u01bfi\u00f0 matrona. Ego lulle matrona."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1442, dated 897"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 183r/col. 2-183v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Bloccan leah."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Regnante inperpetuum agio et alto prosatori nostro uniuersitatis creatore in seculorum secula amen."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u01bferemberht. dux. Ego mucel dux."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 207, dated 855"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 183v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): B\u00e6ccesore."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ego \u00e6\u00feelbald diuina dispensatione rex su\u00f0anglorum terram."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego oba minister. Ego sigebed minister."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 101, dated 727\u00d7736"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 183v/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Eo\u01bflangelad."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cuncta regalia sceptra recto iustoque moderante pio salutore hominum,"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego cudd abbas. Ego brordan princeps."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 109, dated 775"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 183v/ col. 2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Tredintun."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Regnante in perpetuum domino deo sabaoth."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Siquis uero Augendo multiplicare uoluerit christi instinctus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 55, dated 757."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184r/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Scotta ri\u00f0."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Regnante in perpetuum domino."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u00e6\u00feelberht. Ego \u00e6\u00feelric."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with bounds in Latin and English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 64, dated 699\u00d7709"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184r/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Regnante in perpetuum domino nostro iesu cuius uidelicet anno incarntionis."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u00e6\u00f0ered. Ego \u01bfynnhelm."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1278, dated 872"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184r/col. 2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Su \u00f0ham \u02e5 muctun \u00e6\u00f0elstane."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine domini."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): leof\u01bfine clericus. \u01bfulf\u01bfine clericus. god\u01bfine clericus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1308, dated 991"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol 184r/ col. 2", 
+            "text": "B.15.3.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Stoce. eadm\u00e6re."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ego osuuold largo christi crismate praesul."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): \u01bfynstan clericus. Vfic clericus. Leof\u01bfine clericus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1313, dated 967. 'Oswald, bishop, to Eadm\u00e6r, his minister; lease, for three lives, of 6 hides (manentes or cassati) at Stoke Orchard, Gloucs., with reversion to the church of Worcester' (Sawyer and Keynes 2013)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 184r/col. 2-84v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u01f7\u00e6gcles\u01bfr\u00f0e. \u00e6\u00f0elstane."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Anno incarnationis dominic\u00e6."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): \u01bfulgar clericus. Vfic clericus. \u01bfulno\u00f0 clericus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1343, dated 981"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184v/ col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Cum tun. ead\u01bfie."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Regnante in perpetuum domino."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): \u01bfulgar clericus. \u01bfulf\u01bfi clericus. \u01bfulno\u00f0 clericus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1360, dated 989"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): \u00c6terno genitori cum inclita prole sanctoque paraclito laus et honor."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): \u01bfulgar clericus. \u01bfulno\u00f0 clericus. God\u01bfine clericus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1375 / 1344, dated 982"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Cumtun. ealhfer\u00f0e."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Anno dominic\u00e6 incarnationis."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): cyne\u00f0en clericus. eadgar clericus. \u01bfulfric clericus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1302, dated 962"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184v/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u00c6t ofre"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Regnante in perpetuum domino nostro iesu christo."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): in omnibus subditus sit \u01f7igorniensis \u00e6cclesi\u00e6 pastori."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 913, dated 1005"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 184v/col. 2", 
+            "text": "B.16.23.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Cenulf mercna cyng gebette. and gefreode. \u00fe\u00e6t to \u01bfigernaceastre li\u00f0. on t\u01bfa healpe s\u00e6ferene xxx. hida."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "And beaganbyrig burhred cyng gebecte. Into \u01bfigeraceastre. \u00fe\u00e6t is beculne. x. hida. and \u00e6t \u01bfultune. viii. and \u00e6t b\u00e6rendes lea. v. and \u00e6t esig. v. \u00c6t coleburnan. viii. hida. Deneberht. bisceop balthune."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 181r/col. 1", 
+            "text": "B.15.8.597", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u00d0is syndon landgem\u00e6rv to \u01bfidiandune"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6rest on onnaforde innon tilno\u00f0. ondlong tilno\u00f0es ti \u01bfaclescumbe. bet\u01bfyh \u01bfaclescumbe and ealdan sl\u00e6de. in m\u00e6nanlea."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feonon to aldan dic. onlong dic ofer humburnan. in \u00fea o\u00f0re aldan dic. and s\u01bfa on \u00feone mylnpol. of \u00fe\u00e6m pole to \u00fe\u00e6re port str\u00e6t. ondlong str\u00e6te to \u00fe\u00e6m \u00feorne on onnandune. of \u00fe\u00e6re dube into onnancrundele. and s\u01bfa \u00e6fter str\u00e6te in onnanford."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1556. 'Bounds of Withington, Gloucs' (Sawyer and Keynes 2013)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }, 
+                {
+                    "work": "saw1604"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 181r/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): boc to \u01bfestbyrig. regante in perpetuuum domino nostro iesu christo"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Qui mundi monarchiam sua semper uirtute gubernat."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1433, dated 824."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 181v/col. 1", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To \u01bfestbyrig and to heanbyrig"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine domini nostri iesu christi qui cuncta regit saecula."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego alhmund dux. Ego eadgar dux."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 181b/cols 1-2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u01bfestbyrig and stoce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine domini dei summi."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego byrnwald dux. Ego aldred dux."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1187, dated 804."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 181v/col. 2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Huntena tun."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Seculi namque labentis tempora."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego \u00e6\u00felemund. Ego eadgar."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 148, dated 796."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 181v/col. 2", 
+            "text": "Herold 2004", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Heanbyrigand sture."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine domini iesu."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): redemptione animarum nostrarum End of the leaf."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1411, dated 757\u00d7775"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "392 mm x 279 mm (dimensions of fols 181-84 - size of leaves).\n356 mm x 253 mm (dimensions of fols 181-84 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in 1969 by the <span class=\"name\">British Museum</span>, stamped with the <span class=\"name\">Cotton</span> arms (<a href=\"#bri1165\">British Library Catalogue</a>).", 
+    "accompanying": "Modern pastedowns, the upper with the pressmark '691 E' and the lower stamped 'B.M. 1969', five modern paper upper endleaves, the first stamped 'COTTON MS. NERO E. I PART II', three modern paper lower endleaves, the first with a note recording 428 fols struck through then replaced with 222 fols One bibliographical slip recording five items.", 
+    "history": {
+        "origin": "Written in <span class=\"name\">Worcester</span> under the direction of <span class=\"name\">Bishop Wulfstan II</span>. It was probably once bound with the Offa Bible, an early eighth century Bible given to <span class=\"name\">Worcester</span> by <span class=\"name\">King Offa</span> (See <a href=\"#atk489\">Atkins and Ker 1940</a>, pp. 77-79; <a href=\"#atk1279\">Atkins 1940</a>; <a href=\"#ste1277\">Stevenson 1911</a>).", 
+        "provenance": "Unknown.", 
+        "acquisition": "Belonged to <span class=\"name\">Robert Cotton</span>. The <span class=\"name\">British Museum</span> acquired it along with the rest of the Cotton collection."
+    }, 
+    "admin": "Described by Takako Kato with the assistance of Hollie Morgan (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "atk1282", 
+        "atk1279", 
+        "atk489", 
+        "bir1276", 
+        "bis1283", 
+        "bri1165", 
+        "bro3", 
+        "bro1284", 
+        "bro1286", 
+        "bro1285", 
+        "dav12", 
+        "dug1072", 
+        "gam38", 
+        "gam211", 
+        "gne146", 
+        "had774", 
+        "her1289", 
+        "kem1290", 
+        "ker555", 
+        "ker478", 
+        "ker44", 
+        "low17", 
+        "mar1287", 
+        "rob439", 
+        "saw11", 
+        "saw1604", 
+        "ste1277", 
+        "tho160", 
+        "tin669", 
+        "tit1288", 
+        "tur1278", 
+        "wan470", 
+        "web638"
+    ]
+}

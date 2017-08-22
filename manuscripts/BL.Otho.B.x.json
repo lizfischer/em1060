@@ -1,0 +1,24 @@
+{
+    "id": "BL.Otho.B.x", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Otho B. x", 
+    "ker": "178", 
+    "content": "Homilies (fragments)", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Two homilies originally occupied twelve leaves, of which two survived the fire of 1731. The manuscript is copied in one hand, s. xi<span class=\"sup\">med</span>. Interlinear glosses in the <span class=\"name\">Tremulous Hand</span>, and probably at <span class=\"name\">Worcester</span> by the beginning of the s. xiii (<a href=\"#ker44\">Ker 1957</a>, p. 229).", 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Johanna Green, with reference to published scholarship; ed. by Takako Kato (2010; 2013)", 
+    "surrogate": false, 
+    "bib": [
+        "#44", 
+        "#nap123"
+    ]
+}

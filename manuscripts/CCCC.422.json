@@ -1,0 +1,501 @@
+{
+    "id": "CCCC.422", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "422", 
+    "ker": "70B", 
+    "content": "Notes on computus and headings in a missal", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "A fragment of <span class=\"italics\">Solomon and Saturn</span> pp. 1-6, 13-26, Part A. Part B, pp. 27-504, Notes computus for Lent, Easter etc. as well as headings in a missal. The two parts are copied by two hands. Unknown origins, but the 'calendar of part B (pp. 29-40) is of <span class=\"name\">Sherborne</span> use' (<a href=\"#ker44\">Ker 1957</a>, p. 121).", 
+    "items": [
+        {
+            "locus": "pp. 1-26", 
+            "text": "A.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 2) leofre \u00f0on eall \u00f0eos (text in p. 1 is very unclear as it was once pasted to the front cover)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 26) to him middes"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ker notes: 'The text on p. 14 has been erased and replaced with a Latin form of excommunication s. xiii. Three leaves are missing in total: after pp. 12, 18 and 22."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "men1627", 
+                    "page": "p. 83-104"
+                }, 
+                {
+                    "work": "kem1290", 
+                    "page": "p. 176"
+                }, 
+                {
+                    "work": "dob617", 
+                    "page": "p. 31"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 27", 
+            "text": "B.20.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 27) Luna. gimeneu[...] on aest her hit [...]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 27) Luna. N. onest bona his hit her god tima"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "top right corner of p. 27 has been cut away and blank parchment sown back into place; text is therefore lost."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen1486", 
+                    "page": "p. 334"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 28", 
+            "text": "B.20.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 28) Gif \u00f0u \u01bfille \u01bfitan hu fela epacta"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 28) Gif \u00f0u \u01bfile giman \u00f0ises trametes \u00feonne byst \u00feu \u00f0e cleawra on gerimcr\u00e6fte"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Repeated on p. 47 of the manuscript"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 49"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 29-40", 
+            "text": "B.20.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 29) Ianuariushabet diesXXXI. luna"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 29) \u00d0es mono\u00f0 h\u00e6f\u00f0 anond.XXX. da[ga]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 40) Seo niht h\u00e6f\u00f0XVIII.eahtatidaondse d\u00e6gVI. To underneondto noneXVII. fotgemetuondto midd\u00e6ge XI. fotgemetu"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "wor1084", 
+                    "page": "no. 14"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": ", p. 17 and p. 59"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 63"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 42-43", 
+            "text": "B.20.1.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 42) Gif \u00f0u \u01bfille \u01bfitan h\u01bf\u00e6nne septuagessima beon sceole"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 43) Se by\u00f0 easterd\u00e6g ge\u01bfirlice"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": ", pp. 40-42"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 46-47", 
+            "text": "B.20.1.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 46) Gif \u00f0u ne cunne understandan on \u00f0is ledene \u00fee her beforan a\u01bfriten is \u00feonne loca \u00f0u her hu \u00feu scealt \u00fein gear rihtlice gefadian"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 47) s\u01bfa \u00feu miht \u01bfitan \u00feeah \u00feu \u01bfille bundred geara \u00f0\u00e6s monan ryne"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": ", pp. 42-43, 45-46, 61, 47, 48, 49 and 55"
+                }
+            ]
+        }, 
+        {
+            "locus": " p. 47", 
+            "text": "B.20.11.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 47) \u00d0is synd \u00fea \u00fery friged\u00e6gas \u00fee man sceal f\u00e6stan on t\u01bfelf mon\u00f0um \u00f0onne ne cym\u00f0 n\u00e6fre his saul on helle \u00fe\u00e6t is se \u00e6resta frid\u00e6g on kalendarismaius ond se o\u00feer \u00e6fter PENTECOSTENondse \u00feridda onkalendrisiulius \u00fe\u00e6t is se fyrmesta fried\u00e6g"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 64"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 48", 
+            "text": "B.20.18.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 48) Fram middan\u01bfintra by\u00f0 to sancta MARIAN m\u00e6ssan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 48) ond\u00fe\u00e6s ymbeIIII. niht by\u00f0 middes\u01bfintres m\u00e6ssed\u00e6g"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 71"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 49", 
+            "text": "B.20.12.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 49) On t\u01bfelf mon\u00f0um by\u00f0 \u00fereo hund dagaond.V.ondsyxtig dagaond\u00fe\u00e6ra \u01bfucena synt t\u01bfaondfiftigond\u00fe\u00e6ra tida eahta \u00feusendaondeahta hund syxtig tida"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 67"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 133", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 133) for fl\u00e6sccostunge \u00fe\u00e6t is idellust"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 182"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 171", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 171) for \u00feone kyning"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 179"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 280", 
+            "text": "B.24.27.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 280) Bletsung Benedictio"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric is the only Old English in this text"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 330", 
+            "text": "B.14.41.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 330) Ic eo\u01bf halsie \u00feurh \u00f0onne f\u00e6der"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 330) ondto \u00f0isson \u01bfe ofode negan gif ge \u00feis dydon \u00fee ge beogenne syndon o\u00f0\u00f0e \u01bfison h\u01bfa hit dide"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "p. 415"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 330-32", 
+            "text": "B.14.41.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 330) Ic halsie \u00f0e man"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 332) ondrixast mid f\u00e6derondmid halgam gaste on \u01bforuld a \u01bforuld a butan ende. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "p. 415"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 367-412", 
+            "text": "B.12.5.3.2.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 400) \u00c6fter\u00feisumcollectan bige se preost"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 412) Uton \u01bfe nu gem\u00e6nelice biddan mideallummode urne drihten h\u00e6lend crist\u00fe\u00e6the \u00feysne his mettruman geneosnige to \u00f0earflicere andetnisse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "feh1300", 
+                    "page": "pp. 48-63"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 429-35", 
+            "text": "C.82.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 429) Her onging\u00f0 seo endebyrdnyss hu man sceal embe \u00feonne untruman don \u00feanne man gesyh\u00fe\u00fe\u00e6thu ge endung geneal\u00e6ce\u00f0. \u00deonne onginnon \u00fea geleaffullanond\u00fea gastlican gebro\u00f0ru tosynganne hyra seofon sealmas.ondletaniaondr\u00e6deman sy\u00f0\u00f0an cristes \u00fero\u01bfunge ofer hineondo\u00fere halie ge\u01bfritu o\u00f0 \u00feonne fyrst \u00fee seo saul fram \u00feam lichaman acirred beo. \u00deonne on ginne se m\u00e6ssepreost \u00feysne antifen \u00fee her \u00e6fter ge\u01bfriten is."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( p. 435) ond\u00feonne hit man ferian \u01bfille\u00feonnesingeman \u00feisne repsondo\u00fere s\u01bfilce \u00feu \u01bfille.\u00feonneman cume neah cirican duru \u00fe\u00e6r hit to sceal \u00feonne singe man \u00feisne dritifen \u00f0e her is gemearcod."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }, 
+                {
+                    "work": "feh1300", 
+                    "page": "pp. 65-67"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 444", 
+            "text": "B.12.5.3.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 444) Bletsung ofer \u00fe\u00e6re byrgene sy\u00f0\u00f0an \u00fe\u00e6t lic bi\u00f0 on eor\u00fean"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Heading at the conclusion of the burial service. Rubric constitutes the entire Old English text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 508-38", 
+            "text": "B.12.5.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": ""
+                }, 
+                {
+                    "head": "p. 512", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "p. 513", 
+                    "body": "R\u00e6dinc"
+                }, 
+                {
+                    "head": "p. 518", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "p. 519", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "p. 521", 
+                    "body": "R\u00e6dinc"
+                }, 
+                {
+                    "head": "p. 521", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "p. 524", 
+                    "body": "R\u00e6dinc"
+                }, 
+                {
+                    "head": "p. 525", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "p. 534", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "p. 537", 
+                    "body": "R\u00e6d"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Headings of 'R\u00e6d' or 'R\u00e6dinc' to the lectons of the common of Saints."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 70"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Johanna Green, with reference to published scholarship; ed. by Takako Kato (August 2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

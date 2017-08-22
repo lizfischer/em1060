@@ -1,0 +1,120 @@
+{
+    "id": "CanCL.Add.20", 
+    "city": "Canterbury", 
+    "repository": "Cathedral Library", 
+    "collection": "Add.", 
+    "shelfmark": "20", 
+    "ker": "97", 
+    "content": "Rule of Chrodegang (fragment)", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-2v", 
+            "text": "B.10.4.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r from ch. 39) Se healfa d\u00e6l \u00fe\u00e6ra preosta | \u00fee yldran beon.. ge | macan sceona finde man \u00e6lcum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 2v) 7 he him heora | [neode be his m]ihtum do. 7] georne.. [swa micle ma eo]wer \u00e6lc sceal o\u00feres"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Parts of chapters 39, 40, and 43. Four leaves missing between fols 1 and 2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "doa691", 
+                    "page": "pp. 1-2"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 97"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Fragment of a bifolium", 
+        "support": "Parchment", 
+        "extent": "236 mm x 163 mm (dimensions of all - size of leaf).\n224 mm x 115 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "19 lines.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "Main", 
+                "scope": "Major", 
+                "script": "Caroline Minuscule with Insular letters", 
+                "scribe": "Ker 97 SC1", 
+                "description": "According to", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> in Old English is round and insular."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> and <span class=\"c\">e</span> are the same height in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> in Old English is round and its ascender is very short."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> in Old Engish is round-backed (as in Latin); its head is very small."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> has a round loop which closes."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long and high forms of <span class=\"c\">s</span> are used indifferently."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "Rounded <span class=\"c\">y</span> in Latin, and straight-limbed <span class=\"c\">y</span> in Old English; both forms are dotted."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are wedged and sometimes split."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": null, 
+        "provenance": "<a href=\"#ker44\">Ker 1957</a> identifies it as the copy of <span class=\"italics\">Regula canonicorium</span> among the <span class=\"italics\">Libri anglici</span> in the early 14th-century catalogue of <span class=\"name\">Christ Church, Canterbury</span>, but James says that this entry presumably refers to 'the Rule of <span class=\"name\">St. Augustine</span>' (See <a href=\"#doa691\">Doane 1997</a>, p. 1).", 
+        "acquisition": "Formerly 'Box CCC no. xix<span class=\"italics\">a</span>'. It was discovered by <span class=\"name\">William Urry</span> in the 1940s in <span class=\"name\">Canterbury</span> (<a href=\"#ker44\">Ker 1957</a>, p. vii)."
+    }, 
+    "admin": "Described by Takako Kato, with reference to published scholarship (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "doa691", 
+        "gne146", 
+        "JAM602", 
+        "ker44", 
+        "nap562", 
+        "nap692", 
+        "nap693", 
+        "scr565"
+    ]
+}

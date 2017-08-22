@@ -1,0 +1,40 @@
+{
+    "id": "SCL.131", 
+    "city": "Salisbury", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "131", 
+    "ker": "supp 420", 
+    "content": "Scribble", 
+    "location": "Salisbury", 
+    "summary": "Main text is <span class=\"italics\">Ephraem Syrus</span>. The main text scribe has written in a margin a note which has no relationship to the main text. <a href=\"#ker44\">Ker</a> identifies the scribe as \u2018a <span class=\"name\">Salisbury</span> scribe whose work is known in a number of manuscripts\u2019 (1957, p. 577)", 
+    "items": [
+        {
+            "locus": "fol. 3", 
+            "text": "B.27.3.45.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "ofer \u00fe\u00e6t hus"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 577"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

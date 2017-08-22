@@ -1,0 +1,1945 @@
+{
+    "id": "BL.Harl.863", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "863", 
+    "ker": "232", 
+    "content": "Continuous gloss to Quincunque vult written in the Leofric Psalter", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": "The <span class=\"italics\">Leofric Psalter</span>. On fol. 107 is the <span class=\"italics\">Quicumque vult</span>, which has a continuous Old English gloss beginning 'sÆ¿a hÆ¿a sÆ¿a wile hal Æ¿esan toforan eallum | Ã¾earf ys Ã¾<span class=\"expanded\">Ã¦t</span> healde Ã¾one fulfremedan geleafan' (<a href=\"#hol536\">Holthausen</a> 1942-43).",
+    "items": [
+        {
+            "locus": "fols 1*r-v", 
+            "text": "Bishop", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Jottings, in various late hands, include 'deus deus meus', 'O maria maris stella', and below that 'O maria maris stella'; Latin verse, a note on feria vi, saints' names, etc."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 1r-6v", 
+            "text": "Bishop", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Calendar (12c) with late obits added in margins."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 7r", 
+            "text": "Bishop", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Aureus hac arte nonus formatur aperte....Linea sola tenet nemo sic esse refutet'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 7v", 
+            "text": "Bishop", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In festo Reliquiaruum Exoniensis ecclesie ad processionem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): '[S]alue festa dies toto uenerabilis euo | Qua datur in sanctis gloria digna deo'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bis534", 
+                    "page": "1918, p. 407"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 8r-98v/22", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 98v/23-99r/2", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Explicit liber psalmorum habens uersus v\u02c9cli | Hic psalmus propri\u0119 script[um] a dauid et extra numerum | cum pugnaui cum golia. Hic in ebreis codicibus non habetur. | Sed nec a lxx. interpretibus editus est et idcirco repundiandus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 99r/3-15", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Pusillus eram inter fratres meos'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 99r/16-99v/4", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum isaie prophete"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Confitebor tibi domine'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 99v/4-110r/8", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum ezechi\u0119 regis iud\u0119."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Ego dixi in dimidio dierum meorum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 100r/9-100v/7", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum ann\u0119."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Exultauit cor meum in domino'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 100v/8-101r/25", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum moysi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Cantemus domino glorios\u0119 enim honorifi | magnificatus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "honorifi on erasure by another hand and underlined to signal deletion, magnifi- added; thus honorificatus \u203a magnificatus."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 101v/1-102r/20", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum abbacuc prophetae."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Domine audiui auditionem tuam'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 102r/20-104r/20", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum moysi in deutro | nomio ad filios israhel"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Audite caeli quae loquor'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 104r/21-105r/1", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ymnus sancti uicetii aepiscopi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Te deum laudamus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 105r/2-105v/5", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ymnus Trium puerorum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Benedicite omnia opera domini domino'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 105v/6-24", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum zachari\u0119 prophet\u0119"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Benedictus dominus deus israhel'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 106r/1-14", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum Sanct\u0119 mari\u0119 matris domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Magnificat anima mea dominum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 106r/14-20", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Canticum Sancti Simeonis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Nunc dimittis seruum tuum domine'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 106r/21-106v/3", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit oratio dominica Secundum matheum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Pater noster qui es in c\u0119lis sanctficetur no | men tuum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 106v/1-16", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit simbolum apostolorum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Credo in deum patrem omnipotentem | creatorem c\u0119li & terr\u0119'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 106v/17-107r/5", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ymnus angelicus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Gloria in excelsis seo'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 107r-v", 
+            "text": "C.11.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 107r) s\u01bfa hwa s\u01bfa \u01bfile hal \u01bfesantoforan eallum | \u00feearf ys \u00fe\u00e6t healde \u00feone fulfremedan geleafab"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 107v) god is of spede f\u00e6der \u00e6r \u01bforulde akenned | man ys of edwiste moder on \u01bforld"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 107r/5-108r/19", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit fides | catholica athanasii alexandriei episcopi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Quicumqueuult saluus esse ante omnia | opus est ut teneat catholicam fidem'[gloss:] 'swa hwa swa wile hal wesan toforan eallum | \u00feearf ys \u00fe\u00e6t healde \u00feone fulfremedan geleafan'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Finit."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English Gloss"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The OE gloss stops after v. 31 (end of fol. 107v). The explicit occurs on the same line as the incipit to the next item."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 108r/20-108v/9", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): oratio post psalterium."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Liberator animarvm | mundi redemptor iesu christe deus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, p. 434"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 108v/9-111v/20", 
+            "text": "Lapidge", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit Letaniae"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lep521", 
+                    "page": "1991, pp. 193-202"
+                }, 
+                {
+                    "work": "dew535", 
+                    "page": "1914, pp. 435-43"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 111v/20-112r/4", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): preces"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Pater noster. Et ne nos'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, pp. 443-45"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 112r/4-8", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Item"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Et ueniat super nos'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, p. 443-45"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 112r/8-112v/8", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Item preces"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Ego dixi domine miserere mei'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, pp. 444-45"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 112v/8-19", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio propria alicuius"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Omnipotens et misericors deus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, pp. 445-54"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 112v/19-23", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Alia"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Deus cui proprium est parcere saluare & non perdere'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, pp. 445-54"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 112v/23-113r/3", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro compunctione | lacrimarum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Omnipotens mitissime deus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'mitissime' on erasure"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113r/4-9", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro temptatione diabolica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Parce domine parce | peccatis meis'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113r/9-17", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro fratribus | et sororibuset familia | ribus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Omnipotens sempitern\u0119 deus. qui es | misericordia inestimabilis'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113r/9-17", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): alia"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Deus qui caritatis dona per gratiam'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113r/23-113v/5", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro salute uiuorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Pretende domine fidelibus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Heading obscured by sewing"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113v/5-9", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro inimicis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Deus pacis caritatisque'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113v/9-11", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio | contra hostes christiani nomi | nis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Hostium nostrorum domine'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113v/12-15", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Omnipotens deus christiani nominis inimicos'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113v/15-20", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro pace"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Deus regnorum omnium regumque'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Heading partly illegible"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 113v/20-25", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro iter agentibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Deus qui diligentibus te misericordiam tuam'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Heading partly illegible"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 114r/1-6", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro nauigantibus."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Deus qui transtulisti patres | nostros'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 114r/6-end of leaf", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio | uniuersalis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Pie et exaudibilis domine deus noster'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 114v/1-8", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): pro omnibus fidelibus defunctis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Deus cui proprium est'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 114v/8-17", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad personam patris."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Domine deus pater omnipotens. qui consubstantia | lem'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 114v/17-end of\n                  \tleaf", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad personam filii"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Domine iesu christe fili dei uiui'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 115r/1-10", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad personam et spiritus sancti."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Domine sancte spiritus. deus omnipotens qui coequalis et co | \u0119ternus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 155r/10-21", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad sanctam et indiuiduam trinitatem."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Domine deus omnipotens etern\u0119 et ineffabilis sine fine'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 115r/21-115v/13", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad sanctam crucem."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Per gloriam et uirtutem sanct\u0119 crucis'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 115v/13-end of\n                  \tleaf", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad sanctam mariam"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Singularis meriti solo sine exemplo mater | uirgo sancta maria'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116r/1-8", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad ordines angelorum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Precor uos sancti angeli et archangeli'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116r/8-16", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad apostolos."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Sanctissimi apostoli domini mei'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116r/17-end of\n                  \tleaf", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad sanctos innocentes."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Sancti innocentes immo uirgines'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116v/1-9", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio | ad martyres"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Sancti martyres gloriosi qui fortes | extitistis'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116v/9-14", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad confessores."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Sanctissimi confessores qui in pace'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 116v/14-end of\n                  \tleaf", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad uirgines."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Sanct\u0119 uirgines glorios\u0119 quibus data est'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 117r/1-8", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio ad omnes sanctos."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Rogo uos omnes sancti patriarch\u0119 et prophet\u0119'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 117r/8-14", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Item alia."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'omine deus omnipotens per intercessiones omnium | sanctorum tuorum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed incipits to antiphons, etc., all in a smaller hand (ll. 15-18)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 117r/19-21", 
+            "text": "Dewick", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): capitu la"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Gaudete perfecti... uobiscum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by incipits to hymns with neumed responses (ll. 21-22)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dew535", 
+                    "page": "1914, p. 454"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 117r/23-25", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Collecta."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Exaudi quesumus domine gemitu populi'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (l. 25-fol. 117v/1)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 117v/2-10", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Primum quidem gratias ago deo'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 10-13)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 117v/13-21", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Nolo autem uos ignorare fratres'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 21-24)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 117v/25-118r/6", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioiii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Reuelatur enim ira dei de c\u0119lo super omnem'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 6-10)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 118r/10-19", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioiiii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Quia cum cognouiss& deum. non sicut deum glorifica | uerunt'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 19-21)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 118r/22-118v/5", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectiov."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Qui commutauerunt ueritatem dei in mendacium'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 5-7)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 118v/7-15", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectiovi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Et sicut non probauerunt deum habere in notitia'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 15-18)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 118v/18-24", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectio secundum euangelium sancti iohannis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'In illo tempore'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 24-fol. 119r/1)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 119r/2-9", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioviii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Nunc autem quia bona est'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed byneumed response (ll. 10-12)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 119r/12-17", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioviiii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Porro taciani & martiani'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 17-21)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 119r/21-119v/4", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In laudibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Mirabilis in excelsis'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In the same hand as that of response; neumed."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 119v/4-6", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Capitula"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Caritas dei & dilectio maneat nobiscum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 6-7)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 119v/7-10", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Oratio"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Conserua quesumus domine populum tuum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 10-14)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 119v/15-16", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): capitula"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Benedictus deus & pater omnipotens nos famulos tu\u0119'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 21-22)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 119v/22-120r/2", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Scimus quoniam iudicium dei est secundum ueritatem in eos'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (fol. 120r/2-5)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120r/5-14", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Secundum duritiam autem tuam'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 14-16)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120r/17-120v/23", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioiii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Gloria & honor & pax omni operanti bonum'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by response (fols 120r/23-120v/3)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120v/3-6", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): capitula."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Nox precessit. dies autem appropinquabit'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 6-8)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120v/8-12", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): collecta."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Matutina supplicum uota quesumus domine propitius'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 12-15)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120v/15-17", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): capitula"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Dominus autem dirigat corda nostra'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 17-18)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120v/18-22", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): collecta."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Exaudi domine famulos tuos'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 22-23)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 120v/23-25", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Si autem tu iudeus cognominaris & requiescis in lege'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly, followed by a loss of the central bifolium in the gathering."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 121r/1", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): '...ad effundendum sanguinem'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Begins imperfectly, after a loss of two leaves after fol. 120. Followed by a neumed response (ll. 1-16)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 121r/16-21", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Quod deus incommutablis summus & \u0119ternus | existat'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by response (ll. 21-25)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 121r/25-121v/6", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Ac pro hoc quia in deo mutabilitas'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 6-9)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 121v/9-15", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioiii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'Nam de incommutabili deo scriptum est'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (fols 121v/16- 122r/6)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 122r/7-14", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Dum ad hanc mutabilitatem toto affectu'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 14-18)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 122r/19-23", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Sicut per beatum iob dicitur'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (fols 122r/23- 122v/1)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 122v/1-5", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Lectioiii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): | 'In hoc namque quod de diuin\u0119 nature potentia | audiuimus'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "follwed by neumed response (ll. 6022)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 122v/23-123r/7", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Parce michi domine'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (ll. 7-12)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 123r/13-23", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Tedet animam meam uit\u0119 me\u0119'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by neumed response (fols 123r/24- 123v/6)"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 123v/7-13", 
+            "text": "Pulsiano", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Manus tue domine fecerunt me & plasmauerunt me'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "followed by response (ll. 14-25), ending incompletely."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "288 mm x 192 mm (dimensions of all - size of leaves).\n234 mm x 128 mm (dimensions of all - size of written).", 
+        "foliation": "[i] + 125 + [ii] leaves, foliated 1*, 1-27, 27*-123.",
+        "collation": "<span class=\"sup\">8</span> (fols i, 1-7);\n<span class=\"sup\">8</span> (fols 8-15);\n3<span class=\"sup\">8</span> (fols 16-23);\n4<span class=\"sup\">8</span> (fols 24-30; 26 and 28 are singletons, stubs of these leaves are visible. Fol. 27* after fol. 27. Fol. 30 has repair by stitching);\n5<span class=\"sup\">8</span> (fols 31-38);\n6<span class=\"sup\">8</span> (fols 39-46);\n7<span class=\"sup\">8</span> (fols 47-53; the third leaf of the fol. is missing, and a stub is visible between fols 48 and 48. Fol. 51 is a half-sheet);\n8<span class=\"sup\">8</span> (fols 54-61);\n9<span class=\"sup\">8</span> (fols 62-69);\n10<span class=\"sup\">8</span> (fols 70-77);\n11<span class=\"sup\">8</span> (fols 78-85; fols 80 and 83 are two singletons);\n12<span class=\"sup\">8</span> (fols 86-93; fols 88 and 91 are two singletons);\n13<span class=\"sup\">8</span> (fols 94-101; fols 96 and 99 are two singletons);\n14<span class=\"sup\">8</span> (fols 102-09);\n15<span class=\"sup\">8</span> (fols 110-17);\n16<span class=\"sup\">8</span> (fols 118-23; the fourth and the fifth leaves are missing after fol. 120).",
+        "layoutDescription": "Ruled for 25 lines, single column, double bounding lines. Prickings in the outer margins. The coloured initial capital letters are place in the left double bounding lines, which is about 1 cm wide. <a href=\"../mss_layout/LO21.pdf\">See diagram</a>.",
+        "condition": "As <a href=\"#pul67\">Pulsiano</a> notes, 'leaves show signs of wear and are generally darkened throughout, with the gutters noticeably darkened. The last leaf is dirty and worn, suggesting that the book was without a cover for a while' (1996, p. 37). Some leaves are repaired by stitching; there are also some modern repairs.",
+        "note": "Leaves are arranged HFHF. Part of the text (8 lines) is erased at fol. 38v."
+    },
+    "handDesc": {
+        "number":"1 in Old English",
+        "summary":"One hand in Old English in a script contemporary with the script of the psalter, canticles and litany (<a href=\"#ker44\">Ker</a> 1957, p. 307).",
+        "hands":[
+            {
+                "name": "Glosses",
+                "scope": "Minor",
+                "script": "English Vernacular Minuscule",
+                "description": "Fol. 107r-v.",
+                "summary": "Exeter type script, in very thin pen.",
+                "characters": [
+                    {"char": "e", "note": "<span class=\"c\">e</span> is high in the combination <span class=\"c\">Ã¦</span>."},
+                    {"char": "s", "note": "The descender of long <span class=\"c\">s</span> extends below the writing line and tapers to the left."},
+                    {"char": "y", "note": "<span class=\"c\">y</span> is dotted, and both limbs slightly curves over to the left at the top."},
+                    {"char": "h", "note": "<span class=\"c\">h</span> is insular with distinct serifs at both feet."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> is insular with its loop either open or closed."},
+                    {"char": "Ã°", "note": "<span class=\"c\">Ã°</span> has a tall ascender, with a serif to the left at the top, and a cross-bar has an upwards serif at the right end."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are tall and split at the end."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> often finish tapered and bending to the left."}
+                ],
+                "date":"",
+                "place": "",
+                "otherManuscripts": [""]
+            }
+        ]
+    },
+    "decoration": ["Fols 1r-6v Red, green, blue and brown ink is used for the calendar.", "Initials and some rubrics of the psalter are alternately green, red, metallic red and blue. Some initials are very elaborate: for example, the display line to Psalm 1 is written in red and black ink; at the beginning of Psalm 51 is an incomplete drawing in lead of an oval containing a floral design. ", "The text is divided by drawings of figures. "],
+    "additions": "fol. 20r A small face in red ink.\nfol. 54r A drawing in red of a figure with a crowned human head and a serpentine body.",
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written in <span class=\"name\">Exeter</span>.", 
+        "provenance": "According to <a href=\"#lap521\">Lapidge</a>, the manuscript is 'very possibly one of the two such psalters given to the <span class=\"name\">Exeter</span> chapter by <span class=\"name\">Bishop Leofric</span> in 1072' (1991, p. 74).", 
+        "acquisition": "Originally owned by <span class=\"name\">Edward Stillingfleet</span> (1635-99). His collection was bought by <span class=\"name\">Robert Harley</span> in 1707 (<a href=\"#wri1198\">Wright</a> 1972, pp. xxxiv, 316), then by the <span class=\"name\">British Museum</span> in 1753."
+    }, 
+    "admin": "Described by Takako Kato with the assistance of Hollie Morgan and Sanne van der Schee (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bis534", 
+        "bri1174", 
+        "dra419", 
+        "dew535", 
+        "gne146", 
+        "hol536", 
+        "ker44", 
+        "lap521", 
+        "pul67", 
+        "scr565", 
+        "wri1198"
+    ]
+}

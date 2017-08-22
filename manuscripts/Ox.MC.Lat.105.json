@@ -1,0 +1,41 @@
+{
+    "id": "Ox.MC.Lat.105", 
+    "city": "Oxford", 
+    "repository": "Magdalen College", 
+    "collection": "Lat.", 
+    "shelfmark": "105", 
+    "ker": "357", 
+    "content": "C\u00e6dmon\u2019s Hymn", 
+    "location": "Unknown", 
+    "date": "s.xii^{med}", 
+    "summary": "<span class=\"italics\">C\u00e6dmon\u2019s Hymn</span> which is added in Old English by the main hand in a margin of a copy of the Latin text of the <span class=\"italics\">Historia ecclesiastica</span>. Place of production not known. The hand has some similar characteristics to that of a scribe in <a href=\"EM.Ox.Bodl.343.htm\">Bodley 343</a>, fols 1-170.", 
+    "items": [
+        {
+            "locus": "fol. 99r", 
+            "text": "A.32.2", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "dob699", 
+                    "page": "39 (Mg)"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 434"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Orietta Da Rold, Mary Swan and Owen Roberson, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#dob699", 
+        "#ker44"
+    ]
+}

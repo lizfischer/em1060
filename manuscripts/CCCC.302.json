@@ -1,0 +1,1016 @@
+{
+    "id": "CCCC.302", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "302", 
+    "ker": "56", 
+    "content": "\u00c6lfric: Hexameron, Homilies", 
+    "location": "Unknown", 
+    "date": "s.xii^{in}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 11-22", 
+            "text": "B.1.5.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her seg\u00f0 hu ure drihten gesceop heofonan. 7 eor\u00f0an 7 ealle gesceafta"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial H is red and purple."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra497", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 22/15-26/13", 
+            "text": "B.1.1.41", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICA PRIMA DE ADVENTV DOMINI |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0YSES D\u00c6GES \u00deENUNG"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial \u00d0 is green."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 600-07"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "520-23"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 26/13-33/7", 
+            "text": "B.1.1.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAII.a DE ADUENTU | DOMINI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Erunt signa in sole.... SE GODSPELLERE LVCAS awrat on \u00feisum d\u00e6g\u00feerlican | godspelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial S is red and purple."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 608-19"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "524-30"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 33/8-40/15", 
+            "text": "B.1.3.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAIII. VELQVANDO UOLVERIS |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE APOSTOL PAULUS EALRA \u00feeoda lareow"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I, 364-83"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 40/15-42", 
+            "text": "B.2.2.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAIIII. VEL QVANDO VOLUERIS |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "GEHADEDVM MANNUM is swi\u00f0e micclum beboden fram | gode sylfum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial G is purple."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "172-74"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 43/1-50/21", 
+            "text": "B.1.1.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE NATIVITATE DOMINI. NOSTRI IESV CHRISTI |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u01f7E WILLA\u00d0 TO TRIMMINCGE"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I , 28-45;"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "190-97."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 50/21-57/14", 
+            "text": "B.1.1.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De SANCTO STEPHANO PROTPMARTYRE |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "We r\u00e6da\u00f0 on \u00fe\u00e6re bec \u00dee is gehaten actus apostolorum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial \u01f7 is purple and green."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 44-57"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "198-205"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 57/14-66/30", 
+            "text": "B.1.1.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE SANCTO IOHANNE EVANGELISTA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "IOHANNES SE GODSPELLERE CRISTES dyrlinc wear\u00f0 on \u00feissum d\u00e6g"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I,  58-77"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "206-16"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 66/30-71/7", 
+            "text": "B.1.8.5.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAII. BE \u00d0ERE HALGAN CL\u00c6NNESSE |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "URE H\u00c6LEND CRIST CYDDE \u00fe\u00e6t he lufod \u00fea halgan || cl\u00e6nnesse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "13-23, no. 2, ll.13-225."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 71/7-73/14", 
+            "text": "B.3.2.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u01bf \u01f7 DOMINICAIII. ET QUANDO UO | LUERIS. BE HEOF-ONWARUM 7 BE HELWARUM |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00f0a LEOFESTAN. ute gehyran her godes word"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "wil334", 
+                    "page": "38"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 73/15-78/3", 
+            "text": "B.3.2.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAIIII. ET QUANDO UOLVERIS BE URVM DRIHTENE |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00d0A LEOFESTAN VRE DRIHTEN \u00c6lmihtig god"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "164-69, 13-23, no. 2, ll.13-225"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 78/4-83/2", 
+            "text": "B.3.2.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAV. AUT QUANDO uolueris de uerbis domini |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00f0a LEOFESTAN VTAN ge\u00feencan georne on ure | ge\u00feance"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "257/9-265 [second part of no. 49]."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 83/3-90/1", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICA IN SEPTVAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "DRIHTEN S\u00c6DE | \u00feis bigspel his leorningcnihtum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial D is green; line 7, initial S red."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 72-84;"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "41-49/223, who treats this item and the following as his single Homily V."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 90/2-91/20", 
+            "text": "Thorpe 1844-46", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE ALLELVIA"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u01f7E willa\u00f0 eow secgan be \u00feissere andweardan tide"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 84-89,"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "49/234-51/287."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 91/20-97/19", 
+            "text": "B.1.2.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICA IN SEXTAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "CVM TVURBATA PLVRIMA....On sumere tide \u00f0a \u00fea micel meniu"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 88-98"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "52-59"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 97/19-104/20", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICA IN QUINQUAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ASSUMSIT IESUS DUODECIM DISCIPULOS.... Her is ger\u00e6d on \u00feissum godspelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 152-65"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "258-65"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 104/20-112/9", 
+            "text": "B.1.3.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): LARSPEL IN CAPITE IEIUNII |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ON \u00d0ISSERE WUCAN ON WODNESD\u00c6G"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I, 260-83."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 112/10-120/6", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAI. IN QUADRAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ductus est iesus.... Ic wolde eow trahtnian"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 113, later twelfth century note in right margin refers to '\u00fea yfelan men' p. 113/14: 'Robberas \u02e5 Reaferas | \u00feeofas \u02e5 falsa myneteras | wicche \u02e5 wanwestras | \u00fee fordo\u00fe men \u02e5 man | na bi\u021dleofa'; p. 113/24, 'hwi him' interlinear correction; p. 115/3, 'dyrstelican' added to line 2; p. 119/16, 'wanspedge' glosses '\u00e6lfremedan'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 166-61"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "266-74"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 120/7-125/26", 
+            "text": "B.1.2.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FERIAII. EUANGELIUM. CUM VENERIT. |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00d0A LEOFESTAN | eow eallum is cu\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 98-109"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "60-66"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 125/26-129/28", 
+            "text": "B.1.2.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAII. IN QUADRAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "EGRESSVS INDIE [sic] iesus.... Drihten h\u00e6lend \u00fereade mid wordum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'D' in red is smaller."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 110-17"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "67-71"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 129/28-137/5", 
+            "text": "B.1.4.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAIII. IN QUADRAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ERAT IESUS EICIENS.... ON \u00fe\u00e6re m\u00e6ran tide \u00fee se mildheorta h\u00e6lend | wunode"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "I, 264-80"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 137/5-142/7", 
+            "text": "B.1.1.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAIIII. QUADRA | GESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ABIIT IESUS.... Se h\u00e6lend ferde ofer \u00fea galileiscean s\u00e6"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initials A and S are red and intertwined."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "275-80"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "I, 180-93"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 142/7-151/14", 
+            "text": "B.1.2.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICAV. IN QUADRAGESIMA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00d0EOS TID FRAM \u00feisum andweardum d\u00e6ge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial \u00d0, line 8, is green; initial Q, line 22, is purple. Latin text (Godden 1979, 127/14) preceded by the heading 'EUANGELIVM'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 224-241"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "127-36"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 151/14-155/28", 
+            "text": "B.1.5.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FERIAVI. ANTE RAMOS PALMARUM |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "COLLEGERVNT PONTIFICES.... \u00de\u00e6t halige godspel \u00fee ge gehyrdon nu r\u00e6don"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Erased red letters, lines 17-18."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "65-72"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 155/28-163/12", 
+            "text": "B.1.1.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DOMINICA IN DIE RAMIS PALMARVM |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "CRISTES \u00deROWUNG W\u00c6S GER\u00c6D"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 157/5 '\u02e5 bringan' added; p. 157/20, 'hyrsumnysse' glosses 'bigengu'; p. 157/26, 'hrine\u00f0 fule synne' in right margin; p. 159/bottom margin, 'dedbote'. Same hand as that annotating pp. 113 and 119. At p. 159/12-13 'blissia\u00f0' in right margin glosses 'wuldria\u00f0'; p. 159/18 'hrigge' in right margin glosses 'b\u00e6ce'. In right margin p. 161/18 'mid steorede'; p. 161/22 'mid so\u00fere weorche'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 206-19"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "290-98"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 163/12-173", 
+            "text": "B.1.2.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FERIAII. DE PASSIONE DOMINI |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "DRIHTENES | \u00ferowunge we willa\u00f0 eow gedafenlice secgan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial D in green; its back is hidden in margin."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 240"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "137-49"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 174/1-182/23", 
+            "text": "B.3.2.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): IN CENA DOMINI FERIAV. |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SEGE\u00d0 on \u00feisum bocum be \u00fe\u00e6re | arwur\u00f0nesse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Line 14 \u00c6R is purple."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "151-63."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 182/24-88", 
+            "text": "B.1.2.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): SERMO DE SACRIFICIO IN DIE PASCHAE |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00fea LEOFOSTAN | Gelome eow is ges\u00e6d"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 262"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "150/1-37, 159-324 [one leaf missing at end]."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 189/1-198/23", 
+            "text": "B.1.1.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Begins imperfectly: '\u2026to gitsunge. sume he onr\u00e6r\u00f0 ro modignesse'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The passages Thorpe (1844-46) 242/7 'Be \u00f0isum' - 242/24 'bysna\u00f0', and 244/7-9 are omitted, but are added, by a system of signes de renvoi, in the lower margin of p. 189 by an early thirteenth-century hand. From 'Ge magon gehyran on \u00fe\u00e6re halgan lare' (p. 189/31) to the end is not in Thorpe (1844-46). Introductory lines to this part of the homily have been added in the lower margin of p. 189 by a thirteenth-century hand: 'Men \u00f0a leffostan us lareowhum gedafena\u00f0 \u00fea so\u00f0en lare \u00f0e god | silf gesette. \u00f0urch us halgan witegan. \u02e5 \u00feurch hine silfne. eowh | gelome seggan to eowhres lifes richtinge. And be magon gehiran on \u00f0are'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 240/25-245"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "312"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 198/24-205/30", 
+            "text": "B.1.1.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): SERMO IN LETANIA MAIORE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deAS DAGAS SYND GEHATENE | letanie"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial \u00de red and purple."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 244"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "317-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 205/31-212", 
+            "text": "B.3.2.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FERIAII. IN LETANIA MAIORE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00d0A LEOFESTAN US IS SWI\u00d0E | mycel neod\u00feearf \u00fe\u00e6t we gehyron sumne d\u00e6l \u00feyses gastlican ge | writes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial M red and purple."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "baz390", 
+                    "page": "70-74"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 213/1-221/2", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): EODEM IN DIE DOMINICA ORATIONE |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE H\u00c6LEND CRIST SY\u00d0\u00d0AN | he to \u00feyssum life com"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial S is green. Line 10, purple P; line 11, green \u00de."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II, 258"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "325-34"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 221/2-230/2", 
+            "text": "B.3.2.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FERIAIII. IN LETANIA MAIORE |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00d0A LEOFESTAN WE GEHYRDON FORHOFT secgan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "250-65, no. 49"
+                }, 
+                {
+                    "work": "mor1249", 
+                    "page": "105"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 230/2-232", 
+            "text": "B.1.1.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): EODEM DIE IN FIDE CATHOMICA |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6LC CRISTEN MANN SCEAL \u00e6fte rihte cunnan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I, 274-282/6"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "335-338/99 [remainder of homily supplied on pp. 233-342 (sixteenth century)]."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 1, 11, 23, 25, 30", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 31"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single column writing grid with 31 lines per page. Drypoint ruling completed before folding with double vertical and double horizontal bounding lines (Quire 7 has antepenultimate and ultimate horizontal lines ruled; Quires 13 and 14 have single vertical bounding lines)."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "", 
+        "extent": "ca. 250 mm x ca. 160 mm (dimensions of all - size of leaves).\nca. 200 mm x 113-120 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in light brown leather in 1954.", 
+    "accompanying": "pp. i-iv and 249-252 are modern paper flyleaves; pp. v-vi, 1-10 paper of sixteenth-century; pp. 233-242 paper and parchment supply leaves of sixteenth-century; pp. 243-248 parchment flyleaves of sixteenth-century.", 
+    "history": {
+        "origin": "The origin and medieval provenance of this manuscript is unknown. It is one of four manuscripts about whose previous history nothing is known.", 
+        "provenance": "In <span class=\"name\">Archbishop Parker\u2019s</span> possession after 1565 as his \u2018Quintus liber homiliarum\u2019 (S. 9).", 
+        "acquisition": "Bequeathed by <span class=\"name\">Parker</span> to <span class=\"name\">Corpus Christi College</span> in 1575."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Takako Kato and Hollie Morgan (2010; 2013).", 
+    "surrogate": true
+}

@@ -1,0 +1,399 @@
+{
+    "id": "Lamb.489", 
+    "city": "London", 
+    "repository": "Lambeth Palace Library", 
+    "collection": "", 
+    "shelfmark": "489", 
+    "ker": "283", 
+    "content": "Homilies", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-11v", 
+            "text": "B.1.1.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) VIII. kl ianuarii natiuitas domini."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) We wylla\u00f0 to trymminge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 11v-20r", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 11v) Dominica pascha."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 11v) Maria magdalene... Oft ge gehyrdon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 20v-24v", 
+            "text": "B.1.1.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 20v) Kl nouembris natale omnium sactorum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 20v) Halige lareowas r\u00e6ddon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 25r-31r", 
+            "text": "B.3.4.46", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 25r) Sermo ad populum dominicis diebus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 25r) Leofan men us bisceopum 7 eallum m\u00e6ssepreostum is swi\u00f0e deope beboden"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 31r-38r", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 31r) Se h\u00e6lend crist. sy\u00f0\u00f0an he to \u00feisum life com"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }, 
+                {
+                    "work": "swa126", 
+                    "page": "pp. 205\u201323"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38r-44v", 
+            "text": "B.3.2.49", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 38r) In dedicatione Aecclesiae"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 38r) Mine gebro\u00f0ra \u00fea leofestan we wylla\u00f0 sume tihtendlice spr\u00e6ce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }, 
+                {
+                    "work": "swa126", 
+                    "page": "pp. 224\u201341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44v-51r", 
+            "text": "B.3.2.49.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 44v) Alia in dedicatione Aecclesi\u0119"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44v) Us is on \u00feisum d\u00e6ge to wur\u00f0igenne \u00feises temples symbelnys for \u00feam \u00f0e hit is gehalgod gode to lofe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bro490", 
+                    "page": "p. 15"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 51r-58v", 
+            "text": "B.1.5.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 51r) Alia Sermo de dedicatione aecclesiae"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 51r) Lucas se godspellere awr\u00e1t on \u00fe\u00e6re \u00feriddan cristes b\u00e9c"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bro490", 
+                    "page": "p. 3"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 489"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Somewhat browned and has undergone a considerable amount of repair.", 
+        "extent": "190 mm x 118 mm (dimensions of all - size of leaves).\n168 mm x 80-85 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": "It is almost certain that this manuscript was written at", 
+        "hands": [
+            {
+                "name": "Main text", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule II", 
+                "scribe": "Ker 283 SC1", 
+                "description": "fols 1-20v, 25r-58v. (contra", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "The second element is occasionally high in the combination <span class=\"c\">\u00e6</span>, especially before <span class=\"c\">g</span> and <span class=\"c\">t</span>, when a ligature is formed, and particularly when <span class=\"c\">\u00e6</span> is in initial position."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "The ascender of <span class=\"c\">d</span> is very short but frequently turns up to the right."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "The tail of <span class=\"c\">g</span> swoops round to the right before curving to the left; the tail is usually closed."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> and low <span class=\"c\">s</span> are used, though the long form tends not to be used finally. According to <a href=\"#ker44\">Ker 1957</a>, long <span class=\"c\">s</span> followed by low <span class=\"c\">s</span> is used in the combination <span class=\"c\">ss</span>, and this distinguishes the scribe at fols 1-20r (p. 345). However, this feature occurs in this manuscript at fols 25-31, and again, in <a href=\"EM.BL.Cleo.B.xiii.htm\">Cleopatra B. xiii</a>. It is thus a distinguishing characteristic of this scribe in the revised sequence of stints, attributed to him by <a href=\"#bis642\">Bishop 1955</a> (and agreed by Treharne)."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is the single most distinctive letter-form, and the graph which changes most dramatically between stints of this single scribe (or, in fact, identifies for <a href=\"#ker44\">Ker 1957</a> and <a href=\"#dra419\">Drage 1978</a> a different scribe). In the earlier folios, the cross-bar bisects the up-stroke, tagged to the left at the top end; the up-stroke itself finishes with a marked movement of the pen to the left. In the later folios, the cross-bar does not pierce the up-stroke, though the graph is otherwise the same."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "Straight-limbed <span class=\"c\">y</span> is used but it curves in a relatively shallow fashion, often ending with a tick upwards to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are split at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curve to the left."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are sometimes used with long vowels. A c-shaped <span class=\"c\">accent</span> marks a short vowel on five occasions."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The onset stroke of the <span class=\"c\">\u02e5</span> causes a small flick to the right, and the descender curves round slightly to the left."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The abbreviation for 'that' is very distinctive: the ascender of <span class=\"c\">\u00fe</span> is crossed by a horizonal bar, which is quite distinctive, since the left tag of the split ascender often almost touches the bar."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "<span class=\"c\">hyphens</span> are level with the base-line and occur both at the end of one line and the beginning of the next."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "There are very few ligatures."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Main text", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule II", 
+                "scribe": "Ker 283 SC2", 
+                "description": "fols 20v-24v.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "Both elements of <span class=\"c\">\u00e6</span> are the same size."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> has a relatively large bowl with a very short ascender."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is often horned."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "The middle stroke of <span class=\"c\">f</span> is shorter than the headstroke."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is very rounded, and the tail is almost closed by a hairline stroke. The downstroke of <span class=\"c\">g</span> generally begins from the left of the head."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "High and low <span class=\"c\">s</span> are used, with a little knob where the onset stroke of the long form beings. Double long and double low forms of the character are used consistently. In the case of the double long <span class=\"c\">s</span>, the head of the second graph often loops round, occasionally closed by a hairlike stroke. This same feature is often found in the single use of long <span class=\"c\">s</span> too."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has a relatively short ascender in relation to the rest of the letter-form."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a large bowl and, generally, a straight ascender, though in the last couple of folios, the ascender begins to turn down to the left at the top. The crossbar extends from the right of the upstroke, and end with a small tag to the left."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are split at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are generally quite straight, or have a very gentle curve to the left."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> occur very infrequently."
+                    }, 
+                    {
+                        "char": "macron", 
+                        "note": "Abbreviations are denoted by a flat <span class=\"c\">macron</span>."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The <span class=\"c\">\u02e5</span> has a slightly curved head, and a 90\u00ba angle downstroke."
+                    }, 
+                    {
+                        "char": "ligatures", 
+                        "note": "<span class=\"c\">ligatures</span> are very rare. But at fol. 24r, line 4, 'martyrdom', a quite remarkable form of <span class=\"c\">rt</span> ligature occurs, where the <span class=\"c\">r</span> extends upwards as if it were a high <span class=\"c\">s</span> and ligatures at the top like an ogee arch, before coming down to the <span class=\"c\">t</span>. This may be an erroneous <span class=\"c\">st</span> ligature; it is a form seen also in <span class=\"name\">Worcester</span>, <span class=\"name\">Canterbury</span> and <span class=\"name\">Winchester</span> manuscripts and at fol. 38 of <a href=\"EM.BL.Cleo.B.xiii.htm\">Cleopatra B. xiii</a>."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "<span class=\"c\">hyphens</span> are level with the base-line and occur both at the end of one line and the beginning of the next."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "The <span class=\"c\">punctus</span> is placed above baseline."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Bound by <span class=\"name\">Lamercroft and Laurence</span> in 1937. The older binding was from s. xvi/xvii (<a href=\"#ker44\">Ker 1957</a>, p. 345).", 
+    "accompanying": "<p>A sixteenth-century <span class=\"name\">Parker</span>ian table of contents is on fol. (iii). A second, seventeenth-century, table of contents is on fol. (v) verso. </p><p> Both tables of contents omit the fifth homily, and group the last three items together as one (perhaps it was a separate booklet in the sixteenth century?) Foliation in both tables of contents is puzzling, suggesting the manuscript was unbound. The stub of a parchment binding fragment with double-columned Latin text in a Gothic hand is visible between fols (v) and 1 and between fols 63 and 64. The first stub contains three lines of text and the second contains four plus glosses on the recto. </p><p>Three pressmarks: 'J. \u0472. 24', '8\u05af 35' and 'S. 10'. </p>", 
+    "history": {
+        "origin": "Written by <span class=\"name\">Exeter</span> scribes associated with <span class=\"name\">Bishop Leofric</span>, who moved the See from <span class=\"name\">Credition</span> to <span class=\"name\">Exeter</span> during his bishopric (1046-1072). Probably written at <span class=\"name\">Exeter</span>, certainly in the same scriptorium as <a href=\"EM.BL.Cleo.B.xiii.htm\">Cleopatra B. xiii</a> (p. 345).", 
+        "provenance": "According to <a href=\"#ker44\">Ker</a> (1957) the table of contents and imitation-insular catchwords suggests that this manuscript was owned by <span class=\"name\">Archbishop Parker</span>. It then spent some time in <span class=\"name\">Cambridge University Library</span>, as the oldest press-mark dates to 1646-1662, when the Lambeth manuscripts were at <span class=\"name\">Cambridge</span>.", 
+        "acquisition": null
+    }, 
+    "admin": "Described by Elaine Treharne with the assistance of Hollie Morgan (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bis642", 
+        "bro490", 
+        "cle112", 
+        "dra419", 
+        "kat1650", 
+        "ker44", 
+        "nap123", 
+        "nap123", 
+        "pop87", 
+        "scr565", 
+        "scr350", 
+        "swa126", 
+        "tho57", 
+        "tre279", 
+        "tre106", 
+        "wil78"
+    ]
+}
