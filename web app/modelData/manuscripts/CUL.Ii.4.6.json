@@ -1,0 +1,868 @@
+{
+    "id": "CUL.Ii.4.6", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Ii. 4. 6", 
+    "ker": "21", 
+    "content": "Homilies", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 7-9", 
+            "text": "B.3.5.17.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7) si\u00f0\u00f0an (the end of a homily, beginning imperfect)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 9-18", 
+            "text": "B.1.1.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9v) (Latin begins Cum descendisset) Matheus se eadiga godspellere"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 18-21", 
+            "text": "B.1.2.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 18v) Mine gebro\u00f0ra \u01bfe \u01bfylla\u00f0 eo\u01bf gereccean sume cristes \u01bfundra"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 22-32", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 22r) Drihten s\u00e6de \u00feis bigspell. his leorningcnihtum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 32-39", 
+            "text": "B.1.2.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 32r) (Latin begins Cum turba plurima) On sumre tide \u00fea \u00fea micel meniu"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 39-47", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 39r) (Latin begins Assumpit iesus) Her is ger\u00e6dd"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47-55", 
+            "text": "B.1.3.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) On \u00feissere \u01bfucan on \u01bfodnesd\u00e6g"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 55-64", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 55v) (Latin begins Ductus est iesus) Ic \u01bfolde eo\u01bf trahtnian"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 64-71", 
+            "text": "B.1.2.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 64v) Men \u00fea leofostan eo\u01bf eallum is cu\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 71-75", 
+            "text": "B.1.2.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 71r) (Latin begins Egressus inde iesus) Drihten h\u00e6lend \u00fereade"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 75-83", 
+            "text": "B.1.4.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 75v) (Latin begins Erat iesus eiciens) On \u00fe\u00e6re m\u00e6ran tide"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 83-89", 
+            "text": "B.1.1.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 83r) (Latin begins Abiit iesus.) Se h\u00e6lend f\u00e9rde ofer \u00f0a galileiscan s\u01fd"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 89-102", 
+            "text": "B.1.2.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 89r) Men \u00fea leofostan. \u01bfe r\u00e6da\u00f0 nu \u00e6t godes \u00feenungum embe gesetnysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 102r) \u00feone gl\u00e6dan syllend. Uton \u00e9ac ealle gem\u00e6nelice urne leofan drihten biddan \u00fe\u00e6t he ure mod onlihte. 7 us him gl\u00e6de gedo. 7 us his mildheortnysse geunne. 7 ure synna forgyfnysse. 7 \u00fe\u00e6s ecan lifes myrh\u00f0e. \u00feam si \u01bfuldor. 7 lofol. a to \u01bforulde. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102-09", 
+            "text": "B.1.2.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102r) Moyses 7 \u00e1\u00e1ron"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 109-17", 
+            "text": "B.1.3.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 109r) \u00c6fter \u00feam \u00fee moyses se m\u00e6ra heretoga of egipta l\u00e1nde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 117-27", 
+            "text": "B.1.2.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 117v) \u00d0eos tid fram \u00feisum and\u01bfeardum d\u00e6ge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 127-39", 
+            "text": "B.1.2.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 127v) Drihtnes \u00fero\u01bfunge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 139v", 
+            "text": "B.1.2.17", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 139v) Ne mot nan mann secgan spell on \u00feam \u00ferim s\u01bfigdagum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 139-48", 
+            "text": "B.1.1.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 139v) (Latin begins Cum adpropinquasset) iesus Cristus \u00fero\u01bfung"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 148-56", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 148r) Oft ge gehyrdon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 156-71", 
+            "text": "B.1.2.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 156v) Men \u00fea leofostan gelome eo\u01bf is ges\u01fdd"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 171-75", 
+            "text": "B.1.2.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 171r) Hit is s\u01bfi\u00fee gedafenlic"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 175-80", 
+            "text": "B.1.2.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 175r) Gel\u00f3me \u00e6teo\u01bfde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 180-87", 
+            "text": "B.1.1.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 180v) (Latin begins Cum esset sero) \u00c6fter \u00fe\u00e6s h\u00e6lendes \u01fdriste"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 187-202", 
+            "text": "B.1.1.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 187r) (Latin begins Ego sum pastor bonus ) \u00d0is godspell \u00fee nu ger\u01fdd \u01bf\u00e6s"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 202-07", 
+            "text": "B.1.4.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 202r) (Latin begins Uado ad eum qui me misit ) Manega godspel syndon gesette"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 207-15", 
+            "text": "B.1.4.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 207v) Sume menn nyton"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 215-28", 
+            "text": "B.1.2.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 215v) L\u00e6\u01bfende men behofia\u00fe. \u00fe\u00e6t him lareo \u01bfas secgon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 228-38", 
+            "text": "B.3.2.41", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 228r) Se e\u00e1diga apostol iacobus \u00fas m\u00e1node"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 33-34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 238rv", 
+            "text": "B.3.2.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 238r) \u00deas dagas synd gehatene laetaniae"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 238v) on geleaffulre gela\u00feunge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 238-46", 
+            "text": "B.1.2.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 238v) Iohannes se godspellere a\u01bfr\u00e1t on \u00feisum d\u00e6g\u00f0erlicum godspelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 246-57", 
+            "text": "B.1.2.31", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 246r) (Latin begins Primum quidem) Lucas se godspellere \u00fas manode"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 257-64", 
+            "text": "B.1.4.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 257v) (Latin begins Cum autem uenerit) Se h\u00e6lend her on life"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 264-76", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 264v) Fram \u00feam halgan easterlice d\u00e6ge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 276-82", 
+            "text": "B.1.4.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 276r) (Latin begins Si quis diligit me) Iohannes se godspellere. \u00fee \u00feis godspell a\u01bfr\u00e1t"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 282-89", 
+            "text": "B.1.4.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 282v) (Latin begins Erat homo ex phariseis) Sum phariseic mann"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 290-99", 
+            "text": "B.1.1.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 290r) God spr\u00e6c to anum \u01bfitegan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 299-308", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 299r) Se h\u00e6lend crist (fols 304, 305 and 307 missing)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 34"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "c. 261 mm x 150 mm (dimensions of all - size of leaves).\n202 mm x 94 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2 main hands", 
+        "summary": "'Two upright black rather ugly hands' (", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "11th century", 
+                "scribe": "Ker 21 SC1", 
+                "description": "Fols 22-143.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "The ascender of <span class=\"c\">d</span> is generally fairly short and curved."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "The head of long <span class=\"c\">s</span> is sometimes prolonged upwards and looped."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is prominent."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "The ends of <span class=\"c\">descenders</span> are seriffed."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "<span class=\"c\">hyphens</span> are placed a little way out in the margins at the beginnings and end of lines."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "11th century", 
+                "scribe": "Ker 21 SC2", 
+                "description": "Fols 7, 9-21, 148-308. From fol. 148 the first line of a homily is often majuscule.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is sometimes high in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "The head of long <span class=\"c\">s</span> is sometimes prolonged upwards and looped."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is prominent."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "The ends of <span class=\"c\">descenders</span> are seriffed."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in 1928. Marks of nails on fols -7, 311-12 and a label with the title 'Homili\u00e6 Saxon: 34' on fol. 6 suggest that there was once a Parkerian binding (<a href=\"#ker44\">Ker 1957</a>, p. 35).", 
+    "accompanying": "Fols (i, ii, 329-30) are paper leaves of the date of binding. Fols 1-6, 8, 304-5, 307, 309-28 are binding leaves and supply leaves, s. xvi, fols 1-3, 6, 311-12 being portions of a 16th-century document, a dispute about the will of <span class=\"name\">William Wiker</span> of <span class=\"name\">Chale</span> (<span class=\"name\">Isle of Wight</span>), of which <span class=\"name\">Richard Tottenham</span>, abbot of <span class=\"name\">Quarr</span> (1508-21) was executor. Other fragments of the same document are in Cambridge, CCC, SP. 438.", 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "Unknown.", 
+        "acquisition": "On fol. 1 is the inscription 'Hunc codicem cum altero consimili: reperit R. Ferro<span class=\"sup\">r</span> seruus comitis Bedfordie in Domo quondam cenobio de Tavestoke in Devinshire, A\u00ba 1566', referring to <span class=\"name\">Ferrar</span>, member of parliament for <span class=\"name\">Tavistock</span> (d. 1572). On fol. 7v is the name 'Fol. Bedford'. The <span class=\"name\">Earl of Bedford</span> gave the manuscript to <span class=\"name\">Archbishop Parker</span>, 29th December 1567 'in camera stellata' (fol. 308v). No. 9 in the list of manuscripts given to <span class=\"name\">Cambridge University</span> by <span class=\"name\">Parker</span> in 1574."
+    }, 
+    "admin": "Described by Hollie Morgan with the assistance of Owen Roberson and Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ker44"
+    ]
+}

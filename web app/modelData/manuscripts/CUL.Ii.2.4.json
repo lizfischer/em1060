@@ -1,0 +1,229 @@
+{
+    "id": "CUL.Ii.2.4", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Ii. 2. 4", 
+    "ker": "19", 
+    "content": "King Alfred's translation of Gregory the Great, The Pastoral Care", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": "The incipit of the preface (<a href=\"#EM.CUL.Ii.2.4-msItem-1\">Item 1</a>; fol. 5r/3) shows that this copy is derived from one sent by <span class=\"name\">Alfred</span> to <span class=\"name\">Wulfsige</span>, who was bishop of <span class=\"name\">Sherborne</span> in the last decade of s. ix and who may be identical with <span class=\"name\">Wulfsige</span>, the successor of <span class=\"name\">Heahstan</span>, bishop of <span class=\"name\">London</span>, c. 900. It is followed by a metrical preface (<a href=\"#EM.CUL.Ii.2.4-msItem-2\">Item 2</a>; fols 6v-7r) and by a list of the 65 chapters, numbered incorrectly I-LXIII (<a href=\"#EM.CUL.Ii.2.4-msItem-3\">Item 3</a>; fols 7r-10r). The text begins on fol. 10v (<a href=\"#EM.CUL.Ii.2.4-msItem-4\">Item 4</a>), and ends imperfectly: the chapters in the text are not numbered.", 
+    "items": [
+        {
+            "locus": "fols 5r/1-6v/14", 
+            "text": "B.9.1.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 5r/1-2) \u00d0is is seo fore spr\u00e6c hu sanctus Gregorius \u00feas boc gedihte | \u00fee man pastoralem nemna\u00f0. |"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5r/3-4) \u00c6LFRED KYNING HATE\u00d0 GRETAN. \u01f7ULFSIGE BISCEOP HIS | \u01bfordum luflice \u02e5 freondlice."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6v/12-14) for \u00fei ic \u01bfolde \u00fe\u00e6t hi ealne\u01bfeg \u00e6t \u00fe\u00e6re | sto\u01bfe w\u00e6ren. buton se biscop hi mid him habban \u01bfylle. | o\u00f0\u00f0e heo h\u01bf\u00e6r to l\u00e6ne sy. o\u00f0\u00f0e h\u01bfa o\u00f0re bi \u01bfrite."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "../surrogates/CUL/Ii.2.4_fol.5r.htm"
+                }, 
+                {
+                    "work": "mag460", 
+                    "page": "p. 118"
+                }, 
+                {
+                    "work": "swe417", 
+                    "page": "pp. 2-9"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 6v/16-7r/2", 
+            "text": "A.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6v/15-16) \u00d0is \u00e6ryndge\u01bfrit Agustinus ofer sealtne s\u00e6 su\u00f0an | brohte."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 7v/1-2) for \u00feam hi his sume \u00feorftan \u00fea \u00fee l\u00e6den spr\u00e6ce | l\u00e6ste cu\u00f0on."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The colour of \u00d0 in the Incipit is faded the pale brown."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "swe417", 
+                    "page": "pp. 8-9"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7r/3-10r/19", 
+            "text": "B.9.1.3.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 7r/3) CAPITULE LIBRI SEQUENIS: (Now the colour is faded to pale brown.)"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r/4) \u00d0\u00c6T te ungel\u00e6ryde ne dyrrren under fon lare\u01bfd\u00f3m. (dark green.)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 10r/17) \u00feonne h\u01bfa \u00feis eall ge fylled h\u00e6bbe hu he \u00feonne sceal | hine selfne ge \u00feencean \u02e5 ongitan \u00fey l\u00e6s hine a\u00f0er o\u00f0\u00f0e hir lif o\u00f0\u00f0e hir lar to up ahebbe."
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The table of headings is numbered incorrectly: chapter 1 is numbered as chapter 2, hence it says chapters ii - lxii. The rest of 10r is blank, and the main text begins on a new page."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The chapter headings begin with coloured initial letters. The first two letters ('B' of 'Be \u00fe\u00e6re byr\u00f0ene \u00fe\u00e6s reccend domes...' and 'Bi \u00feam \u00fee magon on ealdor dome..') are in red, then the colour alternates in the order of red, green, red, blue. Chapter numbers are in red; mostly in metallic red."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "swe417", 
+                    "page": "pp. 8-23"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 10v/1-146v/24", 
+            "text": "B.9.1.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 10v/1-2) \u00d0V LEOFESTA BRO\u00d0VR | s\u01bfide freondlice \u02e5 s\u01bfide fremsumlice \u00feu me t\u00e6loest"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 146v/22-24) Ac | ic \u00fee bidde \u00fe\u00e6t \u00feu me on \u00feam scip gebroce \u00feises and\u01bfeardan lifes sum | bryd ger\u00e6ce \u00feinra gebeda. \u00fe\u00e6t ic m\u00e6ge on syttan o\u00f0 ic to lande cume."
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The text ends imperfectly, as Sweet 1871-72, p. 467/25. At the top of fol. 146v, 'Leaves 147, 148 want'; at the bottom of the page, 'finis', both in later hand."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "The first line of the text is all in metallic red and very large rustic capital letters. Chapter headings are in metallic red and green, and new chapters begin with large initial letters written in the margin. The coloured initials are alternately red, blue, and green. Sometimes the scribe changes line to begin the heading, but he always chose to bite into the space for the next chapter, rather than having only one or two words. There is no space between chapters. The chapters are not numbered. The scribe sometimes began sentences with an emphasized (but not coloured) letter (for example, 52r/5)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "../surrogates/CUL/Ii.2.4_fol.10v.htm"
+                }, 
+                {
+                    "work": "swe417", 
+                    "page": "pp. 22-465"
+                }
+            ]
+        }, 
+        {
+            "locus": "85r/09", 
+            "text": "diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO12"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 24"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 5r-146v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: ca. 258 x ca. 156; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in pencil and/or crayon on both sides. Double bounding lines on both sides of the frame, ca. 10 mm apart. Lines begin and end irregularly somewhere between the double bounding lines on both sides of the frame. Pricks at the top and bottom of the page are sometimes still visible. Pricking seems to have been carried out by quire, since the positions of pricks in some quires are identical within the quire (for example, Quire l [fols 85-92]), whereas ruling seems to have been carried out leaf by leaf, as the irregularity of lines observed on a leaf is often unique to that particular leaf. See diagram."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Fols 3-4 are post-medieval parchment. Fols 5-146 are medieval parchment, arranged HHFF. Fols 149-51 were originally pastedown and flyleaves. See below under 'Quires'.", 
+        "extent": "ca. 330 mm x ca. 225 mm (dimensions of fols 5-146 - size of leaves).\nca. 278 mm x ca. 160 mm (dimensions of fols 5-146 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "<p> Sixteenth-century binding whose dark brown covers are now attached to a new twentieth-century brown cover. Four bosses on each cover are now missing. The remains of two clasps survive. The back cover has a small pocket which holds the book label. </p><p>The manuscript is kept with a monochrome photograph of the back of the sixteenth-century binding boards before the manuscript was rebound. The inside of the back cover had several modern notes both in pen and pencil, and also lines in red pencil. According to a note attached to the photographs, there were old chain marks. </p><p> The pocket on the back cover formerly contained a label with the title 'Pastoral: Gregorii ex Versione Aluredi regis saxon'. That label was pasted inside the back cover when the back of the boards were photographed. It was then removed from the back of the board and was pasted on to fol. 3. The label was there when Ker consulted the manuscript for his <span class=\"italics\">Catalogue</span>. Now the label is missing, although there is a trace of its having been pasted once. </p><p>On the foredge of the book is written 'Gregori Pastorale, Alured R [<span class=\"unclear\" title=\"unclear: unclear\">xxxx</span>]\u00a0<span class=\"PrintOnly\">(unclear: unclear) </span> Saxon' in black ink. </p>", 
+    "accompanying": "<p>Two letters from <span class=\"name\">John Jewel, bishop of Salisbury</span>, to <span class=\"name\">Matthew Parker</span>, dated January 1568, were pasted on to fol. 149v when Ker examined this manuscript. They refer to an Old English manuscript sent to Parker from Salisbury. The manuscript in question is almost certainly Ker's no. 87, CTC R. 5. 22 (717), fols 72-158, <span class=\"italics\">Pastoral Care</span>, s. x/xi (See <a href=\"#jel1199\">Jelf 1848</a>, vol. 8, pp. 193-94 and <a href=\"#wan416\">Wanley 1705</a>, p. 153). They are now removed from fol. 149v, and pasted on a modern paper leaf between fols 149 and 150. </p><p>The photographs of the old binding are accompanied. See above, under Binding Description.</p>", 
+    "history": {
+        "origin": "Written almost certainly at <span class=\"name\">Exeter</span>.", 
+        "provenance": "<p>The manuscript was presented to <span class=\"name\">Archbishop Parker</span> in 1568. </p><p>The text of Alfred's preface in <a href=\"#par461\">Parker 1574</a>, pp. 41-44, is derived from this copy. </p>", 
+        "acquisition": "<p>Number 6 in the list of manuscripts given to <span class=\"name\">Cambridge University</span> by <span class=\"name\">Archbishop Parker</span> in 1574. Old Cambridge marks are 'D. \u03b2. 3' and '253'. </p><p><span class=\"name\">Wheloc</span> notes on the front pastedown that he began to read the text on 3 September 1638 and finished it on 17 July 1639. </p>"
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Owen Roberson and Hollie Morgan (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bar418", 
+        "bar1158", 
+        "bis642", 
+        "con141", 
+        "cor401", 
+        "dra419", 
+        "gam227", 
+        "gne146", 
+        "gra1183", 
+        "hil381", 
+        "jel1199", 
+        "ker44", 
+        "cam462", 
+        "mag460", 
+        "par461", 
+        "rob65", 
+        "scr565", 
+        "swe417", 
+        "tre106", 
+        "wan416", 
+        "war93"
+    ]
+}

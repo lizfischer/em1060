@@ -1,0 +1,379 @@
+{
+    "id": "Ox.Laud.Misc.509", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Laud Misc.", 
+    "shelfmark": "509", 
+    "ker": "344", 
+    "content": "\u00c6lfric's translation of parts of Pentateuch and Joshua, letter to Wulfgeat and Libellus de veteri testamento et nouo", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-3r", 
+            "text": "B.8.1.7.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) INCIPIT PREFATIO GENESIS ANGLICE | [\u00c6]LFRIC MUNUC GRET \u00c6\u00d0ELW\u00c6RD EALDORMANN EAD[MOD]|lice."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "pp. 116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3r-37r", 
+            "text": "B.8.1.7.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) INCIPIT LIBER GENESIS ANGLICE | 'ON ANGINNE GESCEOP GOD HEOFENAN AND EOR\u00d0AN."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }, 
+                {
+                    "work": "wit1056", 
+                    "page": "pp. 116-18"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 37r-65v", 
+            "text": "B.8.1.7.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 37r) ellesmoth on hebrisc. exodus on grecisc. exit[us] | on lyden. utf\u00e6reld on englisc. | \u00deYS SYND ISRAELA BEARNA NAMAN \u00d0E MID IACOBE || foron on egipta land hig foron ealle mid hira hiwun."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 65v-72r", 
+            "text": "B.8.1.7.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 65v) Her onginne\u00f0 seo \u00feridde boc. \u00fee is genemned. on ebreisc uaiecra. 7 leviticus."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 72r-82v", 
+            "text": "B.8.1.7.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 72r) Her ongin\u00f0 seo boc \u00fee ys genemned on | ebreisc. uagedaber \u00fe[\u00e6]t ys on lyden numerus. | 7 on englisc getel."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 82v-98v", 
+            "text": "B.8.1.7.2.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 82v) Her ongin\u00f0 seo boc \u00fee ys genemned on ebreisc. | helleadabarim 7 on grecisc. deut[e]ronomiu[m]. 7 on | lyden secunda lex. 7 on english. seo \u00e6ftre \u00e6."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 98-107", 
+            "text": "B.8.1.7.2.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 98v) INCIPIT LIBER IOSVE. 'Hit w\u00e6s geworden \u00e6fter moyses for\u00f0si\u00fee. drihten spr\u00e6c to iosue | nunes suna"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 108-15", 
+            "text": "B.8.1.7.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 108r) DE LIBRO IUDICUM ANGLICE. | \u00c6FTER \u00d0AM \u00d0E MOYSES SE M\u00c6RA HERETOGA \u00fe\u00e6t | godes folc gel\u00e6dde of pharanones \u00feeowetter ofer | \u00f0a readan s\u00e6"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115-20", 
+            "text": "B.1.8.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115v) Nis \u00feis gewrit be anu[m] | men awriten ac ys be eallum."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "no. 1"
+                }, 
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 120-41", 
+            "text": "B.1.8.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 120v) Incipit libellus de u 'e' teri testamento et nouo. | \u00d0is gewrit w\u00e6s to anu[m] men gediht ac hit m\u00e6g swa \u00f0eah | manegum fremian."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ang86", 
+                    "page": "pp. 72-78"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 422-24"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "pp. 124-25"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "211 mm x 138 mm (dimensions of all - size of leaves).\n155 mm x 90 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3", 
+        "summary": "Mainly in one hand. A second hand wrote fol. 15/8-21 and fol. 15v/1-10 and a third wrote fol. 17/11-23.", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 344 SC1", 
+                "description": "Fols 1-141, except fols 15r/8-21, 15v/1-10 and 17r/11-23. A small and regular rounded hand. wo", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: open-headed"
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> low or long <span class=\"c\">s</span> used. The long <span class=\"c\">s</span> is used initially and medial, and has a broken shaft made in two strokes. The descender curves to the left."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long upstroke tagged to the left at the top, the cross-stroke not transecting the upstroke."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: a small round back with a short tapered ascender curved to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Wedged <span class=\"c\">ascenders</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "Tapered <span class=\"c\">descenders</span> to the left."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 344 SC2", 
+                "description": "Fols 15r/8-21, 15v/1-10. Another small and regular rounded hand, very similar to the main hand.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> short or long <span class=\"c\">s</span> used. The long <span class=\"c\">s</span> is used initially and medially, and the descender curves to the left. Short <span class=\"c\">s</span> with a hook-like ascender, stopping on the writing line."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long upstroke occasionally tagged to the left at the top, occasionally it curves to the right."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: a small round back with a short tappered ascender curved to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Wedged <span class=\"c\">ascenders</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curving to the left with a serif."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 344 SC3", 
+                "description": "Fol. 17r/11-23. A fairly large rounded hand.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long upstroke tapered and curved to the right at the top."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: a small round back with a short ascender curved to the left."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> with a flat foot."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "Wedged <span class=\"c\">ascenders</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "Tapered <span class=\"c\">descenders</span>, which turn to the left."
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Leather binding of s. xvii<span class=\"sup\">1</span> bearing Laud's arms. The front and back covers have become detached (<a href=\"ang86\">Doane 2002</a>, p. 74). <a href=\"#gra476\">Graham</a> suggests that the fragments of pasteboard stuck to the verso of fol. iv indicate that it served as a pastedown in the Cottonian binding. He argues that L'Isle removed Cotton's binding and had it rebound, retaining the Cottonian endleaves but turning them over and around in the process (2000, p. 293).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "In the 1542 catalogue of the old Royal Library, it was number 159 (fol. 2, top), and it is described as 'the pentatuik and saints Lyues'. It belonged later to Cotton (see <a href=\"#ker478\">Ker 1938</a>, p. 132). Cotton 'lent the part now at Oxford, ''Liber Genesis et pentatuchum Saxonice' bound withe my arms and clapses in 4<span class=\"sup\">to</span>' to 'Mr. Lyll of Cambrig' before 23rd of April 1621, as appears from the list of Cotton's loan of books in MS. Harley 6018, fol. 148v' (<a href=\"#ker44\">Ker 1957</a>, p. 424).", 
+        "acquisition": "Kere notes: 'The dates of ownership and gift suggest that <span class=\"name\">Laud</span> obtained the manuscript from <span class=\"name\">L'Isle</span> (cf. Laud misc. 201, 381, 636). Former Bodleian pressmark Laud E. 19' (<a href=\"#ker44\">Ker 1957</a>, p. 424)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan (2010) and Owen Roberson (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "bar474", 
+        "car475", 
+        "cra327", 
+        "ang86", 
+        "gra476", 
+        "jos477", 
+        "ker478", 
+        "ker44", 
+        "lis1162", 
+        "web1517", 
+        "mar479", 
+        "bar480", 
+        "mar1553", 
+        "mar811", 
+        "mor481", 
+        "pop87", 
+        "rai482", 
+        "scr565", 
+        "smi483", 
+        "thw484", 
+        "tit1161", 
+        "wan470", 
+        "wil130", 
+        "wit1056"
+    ]
+}

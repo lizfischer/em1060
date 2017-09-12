@@ -1,0 +1,1026 @@
+{
+    "id": "RCL", 
+    "city": "Rochester", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "A. 3. 5", 
+    "ker": "373", 
+    "content": "Textus Roffensis", 
+    "location": "Rochester", 
+    "date": "s.xii^{1}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-3v", 
+            "text": "B.14.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) \u00deis syndon \u00fea domas \u00fee \u00e6\u00f0elbirht cyning asette on agustinus d\u00e6ge."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) Godes feoh. ond ciricean"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3v-5r", 
+            "text": "B.14.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 3v) \u00deis syndon \u00fea domas \u00f0e hlo\u00feh\u00e6re ond eadric cantwara cyninges asetton"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3v) Hlo\u00feh\u00e6re. ond eadric"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 5r-6v", 
+            "text": "B.14.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 5r) \u0110is synd \u01bfihtr\u00e6des domas cantwara cyninges"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5r) \u0110am mildestan cyninge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7r-v", 
+            "text": "B.14.50", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r) Seofonfealdegyfa syndan haliges gastes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7v-8v", 
+            "text": "B.18.7.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7v) \u0110a \u01bf\u00e6s agangen fram cristes accennednesse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 9r-32r", 
+            "text": "B.14.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 9r) \u00deis syndon \u00fea domas \u00f0e \u00e6lfred cyncg geceas"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) Dryhten \u01bf\u00e6s sprecende \u00f0as \u01bford to moyse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 32r-v", 
+            "text": "B.14.33", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 32r) Dom be haten isene. an \u01bf\u00e6tter"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 32r) And of \u00feam ordale"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 32v", 
+            "text": "B.14.37", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 32v) \u01bfalreaf is ni\u00f0inges d\u00e6de"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 32v-37r", 
+            "text": "B.14.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 32v) \u00c6\u00feelstanes ger\u00e6nesse"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 32v) \u00c6rest \u00fe\u00e6t man ne sparige"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 37r-38r", 
+            "text": "B.14.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 37r) \u00c6\u00f0elstan cyng cy\u00fe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 38r", 
+            "text": "B.14.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 38r) \u0110us feor sceal beon \u00fe\u00e6s cinges gri\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38v-39v", 
+            "text": "B.14.48", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 38v) Hu se man sceal swerie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 38v) On \u00f0one drihten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 40r-41v", 
+            "text": "B.14.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 40r) \u00deis syndon \u00fea domas \u00f0e \u00e6lfred cyncg ond gu\u00ferum cyncg gecuran"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40r) And \u00feis is seo ger\u00e6dnis eac"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 41v-42r", 
+            "text": "B.14.38", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 41v) T\u01bfelfhyndes mannes wer"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42r-43r", 
+            "text": "B.14.7.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 42r) Ead\u01bferdes ger\u00e6nesse"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 42r) Ead\u01bferd cyning byt \u00f0am gerefum eallum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 43r-44r", 
+            "text": "B.14.7.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 43r) Ead\u01bferd cyning myngode his \u01bfitan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44r-45r", 
+            "text": "B.14.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 44r) Eadmundes cyninges asetnysse"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 44r) Eadmund cyning gesomnode mycelne sino\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45r-46r", 
+            "text": "B.14.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 45r) Eadmund czning cy\u00f0 eallum folce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 46r-47r", 
+            "text": "B.14.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 46r) \u0110is is seo ger\u00e6dnys \u00f0e \u00e6\u00feelred cyng"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47r-47v", 
+            "text": "B.14.57", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 47r) \u01bfillelmes cyninges asetnysse"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) \u01bfilhelm cyng gret ealle \u00fea \u00fee \u00f0ys ge\u01bfrit to cym\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 48r-49v", 
+            "text": "B.14.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48r) \u0110is syndon \u00fea laga \u00fee \u00e6\u00f0elred cyng"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 49v-57r", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 49v) Incipit exorcismus aque"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 57v", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 57v) Cnud rex anglorum dedit ecclesie cristi brachium Sancti"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 58r-80r", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 58r) Incipiunt quedam instituta de legibus regum anglorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 58r) Hec est institutio"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 80r-81v", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 80r) Hic intimatur quid Willelmus rex anglorum cum principibus suis constituit. post conquisitionem anglie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 80r) Inprimus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 81v-87r", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 81v) Exceptiones ex decretis pontificum. quales accusatores accipiantur. et quales non recipiantur."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 81v) Accusatores"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 88r-93r", 
+            "text": "B.14.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 88r) Iudicia ciuitatis lundonie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 88r) \u0110is is seo ger\u00e6dnes \u00fee \u00fea biscopas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 93r-93v", 
+            "text": "B.14.46", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 93r) Be leode ge\u00feinc\u00f0um. ond lage"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 93r) Hit \u01bf\u00e6s h\u01bfilum on engla lagum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 93v-94r", 
+            "text": "B.14.47", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 93r) Be \u01bfwergylde"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 93r) Cynges \u01bfergild"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 94v-95r", 
+            "text": "B.14.43", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 94v) Be wifmannes beweddunge"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 94v) Gif man m\u00e6dan o\u00f0\u00f0e \u01bfid \u01bfeddian \u01bfille"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 95r", 
+            "text": "B.23.1.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95r) Gif feoh sy undernumen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 95r-95v", 
+            "text": "B.14.40", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 95r) Hit bec\u01bf\u00e6\u00f0. ond bec\u01bf\u00e6l"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 96r-97v", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 96r) Institutiones henrici regis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 96r) Anno incarnationis dominici"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 98r-99v", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 98r) Excommunicatio"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 98r) Ex auctoritate dei"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 99v-100r", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 99v) Excommunicatio"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 99v) Auctoritate dei"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 101r-v", 
+            "text": "B.18.7.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 101r) \u0110is ys angelcynnes cynecynn \u00fee her gemearcod is."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 101r) Adam \u01bf\u00e6s se \u00e6resta man"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 101v) \u0110a \u01bf\u00e6s \u00e6\u00feelred. \u00fea \u01bf\u00e6s ead\u01bford"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 102r-104r", 
+            "text": "B.18.7.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 102r) Ead\u01bfard. ond eadmund. ond \u00e6\u00f0elred \u00e6\u00feelingas syndon eadgares suna"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 105r-16r", 
+            "text": "B.18.7.4.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 116v", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 116v) uiginti quattor seniorum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 119r-222r", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 222r-v", 
+            "text": "Ker", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 373"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "c. 225-230 mm x 150-155 mm (dimensions of all - size of leaves).\nc. 170 mm x 95 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2 in English", 
+        "summary": "The main text is written in the same hand throughout. The glosses to a Latin item (fols 58-80) are in a different hand.", 
+        "hands": [
+            {
+                "name": "Main text", 
+                "scope": "Sole", 
+                "script": "Norman version of Caroline minuscule", 
+                "scribe": "'Textus' scribe", 
+                "description": "fols 1-229. According to", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is insular and regularly rounded in English, of the same size and shape as <span class=\"c\">\u00f0</span>."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular in English, formed with a very prominent approach stroke beginning well above minim height and the trace forming the headstroke commencing well below the top of the stem. Placed higher than usual, in the position of caroline <span class=\"c\">f</span>."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular in English."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is insular in English."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular in English. The stem is formed with a very prominent approach stroke and terminates as a descender; the shoulder stroke is a longer, more prominent, complex broken stroke than in Latin and begins well below the top of the stem."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> the stem is formed with a very prominent approach stroke, beginning well above minim height, and the trace forming the headstroke commencing well below the top of the stem. Placed higher than usual, in the place of Caroline <span class=\"c\">s</span>. Round <span class=\"c\">s</span> occurs at the beginning of the manuscript."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> the descender curves to the left."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> archaic f-shaped <span class=\"c\">y</span> occurs at the beginning of the manuscript."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> the descender curves to the left."
+                    }, 
+                    {
+                        "char": "R", 
+                        "note": "Uncial <span class=\"c\">R</span> occurs at the beginning of the manuscript."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curve to the left in <span class=\"c\">\u00fe</span> and <span class=\"c\">\u01bf</span>, but not in <span class=\"c\">r</span> and <span class=\"c\">p</span>."
+                    }, 
+                    {
+                        "char": "ri", 
+                        "note": "Mid-low position of the punctuation point is characteristic of the scribe."
+                    }, 
+                    {
+                        "char": "ri", 
+                        "note": "<span class=\"c\">ri</span> and <span class=\"c\">ru</span> ligatures are not employed, avoiding the loss of the approach stroke to the minim at cue-height, aiding legibility."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in 1937.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written in <span class=\"name\">Rochester</span> in the 1120s but, according to <a href=\"#ker44\">Ker</a>, 'the inscription 'Textus de ecclesia Roffensis per Ernulfum episcopum' (fol. 1) is of s. xiv and cannot be relied upon implicitly' (1957, p. 447).", 
+        "provenance": "Used by <span class=\"name\">Archbishop Parker</span>, and also by <span class=\"name\">Lambarde</span> for his <span class=\"italics\">Perambulation of Kent</span> (1576).", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Thom Gobbitt (August 2010; September 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "arn1063", 
+        "pal969", 
+        "dav12", 
+        "del1062", 
+        "gra650", 
+        "hea1064", 
+        "ing1065", 
+        "ker44", 
+        "ker48", 
+        "lie1066", 
+        "lie471", 
+        "ocr781", 
+        "par944", 
+        "per1067", 
+        "ric181", 
+        "rob439", 
+        "saw99", 
+        "sou1061", 
+        "sto907", 
+        "wan470", 
+        "wor1108", 
+        "wri853"
+    ]
+}

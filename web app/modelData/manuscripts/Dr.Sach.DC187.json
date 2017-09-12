@@ -1,0 +1,137 @@
+{
+    "id": "Dr.Sach.DC187", 
+    "city": "Dresden", 
+    "repository": "S\u00e4chsiche Landesbibliothek", 
+    "collection": "", 
+    "shelfmark": "Dc. 187 + 160 + 186+ 185", 
+    "ker": "102", 
+    "content": "Glosses, names of herbs", 
+    "location": "Unknown", 
+    "date": "s.xii^{med}", 
+    "summary": "This manuscript contains a number of Latin texts. English Glosses: Names of Herbs and Medical Texts are added across the different parts of the manuscript, giving names of herbs, diseases and parts of the body, and glossing herb-recipes. Manuscript not localised, but <a href=\"#ker44\">Ker</a> notes that it \u2018formed a single volume with a later medical manuscript of English provenance, now Dresden MS. C. 309\u2019 (1957, p. 143).", 
+    "items": [
+        {
+            "locus": "fols 7v-19r", 
+            "text": "B.21.1.2.9.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "ambrosie agrestis hindhe[l]e\u00f0a / tanacetam helde / matrem herbarum mug\u01bfurt / camimulam heauc\u01bfurt / saxifrice sundcorn / arneglose \u01bfegbrade / agrimonia garcliua / sole thunge / auiane li\u00f0eleaf / gahell hals\u01bfurt"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 102"
+                }, 
+                {
+                    "work": "mer1630", 
+                    "page": "no. 73 (c), Dc. 187,\n                           \t\t\t\t\t\t\t\t\tgll. 1-10"
+                }, 
+                {
+                    "work": "var1629", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30r-37v", 
+            "text": "B.21.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 30r) nesciaticos hypsar / genuculorum dolorem cneusar"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 37v) summitatesi. croppes / runcie brembel / glatuner clate"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 102"
+                }, 
+                {
+                    "work": "mer1630", 
+                    "page": "no.73 (c), Dc.\n                           \t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t187, gll. 11-46"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 1r-15v", 
+            "text": "C.71.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) terre malum i. eor\u00f0eppel / ad alueum concitandum wi\u00f0\u00feam\u00fee nebbe for\u00fegang"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v) iecinorosusi. liferseoc"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 102"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "no. 73 (b), Dc. 186"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 27v-39r", 
+            "text": "C.71.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 27v) pamfeso que anglice dicitur / clof\u00feunc siue \u00feelne\u00feunc"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 39r) uua canina hudesberia / maluam siaringuuert / spincuumi. alferthiguert"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 102"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "no. 73 (a), Dc. 185"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 39v", 
+            "text": "C.71.2.3.EM", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 102"
+                }, 
+                {
+                    "work": "man1631", 
+                    "page": "p. 432"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Joanna Green, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#man1631"
+    ]
+}

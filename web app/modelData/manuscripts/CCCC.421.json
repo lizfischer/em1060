@@ -1,0 +1,165 @@
+{
+    "id": "CCCC.421", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "421", 
+    "ker": "69", 
+    "content": "Homilies", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 3-25", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 3) FRAM \u00d0AM HALGAN EASTERLICAN D\u00c6GE | synd getealde fiftig daga to \u00feysum | d\u00e6ge."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 25-36", 
+            "text": "B.1.2.44", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 25) \u00d0ES APOSTOLICA FREOLS D\u00c6G MANA\u00d0 US | to sprecenne \u02e5 sum \u00feing eo\u01bf to secg |"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 36-54", 
+            "text": "B.1.2.46", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 36) Cum audieritis prelia & seditiones | nolite terreri. & reliqua."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 36) SE H\u00c6LEND FORES\u00c6DE HIS LEOR- | ning"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 54-76", 
+            "text": "B.1.2.47", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (foi. 54) homo quidam pergere proficisc..s | uocauit seruos suos & tradidit illis | bona sua."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 54) VRE DRIHTEN S\u00c6DE \u00deIS BIG SPELL | his leorning cnihtum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 76-96", 
+            "text": "B.1.2.48", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 76) Simile est regnum celorum decem | uirginibus que accipientes [.]ampade."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 76) Se h\u00e6lend s\u00e6de gelomlice bigspell be geh\u01bfilcum \u00feingum his leorningcnihtum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 209-221", 
+            "text": "B.3.4.37", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 209) We secgea\u00f0 urum cynehlaforde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 221-224", 
+            "text": "B.2.1.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 221) CRIST cw\u00e6\u00f0 on his halgan godpelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "decoration": null, 
+    "binding": "Last rebound in November 1954, at which point Quire 19 'was misbound' (<a href=\"#wil664\">Wilcox 2000</a>, p. 8).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Part I was written by three scribes known to have been active at <span class=\"name\">Exeter</span> in the first half of the eleventh century. Part II was taken from <a href=\"EM.CCCC.419.htm\">CCCC 419</a> (<a href=\"#wil664\">Wilcox 2000</a>, p. 8).", 
+        "provenance": null, 
+        "acquisition": "Acquired by <span class=\"name\">Parker</span>, bequeathed to <span class=\"name\">Corpus Christi College</span> in 1575 (<a href=\"#wil664\">Wilcox 2000</a>, p. 8)."
+    }, 
+    "admin": "Manuscript described by William Green and by Elaine Treharne with the assistance of Hollie Morgan (2010; 2013)", 
+    "surrogate": true, 
+    "bib": [
+        "bet109", 
+        "bis642", 
+        "cle112", 
+        "cor1555", 
+        "cor401", 
+        "dra419", 
+        "for643", 
+        "gne146", 
+        "god42", 
+        "gra640", 
+        "jam354", 
+        "kat1650", 
+        "ker44", 
+        "lap644", 
+        "nap123", 
+        "pop87", 
+        "raw645", 
+        "tho57", 
+        "tre279", 
+        "tre106", 
+        "wil664", 
+        "wil641"
+    ]
+}

@@ -1,0 +1,178 @@
+{
+    "id": "SCL.150", 
+    "city": "Salisbury", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "150", 
+    "ker": "379", 
+    "content": "Continuous gloss", 
+    "location": "Salisbury", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 12-138", 
+            "text": "C.7.13", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 379"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 138v-51v", 
+            "text": "C.11.12", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 379"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 138", 
+            "text": "C.23.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker, in s. x or s. xi, the words 'famulum tuum' in the prayer were changed to 'famulam tuam', but the gloss, which is later, is '\u00feeowan \u00feinne' (1957, p. 450). [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 379"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "c. 287 mm x 180 mm (dimensions of all - size of leaves).\n234 mm x 105 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2 from the period 1060-1220", 
+        "summary": "The Old English in the glosses on fols 149v-51v and fols 1-11 is datable to the late 10th century and written in a square Anglo-Saxon Minuscule (", 
+        "hands": [
+            {
+                "name": "glosses", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 379 Scribe 1", 
+                "description": "Fols 12-149v. 'A backward-sloping, thin hand' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> Caroline."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> rounded, open topped, of the same size and shape as <span class=\"c\">\u00f0</span>."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> open topped."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> Caroline."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> insular <span class=\"c\">g</span> sometimes occurs."
+                    }, 
+                    {
+                        "char": "o", 
+                        "note": "<span class=\"c\">o</span> open topped."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> Caroline."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> Caroline."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> open topped, of the same size and shape as <span class=\"c\">d</span>."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is not dotted."
+                    }
+                ], 
+                "date": "s. xi/xii"
+            }, 
+            {
+                "name": "gloss to title of psalm 77", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 379 scribe 2", 
+                "description": "Fol. 75v. An English Vernacular Minuscule of s. xii characterised by numerous insular forms:", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> insular."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> insular."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> insular."
+                    }
+                ], 
+                "date": "s. xi/xii"
+            }
+        ]
+    }, 
+    "binding": "Rebound in 1948. The former binding was of s. xix<span class=\"sup\">1</span>.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The question of the origin of Salisbury 150 is uncertain and there have been several suggestions. <a href=\"#ker44\">Ker</a> (1957, p. 451) posits that the manuscript was at <span class=\"name\">Sherborne</span>, and then transferred to <span class=\"name\">Salisbury</span> in 1078. 'In the twelfth-century litany Aldhelm is second among confessors, the order being Sylvester, Aldhelm, Marcialis. The obit of 'brictwinus', added to the calendar at 2nd June in s. xi<span class=\"sup\">med</span>, may be that of <span class=\"name\">Byrhtwine II</span>, bishop of <span class=\"name\">Sherborne</span> 1023- 45'. <a href=\"#str1481\">Stroud</a> (1979), however, evaluates the evidence for <span class=\"name\">Sherborne</span> and argues that <span class=\"name\">Shaftesbury</span> or <span class=\"name\">Wilton</span> could be better suggestions on account of the inclusion in the manuscript of <span class=\"name\">St Edward</span>, <span class=\"name\">St Aidan</span> and <span class=\"name\">St Maiolus</span> which are particularly important saints for <span class=\"name\">Shaftesbury</span>. The inclusion of the Holy Nails, the entries of <span class=\"name\">St Denis</span>, the use of the Gallican version and the addition of the feast of <span class=\"name\">St Edith</span> seem to suggest a provenance relating to <span class=\"name\">Wilton</span>. In particular the correction of 'famulum tuum' to 'famulam tuam' suggests a female community (<a href=\"#str1481\">Stroud</a> 1979).", 
+        "provenance": "The manuscript was at <span class=\"name\">Salisbury</span> in 1622, and lent to <span class=\"name\">Elizabeth Elstob</span> in a note by <span class=\"name\">H. Hetcher</span> dated 1831 on fol. i.(<a href=\"#ker958\">Ker</a> 1957, p. 168).", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan (April 2010) with reference to facsimiles and published scholarship, and additional suggestions by Elaine Treharne.", 
+    "surrogate": true, 
+    "bib": [
+        "pal969", 
+        "ker958", 
+        "ker44", 
+        "lin967", 
+        "mea877", 
+        "pri970", 
+        "str1481", 
+        "wor631", 
+        "wul968"
+    ]
+}

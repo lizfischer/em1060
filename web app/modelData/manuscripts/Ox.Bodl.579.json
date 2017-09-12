@@ -1,0 +1,661 @@
+{
+    "id": "Ox.Bodl.579", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "579 (2675)", 
+    "ker": "315", 
+    "content": "Additions to the 'Leofric Missal': List of Sureties, Inscription and Manumissions", 
+    "location": "Exeter", 
+    "date": "s.xi^{3/4}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 1r/1-10", 
+            "text": "B.16.10.5", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r/1-5) Hunc missalem Leofricus episcopus dat \u0119cclesi\u0119 sci\u02c9 petri ap\u019ai in exonia ad utiliatem succes_ | _sor\u016b suor\u016b \u00b7 Si quis ill\u016b inde abstulerit \u00b7 \u0119t\u02c9n\u0119 | subiaceat maledictioni \u00b7 FIAT \u00b7 FIAT \u00b7 Confirma hoc | deus quod operatus es in nobis \u00b7"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r/6-9) \u00d0as boc Leofric bisceop gef sancto petro \u00b7 \u02e5 | eall\u016b his \u00e6fter gengum into exancestre | gode mid to \u00f0enienne \u00b7 \u02e5 gif \u2041 hig \u00e6nig man ut | abrede h\u00e6bb [e] he goddes curse and \u00fer\u00e6\u00f0\u00f0e | ealra halgena \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi3/4"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC3"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This item is in the second leaf of a preliminary quire added in s. xi (fols iv, 1-7). The initials 'H' and '\u00d0' are in the same ink as the rest of the text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 253"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article b"
+                }, 
+                {
+                    "work": "exe426", 
+                    "page": "p. 11, n. 3"
+                }, 
+                {
+                    "work": "orc687", 
+                    "page": ""
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1r/10-13", 
+            "text": "B.16.10.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r/10) hal\u01bfun hoce on execstre freode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 1r/13) hi\u02c9 \u01bfur\u00fee \u01bfra\u00f0 \u00fee hi h\u00e6fre ge \u00fey\u01bfie am\u02c9"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi/xii"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC5"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A manumission granted at Exeter. This item was added in at a comparatively late date between the Inscriptions and the manumission at the end of fol. 1r."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 253"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article c"
+                }, 
+                {
+                    "work": "orc687", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ros682", 
+                    "page": "p. 441"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1r/14-21", 
+            "text": "B.16.10.6.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r/14-15) Her ky\u00f0 on thisse bec \u00fe\u00e6t \u00e6ilgyuu gode alysde | hig \u02e5 dunna \u02e5 heora of spring"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 1r/20-21) \u00fee \u00feis \u00e6fre | un do \u00e1 on ecnysse. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC4"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A manumission granted at Exeter. Probably added after fol. 1v was filled with other manumissions."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 253"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article c"
+                }, 
+                {
+                    "work": "orc687", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ros682", 
+                    "page": "p. 441"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1v/1-7", 
+            "text": "B.16.10.6.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1v/1-3) Her ky\u00f0 on \u00feyssere bec \u00fe\u00e6t god\u01bfine blaca bohte | hine sylfne \u02e5 his \u01bfyf \u02e5 his ofspring \u00e6t \u01bfyl | l\u0113lme hosethe mid \u00b7xv\u00b7 sci\u019a\u019a \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 1v/6-8) \u02e5 \u00e6lfric | hasl n\u0101 \u00fe\u00e6t toll for \u00fe\u00e6s kynges hand \u02e5 h\u00e6bbe he | godes curs \u00fee hit \u00e6fre un do \u00b7 am\u02c9 \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC4"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A manumission granted at Exeter."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 253"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article c"
+                }, 
+                {
+                    "work": "orc687", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ros682", 
+                    "page": "p. 441"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1v/8-15", 
+            "text": "B.16.10.6.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(1v/8-9) Her ky\u00f0 on \u00feysse bec \u00fe\u00e6t ed\u01bfy beorneges sunu | lysde hyne \u02e5 his \u01bfif \u02e5 his cyld on ed\u01bferdes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(1v/14-15) \u02e5 on s\u00e6\u01bfines lufa sunu \u02e5 on leofsies \u02e5 on | \u00e6lf sies"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC4"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A manumission granted at Exeter."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 254"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article c"
+                }, 
+                {
+                    "work": "orc687", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ros682", 
+                    "page": "p. 441"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1v/16-22", 
+            "text": "B.16.10.6.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1v/16-18) Her ky\u00f0 on \u00feyssere bec \u00fe\u00e6t ediuuu s\u00e6uugeles | laf bohte gladu \u00e6t cole\u01bfine \u01bfy\u00f0 healfe | punde to cepe \u02e5 to tolle \u00b7"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 1v/21-22) \u02e5 h\u00e6bbe he godes | curs \u00fee \u00feis \u00e6fre un do on ecnisse \u00b7 Am\u02c9 \u00b7"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC4"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A manumission granted at Exeter."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ear432", 
+                    "page": "p. 253"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article c"
+                }, 
+                {
+                    "work": "orc687", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ros682", 
+                    "page": "p. 441"
+                }, 
+                {
+                    "work": "war93", 
+                    "page": "p. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 8r-v", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubbed and partly illegible."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article e"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11v", 
+            "text": "B.15.5.12", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 11v) \u00d0is synt \u00fea men \u00fee synt anburge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Partly over the erasure of four lines of French script; partly in the margin."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC1 and Ker 315 SC2"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "ximed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article a"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 377v", 
+            "text": "B.16.10.6.6.EM", 
+            "notes": [
+                {
+                    "head": "Date", 
+                    "body": "s. xiex"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Ker 315 SC6"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 315, article d"
+                }
+            ]
+        }
+    ], 
+    "handDesc": {
+        "number": "6 between 1060 to 1220", 
+        "summary": "The list of sureties (fol. 11v) is in two hands, s. xi", 
+        "hands": [
+            {
+                "name": "List of sureties", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 315 SC1", 
+                "description": "Fol. 11v/18-19. The first line and first five letters of the second line of the list of sureties,", 
+                "summary": "A 'neat, upright script' (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> Caroline."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> the ascender is very short and parallel to the line."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> round-backed."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> long neck and closed bowl."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> straight left arm, curved right arm and descender."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are split at the top."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "List of sureties", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 315 SC2", 
+                "description": "Fol. 11v/19-23.", 
+                "summary": "'Rougher and sloping' (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> round."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> the ascender slopes up at an angle."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> horned."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> shorter neck than SC1 and the bowl is not always closed."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> the descender of long <span class=\"c\">s</span> is shorter than that of SC1."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> straight-armed."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are wedged."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curve to the left, including the descender of <span class=\"c\">\u02e5</span>."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "Inscription", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule I", 
+                "scribe": "Drage Scribe 2", 
+                "description": "Fol. 1r/1-10.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span>: <span class=\"c\">a</span> and <span class=\"c\">e</span> are in the same height."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is horned."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> the ascender has a distinctive finishing stroke. The left-down serif at the top of ascender of <span class=\"c\">\u00f0</span> is distinct. and the cross bar has a pronounced downward serif at the right end."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "The height of the ascenders is equal to that of the body of the letter. Their heads are wedge-shaped or slightly split at the top."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "The length of the descenders is equal to that of the body of the letter. Their ends turn slightly to the left."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "Manumissions", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 315 SC4", 
+                "description": "Fol. 1r/14-1v. Items", 
+                "summary": "'Uncalligraphic but clear' (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> tall in the word 'amen'."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> the ascender 'may be short or very short'."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> long, curved neck and closed bowl."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> an unusually large bowl."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is straight or rounded."
+                    }, 
+                    {
+                        "char": "low point", 
+                        "note": "Punctuation is by <span class=\"c\">low point</span>."
+                    }, 
+                    {
+                        "char": "tironian nota", 
+                        "note": "The <span class=\"c\">tironian nota</span> has a distinctive approach stroke."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "Manumissions", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 315 SC5", 
+                "description": "Fol. 1r/10-13.", 
+                "summary": ".", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> the ascender is very short but curls back."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> the head is wavy."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> according to <a href=\"#scr565\">C11 project</a>, <span class=\"c\">h</span> 'has only vestigial feet'."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a very small bowl and a long ascender which is not transected by the cross- bar, which has a finishing stroke which turns sharply down"
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are notched."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> tend to curve towards the left."
+                    }, 
+                    {
+                        "char": "tironian nota", 
+                        "note": "The <span class=\"c\">tironian nota</span> has a distinctive approach stroke."
+                    }
+                ], 
+                "date": "s. xi/xii"
+            }, 
+            {
+                "name": "Manumission of Brihtm\u00e6r", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 315 SC6", 
+                "description": "Fol. 377v/1-18.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> varies between round and broken-backed."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> tends towards Caroline."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is long in all positions; low <span class=\"c\">s</span> occasionally in final position; one round <span class=\"c\">s</span> in line 16."
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "History of the manuscript is much disputed. Scholars such as <a href=\"#war93\">Warren 1883</a> and <a href=\"#orc687\">Orchard 2002</a> divide the book into three categories: 'Leofric A', the original core of the volume written c. 900; 'Leofric B', a Glastonbury calendar dated to around 980; and 'Leofric C', short liturgical texts inserted into gaps, over erasures and on new quires (<a href=\"#hoh688\">Hohler 1975</a>, pp. 69-70; <a href=\"#hay1155\">Hayward 2004</a>, pp. 817-18). Scholars agree that 'Leofric A' was copied by scribes trained on the continent (<a href=\"#hay1155\">Hayward 2004</a>, p. 818). <a href=\"#war93\">Warren 1883</a> thought that it was copied at St. Vaast or Cambrai and was later brought to England by Leofric (<a href=\"#hay1155\">Hayward 2004</a>, p. 817). <a href=\"#orc687\">Orchard 2002</a> argues that the text was not copied for a house in <span class=\"name\">Northern France</span>, but for the use of <span class=\"name\">Plegmund, Archbishop of Canterbury</span> 890-923. Because of this, <a href=\"#orc687\">Orchard 2002</a> argues that 'Leofric B' is a series of additions made for Plegmund's successors to the end of the tenth century. 'Leofric C' therefore was written after the book was given to Exeter.", 
+        "provenance": "The manuscript remained in Exeter until 1602.", 
+        "acquisition": "Given to the Bodleian Library by the Dean and Chapter in 1602."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan, with reference to published scholarship (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "web1160", 
+        "exe426", 
+        "ale1156", 
+        "bar1158", 
+        "bis18", 
+        "des1159", 
+        "des690", 
+        "dra419", 
+        "dum689", 
+        "ear432", 
+        "fin1154", 
+        "hay1155", 
+        "hei1157", 
+        "hoh688", 
+        "ker44", 
+        "orc687", 
+        "pac589", 
+        "par728", 
+        "rob439", 
+        "ros1073", 
+        "ros682", 
+        "scr565", 
+        "wal686", 
+        "war93", 
+        "wil1153", 
+        "wor631", 
+        "wor29"
+    ]
+}

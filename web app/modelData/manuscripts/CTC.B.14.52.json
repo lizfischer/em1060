@@ -1,0 +1,1196 @@
+{
+    "id": "CTC.B.14.52", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "B. 14. 52", 
+    "ker": "", 
+    "content": "Homilies and Poema Morale", 
+    "location": "South East", 
+    "date": "s.xii^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols i verso-ii verso", 
+            "text": "James 1900", 
+            "notes": [
+                {
+                    "head": "Date", 
+                    "body": "1593"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Thematic index in hand of 'Abraham Wheelocke [or Wheloc] 1593' at fols iv-iiv. Entries include baptism, baptismal vestments, the Creed, etc. This index refers to the pagination of the manuscript (rather than foliation), and Wheelocke's notes are scattered throughout the manuscript, where he glosses and annotates the texts, using his annotations for the specific page and line numbers of his index. Fol. 90v is another word list that fills the page. Fol. 91r is the continuation of Wheelocke\u2019s index, beginning with K (no entries) and L etc. Runs over this fols onto 91v, 92r, 92v, 93r. This hand was confirmed by Timothy Graham in a personal communication to Elaine Treharne. [ET]"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 1ra/1-21", 
+            "text": "James 1900", 
+            "notes": [
+                {
+                    "head": "Date", 
+                    "body": "s. xiii"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In a thirteenth-century hand, but with the versal initials omitted. The last two litanies are in blacker ink, and possibly a different hand. [ET]"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 1rb/1-23 and fol. 1ra/23-31", 
+            "text": "James 1900", 
+            "notes": [
+                {
+                    "head": "Date", 
+                    "body": "s. xvi"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Corresponding to the one of the sets of foliation in the manuscript -- the one that has almost entirely been trimmed away. [ET]"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 1v/1-2", 
+            "text": "James 1900", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Rithmus anglic us cum omilis anglicis in hoc volumine | continentur'."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "datable to the sixteenth century"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 1v/4-11", 
+            "text": "James 1900", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "Dating formula (23 September 1583) and six lines of Latin verse signed by W[illiam] P[atten]: LECTORI, | Abdita qu\u00e6 tenebrans monumenta recondidit' [ET]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam1253", 
+                    "page": "460"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1v/13-24", 
+            "text": "Hill 1966", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "Truncated 16c English letter praising unnamed author of verses: 'Manye will Bragge of there knowledge'. [ET]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hil1252", 
+                    "page": "195"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 2r/1-9v/21", 
+            "text": "A.54.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 2r/1) Ich am nu elder \u00fean ich was a wintre \u02e5 a lore"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 9v/21) \u00feat we moten \u00feider cumen \u00feane we henne wende. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Quire 1, as noted below, is different from subsequent quires, both in terms of layout and in terms of its codicology more generally. The page measures 136mm x 113mm; the writing grid is 125mm x 80mm. Versals are offset into margin. Use of Caroline g and insular g, the latter for a palatal glide. Quire 1 was folded on the vertical down the middle. The fold is from the last folio forwards; in other words, the outermost leaf when folded would be the closing folio. It thus formed a distinct textual unit. It is important to note that the scribe of Poema Morale erased words at the end of the verse line, transferring them to the beginning of the next. This suggests the he is copying something that looks like prose (as in the Lambeth Homilies, Lambeth Palace, Lambeth 487), but is here transcribing it as verse. [ET]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "220-32, no. 35"
+                }, 
+                {
+                    "work": "hal485", 
+                    "page": "31-53"
+                }, 
+                {
+                    "work": "hil898"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 10r/1-11r/17", 
+            "text": "B.3.2.53.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 10r/1) Ecce uenit rex occurramus obuiam saluatori nostro"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 11r/17) Swo cume he to us. for his muchele mildhertnesse. Qui uiuet et Regnat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "3-7, no.1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 11r/17-12r/11", 
+            "text": "B.3.2.54.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 11r/17) HOra est iam nos de sompno surgere et cetera"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 12r/11) Qui uiuit et Regnat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "7-9, no.2"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 12r/11-14r/8", 
+            "text": "B.3.2.55.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 12r/11) Nox precessit dies autemappropinquabit"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 14r/8) Qui uiuit \u02e5 Regnat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "9-15, no.3"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 14r/9-17v/17", 
+            "text": "B.3.4.58.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 14r/9) Tria sunt hominumsaluti necessaria..."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 17v/17) sowle \u02e5 licam abuten ende"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "15-23, no.4"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 17v/18-20v/9", 
+            "text": "B.3.4.59.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 17v/18) Pater noster et cetera"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 20v/9) Ac les us louerd of his egginge \u02e5 of all iuele. amen. swo hit wur\u00f0e"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "24-31, no.5"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 20v/9-24v/7", 
+            "text": "B.3.2.56.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 20v/9) Natus est nobis hodie saluator qui est Christus in ciuitate davi\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 4v/7) Quod qui promisit dignetur reddere nobis. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "31-41 no.6"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 24v/8-26r/17", 
+            "text": "B.3.2.57.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 24v/8) REGES tharsis \u02e5 insule munera offerent."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 26r/17) Qui uiuit et regnat eeus per omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "41-5 no.7"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 26r/18-28r/3", 
+            "text": "B.3.2.58.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 26r/18) Optulerunt pro eo domino par turturum aut duos pullos columbarum et cetera"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 28r/3) Regnat per omnia secula seculorum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "47-51 no.8"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 28r/4-30r/9", 
+            "text": "B.3.2.59.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 28r/4) QVomodo cantabimus canticum domini in terra aliena"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 30r/9) Quod ipse nobisprestare dignetur qui uiuit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "50-5 no.9"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30r/10-31r/4", 
+            "text": "B.3.4.60.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 30r/10) Vnderstonde\u00f0 get an \u00feing \u00feat ich giu wile arnie fore."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 31r/4) Quod ipse prestare dignetur qui uiuit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This homily is not fully differentiated from the preceding item"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "55-9 no.10"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 31r/5-34r/15", 
+            "text": "B.3.2.60.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 31r/5) Conuertimini ad me in toto corde uestro et cetera."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 35r/15) Qui uiuit et Regegnat per omnia secula seculorum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "58-67 no.11"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 34r/16-37v/20", 
+            "text": "B.3.2.61.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 34r/16) PReocupemus faciem domini. et in psalmis iubilemus ei."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 37v/20) Qui uiuit et Regnat deus per omnia"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly at the bottom of quire"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "67-75 no.12"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 38r/1-39v/15", 
+            "text": "B.3.2.62.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 38r/1) Ecce nunc tempus acceptabile"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 39v/15) Quod ipse prestare dignetur uiuit et regnat."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "76-81 no.13"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 39v/15-42v/17", 
+            "text": "B.3.2.63.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 39v/15) CVm immundus spirirus exierit ab homine ambulat per loca arida qerens requiem et non inueniens dicit."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 42v/17) Qui uiuit et Regnat."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "81-9 no.14"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42v/17-44v", 
+            "text": "B.3.2.64.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 44v/10) Turbe que precedebant dominum et que sequebantur clamabant dicentes. osanna filio dauid"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 44v/10) Quod nobis prestet qui secula per omnia regnat"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "89-93 no.15"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44v/10-46v/23", 
+            "text": "B.3.2.65.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 44v/10) Hec est dies quam fecit dominus exultemus et letemur in ea."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 46v/23) Quod nobis prestet qui hodie surrexit et uiuit cum deo patre in unitate spirituc sancti"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "93-101 no.16"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47r/1-48r/17", 
+            "text": "B.3.2.66.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 47r/1) Stetit iesus in medi discipulorum suorum \u02e5 dixit eis. pax uobis."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 48r/17) Qui uiuit et Regnat per omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "101-105 no.17"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 48r/18-49v/12", 
+            "text": "B.3.2.67.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 48r/18) Omne datum optimum et omne donum perfectum desursum est"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 49v/12) Qui uiuit et Regnat per omnia..."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "105-9 no.18"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 49v/12-52r/8", 
+            "text": "B.3.2.68.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 49v/12) Eleuatus est sol in celum et cetera"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 52r/8) Qui cum patre et siritu sancto uiuit et Regnat per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "109-115 no.19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 52r/8-53r/24", 
+            "text": "B.3.2.69.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 52r/8) Apparuerunt apostolis dispertite lingue tamquam ignis seditque supra singulos eorum spirituc sanctus"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 53r/24) Qui uiuit et regnat in uniuersa secula seculorum deus."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "116-121 no.20"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 53/1-54v/17", 
+            "text": "B.3.4.61.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 53v/1) Dominus de celo prospexit super filios hominum ut uideat si est intelligens aut requirens deum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 54v/17) Qui uiuit et regnat deus per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "121-25 no.21"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 54v/17-57r/7", 
+            "text": "B.3.3.36.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 54v/17) Ego uox calamantis in deserto parate uiam domini rectas facite semitas eius."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 57r/7) for to \u00feat he com to \u00f0e ende \u00feat is eche lif. ad quam nos ducat. qui uiuit."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "125-31 no.22"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57r/r-60r/9", 
+            "text": "B.3.3.37.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 57r/7) Inter natos mulierum non surrexit maior iohanne baptista."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 60r/9) Qui uiuit Regnat per omnia secula seculorum."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "131-41 no.23"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 60r/9-61v/9", 
+            "text": "B.3.3.38.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 60r/9) Mulier que erat in ciuitate nomine maria iam penitens uenit ad domum symonis ubi erat iesus."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 61v/9) Qui uiuit et Regnat per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "141-45 no.24"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 61v/9-64r/10", 
+            "text": "B.3.3.39.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 61v/9) Evntes ibant \u02e5 flebant mittentes semina sua."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 64r/10) Quodnobis prestet. qui secula per omnia Regnat. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "145-53 no.25"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 64r/10-66r/23", 
+            "text": "B.3.3.40.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 64r/10) QVi parce seminat parce \u02e5 metet."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 66r/23) Quod nobis prestet qui secula per omnia Regnat. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "153-9 no.26"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 66v/1-66r/23", 
+            "text": "B.3.3.41.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 66v/1) MARia uirgo assumpta est ad ethereum thalamumm \u02e5 cetera."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 66r/23) Quod ipse prestare dignetur qui uiuit \u02e5 Regnat per omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "159-67 no.27"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 69r/9-71v/6", 
+            "text": "B.3.4.62.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 69r/9) Libera me domine de morte eterna in die illa tremenda"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 71v/6) Qui uiuit \u02e5 Regnat p omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "167-73 no.28"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 71v/6-75v/11", 
+            "text": "B.3.3.42.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 71v/6) AMbulans iesus iuxta mare galilee"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 75v/11) Ad quam nos ducat. qui uite premia donat."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "173-85 no.29"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 75v/12-78r/13", 
+            "text": "B.3.4.63.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 75v/12) Esto fortes in bello \u02e5 pugnate cum antiquo serpente."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 78r/13) Quod nobis prestet qui secula per omnia regnat."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "185-93 no.30"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 78r/14-81r/17", 
+            "text": "B.3.4.64.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 78r/14) Estote prudentes \u02e5 uigilate in oracionibus."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 81r/17) Qui uiuit \u02e5 regnat per omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "193-201 no.31"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 81r/18-83r/23", 
+            "text": "B.3.4.65.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 81r/18) QVi uult uenire post me abneget semet ipsum \u02e5 tollat crucemsuam."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 83r/23) Quod nobis prested qui uiuit \u02e5 Regnat per omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "202-9 no.32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 83v/1-86r/16", 
+            "text": "B.3.4.66.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 83v/1) Posuerunt peccatores laqueum mihi \u02e5 de mandatis tuis non erraui."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 86r/16) swo do he ure alre \u00fee liue\u00f0 \u02e5 rixle\u00f0. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "209-217 no.33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 86v/1-86v/12", 
+            "text": "James (1900)", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 86v/1).. Suphurea id est baline balinstie id est flores malogranatorum. hermodactilus id est titelusa. portinus id est sudinele [illegibile]. Rodostoma id est aqua rosata (Poema Morale In a thirteenth-century hand, though the opening is illegible.)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "fifteenth century"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rest of fol. 86v and all fo fol. 87r blank. [ET]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam1253", 
+                    "page": "461"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 87v/1-88r/12", 
+            "text": "B.3.4.67.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 87v/1) Egredietur uirga de radice iesse. \u02e5 cetera."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (fol. 88r/12) Si plus scirem plus dicerem."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "fol. 88r/13-23 blank but for two 15th-century names and a modern Trinity College Cambridge Library stamp. [ET]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor122", 
+                    "page": "217-9 no.34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 88v/1-15 and 90v/1-26", 
+            "text": "Morris 1873", 
+            "notes": [
+                {
+                    "head": "Date", 
+                    "body": "16th-century"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rest of fol. 88v and all of fol. 89r blank. [ET]"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 89v-90r", 
+            "text": "Morris 1873", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "The whole of the opening of fols 89-90 has sloping, red pencil thirteenth(?)-century writing. It is overwritten by a later pair of lines in pen on fol. 89v, and by the word \u2018Rectus\u2019 on fol. 90r at about line three. Visible words occur at the penultimate line of fol. 89v, \u2018miserere mei\u2019. [ET]"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "139 mm x 104 mm (dimensions of all - size of leaves).\nc. 122-28 mm x 80 mm (dimensions of Quire 1 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "Possibly three or four from the period 1060 to 1220", 
+        "summary": "", 
+        "hands": [
+            {
+                "name": "homilies", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker p. xix", 
+                "description": "Hand 1, which copies the", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "Insular, rounded <span class=\"c\">d</span> and upright <span class=\"c\">d</span> are used."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is Caroline for the stop, and insular five-shaped <span class=\"c\">g</span> for the spirant."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is notable. It is formed with at least three strokes: a relatively split ascender, a sharp and thin angle upwards and then a thicker downstroke curling round back under."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The use of <span class=\"c\">\u00fe</span> distinguishes the text from Latin."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The use of <span class=\"c\">\u00f0</span> distinguishes the text from Latin."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "The use of <span class=\"c\">\u01bf</span> distinguishes the text from Latin."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are not very regular; they have angular shoulders and small feet to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are relatively short; they are split or wedged at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are relatively short, but end with an emphatic curve to the left."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The abbreviation mark for 'that' extends from the right of the <span class=\"c\">\u00fe</span>."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The <span class=\"c\">\u02e5</span> has, in Quire 1, quite a flat head and an angled stroke down which finished with a flick to the right below the line. By the end of the quire the head is more curved, slightly tilted, and matches those that follow from fol. 10 onwards."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "homilies", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker p. xix", 
+                "description": "Hand 2, which copies folios (as outlined above) from fol. 22r. This is a much more upright and regular hand, but it is very narrow and angular. The most notable characteristic distinguishing this hand is the crossed and squiggly", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is exclusively Caroline, with a rounded tail which flicks sharply down to the right in a hairstroke at the end."
+                    }, 
+                    {
+                        "char": "n", 
+                        "note": "There is a rare, diplomatic form of <span class=\"c\">n</span> at fols 66r and 77r formed with a downstroke and a 3-shaped second limb."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is formed with one stroke of the pen."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are relatively short; they are split or wedged at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are relatively long, and sweep to the left. At the last line of fols 24v-25r and 31r, the scribe uses very elaborate descenders, which extend to the foot of the page."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "homilies", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker p. xix", 
+                "description": "Hand 3, which copies fols 87v to 88r. The script of this scribe is usually described as thirteenth-century, though it might equally well be late twelfth-century. The", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline, and slightly enlarged when in initial position."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is round-backed and usually quite short, but occasionally it has an exaggeratedly long ascender, especially at line beginnings."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is exclusively Caroline, with a rounded tail, which is sometimes closed."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "The right limb of <span class=\"c\">h</span> descends under the line and curves to the left."
+                    }, 
+                    {
+                        "char": "n", 
+                        "note": "The second limb of <span class=\"c\">n</span> occasionally curves under the line."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "The upstroke of <span class=\"c\">t</span> consistently transects the crossbar (unlike Scribes 1 and 2)."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is used only once, and <span class=\"c\">\u00fe</span> is used otherwise."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> often have a slight tag to the left and are a little leftward leaning."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curve to the left."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "<p>According to the binder's note on the back flyleaf, the manuscript was rebound and repaired in October 1984 by <span class=\"name\">the Cockerell Bindery</span>. The current binding (146 mm x 115 mm) retains the original dark brown leather binding over pulp boards, the embossed coat of arms of <span class=\"name\">Archbishop Whitgift</span> in gold on the front and back and the fittings for two brass clasps on the front and back. The title 'Homili\u00e6 Anglic\u00e6--MS.' is gold-tooled on the spine, with 'B' '14' and '52' in black ink on white stickers at top, middle and bottom of the spine. There are wormholes on the rear boards, none of which have penetrated. The pages have gilded edges. </p><p>On the final flyleaf is the note from the binder: 'DC6820 Condition when received: binding rebacked dark brown calf, over pulp boards, a very heavy impression of arms in gold on both boards, most of the gold missing, two clasps clasping on the back board, crossover missing, red lettering piece. Book sewn on four white thongs, thongs broken, sewing broken, gatherings free, vellum leaves in good condition though very heavily cropped, coloured edges. Book taken down, damaged leaves guarded and repaired, resewn on four cords to the old marking up. The old boards repaired and laced on. The spine covered with brown calf.' (<a href=\"#wil78\">Wilcox 2000</a>, p. 16). </p>", 
+    "accompanying": "<p>Fol. 1v contains the fifteenth-century inscription 'Rithmus anglic<span class=\"expanded\">us</span> cu<span class=\"expanded\">m</span> omiliis angl<span class=\"expanded\">icis</span> in hoc vol<span class=\"expanded\">um</span>ine | c<span class=\"expanded\">on</span>tinent<span class=\"expanded\">ur</span>'. This inscription is picked up by a heading 'Rithmus Anglicus' in a probably sixteenth-century hand on fol. iiv. </p><p>Fol. 88r contains two names in a fifteenth-century hand identified by <a href=\"#hil1252\">Hill 1966</a> as 'S<span class=\"expanded\">er</span>\n<span class=\"name\">Thomas Stone</span> (or Stow)' and 'S<span class=\"expanded\">er</span>\n<span class=\"name\">John Newson</span>' (p. 200), although <a href=\"#lai1255\">Laing and McIntosh 1995</a> read the second name as 'John Newbor<span class=\"expanded\">e</span>' (p. 43). </p><p>Fol. 1r contains a sixteenth-century table of contents, keyed to the early foliation. </p><p>Fol. 1v contains an astrological dating and six lines of Latin hexameters and pentameters, signed 'WP' or 'WL'. <a href=\"#hil1252\">Hill 1966</a> identifies this as the work of <span class=\"name\">William Patten</span> (fol. 1528-1590) written out by his son, Thomas (b. 1561). Hill identifies the dating formula as 23rd September 1583, the date of <span class=\"name\">Archbishop John Whitgift</span>'s enthronement at <span class=\"name\">Canterbury</span>. At the foot of the page is 11 lines of a letter written in English recommending the writer of the above verses to 'yo<span class=\"sup\">r</span> grace' for his knowledge of the antiquities and his knowledge of Armenian. <a href=\"#hil1252\">Hill 1966</a> suggests that the scholar is <span class=\"name\">William Patten</span>, a sixteenth-century Humanist scholar, and that the letter may have been from <span class=\"name\">Henry Carey, Lord Chamberlain Hunsdon</span> (1524?-1596) to <span class=\"name\">Archbishop Whitgift</span> or possibly <span class=\"name\">Archbishop Parker</span> (p. 195). </p><p>There are interlinear and marginal glosses in six different hands (<a href=\"#hil1252\">Hill 1966</a>, pp. 193-4) and extensive pencilled underlining and annotations, particularly pencilled cross-references to variations on the phrase 'was teames atold' (<a href=\"#wil78\">Wilcox 2000</a>, p. 15). </p><p>The flyleaves include an extensive doctrinal index to Quires 2-11 in the hand of <span class=\"name\">Abraham Whelock</span>, <span class=\"name\">Cambridge University</span>'s first lecturer in Anglo-Saxon (1593-1653). The same hand wrote an inscription on fol. iv: 'Hic codex MS. fidem p<span class=\"expanded\">ro</span>testantiu<span class=\"expanded\">m</span> in p<span class=\"expanded\">er</span>multis | multum ornat. Legi &amp; | perlegi. A. W.' </p><p>Fol. ir contains three shelf-marks of <span class=\"name\">Trinity College Library</span>: 'R. 15. 17' (deleted), a number scribbled over and 'B. 14. 52'. On fol. 1v is the modern <span class=\"name\">Trinity College Cambridge Library</span> stamp. </p>", 
+    "history": {
+        "origin": "The dialect suggests a south-eastern origin, perhaps <span class=\"name\">London</span> (<a href=\"#hil898\">Hill 1977</a>, p. 107) or <span class=\"name\">south Cambridgeshire</span> (<a href=\"#lai1255\">Laing and McIntosh 1995</a>, p. 33)", 
+        "provenance": "Unknown.", 
+        "acquisition": "The manuscript was given to <span class=\"name\">Trinity College</span> by <span class=\"name\">Archbishop Whitgift</span> (d. 1604)."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Simon Patterson, Natalie Jones, Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "hal485", 
+        "hil1252", 
+        "hil898", 
+        "ivy388", 
+        "jam1253", 
+        "ker44", 
+        "ker1254", 
+        "lai1257", 
+        "lai1255", 
+        "mor122", 
+        "tre1554", 
+        "tre1256", 
+        "wil78"
+    ]
+}

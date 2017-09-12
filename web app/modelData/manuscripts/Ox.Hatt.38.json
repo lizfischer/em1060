@@ -1,0 +1,328 @@
+{
+    "id": "Ox.Hatt.38", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "38", 
+    "ker": "325", 
+    "content": "Gospels", 
+    "location": "Canterbury", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-28v", 
+            "text": "B.8.4.10.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) Initium sancti euuangeli secunddum marcum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) Ecce mit | to angelum meum ante faciem tuam. qui preparabit uiam | tuam ante te. | Her ys godspelles angin h\u00e6lendes cristes | godes sune."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 28v) hyo \u00fea | fulfelde bodeden s\u01bfa \u01bfid s\u01bfa al. \u00feas hlafordes \u01bfeorces | \u02e5 his bispelles fulfellende mid felgenden tacnen. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 386-87"
+                }, 
+                {
+                    "work": "liu1530", 
+                    "page": "pp. 32-33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 29r-77r", 
+            "text": "B.8.4.10.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 29r) Nu \u01bfe \u01bfille\u00f0 her eo\u01bf areccan lucas boc \u00feas | halgan godspelleres for\u00fean \u00fee \u01bfitodlice | manega \u00feohte \u00feare \u00feinge race geende | berden \u00fee on us gefylde synde:"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 77r) And hyo | \u00fea hyo gebiddende gecyrden into ierusalem mid | muchelere blisse. \u02e5 \u01bf\u00e6ren efre in \u00feare temple | heriende \u02e5 bletsiende god. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 386-87"
+                }, 
+                {
+                    "work": "liu1530", 
+                    "page": "pp. 32-33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 78r-126r", 
+            "text": "B.8.4.10.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 78r) Liber generationis iesu christi filii dauid filii abraham"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 78r) So\u00f0lice \u01bfel is to understanden \u00fe\u00e6t | \u00e6fter matheus gerechednysse her is | on cneornysse boc."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 126r) \u02e5 l\u00e6re\u00f0 \u00fe\u00e6r hyo healden eal | le \u00fea \u00feing. \u00fee ic eo\u01bf bebead. \u02e5 ic beo mid eo\u01bf ealle | dages o\u00f0\u00f0e \u01bforulde \u00e6ndenge. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 386-87"
+                }, 
+                {
+                    "work": "liu1530", 
+                    "page": "pp. 32-33"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 128r-67v", 
+            "text": "B.8.4.10.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 128r) In principio erat uerbum. Her ongin\u00f0 \u00fe\u00e6t | godpell \u00fee Iohannes se godspellere ge\u01bfrat on | patmos \u00feam eiglande."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 128r) On anginne \u00e6rest \u01bf\u00e6r \u01bford."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 167v) gyf \u00fea ealla | ge\u01bfritene be heom sylfe \u01bf\u00e6ren. ac syo \u01bferld be | clyppen ne mihten \u00fea \u01bfriteres \u00fee hie \u01bfriten | scolden on boken"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 386-87"
+                }, 
+                {
+                    "work": "liu1530", 
+                    "page": "pp. 32-33"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "iii + 61 + i + 105 + iv leaves. Fol. i-iii and 168-171 are blank parchment flyleaves, probably medieval. Fol. 171 is now pasted to another modern paper flyleaf.", 
+        "extent": "238 mm x 158 mm (dimensions of all - size of leaves).\n168 mm x 107 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Each Gospel begins on a new quire.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 main hand, at least two others for some additions", 
+        "summary": "Apart from some corrections, the manuscript is written in one hand, although the ink changes from black to brown and back again at several points. Some ink changes are probably due to the scribal corrections: for example, in fol. 152v/16-17, deleted letters are visible under the overwritten letters; the passages in different ink colour are in narrower and smaller letters in for example, fols 17v, 18r, 23r, 26v, and so on.", 
+        "hands": [
+            {
+                "name": "Main text", 
+                "scope": "Major", 
+                "script": "Gothic", 
+                "scribe": "Ker 325 SC1", 
+                "description": "Angular script which retains insular letter forms. Some letters are given hairlines. Fols 1r-167v.", 
+                "summary": "The following description is based on", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "a", 
+                        "note": "The height of <span class=\"c\">a</span> and <span class=\"c\">e</span> are the same in the combination <span class=\"c\">\u00e6</span>. The initial <span class=\"c\">\u00e6</span> has an uncial 'a'."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is insular. The same size and shape as <span class=\"c\">\u00f0</span>."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is Caroline."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Both insular and Caroline <span class=\"c\">g</span> used before fol. 128. After fol. 133, Caroline <span class=\"c\">g</span> is used for the velar stop and the affricate and insular <span class=\"c\">g</span> is used from the palatal continuant and fricative. The insular <span class=\"c\">g</span> is in a shape of '3' with a flat top, and its loop finishes with a downward hairline to the left at the end of the loop, whereas the loop of the Caroline <span class=\"c\">g</span> is almost closed, and it also has a hairline at the upper right corner of the bowl."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is insular in Old English, but the Caroline form appears in proper names and in the sequence <span class=\"c\">ch</span> for the palatal affricate."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> the straight descender."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular in Old English, Caroline in Latin."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Round <span class=\"c\">s</span> commonly. Caroline <span class=\"c\">s</span> and occasionally long <span class=\"c\">s</span>, where the descender finishes on the writing line with a serif."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is the same size and shaped as <span class=\"c\">d</span>. The crossbar has a very distinct upward serif at the right end, and does not transect the upstroke."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are shorter than the height of the minim, and sometimes split at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> turn to the left, except <span class=\"c\">p</span>. Descenders of the final lines of the page are sometimes very long and calligraphically emphasised."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are few, but the forms 'ic' and 'ich' are usually marked, as are some long monosyllables, the prefix <span class=\"c\">a-</span> and an <span class=\"c\">i</span> next to other minims."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span><span class=\"expanded\">\u00e6t</span> with a crossbar, which slants from the upper right to the lower left."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The head of <span class=\"c\">\u02e5</span> is curved and the downstroke is nearly vertical and sometimes turned up the right at the end. Its descender does not extend below the writing line."
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligatures are often used."
+                    }
+                ], 
+                "date": "xii/xiii"
+            }, 
+            {
+                "name": "Marginal", 
+                "scope": "Minor", 
+                "script": "Gothic", 
+                "scribe": "not in Ker", 
+                "description": "Fols 13v and 70v, margins.", 
+                "summary": "These two additions are contemporary and probably one annotator. Extra rulings are given in the margin.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Caroline <span class=\"c\">a</span>."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> often has a hairline elongated tongue."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> is '5'-shaped."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is the same size and shaped as <span class=\"c\">d</span>. The crossbar extends only to the right of the ascender, and has a very distinct downward serif at the right end."
+                    }
+                ], 
+                "date": "xii/xiii"
+            }, 
+            {
+                "name": "Addition", 
+                "scope": "Minor", 
+                "script": "Gothic", 
+                "scribe": "not in Ker", 
+                "description": "Fol. 119r.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is Caroline, and its head is small."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> is in a shape of '5'."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "High <span class=\"c\">s</span>, of which descender finishes on the writing line with a serif."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: its crossbar has a very distinct upward serif at the right end, and does not transect to the left of the upstroke."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are shorter than the height of the minim, and wedged."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> turn to the left."
+                    }
+                ], 
+                "date": "s. xii/xiii"
+            }
+        ]
+    }, 
+    "binding": "s. xviii binding is now disintegrated. Parchment flyleaves are probably medieval.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Palaeographical evidence suggests a <span class=\"name\">Canterbury</span> origin.", 
+        "provenance": "Later medieval history is unknown. The manuscript belonged to <span class=\"name\">John Parker</span> (1548-1618), son of Archbishop <span class=\"name\">Mathew Parker</span> (his signature may be seen on the verso of fol. i) and <span class=\"name\">Christopher, Baron Hatton</span>(1605?-1670), whose signature is on the recto of fol. ii; used by <span class=\"name\">Francis Junius</span> (1589-1677) for his 1665 edition of the Gospel.", 
+        "acquisition": "Acquired by the Bodleian Library with other Hatton manuscripts in 1671."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Molly Hogan, Hollie Morgan and Sanne van der Schee (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "gru537", 
+        "har538", 
+        "jun539", 
+        "ker44", 
+        "len1547", 
+        "liu1530", 
+        "liu359", 
+        "liu155", 
+        "liu1546", 
+        "mad369", 
+        "rei540", 
+        "rob335", 
+        "ske360", 
+        "ske361", 
+        "ske363", 
+        "ske362"
+    ]
+}

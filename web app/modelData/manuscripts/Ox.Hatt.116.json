@@ -1,0 +1,1001 @@
+{
+    "id": "Ox.Hatt.116", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "116", 
+    "ker": "333", 
+    "content": "Homilies", 
+    "location": "Worcester", 
+    "date": "s.xii^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 1/1-18/15", 
+            "text": "B.3.3.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (1r/2) IN NATALE SANCTI CEADDE EPISCOPI. \u02e5 CONFESSORIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00fea leofestan. ic eow onginnu secgan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "se leofa\u00f0 \u02e5 rixa\u00f0 mid \u00feam feder \u02e5 mid \u00feam haligan gasta in eallre worulda woruld. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "vle1059", 
+                    "page": "162-84"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 18/15-34/12", 
+            "text": "B.1.1.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Natiuitas sancti Iohannis Baptist\u0119"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE GODSPELLERE LUCAS awrat on cristes b\u00e9c"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feam sy wuldor \u02e5 lof mid f\u00e6der \u02e5 mid halgum gaste a on ecnesse. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "379-87"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 34/12-41/9", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Passio sanctorum apostolorum petri. \u02e5 pavli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Venit iesus in partes c\u0119sarere philippi. Et reliqua. MATHEVS. se godspellere awrat on \u00fe\u00e6ra godspellican gesetnesse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fe\u00e6t him ne bi\u00f0 geti\u00feod na\u00feor ne synna forgifenes. ne inf\u00e6r \u00fe\u00e6s heofonlican rices"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "388-91, ll. 1-96"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 41/9-51/11", 
+            "text": "B.1.1.28.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De passione beatorum apostolorum Petri. \u02e5 pauli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "WE willa\u00f0 \u00e6fter \u00feisum godspelle eow gereccan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feurh \u00fees h\u00e6lendes ti\u00f0e. \u00feam si wuldor \u02e5 lof. a on ecnesse AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "301-9, ll. 99-295"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 55/11-73/6", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Commemoratio sancti pauli apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "GODES gela\u00feung wur\u00f0a\u00fe \u00feysne d\u00e6g"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fe\u00e6t hi mid him \u02e5 mid gode \u00fe\u00e6t ece lif habban moton. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "400-9"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 73/6-92/12", 
+            "text": "B.1.1.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Passio sancti Lavrentii. martyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ON DECIES dagum \u00fees welhreowan caseres"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "he \u00ferowode mid cenum mode m\u00e6nifealde tintregu. mid \u00feam he orsorhlice on ecnesse wuldra\u00fe. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "418-28"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 92/12-112/1", 
+            "text": "B.1.1.32", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Assumptio sancte marie. virginis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Heironimus se halga sacerd awrat \u00e6nne pistol"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 mid f\u00e6der \u02e5 halgum gasta on ealra worulda woruld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "429-38"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 112/1-136/5", 
+            "text": "B.1.1.33", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Passio sancti Bartholomei. apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Wyrdwriteras secga\u00f0 \u00fe\u00e6t \u00fery leodscipas synd gehatene india"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Sy him wuldor \u02e5 lof on ealra worulda woruld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "439-50"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 136/6-132/11", 
+            "text": "B.1.1.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Decollatio Sancti Iohannis Baptiste."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Misit herodes et tenuit iohannem. ET RELIQVA. MARCVS se godspellere awrat on cristes bec"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 mid feder \u02e5 mid halguum gaste \u00e1\u00e1 butan ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "451-8"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 152/12-155/1", 
+            "text": "B.1.5.8.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Natiuitas sncte marie. virginis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00fea leofostan. we synd gemungode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 hire deopnesse on diglum andgite underniman willa\u00f0 on incundre heortan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "24-6, ll. 1-53 (no. 3)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 155/1-179/12", 
+            "text": "B.1.5.8.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit de sancta virginitate."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE halga h\u00e6lend crist. \u02e5 se heofonlica \u00e6\u00feeling"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feam is wuldor \u02e5 wur\u00f0mynt a to worulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "26-48, ll. 53-597 (no. 3)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 179/12-198/18", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Dedicatio sancti Michaelis archangli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MANEGVM is c\u00fa\u00f0 se h\u00e1lige stow sancte michaeles"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "se \u00fee leofa\u00f0 \u02e5 rixa\u00fe \u00e1 on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "465-75"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 198/18-219/6", 
+            "text": "B.1.1.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Natale Omnium sanctorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "HALIGE lareowas r\u00e6ddon \u00fe\u00e6t se geleaffulle gela\u00feung"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "mid f\u00e6der. \u02e5 mid halgum gaste. \u00e1\u00e1 on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "486-96"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 219/7-239/20", 
+            "text": "B.1.1.39", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): IN NATALE SANCTI CLEMENTIS. MARTYRIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00d0A leofestan. eower geleafa bi\u00fe \u00fee trumra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "se \u00fee leofa\u00f0 \u02e5 rixa\u00fe a butan ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "497-506"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 239/20-252/20, 279/1-290/17", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In natale sancti ANDREE. apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ambulans iesus iuxta mare galile\u0119. ET RELIQVA. Crist on sumere tide ferde wi\u00f0 \u00fe\u00e6re galileiscan s\u01fd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Sy \u00feam \u00e6lmihtigan drihtne wur\u00f0mynt. \u02e5 lof \u00e1 on ecnesse. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The present quire XII (pp. 253-278) originally came after the present quire XIII (pp. pp. 279-94)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "507-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 290/17-294/20, 253/1-261/21", 
+            "text": "B.1.5.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): SERMO IN NATALE UNIUS CONFESSORIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Vigilate ergo. MATHEVS se godspellere us s\u00e6de on \u00feysum godspelle."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee ealle \u00feing gescop. se \u00fee ana rixa\u00f0 on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Displaced quire"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "49-64 (no. 4)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 261/21-278/21, 295/1-300/21", 
+            "text": "B.1.5.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Exameron; \u00fe\u00e6t is. BE GODES SIX DAGA weorcum."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "ON sumum o\u00f0rum spelle we s\u00e6don hwilon \u01fdr"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "on anre godcundnesse. \u00e1na so\u00f0 scyppend eallra. '\u00feinga' AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Displaced quire."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra497", 
+                    "page": "33-74"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 300/21-329/6", 
+            "text": "B.1.6.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): INTERROGATIONES SIGEWULPHI PRESBITERI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SVM ge\u00feungen lareaw w\u00e6s on engla lande albinus gehaten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feam is anwur\u00f0mynt mid \u00feam halgan gaste on ealra worulda woruld. we cwe\u00f0a\u00fe AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mac493", 
+                    "page": "2-56"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 329/6-347/11", 
+            "text": "B.1.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE OCTO UITIIS ET DE XIIcim. ABVSIVIS."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "OMNIA nimia nocent et temmperantia mater uirtutum dicitur. \u00de\u00e6t is on englisc. Ealle oferdone \u00feing deria\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Si him \u01fd wuldor \u02e5 wur\u00f0mynt. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor580", 
+                    "page": "296-304 (appendix 2)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 347/11-365/8", 
+            "text": "B.1.3.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE AUGURIIS."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE APOSTOL paulus ealra \u00feeoda lareow manode \u00fea cristenan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "mid him \u00e6fre to wuni'g'enne on \u00feam ecum witum a buton ende"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "364-82 (no. 17)"
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "790-6 (no. 29)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 365/8-373/13", 
+            "text": "B.1.4.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE FALSIS DIIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(365/13) EAla ge gebro\u00f0ra \u00fea leofestan. \u00fe\u00e6t godcunde gewrit us t\u00e6hte"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00deam si wuldor \u02e5 lof a to worulde AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "676-85, 711-12, ll. 150, 645-76 (no. 21)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 373/14-377/18", 
+            "text": "B.1.6.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE SEPTI. FORMI SPIRITV."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(374/9) \u00de\u00e6t ilce on englisc. ISAIAS se witega awr\u00e1t on his witegunge. be \u00feam halgum gaste. \u02e5 be his seofonfealdum gifum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "him godes gast on wunige o\u00f0\u00f0e \u00fe\u00e6s gramlican deofles"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "50, 56-60 (nos 7-8)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 377/18-379/1", 
+            "text": "B.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE SANGUINE"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Her geswultela\u00f0 on \u00feisum gewrite. hu god \u00e6lmihtig forbead mancynne \u00e6lces cynnes blod to etenne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "hit bi\u00f0 swa \u00feeah to astorfenum geteald"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "klu1057", 
+                    "page": "62, note 3"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 379/1-380/15", 
+            "text": "B.3.4.51", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DE INFANTIBUS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "WE bidda\u00fe eow men \u02e5 beoda\u00fe on godes naman"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 h\u00e6f\u00f0 \u00feonne hellewite gif hit h\u00e6\u00feen acwyl\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap506", 
+                    "page": "154-55"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 380/15-381/21", 
+            "text": "B.3.4.52", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De cogitatione"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "SE swicola deofol \u00fee syrw\u00f0 ymbe mancynn asent yfele ge\u00feohtas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "swa he lufode for\u00feam \u00fee crist agylt \u00e6lcum be his d\u00e6d\u00e6"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "325, 330-31 (No. 6)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 382/1-395/16", 
+            "text": "B.3.2.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "MEN \u00fea leofestan \u00feis sinden dagas mid eallum cristnum folce"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 mid suna \u02e5 mid \u00feam halgan gaste \u00e1 butan \u00e6ghwylcum ende. AMEN."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "baz390", 
+                    "page": "47-54 (no. 3)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 395/17-395/21", 
+            "text": "D.61.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Deus qui dedisti legem moisi"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Added in a later 12th century hand"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 397", 
+            "text": "D.61.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "ceac. vrceus... i\u00feing\u00fee meritum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Attributed to the 'tremulous hand of Worcester'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra188", 
+                    "page": "196"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 398", 
+            "text": "A.56.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "ic am nout for \u00feisse \u00feingc wo"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra188", 
+                    "page": "196"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Pages i-vi, 403-8 are paper leaves of the date of binding. Pages 399-402 are parchment end-leaves taken over from the medieval binding (see above).", 
+        "extent": "260 mm x 180 mm (dimensions of all - size of leaves).\nca. 195-203 mm x 135 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 333 SC1", 
+                "description": "Pages 1-395. 'A handsome, round, large hand of a type found commonly in", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline, where the bow sometimes touches the preceding letter."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The <span class=\"c\">e</span> of <span class=\"c\">\u00e6</span> is very slightly taller than the top of <span class=\"c\">a</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Insular, rounded <span class=\"c\">d</span> is used in English, but with relatively high back, slightly shorter than that of <span class=\"c\">\u00f0</span>; straight-backed <span class=\"c\">d</span> with an oblique serif to the right is used in Latin."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is Caroline and sits on the line, with the mid-stroke often touching the following letter in ligature. The head of <span class=\"c\">f</span> is occasionally slightly flattened."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is Caroline with a closed bowl, and is thus eight-shaped, one of <a href=\"#ker44\">Ker</a>'s (1957) defining characteristics of s. xii<span class=\"sup\">med</span> hands. From its top bow, it often ligatures with the following letter."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is Caroline."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has a well-defined horizontal foot (again, typical of mid-twelfth-century hands)."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is consistently Caroline, with a curved serif."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is Caroline, with a determined onset stroke. Its head is occasionally slightly flattened."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "The cross-bar of the <span class=\"c\">t</span> is often pierced by the stem, a feature seen in mid-twelfth-century script."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has a large bowl, and a descender that is slightly short in relation to the rest of the graph."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The ascender of <span class=\"c\">\u00f0</span> is higher than other ascenders, and the cross-bar curves up on the right."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> has a large pointed bowl, and short, straight descender."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is rounded, sits just on the line, or slightly below, and is consistently dotted in the middle of the v-shaped limbs."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> end in oblique serif rising from the left to the right or have a wedge."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are generally short and straight, with the exception of <span class=\"c\">p</span>, which has a straight foot across the descender. Occasionally, descenders curve gently to the left."
+                    }, 
+                    {
+                        "char": "semicolon", 
+                        "note": "Punctuation in the form of a <span class=\"c\">semicolon</span> at the end of a sentence occurs regularly up to p. 19, but seldom after that."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "The <span class=\"c\">punctus</span> is frequently used, and sits on the line."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "<span class=\"c\">hyphens</span> are used throughout at line ends, and at placed at a slight angle."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "Abbreviation marks are curved at the right, ending in a blob."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The abbreviation for 'that' consists of a <span class=\"c\">\u00fe</span> with the abbreviation mark to the right of the ascender."
+                    }, 
+                    {
+                        "char": "M", 
+                        "note": "'Men' is abbreviated to <span class=\"c\">M</span> (often uncial in shape) with a macron above it."
+                    }, 
+                    {
+                        "char": "l", 
+                        "note": "'leofestan' is usually abbreviated simply to <span class=\"c\">l</span> with a line through it."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "'Drihten' is abbreviated with a macron over the <span class=\"c\">t</span>."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The <span class=\"c\">\u02e5</span> is formed with a 45\u00ba angle between headstroke and descender, and usually with a pronounced upward tick to the left of the headstroke.The tail tends to curve just below the line to the left."
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "The <span class=\"c\">st</span> ligature is used but not consistently."
+                    }, 
+                    {
+                        "char": "or", 
+                        "note": "The <span class=\"c\">or</span> ligature where the <span class=\"c\">r</span> is 2-shaped is used but not consistently."
+                    }, 
+                    {
+                        "char": "Litterae Notabiliores", 
+                        "note": "The <span class=\"c\">Litterae Notabiliores</span> are closely related to those seen in other <span class=\"name\">Worcester</span> manuscripts of this date, and slightly earlier. They are red, pen-drawn, and display little roundels in the leg or the bowl."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "glosses and alterations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "There are several layers of glosses by the", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Bound in s. xvii/xviii uniformly with <a href=\"EM.Ox.Hatt.115.htm\">Hatton 115</a>. The rust-mark from a nail which held the strap of an earlier binding in position shows on pp. 391-402.", 
+    "accompanying": "Pages 399-402 are two waste leaves, a bifolium of a copy of a Summa of the <span class=\"italics\">Decretum</span> of <span class=\"name\">Gratian</span>, s. xii<span class=\"sup\">ex</span>, used as a pastedown and flyleaf.", 
+    "history": {
+        "origin": "Written in the <span class=\"name\">West of England</span>, almost certainly at <span class=\"name\">Worcester</span>. Whilst the manuscript shows characteristics common with manuscripts produced at <span class=\"name\">Worcester</span>, <a href=\"#mci177\">McIntyre 1978</a> points out that the style is regional, not just belonging to a single scriptorium (pp. 36-37). It must be borne in mind, however, that there are also many shared features with manuscripts produced in other centres in the <span class=\"name\">West of England</span> (<a href=\"#tre52\">Treharne 2000</a>, p. 27).", 
+        "provenance": "At <span class=\"name\">Worcester</span> in the first half of the thirteenth century, as it was glossed by the <span class=\"name\">Tremulous Hand</span>. Remained in <span class=\"name\">Worcester</span> until at least 1622, as it is mentioned in <span class=\"name\">Young</span>'s catalogue.", 
+        "acquisition": "Belonged to <span class=\"name\">Christopher, Lord Hatton</span> in 1644 and was acquired by the <span class=\"name\">Bodleian Library</span> in 1678."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "baz390", 
+        "cle112", 
+        "cra497", 
+        "cra654", 
+        "for1058", 
+        "fra188", 
+        "ker44", 
+        "ker48", 
+        "klu1057", 
+        "web1517", 
+        "mac493", 
+        "mci177", 
+        "mor580", 
+        "nap506", 
+        "nap123", 
+        "pel39", 
+        "pop87", 
+        "rob335", 
+        "ske153", 
+        "tho977", 
+        "tho57", 
+        "tre52", 
+        "vle1059", 
+        "wan470"
+    ]
+}

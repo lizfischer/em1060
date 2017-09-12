@@ -1,0 +1,194 @@
+{
+    "id": "BL.Roya.12.G.xii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "12. G. xii", 
+    "ker": "265", 
+    "content": "\u00c6lfric's Grammar (fragment)", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "20 leaves of \u00c6lfric's <span class=\"italics\">Grammar</span> on fols 2-9 and <a href=\"EM.Ox.ASC.38.htm\">Oxford, All Souls College, 38</a> fols 1-12.", 
+    "items": [
+        {
+            "locus": "fols 2-3", 
+            "text": "B.1.9.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 2r) AUDIOR ic eam gehyred"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 3v) hi synd pre | teritoending imperfect"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 333-34"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 4-5", 
+            "text": "B.1.9.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 4r) beginning imperfect gange pasiuum subeor ineo | ic onginne and ineor"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 5v) \u00feas forbeodendlice sumeending imperfect"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 333-34"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6", 
+            "text": "B.1.9.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6r ) beginning imperfectsensus andgyt sensim | stundm\u00e6lum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 6v) illegible on microfiche, based on Zupitza supending imperfecterlati | ua geendia\u00fe one. ocis | simeending imperfect"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 333-34"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }, 
+                {
+                    "work": "zup447", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7-8", 
+            "text": "B.1.9.1.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7r) \u00feonne maca\u00f0 he hic auctor \u00feesbeginning imperfect"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 8v) illegible on microfiche, based on Zupitzainpos unmihtigending imperfect"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 333-34"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }, 
+                {
+                    "work": "zup477", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "B.1.9.1.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 9r ) beginning imperfectgeefenl\u00e6ht ; Participium | h\u00e6f\u00f0 \u00fereo tida. presens | and\u01bferd. legens. r\u00e6den | beginning of line illegible | faciens. \u01bfyrcendeending imperfect"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 333-34"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "B.1.9.1.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 9r) s\u01bfa s\u01bfa of d\u00e6dlicum \u01bfordum. | sto. ic stande is neutrum \u02e5 | of \u00feam participium. stans | standende and staturusending imperfect"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 333-34"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#doa788"
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "id": "Ox.Auct.F.4.32", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Auct.", 
+    "shelfmark": "F. 4. 32 (2176)", 
+    "ker": "297", 
+    "content": "Classbook of St. Dunstan", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 10-18", 
+            "text": "B.3.3.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 10r) GEHERA\u00d0 GENYH \u00de\u00c6T IC EO\u01f7 SECGAN \u01f7ILLE | ymbe \u00fea halgan rode \u00fee crist on \u00fero\u01bfode | hu heo on \u00feeosne d\u00e6g gefunden \u01bf\u00e6s."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 18v) si him | simble \u00feac \u00fe\u00e6s \u00fee he for us \u00fero\u01bfode | \u02e5 part illegible, probably 'si him simbl'e lof \u02e5 \u01bfuldor ealre | his godnesse \u00fee he mancynne gecyd | part illegible, probably 'h\u00e6f\u00f0 a on eal're \u01bfurulda \u01bfuruld a | on ecnesse AMEN:"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 355"
+                }, 
+                {
+                    "work": "luc785", 
+                    "page": "2008"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 47r", 
+            "text": "B.27.3.30.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 47r) her seg\u00f0 hu se halga apostol paulus l\u00e6r\u00f0 \u00e6lcum | m\u00e6ssepreost \u00fee godes folce to lare by\u00f0 gesett"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 355"
+                }, 
+                {
+                    "work": "luc785", 
+                    "page": "2008"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 47r", 
+            "text": "B.27.3.30.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 47r) \u00fe\u00e6t he beo \u01bf\u00e6r"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Line added in a different hand to Item 2 above."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 355"
+                }, 
+                {
+                    "work": "luc785", 
+                    "page": "2008"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "243 mm x 150-170 mm (dimensions of all - size of leaves).\n210 mm x 110 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "several", 
+        "summary": "Several hands: Part 1 has one main hand in a mid-ninth-century French Caroline minuscule, with the writing of 'St. Dunstan', labelled 'Hand D'. Part 2 is written in a single hand in insular minuscule of s. xi", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 295 Scribe 1", 
+                "description": "Fols 10-18. A round large hand, irregular in aspect, which is described by", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> Caroline in form."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> Caroline in form."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> round s occurs."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: the high, long form has a pronounced, curved, hook-like top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> curve to the left or are seriffed at the ends."
+                    }
+                ], 
+                "date": "s. xi"
+            }, 
+            {
+                "name": "addition", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 295 Scribe 2", 
+                "description": "Fol. 47v. Another round, more casual hand with insular letter forms (", 
+                "summary": null, 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "binding": "Binding is from the mid-nineteenth century (<a href=\"#hun776\">Hunt</a> 1961, p. xvii and <a href=\"#luc785\">Wilcox</a> 2008, p. 81).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown", 
+        "provenance": "The four parts can be associated with <span class=\"name\">Glastonbury</span> and were together by 1601, but according to <a href=\"#luc85\">Wilcox</a> (2008, p. 79), it is possible that three of the four manuscripts were held in the same library by the tenth century. However, nothing is known of the provenance of Part 2 containing the Old English homily. Part 4, containing the Old English scribbles, can be placed to <span class=\"name\">Glastonbury</span> as <a href=\"#hun776\">Hunt</a> (1961, p. xv) notes that 'In s=custodia f[rat]is H. Langley'' is found another <span class=\"name\">Glastonbury</span> book: Laud Lat. 4, fol. 272 (on the <span class=\"name\">Glastonbury</span> provenance of these parts and the connection with <span class=\"name\">St Dunstan</span>'s cult see also <a href=\"#hun776\">Wilcox</a> 2008, p. 80; <a href=\"#dum21\">Dumville</a> 1993, and <a href=\"#bod767\">Budney</a> 1992, p. 125).", 
+        "acquisition": "The complete manuscript was given by <span class=\"name\">Thomas Allen</span> of <span class=\"name\">Gloucester Hall</span>, Oxford, to the Bodleian Library in 1601 as a foundation gift (<a href=\"#luc785\">Wilcox</a> 2008, p. 80)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee with reference to published scholarship (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "alb765", 
+        "bis18", 
+        "bod391", 
+        "bod767", 
+        "bra766", 
+        "der768", 
+        "dum21", 
+        "fis769", 
+        "fri772", 
+        "gne146", 
+        "had774", 
+        "hul775", 
+        "hun776", 
+        "jon777", 
+        "kei778", 
+        "ken779", 
+        "ker44", 
+        "lap770", 
+        "lin522", 
+        "luc785", 
+        "web1517", 
+        "mck771", 
+        "mor780", 
+        "ocr781", 
+        "ocr782", 
+        "rob752", 
+        "sto783", 
+        "sha255", 
+        "468", 
+        "vol530", 
+        "wil784"
+    ]
+}

@@ -1,0 +1,112 @@
+{
+    "id": "Ox.Bodl.730", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "730 (2709)", 
+    "ker": "317", 
+    "content": "Glossaries in Latin, French and English", 
+    "location": "Shropshire, Buildwas Abbey", 
+    "summary": "Main text of manuscript is s. xii copy of Cassian\u2019s <span class=\"italics\">Collations</span>, written in England. On the last three leaves of the final quire, glossaries are added with the lemmata in Latin. Some of the glosses in Latin, some in French and some in English. <a href=\"#ker44\">Ker</a> judges the English glosses to be in two hands, and argues that the manuscript is from <span class=\"name\">Buildwas Abbey</span> (1957, p. 380).", 
+    "items": [
+        {
+            "locus": "fols 144-45", 
+            "text": "D.25.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 144v) Cor horte"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 145r) Malua hoclef"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 379-80"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 145", 
+            "text": "D.25.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 145) Scarioballumi. mulne cleper. Fulgioi. sot"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 379-80"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 146-64", 
+            "text": "D.25.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 146v) Menbrum an lime"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 164v) Altrix uel nutrix. fostermodor"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 379-80"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 164v", 
+            "text": "D.25.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 164v) Ascellum. hoxu"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 164v) Femoralia. \u00feeohgeleune uel brec"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 379-80"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "id": "BL.Tibe.A.ii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius A. ii + Claudius A. iii, fols 2-7, 9* + Faustina B. vi, vol. 1, fols 95, 98-100", 
+    "ker": "185", 
+    "content": "Writ of Edward the Confessor", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xi^{med}", 
+    "items": [
+        {
+            "locus": "Claudius A. iii, fols 4-6", 
+            "text": "B.15.1.48", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 4r) On drihtnes naman \u00e6lmihtiges godes. Ic \u00e6\u00f0elred mid Godes gyfe Angel\u00f0eode cyning, and \u01bfealdend eac o\u00f0ra iglanda \u00f0e her abutan licga\u00f0, cy\u00f0e Engliscum cristenum mannum hu se ar\u01bfyr\u00f0a arcebisceop \u00e6lfric of his bisceoplican \u01bfisdome and gymenne me on Godes bebodum oft abysgud h\u00e6f\u00f0."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6r) Ic Leofstan ge\u01bfitnys."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English (a Latin version (fols 2r-3v) precedes the Old English )"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "A hand of s. xi1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 239"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "S914"
+                }
+            ]
+        }, 
+        {
+            "locus": "Claudius A. iii, fols 5-6", 
+            "text": "B.15.1.96", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5v) Ead\u01bfeard cyngc gret stigande \u00e6rcebisceop 7 harold eorl"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "The text is datable 1051-63; a hand of s. xi2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 239-40"
+                }
+            ]
+        }, 
+        {
+            "locus": "Claudius A. iii, fol. 6r", 
+            "text": "B.15.2.17", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 6r) Ic \u00c6lfgyfu seo hl\u00e6fdige Ead\u01bfeardes cyninges modor ge\u00e6rndede \u00e6t Cnute cyninge minum hlaforde \u00fe\u00e6t land \u00e6t Ni\u01bfantune 7 \u00fe\u00e6t \u00fe\u00e6rto hyr\u00f0 into Cristes cyrcean \u00fea \u00c6lfric se \u00feegen hit h\u00e6fde for\u01bforht \u00fean cyninge to handan 7 se cyning hit geaf \u00fea into Cristes cyrcean \u00fean hirede to fosterlande for uncre beigra sa\u01bfle."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "A hand of s. ximed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 240"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "S1229"
+                }
+            ]
+        }, 
+        {
+            "locus": "Claudius A. iii, fol. 6r", 
+            "text": "B.15.3.50", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 6r) Ic \u00e6\u00feelno\u00f0 cristes cyrcean arcebisceop gebohte \u00fe\u00e6t land \u00e6t godm\u00e6resham \u00e6t rirede eorle mid t\u01bfam 7 hundseofontigan marcan h\u01bfites seolfres be ge\u01bfihte 7 geaf hit on minon halan life into Cristes cyrcean \u00fean hirede to bigleofan into heora beodderne for mine sa\u01bfle 7 se \u00fee \u00feis \u01bfille a\u01bfendan a\u01bfende hine Crist fram heofenan rices myrh\u00f0e into helle \u01bfite"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "A hand of s. ximed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 240"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "S1389"
+                }
+            ]
+        }, 
+        {
+            "locus": "Claudius A. iii, fol. 6r", 
+            "text": "B.15.2.14", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 6r) Ic \u00feored geann \u00fe\u00e6t land \u00e6t horslege \u00feam horede \u00e6t cristes cyrcean for mine sa\u01bfle s\u01bfa full 7 s\u01bfa for\u00f0 s\u01bfa ic sylf hit ahte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "A hand of s. ximed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 240"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "S1222"
+                }
+            ]
+        }, 
+        {
+            "locus": "Claudius A. iii, fol. 6v", 
+            "text": "B.15.1.66", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6v) Ic ead\u01bferd cyng 7 englalandes \u01bfealdend under Criste \u00fean heofenlican cyninge geann \u00fe\u00e6s landes \u00e6t Certham into Cristes cyrcean for mine sa\u01bfle \u00fean hirede to fosterlande \u00fee \u00fe\u00e6rinne Gode \u00feeo\u01bfa\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 6v) (ends with a witness list) Brutu\u01bfylle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. ximed and s. xi2 hands"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 240"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "S1047"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Owen Roberson and Sanne van der Schee, with reference to published scholarship (2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#saw1604"
+    ]
+}

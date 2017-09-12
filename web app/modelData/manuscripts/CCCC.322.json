@@ -1,0 +1,150 @@
+{
+    "id": "CCCC.322", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "322", 
+    "ker": "60", 
+    "content": "Gregory's Dialogues", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-157v", 
+            "text": "B.9.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 1r) Incipit liber primus dialogorum beati gregorii pape"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) Ic ALFRED geofendum criste mid cynehades m\u00e6rnysse ge\u01bfeor\u00f0od"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 157v) \u00e6r urum dea\u00f0e gode l\u00e1c ond lic\u01bfy\u00f0e ons\u00e6gdnes"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (final): (fol. 157v) Explicit liber quartus dialogorum beati gregorii pape"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 60"
+                }, 
+                {
+                    "work": "hec822"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "", 
+        "extent": "228 mm x 150 mm (dimensions of all - size of leaves).\nc. 188 mm x 105 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 in Old English", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "eleventh-century Worcester hand", 
+                "scribe": "Ker 60", 
+                "description": "Fols 1-157. 'A tidy, upright hand' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "e", 
+                        "note": "High <span class=\"c\">e</span> is regular in <span class=\"c\">\u00e6</span>, even at the end of a word."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> has a short ascender that sometimes finishes with a slight tick to the right."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "Occasional high <span class=\"c\">e</span>, even at the end of a word. It is rounded and horned."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is a notable graph: it is formed rather like a <span class=\"c\">t</span> with a rounded tail; the two strokes of the letter-form are very apparent."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> the head of long <span class=\"c\">s</span> is sometimes developed into a loop, especially at the end of a word. Long and low forms of the graph appear in all positions."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has a long, split ascender."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a long upstroke, and cross-stroke is usually placed low on upstroke, with a tick to the right at top end."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is straight and dotted with the right limb finished with a slight turn to the left."
+                    }, 
+                    {
+                        "char": "S", 
+                        "note": "Majuscule <span class=\"c\">S</span> is an uncial capital."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> have a slight wedge to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "The ends of <span class=\"c\">descenders</span> turn markedly to the left or are seriffed or end in a very deliberate caligraphic curve."
+                    }, 
+                    {
+                        "char": "g\u02c9", 
+                        "note": "<span class=\"c\">g\u02c9</span> stands for the prefix <span class=\"expanded\">ge-</span>."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "<span class=\"c\">\u02e5</span> has flat top with flick up to the right at beginning and goes below the line, finishing with sweeping curve to the left. It is often placed high."
+                    }, 
+                    {
+                        "char": "c", 
+                        "note": "Abbreviation of 'cw\u00e6\u00f0' to <span class=\"c\">c</span> with abbreviation stroke above it, or to 'cw-' with <span class=\"c\">s</span>-shaped abbreviation mark above the <span class=\"c\">w</span>."
+                    }, 
+                    {
+                        "char": "P", 
+                        "note": "Marks of abbreviation are curved or hooked, except in the early folios where the mark is straight, with a tick up the right at the beginning and to the left at the end."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in s. xx. The previous binding was s. xviii.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to the <a href=\"#scr565\">C11 project</a> and <a href=\"#bud189\">Budny 1997</a>, the manuscript was written in <span class=\"name\">Worcester</span>, and while that is quite probable, it is not certain, with much of the evidence adduced being circular.", 
+        "provenance": "Belonged to <span class=\"name\">Archbishop Parker</span>. The name of <span class=\"name\">John Parker</span>, written in red pencil on fol. iiiv, has been erased (<a href=\"#wan416\">Wanley 1705</a>, p. 130).", 
+        "acquisition": "Bequeathed to <span class=\"name\">Corpus Christi College</span> by <span class=\"name\">Archbishop Parker</span> in 1575."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Johanna Green (2010; 2012)", 
+    "surrogate": true, 
+    "bib": [
+        "bud189", 
+        "par1182", 
+        "gne146", 
+        "hec822", 
+        "ker44", 
+        "scr565", 
+        "wan416"
+    ]
+}

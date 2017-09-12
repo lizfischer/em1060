@@ -1,0 +1,3225 @@
+{
+    "id": "Ox.Bodl.343", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "343 (2406)", 
+    "ker": "310", 
+    "content": "Homilies and Lives of Saints", 
+    "location": "Unknown", 
+    "date": "s.xii^{2}", 
+    "summary": "The manuscript contains a collection of \u00c6lfric's homilies, saints' lives, which are included with other homiletic material by Wulfstan, Latin sermons and musical annotations.", 
+    "items": [
+        {
+            "locus": "fols vir-viiv/28", 
+            "text": "B.1.2.32", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica viii post pentecosten. '"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Cum multa turba esset cum nec haberent quod manduca | rest: \u02e5 Reliqua. | Marcus se godspellere c\u01bf\u00e6\u00f0 on \u00feissum d\u00e6'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mid godes ge\u01bf\u00e6pnuge ongean'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The text in the manuscript ends at Godden 1979, l. 132, p. 234."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 230-34."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 1."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols viiir-viiiv/10", 
+            "text": "B.1.2.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'habban god \u00deu \u01bfylt habban h\u00e6lu \u00deines lichoman.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'on ealra \u01bfor [u]\u00a0(unclear: overwrite) da \u01bforuld. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The text begins at Godden 1979, l. 111, p. 238."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 235-40."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 2."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols viiiv/12-ixv/28", 
+            "text": "B.1.1.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'IN illo Tempore; Dixit iesus discipulis suis | EGO sum pastor bonus.. \u00d0is godspel \u00fee nu ger\u00e6d \u01bf\u00e6s'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'ge caria\u00f0 embe eo\u01bferne big.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The text includes Clemoes 1997, ll. 1-61, p. 313."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 313-16."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 3."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols xr1-12", 
+            "text": "B.1.2.38", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'s\u01bfy\u00f0or cepa\u00f0; Ne c\u01bf\u00e6 he na \u00fe\u00e6t us beo\u00f0 '"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u01bfur\u00f0mynt on ealra \u01bforuld [a]\u00a0(unclear: overwrite) \u01bforuld; AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The text ends at Godden 1979, l. 107, p. 271."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 268-71."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 4."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. xr", 
+            "text": "AH", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Salue sanctarum sanctissma'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This note was inserted probably xiiex."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "blu1567", 
+                    "page": "vol. 9, 69, no. 83"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 86."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. xv", 
+            "text": "AH", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Salue mater saluatoris'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "This note was inserted probably s. xii."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "blu1567", 
+                    "page": "vol. 10, 113, no. 151"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 86."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. xv", 
+            "text": "AH", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Spes maria peccatoris'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "blu1567", 
+                    "page": "vol. 10, 113, no. 151"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 86."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols xir-xxxixv", 
+            "text": "Conti 2004", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "These are sixty-seven homilies on the gospels from Lent to Quinquagesima. Nine items are unique to the Bodley version of the homiliary. A transcription and collation is available in Conti 2004."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "con1565", 
+                    "page": "p. 33, and pp. 220-369"
+                }, 
+                {
+                    "work": "eta1572", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 5."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 1r-4r/31", 
+            "text": "B.1.1.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Incipit liber catholicorum sermonum anglice in annoI.'"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Sermo ad populum de inicio creature'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'An angin is alr\u00e6 \u00f0ing\u00e6'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fe\u00e6t ece lif mid gode \u00fee \u00f0e a on ecnesse rix\u00e6d; | AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 178-89"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 6."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 4v/2-6v/2", 
+            "text": "B.1.4.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Erat homo ex phariseis nichodemus nomine; princeps iudeorum & reliqua; | Sum phariseisc mon \u01bf\u00e6s ihaten nichodemus'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "' \u00feam halg\u00e6 gaste on ane godcyndnysse. \u01bfe c\u01bfe\u00f0e\u00fe AMEN. '"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 7."
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "n. xii, pp. 476-89."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 6v/2-8r/26", 
+            "text": "B.1.4.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'EWANGELIUM'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'SUME MEN NUTEN i\u01bfiss for heor\u00e6 nyteness\u00e6'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mid \u00fe\u00e6s halg\u00e6n gastes gyfe. \u00feam is \u00e6fre an \u01bfuldor \u02e5 an \u01bfur\u00f0ment. Amen'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 8."
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "n. vii, p. ."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 8r/27-10r/4", 
+            "text": "B.1.5.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Erat quidam regulus cuius filius infirmabatur capharnaum & RELINQUIA'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Ure h\u00e6lend c\u00f3m h\u01bfilon t\u00f3 chanan'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00f0am is an\u01bfeald \u02e5 \u01bfuldor \u02e5 \u01bfur\u00f0ment on ecnysse \u00e1 to \u01bforulde. AMEN;'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "n. 1, pp. 19-25"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 9."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 10r/5-11v/23", 
+            "text": "B.1.5.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Simile est regnum celorum homini regi & reliqua. CRIs\u00a0(addition: ) tes \u00ed\u01bfun\u00e6 \u01bf\u00e6s \u00f0\u00e6t he \u01bfolde oft sp\u00e6c\u00e6n'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'beo him \u00e1 \u00e1 \u01bfur\u00f0mynt \u02e5 \u01bfuldor AMEN. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Five lines left blank at the end of fol. 11v."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "n. 2, pp. 37-45."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 10."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 12r-14v/7", 
+            "text": "B.1.2.37", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De patientia Iob \u02e5 Constantia quomodo in dolore firmus in fide perseuerauerit"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'M\u00edne gebro\u00f0r\u00e6 \u00fee r\u00e6de\u00fe nu \u00e6t godes \u00feenunge be \u00feam eadige \u01bf\u00e6re iob.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e ane is god \u00e1 \u00e1 | on ecenysse. AMEN; '"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 260-67"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 11."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 14v/8-20v/37", 
+            "text": "B.3.3.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'HER ONGINN\u00c6\u00d0 to s\u00e6cg\u00e6n be \u00feam treowe \u00fee \u00f0eo rode \u01bf\u00e6s of \u00ed\u01bfroht.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00f0\u00e6 gyt | o\u00f0 \u00feysne and\u01bfeardan d\u00e6g heo ihealdene \u01bferon Amen Amen;'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Published with a facing-page translation in Napier 1894"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "his364", 
+                    "page": "2-34."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 12."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 21r-23r/34", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00d0e h\u00e6lend crist sy\u00f0\u00f0an he to \u00feisse liue com'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'on \u00feare he rix\u00e6\u00f0 mid alle his halgum on alre \u01bforulda \u01bforuld a butan ende. | on eccenysse. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 325-34."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 13."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 23v-26v", 
+            "text": "B.1.1.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Passio sancti laurentii martyris iiii to idus augusti.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'ON DECies d\u00e6ige \u00fe\u00e6s \u01bf\u00e6lreowan caseres'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'he \u00fero | \u01bfode mid kene mode monigfealde tintreda mid \u00f0am he orsorglice on ecenysse | wynuldr\u00e6\u00f0 amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 551-52."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 14."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 26v/6-30/5", 
+            "text": "B.1.1.33", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Passio sancti bartholomei apostoli. viii. kalendas. septembris.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Wyrdwriter\u00e6s s\u00e6cg\u00e6\u00f0 \u00feet \u00f0reo leodscip\u00e6s beo\u00fe ihanten india'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Sy him \u01bfyldor \u02e5 lof. | on alre \u01bforuld\u00e6 \u01bforuld. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 552-53."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 15."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30r/5-33v/12", 
+            "text": "B.3.3.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Natiuitas sancte marie'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Men \u00f0a leofeste wur\u00f0ie we nu on and\u01bfeardnysse \u00fea gebyrdtide \u00fe\u00e6re | eadige femne sancte matia '"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "he us gife sisum lif. \u02e5 ece eadig | nyss\u00e6 a buton ends. god us to \u00feam fylste. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "n. 10, pp. 117-37."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 16."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 33v/12-35r/12", 
+            "text": "B.1.2.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Passio sancti mathei apostolix kalendas octobris'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "' \u00fee apostol matheus and godspellere becom'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Beo \u00fe\u00e6s gode lof a buton | end on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 275\u201379"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 17."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 35r/12-39v/16", 
+            "text": "B.1.3.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit uita sancti Martini episcopiiiia. idus Novembris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Sulspicius hatte sum snoter writere'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00fee on ecnysse rix\u00e6\u00f0 almihtig \u01bfealdend.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 18."
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, pp. 218-312."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 39v/16-41r/26", 
+            "text": "B.1.2.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica Xa. post pentecosten'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "' DIXIT ieuss ad quosdam'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e ane \u01bf\u00e6lt alr\u00e6 isceaft\u00e6. Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 249-54"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 19."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 41r/31-42v/26", 
+            "text": "B.1.2.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Euuangelium'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofeste h\u01bfilon \u00e6r \u01bfe s\u00e6den eo\u01bf \u00feone\u00a0(addition: ) pistol'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0e \u00f0e leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 on alr\u00e6 \u01bforuld\u00e6 \u01bforuld. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 255-59"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 20."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42v/26-45r/19", 
+            "text": "B.1.1.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica | iiia post | epiphaniam domini'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Cum autem descendisset iesus de monte.. Mathevs \u00f0e godspellere \u01bfrat on \u00f0issere godspellice | redinge'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u02e5 an god on ane | dogcundnesse effre \u01bfuniende buton anginne \u02e5 ende'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 241\u201348."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 21."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45r/20-47v/11", 
+            "text": "B.1.3.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e c\u01bf\u00e6\u00f0\u00e6\u00f0 on gerimcr\u00e6fte cathedra sancti petri.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'He ge\u01bfat \u00fea to heofenum to h\u00e6lende criste. \u00f0am is \u01bfuldor \u02e5 \u01bfur\u00f0ment a | on alr\u00e6 \u01bforuld\u00e6 \u01bforuld. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 22."
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "I, pp. 218-39."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47v/11-50r/6", 
+            "text": "B.1.1.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'ANNUNCIATION SANCTE MARIE'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Vre almihtig sc\u00a0(addition: ) uppend. \u00f0e \u00f0e alle isceaft\u00e6'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee \u00f0e \u01bfeald alle \u00feing mid f\u00e6der \u02e5 mid \u00feam halg\u00e6 gaste a on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 281\u201389."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 23."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 50r/7-50v/8", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica in septuagesima'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01bfe yll\u00e6\u00f0 s\u00e6cg\u00e6n bi \u00feisse andwearde tide'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u01bfe him | sing\u00e6\u00f0 ecelice alleluia buten ges\u01bfinke. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "49\u201351, ll. 234-87"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 24."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 50v-52v", 
+            "text": "B.1.2.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Simile est regnum celorum homini patrifamilias and RELIQUIA. | Se h\u00e6lend c\u01bf\u00e6\u00f0'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 nu \u02e5 symle a on \u01bforulde. Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 41-49, ll. 1-233."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 25."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 52v/24-54v/19", 
+            "text": "B.1.2.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica in sextagesima'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Cum turba plurima plurima convenirent as iesum & cetera. | Oon sumere tide \u00fea \u00fea mucel meniu samod comen to \u00feam h\u00e6lende'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fe\u00e6t ece lif habben moten on alre \u01bforuld\u00e6 | \u01bforuld a buton ende. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 52\u201359."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 26."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 54v/19-56v/27", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'DOMINICA IN QVINQUAGESSIMA'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Assumpsit iesus duodecim discipulos suos secreto & ait & cetera. | Her is ired on \u00feisse godspelle'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e leof\u00e6\u00f0 \u02e5 rix\u00e6 | a on alr\u00e6 \u01bforuld\u00e6 \u01bforuld a buton ende AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 258\u201365."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 27."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 56v/37-58v/6", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'DOMINICaI a QUADRAGESSIME.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Men \u00fea leofeste ic cy\u00f0e eow \u00fe\u00e6t \u00f0reo \u00feing'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mid f\u00e6der \u02e5 mid sune \u02e5 mid \u00feam halge gaste leof\u00e6\u00fe | \u02e5 rix\u00e6\u00f0 \u00feurh alr\u00e6 \u01bforuld\u00e6 \u01bforuld a on ecnesse a buton ende AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bel365", 
+                    "page": "n. 5, pp. 40-48."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 28."
+                }, 
+                {
+                    "work": "scr125", 
+                    "page": "n. 3, pp. 73-83."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 58v/7-60r/17", 
+            "text": "B.1.2.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'DOMINICA SeECUNDA IN QVADRAGESSIMA.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "' Men \u00fea leofeste \u01f7e \u01bfyll\u00e6\u00f0 her | specan fea\u01bfum \u01bfordum'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mid f\u00e6der. \u02e5 mid sunu. \u02e5 mid \u00feam | halgum gaste a on alr\u00e6 \u01bforuld\u00e6 \u01bforuld a buton ende Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bel365", 
+                    "page": "n. 5, pp. 40-48."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 29."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 60r/17-62r/10", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Natale sancti andree apostoli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Ambulans iesus iuxte mare galilee. & RELIQUA; CRist on sume tide ferde \u01bfi\u00f0 \u00feare galileiscen s\u00e6'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'beo \u01bfuldor | \u02e5 lof h\u00e6lende criste a on alr\u00e6 \u01bforuld\u00e6 \u01bforuld a buton ende Amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 507\u201313, ll. 1-168."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 30."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 62r/10-64r/14", 
+            "text": "B.1.3.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Natale sancti eadmundi | regis & martyris."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'SVM s\u01bfy\u00f0e il\u00e6red munuc'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "a mid his heofenlice f\u00e6der \u02e5 \u00fea [...]"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 31."
+                }, 
+                {
+                    "work": "ske153", 
+                    "page": "II, pp. 314-35, ll.\n                                                           13-276."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 64r/15-64v/30", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dedicatione ecclesie'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Fundamentum aliud'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Additions to a blank folio."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 87."
+                }, 
+                {
+                    "work": "mor1578", 
+                    "page": "pp. 724-29."
+                }, 
+                {
+                    "work": "dek789", 
+                    "page": "39."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 64v/34-40", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Additions to a blank folio."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 89."
+                }, 
+                {
+                    "work": "blu1567", 
+                    "page": "40, 103, n. 101. 13-276."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 65r-66r/2", 
+            "text": "B.1.1.41", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica prima | de aduentu domini'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00feisses d\u00e6ges \u00f0enung \u02e5 \u00f0issere tide m\u00e6r\u00f0'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00f0am beo \u01bfuldor \u02e5 lof on ecnesse. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 520-23."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 32."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 66r/1-67v/14", 
+            "text": "B.1.1.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica secunda | in aduentu domini '"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u0110e godspellere lucas awrat on \u00f0issum d\u00e6g\u00f0erlican godspelle'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 on alra \u01bforulda \u01bforld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 524\u201330."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 33."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 67v/14-69v/14", 
+            "text": "B.1.1.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'IN DIE NATALIS DOMINI'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e \u01bfilla\u00f0 to trumninge eo\u01bfre leafa'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "a on annesse \u00f0\u00e6s halgan gastes on ealra \u01bfeorulda \u01bfeorld. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 190\u201397."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 34."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 69v/14-72r/4", 
+            "text": "B.1.2.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Sermo in epipha | nia domini. '"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u0110es d\u00e6g is ihaten bocum. Epihphania'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee \u00f0e leofa\u00f0 and rixa\u00f0 a buten ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 19\u201328"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 35."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 72r/4-74r/28", 
+            "text": "B.1.1.10", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Purificatio Sancte Marie '"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Postquam impleti sunt dies purgatoris marie & RELIQU. | God bead on \u00f0\u00e6re alde lage'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0e \u00fee leofa\u00f0 ant | rixa\u00f0 a buton ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 249\u201357."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 36."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 74r/28-74v/28", 
+            "text": "B.3.4.45", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De confessione.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Leofa man ic axie \u00fee on drihtnes namen h\u01bfylces geleafan \u00f0u beo to gode'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "he sylf leofa\u00f0 \u02e5 rixa\u00f0 mid f\u00e6der ant | sun\u00e6. \u02e5 halig gast. a on ecnesse AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "n. 56, pp. 289\u201391."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 37."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 74v/28-76v/29", 
+            "text": "B.1.1.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dominica in ramis palmarum'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'CRITES \u00f0ro\u01bfung \u01bf\u00e6s ired nu beforen us'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 a buton ende Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 290\u201398."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 38."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 76v", 
+            "text": "B.1.1.16", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Circlice \u00feeawas forbeoda\u00f0 to secgenne \u00e6nig spel on \u00f0am \u00f0rym swygdagas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 38."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 76v/31-78v/14", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De resurrectione domini.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Maria magdalene & maria iacobi & salomee & RELIQUA. | Oft ge hyrdon embe \u00f0\u00e6s h\u00e6lendes \u00e6rist'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'nu ant a on ecnesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 299\u2013306."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 39."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 78v/14-79r/16", 
+            "text": "B.1.1.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'In letania maiore.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "' \u0110as dagas beo\u00f0 ihatene letanie'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00dee \u01bfilla\u00f0 nu \u00feis god | spel eo\u01bf reccen. \u00fee her nu ired \u01bf\u00e6s eo\u01bfre leafan to trymmingge.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 317\u201318, ll. 1-43."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 40."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 79r/9-80v/16", 
+            "text": "B.1.1.20.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'IN letania maiore.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Dixit iesus discipulis suis.. \u00dee h\u00e6lend c\u01bfe\u00f0 to his leorningcnihtas h\u01bfylc eo\u01bfer is \u00fee hafa\u00f0 sumne freond;'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e leofa\u00f0 \u02e5 | rixa\u00f0 mid f\u00e6der \u02e5 mid halge gaste a buton ende Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 319-213, ll. 44-213."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 40."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 80v/16-83r/24", 
+            "text": "B.1.1.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Sermo de ascensione | domini'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'LVcas \u00fee godspelle us munode on \u00f0isse pistolr\u00e6dinge'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0e \u00fee leofa\u00f0 \u02e5 rixa\u00f0 mid \u00feam almihtiga f\u00e6der \u02e5 \u00feam halga gaste. a on ecnesse. | Amen Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 345-53."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 41."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 83r/5-85r/24", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'IN die sancto pentecosten'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'FRAM \u00d0AM halgan \u00e6sterlican d\u00e6ge beo\u00f0 itealde fiftige daga to \u00feisse d\u00e6ge.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0e \u00fee leofa\u00f0 \u02e5 rixa\u00f0 a buton ende AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 354-64."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 42."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 85r/25-87r/26", 
+            "text": "B.1.1.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Natiuitas Sancti iohannis Baptiste; Uiii. kalendas. Ivlii;'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u0110e GOdspellere lucas a\u01bfrat on cristes bec be acc\u00e6nnednesse Iohannis'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feam beo \u01bfuldor \u02e5 | lof mid f\u00e6der \u02e5 galgum gaste a on acnesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 379-87."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 43."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 87r/27-88r/17", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Passione sanctorum Apostolorum petri & pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Uenit iesus in partes.. MATHEUS \u00f0e godspellere wrat on \u00f0\u00e6re godspellicen isetnysse'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00f0e him ne bi\u00f0 i | ty\u00f0od na\u00f0or ne synn\u00e6 forgifenysse. ne inf\u00e6r \u00f0\u00e6s heofenlican rices'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 388-91, ll. 1-96."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 44."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 88r/17-90r/14", 
+            "text": "B.1.1.28.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Passione Apostolorum | petri & pauli'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u01f7e \u01bfylla\u00f0 eafter \u00f0isse godsplle eo\u01bf r\u00e6ccan \u00f0ara apostola drohtinga'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00f0am beo \u01bfuldor \u02e5 lof a on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 391-99, ll. 97-295."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 45."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 90r/15-92v/13", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Natale Sancti pauli."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Godes la\u00f0ung wyr\u00f0a\u00f0 \u00feisne d\u00e6g'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "heo mid heom \u02e5 mid gode \u00fe\u00e6t ece lif habben moten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 400-9."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 46"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 92v/13-95v/2", 
+            "text": "B.1.1.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De fide catholica'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00c6lc cristene man sceal \u00e6fter rihte cunnan \u00e6g\u00f0er ge | his pater noster ge his credan'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee \u00f0e \u00feurh \u01bfun\u00e6\u00f0 on \u00ferynnysse an almihtig god. a on ecnesse Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 335-44."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 47."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 95v/3-97r/8", 
+            "text": "B.1.1.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Circumsci | sio domini.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u0110E GODspellere lucas beleac \u00feisses d\u00e6ges godspel'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "beo | him \u01bfuldor \u02e5 lof a on ecnysse AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 224-31."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 48."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 97r/8-98v/19", 
+            "text": "B.1.1.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Secundum Lvcam.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Homo quidam erat diues et induebatur.. \u00deE \u01bf\u00e6ldend\u00e6 drihten s\u00e6de \u00feis bigspel'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'heo \u00fereo on annre godcynd | nysse \u01bfuniende butan anginne. \u02e5 endunge. a on \u01bferolde AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 365-70."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 49."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 98v/20-100v/21", 
+            "text": "B.1.1.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): ''SECUNDUM Lvcam.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Erant adpropinquantes.. \u00de\u00e6t halige godspel us s\u00e6\u00f0 \u00fe\u00e6t refan \u02e5 synfulle men neahleacedon'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 mid fader on an | nesse \u00fe\u00e6s halgan gastes on alr\u00e6 \u01bforulda \u01bforuld. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 371\u201378."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 50."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 100v-103r", 
+            "text": "B.1.1.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Secundum Lvcam.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Cum appropinquaret iesus hierusalem.. ON summere tide \u01bf\u00e6s \u00f0e h\u00e6lende farende'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Beo \u00f0e lof \u02e5 \u01bfuldor on alr\u00e6 \u01bforuld\u00e6 \u01bforuld. AMEN.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 410-17."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 51."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 103r-104v", 
+            "text": "B.1.1.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Secundum Lvcam.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Ibat iesus in ciuitatem que uocatur naim.. URE drihten ferde to sumere burig'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Heo \u00f0ry an \u00e6lmihtig\u00e6 god unto d\u00e6ledlic a on ecnysse rixiende. AMEM'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 459\u201364."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 52."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 104v/5-107v/7", 
+            "text": "B.1.1.37", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Secundum Mathevm'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Loquebatur iesus.. DRIHTEN \u01bf\u00e6s specende on sumere tide'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feu \u00f0e leofest \u02e5 rixost mid \u00f0am | ecen f\u00e6der \u02e5 halgum gaste on alr\u00e6 \u01bferolda \u01bfeoruld AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 476-85."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 53."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 107v/7-110r/28", 
+            "text": "B.1.5.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Secundum Iohannem'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Preteriens iesus uidit hominem cecum a natiuitate. & RELIQUA | Vre drihten \u00f0e mildheort\u00e6 h\u00e6lend'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u02e5 \u01bfe \u01bfurdon onlihte \u00f0urh \u00f0one lyfigiendan drihten \u00fea leof\u00e6\u00f0 a on | ecnysse. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "n. 3, pp. 61-74."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 54."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 110r/28-113v/23", 
+            "text": "B.1.1.32", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Assumptio sancte marie.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Hieronimus \u00f0e halga sacerd \u01bfrat \u00e6nne pistol'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0e \u00fee leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 mid f\u00e6der \u02e5 halg\u00e6 gaste on alre \u01bfeorld\u00e6 \u01bfeoruld AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 429\u201338."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 55."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 113r/23-114v/19", 
+            "text": "B.1.1.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'festiuitas omnium sanctorum'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Halige lar\u01bfeas s\u00e6don \u00fe\u00e6t seo geleaffule gela\u00f0ung'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fe\u00e6t \u01bfe to \u00f0are ecan freolstide becumen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 486\u2013491, ll. 1-146."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 56."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 114v/20-116r/15", 
+            "text": "B.1.1.38.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'SECUNDUM Matheum.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Uidens iesus turbas asscendit in montem. Et Reliqua. | \u0110\u00e6t halige godspel \u00fee lutle \u01fdr \u00e6tforen eo\u01bf \u00edr\u00e6d'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'scyppend. \u02e5 alysend. ealra halgen\u00e6 mid f\u00e6der. \u02e5 mid halgum gaste. a on ecenesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "pp. 491\u201396, ll.\n                                                           147-291."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 57."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 116r/16-117v/31", 
+            "text": "B.1.2.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'In octaua apostolorum petri & pauli.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "' Matheus \u00fee godspellere a\u01bfr\u00e1t on cristes b\u00e9c'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'on alr\u00e6 weorulda weoruld | \u00e1 to t\u00eddan fore Amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 223-229, ll. 53-252."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 58."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 117v/31-119v/11", 
+            "text": "B.1.2.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Iacobi apostoli.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'On \u00f0issum d\u00e6ge we wur\u00f0i\u00e6\u00f0 on ure lofsange'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feam is wuldor \u02e5 wyrdmend on ealr\u00e6 weoruld\u00e6 weorld | AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 241-47."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 59."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 119v/11-121v/4", 
+            "text": "B.1.2.46", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'plurimorum martyrum.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Cum audieritis prelia & seditiones nolite terreri & RELIQUA. | De h\u00e6lend fores\u00e6de his leorningcnihtum'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'B\u00e9o him wul | dor \u02e5 wyr\u00f0mynt on alr\u00e6 weoruld\u00e6 weoruld. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 310-17."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 60."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 121v/4-122r/11", 
+            "text": "B.1.3.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Unius martiris.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Amen amen dico uobis nisi granum frumenti..So\u00f0 so\u00f0 ic eow secge gif \u00fe\u00e6t \u00edsawene'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'on anre godcundnesse on \u00e1ne m\u00e6gen\u00f0ryme on an\u00fam | gecynde \u00e1 on ecnesse. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "pp. 111-15, ll. 284-372."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 61."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 122r/11-124r/27", 
+            "text": "B.1.2.47", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Unius confessoris;'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Homo quidam peregre proficisscens uocauit seruos suos...URE drihten s\u00e6de \u00feis bigspel his leorningcniht\u00e6s'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "B\u00e9o lof \u00feam laforde \u00fee leof\u00e6\u00f0 on ecnesse \u00e6ffre buton \u00e1nginne on endeleas\u00fam | m\u00e6gen\u00ferymme Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 318-26."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 62."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 124r/27-126r/30", 
+            "text": "B.1.2.48", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Plurimarum uirginum.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Simile est regnum celorum decem uirginibus...\u00dee h\u00e6lend s\u00e6de bigspel ilomlice be gehwilce \u00feingum'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00d0e \u00f0e leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 mid his heofenlice f\u00e6der | \u02e5 \u00feam halga gaste on ealrae weorlda weorld Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 327-24."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 63."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 126r/30-128v/24", 
+            "text": "B.3.4.37", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De doctrina sancti Gregorii.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Men \u00f0a leofeste c\u01bf\u00e6\u00f0 sanctus greogorius. Ic eo\u01bf halsige on \u00feone drihten'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "God | almihtige us to \u00feam fultumige on ecnesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "pp. 232\u201342."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 64."
+                }, 
+                {
+                    "work": "scr125", 
+                    "page": "n. 5, p. 251."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 129r-132r/26", 
+            "text": "B.1.8.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): ''De ueteri testamento et nouo.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u0110e \u00e6lmihtig\u00e6 scyppend \u00fea \u00fea he engl\u00e6s isceop'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u02e5 be\u00f0 for \u00fei isette hi sigefesta d\u00e6da on | \u00f0am bocum on bibliothecan gode to \u01bfur\u00f0mente"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "pp. 18-51, ll. 51-834."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 65."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 132r/26-133r/3", 
+            "text": "B.2.2.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Sermo de baptismate.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Leofe men ealle cristenum manne is mycel neod \u00fe\u00e6t heo heora fuluhtes scead \u01bfitan'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'beo lof. \u02e5 | \u01bfuldor on ealra \u01bfeorlda \u01bferld \u00e1 buton ende AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "n. 8c, pp. 175-84."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 66."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 133r/4-137v/18", 
+            "text": "B.1.8.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00c6lfricus abbas Wulfstano uenerabili archiepiscopo salutem...Us biscopum dafena\u00f0 \u00fe\u00e6t \u01bfe \u00f0a boclican lare'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fe\u00e6t ge habban \u00fea m\u00e6de \u00fee | ure h\u00e6lend behet \u00feam \u00f0e him \u00feeni\u00e6\u00f0. Euge serue bone \u02e5 fidelis quia super pauca fuisti fidelis | supra multa te co[n]stituam intra in gaudium domini tui sequitur'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 67."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 137r/18-140v/24", 
+            "text": "B.1.8.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De secunda epistola quando diuidis | crisma.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eal'l'\u00e6 ge m\u00e6ssepreostas mine gebro\u00f0re \u01bfe secg\u00e6\u00f0 eo\u01bf'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'heo \u00f0reo | an god \u00e6fre rixiende AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 68."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 140v/25-141v/3", 
+            "text": "B.1.6.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Spiritus sanctus septenaria operatione..Isayas \u00fee \u01bfiteg\u00e6 wrat on his \u01bfitegunge be \u00f0am | halga gaste'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Be \u00f0issum \u00f0ea\u01bfum monn m\u00e6g \u00feone mon tocnawn h\u01bf\u00e6\u00f0er him godes | gaste on \u01bfunige. o\u00f0\u00f0e \u00fe\u00e6s gramlichen deofles'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap123", 
+                    "page": "n. 7 and 8, pp. 50,\n                                                           56-60."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 69."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 141v/3-143v/12", 
+            "text": "B.2.1.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Secundum marcum.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Interrogatus iesus a discipulis de consummacione seculi dixit eis...Leofa men Ure drihtines apostoli axodon hine sylfne embe \u00feissere \u01bfeorlde endunge'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mid \u00feam \u00f0e leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 | \u00e1\u00e1 buton ende AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "n. 5, 1b and 4, pp.\n                                                           134\u2013141, 116\u2013118, 128\u2013133."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 70."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 143v/12-144v/23", 
+            "text": "B.2.4.2_a", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Sermo.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Leof\u00e6n men gecna\u01bf\u00e6\u00f0 \u00fe\u00e6t so\u00f0 is. \u00d0eos \u01bfeorld is on ofste'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fea murh\u00f0e \u00fee gad h\u00e6f\u00f0 | \u00edgearo\u01bf\u00e6d \u00f0am \u00f0e his \u01bfillan on \u01bfeorolde \u01bfurc\u00e6\u00f0. God ure h\u00e6lpe AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "n. 20, pp. 255-60."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 71."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 144v/24-146v/16", 
+            "text": "B.2.2.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Sermones.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Leof\u00e6 men. Us is deope beboden \u00fe\u00e6t we geornlice myngian and l\u00e6ran scylan'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feenne earnige we us ece blisse \u00e6t \u00feam \u00f0e | leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 a buton ende AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bet109", 
+                    "page": "n. 6, pp. 142-56."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 72."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 146v/16-149v/4", 
+            "text": "B.1.2.49", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'Dedicatio \u0119cclesie.'"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Mine gebro\u00fer\u00e6 \u00fea leofestan \u01bfe \u01bfylle\u00f0 sume drihtenlice sp\u00e6ce'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mid his | icorene halgum mid his almihtig\u00e6 f\u00e6der. \u02e5 \u00feam halgum gaste on alre \u01bfeorld\u00e6 \u01bfeorld AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 335-45."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 73."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 149v/5-152r/15", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Monegum is cu\u00f0 \u00feeo halige steow sancti michaelis'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00f0e \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 \u00e1 on ecnesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 74."
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "pp. 465\u201375."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 152r/16-154v/27", 
+            "text": "B.1.2.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Nuptie quidem facte sunt in chana galil\u0119\u0119 & RELIQUA. | Iohannes \u00fee godspellere cw\u00e6\u00f0 on \u00feam godspellere lare'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00fee leof\u00e6\u00f0 ant rixa\u00f0 mid f\u00e6der \u02e5 \u00feam halga gaste | \u00e1 on ecnesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 29-40."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 75."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 154v/28-30", 
+            "text": "B.24.16.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'[S]ancta maria \u01bfes \u00f0reo \u02e5 sixti \u01bfinter \u00f0a heo of midden\u00e6rde ferde..'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u02e5 heo \u01bfes efter him sistene g\u00e6r on \u00f0issere \u01bforlde'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "th57", 
+                    "page": "pp. 80."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 76."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 155r-158r/15", 
+            "text": "B.1.5.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Ala ge bro\u00f0r\u00e6 ar\u00e6re\u00f0 eo\u01bfre heorte to \u00f0am heofenlice gode'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00fee \u00f0e mid his ece f\u00e6der. \u02e5 mid \u00feam halg\u00e6 gaste leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 \u00e1 on ecenesse AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "sk153", 
+                    "page": "pp. 16-24, ll. 84-242"
+                }, 
+                {
+                    "work": "bel365", 
+                    "page": "86/25"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 77."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 158r/16-160r/20", 
+            "text": "B.3.4.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Men \u00fea leofest\u00e6 \u01bfe \u01bfull\u00e6\u00f0 eo\u01bf s\u00e6gg\u00e6n bi \u00feare halg\u00e6 tide'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feam drihtne fultumiende | \u00fee \u00f0e leof\u00e6\u00f0 \u02e5 rix\u00e6\u00f0 \u00e1\u00e1 on ecenesse. AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "pp. 136-43."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 78."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 160r/21-163r/12", 
+            "text": "B.3.4.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Men \u00fea leofeste sanctus matheus \u00fee godspellere \u00fee \u00f0is godspel wrat..'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'mis \u00feam heofenlice kynge. \u00fee leofe\u00f0 \u02e5 rix\u00e6\u00f0 on | alr\u00e6 world\u00e6 world AMEN'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "pp. 166-77."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 79."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 163r/13-164v/34", 
+            "text": "B.3.4.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Ic eow bidde leofemen \u00fe\u00e6t s\u01bfa ofte swa ge faren bi ricre monn\u00e6 burines'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'almihtig drihten leof\u00e6\u00f0 ant rix\u00e6\u00f0 mid alle his halg\u00e6n | \u00e1 abuten ende amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "irv117", 
+                    "page": "pp. 197-202."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 80."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 165ra-165vb/24", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Pater noster qui es in celis'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): 'sed potius liberet nos ab omni malo amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 81."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 165vb/25-166va/10", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'Credo in deum patrem omnipotentem | creatorem celi'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): 'Amen uero uerbum\nest ebraicum quoque latine | dicitur uere fideliter siue fiat. amen.'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "Art. 81."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 166va/25-166vb/19", 
+            "text": "B.3.4.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Auarus \u00fe\u00e6t is gytsere on englisc. auaricia is | gytsunge'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u00feet ne forleost | \u00feu n\u00e6fre un\u00feances'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gog42", 
+                    "page": "pp. 238-39."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 82."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 166vb/20-167v/2", 
+            "text": "B.1.4.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "'Us s\u00e6g\u00f0 \u00feeo halige cristes boc. \u00fe\u00e6t ure | h\u00e6lend crist arerde \u00fereo men of dea | \u00fee'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'s\u01bfa s\u01bfa he dyde \u00e6r \u00feurh him sylfum on his andweardnesse'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "th57", 
+                    "page": "I, pp. 319-25, and 326-27."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 83."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 167v/2-170r/28", 
+            "text": "B.1.5.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): 'De vno confessore."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Matheus \u00fee godspellere us s\u00e6de \u00feis godspel'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'\u02e5 we sceolon beon gode under \u00f0eode \u00fee alle \u00feing isceop \u00fee \u00fee ane rix\u00e6\u00f0 | on ecnesse Amen'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "pp. 49-64."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 84."
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 170r/29-43", 
+            "text": "A.47", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'\u00f0e wes bold [ ] gebyld. er \u00feu iboren were'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'N\u00e6le hit nan | mit fingres feire stracien'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "buc1472", 
+                    "page": "pp. 18-19."
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "Art. 85."
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 170r-170v", 
+            "text": "Poole 1920", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'In primo notandum quod hoc nomen canticum'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "'Imaginaria est illa contemplacio"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "poo1579", 
+                    "page": "pp. 331\u201335"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 171ra-171va/62", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): 'aliter uero faties domini.'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): 'inimicorum se manifestum demonstrare'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 171vb/1-172vb/65", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): '[E]Gredemini & uidete filie...Sicut nemo teste apostolo | nouit que sunt hominis'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): 'Ibi conteemplativa uita uisi[one]'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. iii", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO25"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 28"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: vir-xr"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 240 mm x 142 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single frame. Flesh outer. Ruling in brown crayon on both sides of the folio. Single bounding lines. No visible pricking on external margins, but the ruled lines are 9 mm apart within the main frame. Small pricks appear on the top and lower margin to guide the ruling of the vertical bounding lines of the frame. Writing on the first line. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. iii", 
+            "text": "See\n                                                                diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO30"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 2"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 34"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: xir-xxxixv"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 240 mm x 67 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Double columns. Ruling in pencil across the columns, but within the two external bounding lines. Single bounding lines. Small pricks appear on internal margin, near the gutter, and external margins ca. 6 mm apart to guide line ruling still visible, some have been cut prior to binding. Four small pricks appear on the top and lower margin to guide the ruling of the vertical four bounding lines of the columns, which are respectively 70, 9, 70 mm in width. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. iii", 
+            "text": "See\n                                                        diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO31"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 32"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 1r-12/20-64r"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 245 mm x 148 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single column. Ruling in pencil within the two external bounding lines. Double bounding lines 10 mm apart. Small pricks appear on the external margins ca. 8 mm apart to guide line ruling still visible, some have been cut prior to binding. Four small pricks, which are still occasionally visible, appear on the top and lower margin to guide the ruling of the vertical bounding line. The first three and last three ruling lines are ruled accross the frame. Fols 13-20 seem to have been pricked internally, bear the gutter. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. iii", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO1e"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 33-36"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 65r-154v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 255 mm x 160 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single columns. Ruling in pencil within the two external bounding lines. Double bounding lines 6 mm apart. Small pricks appear on the external margins ca. 7 mm apart to guide line ruling still visible, some have been cut prior to binding. Four small pricks appear on the top and lower margin to guide the ruling of the vertical four bounding lines. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. iii", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO1e"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 33-36"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 155r-170r"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 255 mm x 160 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single columns. Ruling in pencil within the two external bounding lines. Double bounding lines 6 mm apart. Small pricks appear on the external and internal margins ca. 7 mm apart to guide line ruling still visible, some have been cut prior to binding. Four small pricks appear on the top and lower margin to guide the ruling of the vertical four bounding lines. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. iii", 
+            "text": "Ker\n                                               1957", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO1a"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 2"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 33"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 165r-166v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 238 mm x 60 mm; ruled column"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Double columns. Ruling in pencil across the columns, but within the two external bounding lines. Double bounding lines on both side of the column 7 mm apart. Small pricks appear on the external margin ca. 7 mm apart to guide line ruling still visible, some have been cut prior to binding. Seven small pricks appear on the top margin to guide the ruling of the vertical four bounding lines of the columns."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "decoration": null, 
+    "binding": "Bound, s. xviii.", 
+    "accompanying": "An old Bodleian shelfmark 'NE.F.4.12.' with the leather of the spine, which was cut from the former binding is pasted onto the backcover.", 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "It has been suggested that the manuscript has a <span class=\"name\">West Midlands</span> provenance, although Kitson offers the Hereford area as an alternative on the base of some of the dialectal features (for a recent discussion, see <a href=\"#kit1575\">Kitson 1992</a>, p. 34 and <a href=\"#wil1583\">Wilcox 2008</a>, p. 71 and <a href=\"#con1648\">Conti 2011</a>).", 
+        "acquisition": "Sir Robert Cotton gave 'Catholici Sermones lingua et charactere Saxonico' to the Bodleian in 1601: the writing on the first leaves, but not the rest, could be called 'Saxon'. <a href=\"#wan416\">Wanley 1705</a>, p. 15'."
+    }, 
+    "admin": "Manuscript described by Aidan Conti and Orietta Da Rold with the assistance of Helena Cooper and Hollie Morgan (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "bel365", 
+        "bet109", 
+        "blu1567", 
+        "blu1568", 
+        "buc1472", 
+        "che1570", 
+        "cle112", 
+        "con754", 
+        "con1648", 
+        "con1565", 
+        "cra327", 
+        "cro1571", 
+        "dan1649", 
+        "dek789", 
+        "dol352", 
+        "eta1572", 
+        "feh573", 
+        "fra1563", 
+        "ger1573", 
+        "gne1473", 
+        "god42", 
+        "gre145", 
+        "hil1574", 
+        "irv1474", 
+        "irv117", 
+        "ker44", 
+        "kit1575", 
+        "lai45", 
+        "lam1576", 
+        "lui328", 
+        "mad369", 
+        "man1577", 
+        "mor1578", 
+        "nap964", 
+        "his364", 
+        "nap123", 
+        "poo1579", 
+        "pop87", 
+        "ram1580", 
+        "rec1581", 
+        "scr350", 
+        "scr125", 
+        "sis1582", 
+        "ske153", 
+        "swa126", 
+        "swa347", 
+        "swa283", 
+        "tho57", 
+        "tre41", 
+        "wan416", 
+        "whi1308", 
+        "wil1583"
+    ]
+}

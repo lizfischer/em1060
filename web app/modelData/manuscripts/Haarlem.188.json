@@ -1,0 +1,46 @@
+{
+    "id": "Haarlem.188", 
+    "city": "Haarlem", 
+    "repository": "Stadsbibliotheek", 
+    "collection": "", 
+    "shelfmark": "188, fol. 53", 
+    "ker": "supp 79", 
+    "content": "Continuous Psalter-gloss", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "A fragment of a Gallican Psalter with occasional readings from the Romanum, with continuous interlinear Old English glosses, from Pss. 119-22. Part of the central bifolium of a quire, removed from the binding of a book in the library (<a href=\"#ker100\">Ker 1976</a>, p. 122). Fragments from the same manuscript are <a href=\"EM.CPem.312.htm\">Cambridge, Pembroke College, 312</a> and <a href=\"EM.Schloss.HS.Br.1.htm\">Sondershausen, Schlossmuseum, Hs Br. 1</a>. Place of production unknown.", 
+    "items": [
+        {
+            "locus": "A fragment", 
+            "text": "C.7.2", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 126"
+                }, 
+                {
+                    "work": "bre1415", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Takako Kato with reference to published scholarship (2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#bre1415"
+    ]
+}

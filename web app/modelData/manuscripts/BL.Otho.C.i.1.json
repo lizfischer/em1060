@@ -1,0 +1,128 @@
+{
+    "id": "BL.Otho.C.i.1", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Otho C. i, vol. 1+ Otho B. x, f. 51", 
+    "ker": "181", 
+    "content": "Bull of Pope Sergius", 
+    "location": "Malmesbury", 
+    "date": "s.xi^{med}", 
+    "summary": "A copy of a translation of the Gospels in Old English, copied in one hand s. xi<span class=\"sup\">1</span>. Two other hands, s. xi<span class=\"sup\">med</span>, wrote on fols 68 and 69 an OE translation of a bull of Pope Sergius in favour of <span class=\"name\">Malmesbury</span>. The bull points to a <span class=\"name\">Malmesbury</span> provenance (<a href=\"#ker44\">Ker 1957</a>, p. 235).", 
+    "items": [
+        {
+            "locus": "fols 14r-68r", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 14r) HER ONGIN\u00de | Lucas Boc \u00d0\u00e6s Halgan God | spellere for \u00feam \u00f0e \u01bfitodlice manega | \u00feohton \u00feara \u00feinga race geendbyrdan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi1"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Luke ends in fol. 68r/4, the rest of the leaf and the first leaf of the next quire (fol. 69) were originally blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 181"
+                }, 
+                {
+                    "work": "liu81"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 68r/5-69v", 
+            "text": "B.16.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 68r/5) + Sergius papa godes \u00feeo\u01bfa \u00feeo\u01bf"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. ximed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 181"
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 70r-110v", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70r) ON ANGINNE \u01f7\u00c6S | \u01bford"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 181"
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 110r", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "\u01f7ulfi me \u01bfrat"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 181"
+                }, 
+                {
+                    "work": "liu81", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

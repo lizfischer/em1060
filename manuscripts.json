@@ -1,0 +1,81 @@
+{
+    "id": "",
+    "city": "",
+    "repository": "",
+    "collection": "",
+    "shelfmark": "",
+    "ker": "",
+    //"nickname": "",
+    "location": "",
+    "date": "s.xi^{2}",
+    "authors":["Hollie Morgan", "Takako Kato"],
+    "summary": "",
+    "items":[
+        {
+            "locus": "fols 2-4v, 7r", //not unique
+            "text" : "B.18.12.EM", //could be title only
+            "section": "ch 60-62 ", //e.g. Title (B.10.4.3): Chrodegang of Metz, Regula Canonicorum: chs 60-62
+            "notes": [{"head":"Other versions of the text", "body":"The litanies are also found in London British Library, Cotton Vitellius A.vii, fols 17v-18r, 20r, copied in s. xi<span class='super'>1</span> (<a href='#ker44'>Ker 1957</a>, item 213)."}],
+            "bib": [{"work":"dew677", "page":"p. 615"},{"work":"dra419", "page": "p. 357"}]
+        }
+    ],
+    "objectDesc": {
+        "form": "",
+        "support": "",
+        "extent": "",
+        "condition": "",
+        "foliation": "one-line note. <p>description</p>",
+        "collation": "one-line note. <p>description</p>",
+        "layoutDesc": {
+            "summary":"blah",
+            "type": 20,
+            "columns": 1,
+            "lines": 44,
+            "dimensions": "blah"
+        },
+        "note": ""
+    },
+    "handDesc": {
+        "number":"1 for the Old English",
+        "summary":"blah",
+        "hands":[
+            {
+                "name": "Main text",
+                "scope": "Major",
+                "script": "Caroline Minuscule",
+                "scribe": "not in Ker",
+                "description": "Fols 1-75r/3..",
+                "summary": "There is no major...",
+                "characters": [
+                    {"char": "a", "note": ""},
+                    {"char": "æ", "note": ""},
+                    {"char": "d", "note": ""},
+                    {"char": "h", "note": ""},
+                    {"char": "g", "note": ""},
+                    {"char": "ſ", "note": ""},
+                    {"char": "Æ", "note": ""},
+                    {"char": "ð", "note": ""},
+                    {"char": "ascenders", "note": ""},
+                    {"char": "descenders", "note": ""}
+                ],
+                "date":"",
+                "place": "",
+                "otherManuscripts": [""],
+                "language": "",
+                "correction": ""
+            }
+        ]
+    },
+    "decoration": ["blah"],
+    "additions": "blah",
+    "binding": "A note...",
+    "accompanying": "The ...",
+    "history": {
+        "origin": "The litanies were written in Exeter.",
+        "provenance": "blah",
+        "acquisition": "A note..."
+    },
+    "admin": "Manuscript described by Hollie Morgan and Takako Kato (2010; 2013).",
+    "surrogate": false,
+    "bib": ["bis642","bri1165","dew677","dra419","fre1510","gas732","gne146","ker44","wan416"]
+}

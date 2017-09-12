@@ -1,0 +1,197 @@
+{
+    "id": "Ox.Laud.Misc.636", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Laud Misc.", 
+    "shelfmark": "636", 
+    "ker": "346", 
+    "content": "The Peterborough Chronicle", 
+    "location": "Peterborough", 
+    "date": "s.xii^{1}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r/1-91v/29", 
+            "text": "B.17.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(1r/1) Brittene i\u021dland is ehta hund mila lang"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(91v/29) xrrist him un..."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 91v is very badly worn and the final lines of the chronicle are virtually illegible."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 346"
+                }, 
+                {
+                    "work": "", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "210 mm x 145 mm (dimensions of most - size of leaves).\n240 mm x 165 mm (dimensions of fols 86-90 - size of leaves).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Written in 30 long lines. Fol. 91 is written on 29 lines, and fols 2-7 are written in two columns. Ruled in hard point, Quire 1, fols 1-10, and lead.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": "The manuscript is copied by two scribes over time.", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 346 Scribe 1", 
+                "description": "fols 1r-88v/9. The scribe wrote the text in different stages. Fols 1r-81r/10 was written at the same time. After that the writing changes in aspect and colour of ink, inidicating that the annals up to fol. 88v/9 were probably written in six blocks: 1122, 1123, 1124, 1125-6 'lande', 1126 'On \u00fees'- 1127, 1128-31. The hand is a round English vernacular hand which uses both Caroline and insular letter-forms (see, also", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: insular for English and Latin."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: insular with ascender slightly curving to the right"
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span>: insular."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>: insular."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: insular. The low and high form of <span class=\"c\">s</span> are used indifferently."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: the same size as <span class=\"c\">d</span>, with a median stroke starting usually on the ascender and concluding with a dot to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "Short and tapered <span class=\"c\">descenders</span> curving to the left."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "Infrequent (see, for a full analysis <a href=\"#irv119\">Irvine 2004</a>, pp. xxiv-xxviii)"
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The head of nota <span class=\"c\">\u02e5</span> is curved."
+                    }
+                ], 
+                "date": "s. xii"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 346 SC2", 
+                "description": "Fols 88v/10-91. Scribe 2 writes in a clear upright and compressed minuscule, using mainly Caroline letter forms (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span>: with a descender often below the line."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: with a descender often below the line."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: with a descender often below the line."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> used along with <span class=\"c\">th</span>."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> used along with <span class=\"c\">th</span>."
+                    }, 
+                    {
+                        "char": "u", 
+                        "note": "<span class=\"c\">u</span> often used instead of <span class=\"c\">\u01bf</span>."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> used with <span class=\"c\">u</span> or <span class=\"c\">uu</span>."
+                    }, 
+                    {
+                        "char": "\u01f7", 
+                        "note": "<span class=\"c\">\u01f7</span> capital <span class=\"c\">W</span> always stands instead of <span class=\"c\">\u01f7</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> often descend below the line, as they would not normally do in a Latin literary text of this date, and turn to the left at the end."
+                    }, 
+                    {
+                        "char": "B", 
+                        "note": "More frequent than Scribe 1 (see, for a full analysis <a href=\"#irv119\">Irvine 2004</a>, pp. xxiv-xxviii)"
+                    }
+                ], 
+                "date": "s. xii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Seventeenth-century, reproduced in <a href=\"#whi653\">Whitelock (1954)</a>.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Copied at <span class=\"name\">Peterborough Abbey</span> in the twelfth-century. On fol. 1r there is an erased inscription, s. xiv: 'alienauerit...sit...et a celesti consolacione alienatus' (<a href=\"#ker44\">Ker 1957</a>, p. 426).", 
+        "provenance": "<span class=\"name\">William Cecil, Lord Burghleigh</span> (1520-1598) owned the manuscript from which <span class=\"name\">Laurence Nowell</span> (d. 1576) made a transcription, now London, British Library, Add. 43704 in 1565 while he was in residence at Burghleigh House. Whitelock notes that it was probably owned by <span class=\"name\">Parker</span> by 1566/67, as Parkerian underlinings, scoring in the margin and pointing fingers agree closely with the citations of the Chronicle in <span class=\"italics\">A Defence of Priestes Mariages</span> of that date (<a href=\"#whi653\">Whitelock 1954</a>, p. 23). Acquired by <span class=\"name\">Laud</span> in 1636 from <span class=\"name\">William L'Isle</span>, s. xvii<span class=\"sup\">1</span> (<a href=\"#ker44\">Ker 1957</a>, p. 426 and <a href=\"#obr665\">O'Brien O'Keeffe 2003</a>, p. 41).", 
+        "acquisition": "<span class=\"name\">Laud</span>'s gift to the <span class=\"name\">Bodleian Library</span> in 1639 (<a href=\"#wan470\">Wanley 1954</a>, p. 426)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bat646", 
+        "bis385", 
+        "cla510", 
+        "dea43", 
+        "fol648", 
+        "glo649", 
+        "gra650", 
+        "how966", 
+        "irv119", 
+        "jam518", 
+        "ker651", 
+        "ker44", 
+        "lai45", 
+        "web1517", 
+        "lut621", 
+        "mor1561", 
+        "obr665", 
+        "plu626", 
+        "plu652", 
+        "rob335", 
+        "wan470", 
+        "whi653"
+    ]
+}

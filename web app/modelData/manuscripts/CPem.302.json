@@ -1,0 +1,49 @@
+{
+    "id": "CPem.302", 
+    "city": "Cambridge", 
+    "repository": "Pembroke College", 
+    "collection": "", 
+    "shelfmark": "302", 
+    "ker": "78", 
+    "content": "Boundaries of the see of Hereford", 
+    "location": "Hereford Cathedral", 
+    "date": "s.xi^{2}", 
+    "summary": "16 lines of text in English on the recto of a formerly blank leaf (fol. 8) of a Latin evangeliary written in England probably in s. xi<span class=\"sup\">med</span> (<a href=\"#ker44\">Ker 1957</a>, p. 125). Manuscript at <span class=\"name\">Hereford Cathedral</span> in s. xi.", 
+    "items": [
+        {
+            "locus": "fol. 8r", 
+            "text": "B.16.11.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 8r) \u00d0us lig\u00f0 \u00fe\u00e6t bisceoprice into hereforda"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Old English text is sixteen lines."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 125-26"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson, with the assistance of Sanne van der Schee; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

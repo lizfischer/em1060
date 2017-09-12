@@ -1,0 +1,115 @@
+{
+    "id": "TCD.492", 
+    "city": "Dublin", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "492 (E. 2. 23)", 
+    "ker": "104", 
+    "content": "Bede's Death Song", 
+    "location": "Bury St Edmunds", 
+    "date": "s.xii^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 176r", 
+            "text": "A.33.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "For \u00feam nedfere neni \u01bfyr\u00feeh / \u00feances snotera \u00feone him \u00feearf sy / to gehicgenne \u00e6r his [...] gaste godes o\u00fe\u00fee yuolys / \u00e6fter dea\u00fee henon demed \u01bfeor\u00fee"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xiimed"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dob617", 
+                    "page": "1942"
+                }, 
+                {
+                    "work": "luc720", 
+                    "page": "1997"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 4r, 4v, 8v, 9v", 
+            "text": "B.27.5.9.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4r) weoloc sc\u00e6lle"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4r) seolas"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4r) octo hund mile long & twa hund mile brad"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 4v) weolocas"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 8v) munuc"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 9v) half mile amurg"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "luc720", 
+                    "page": "1997"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment except for paper endleaves.", 
+        "extent": null, 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Blind-tooled red/brown leather ca. 1830; rebacked 1947.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The manuscript belonged to the Benedictine abbey of <span class=\"name\">St Edmund</span> at <span class=\"name\">Bury St Edmunds, Suffolk</span> (<a href=\"ker195\">Ker</a> 1957). <a href=\"#luc720\">Lucas</a> says that it is 'very possible' that the manuscript was also written there (1997, p. 24).", 
+        "provenance": "The provenance is unknown. The manuscript might have belonged to <span class=\"name\">John Dee</span> (1528-1608), but there is no proof of his ownership (See <a href=\"#luc720\">Lucas</a> 1997, p. 24).", 
+        "acquisition": "The manuscript came to <span class=\"name\">Trinity College, Dublin</span>, via <span class=\"name\"><span class=\"name\">James Ussher</span></span> (1581-1656), Archbishop of <span class=\"name\">Armagh</span>."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan and Johanna Green (2010; 2012). Manuscript not consulted directly.", 
+    "surrogate": true, 
+    "bib": [
+        "wat715", 
+        "col716", 
+        "dob617", 
+        "dob699", 
+        "gro719", 
+        "har465", 
+        "hic721", 
+        "ker44", 
+        "ker196", 
+        "lie722", 
+        "luc720", 
+        "mcl225", 
+        "Osu723", 
+        "plu724", 
+        "rob725", 
+        "tho726"
+    ]
+}

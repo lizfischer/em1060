@@ -1,0 +1,82 @@
+{
+    "id": "BL.Titu.A.iv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Titus A. iv", 
+    "ker": "200", 
+    "content": "Rule of Benedict", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Bilingual <span class=\"italics\">Rule of St Benedict</span>. Old English follows the Latin chapter by chapter, written by two hands. Origin unknown (<a href=\"#ker44\">Ker 1957</a>, p. 263).", 
+    "items": [
+        {
+            "locus": "fols 5-8", 
+            "text": "B.10.3.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5v) Gehyr \u00fey min bearn beboda \u00feines | lareo\u01bfes. \u02e5 anhyld \u00feinre heorta | eare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 8v) \u02e5 gefean mid him agan moten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latins"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 262-63"
+                }, 
+                {
+                    "work": "ang1618", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 8-107", 
+            "text": "B.10.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 8v) feower synd munuca cynn (This is the incipit of chapter 1 and the explicit of chapter 73)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 107v) \u02e5 mid | \u01bfunung mid gode eallum \u00feam \u00fee | \u00f0ysum regule"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 262-63"
+                }, 
+                {
+                    "work": "ang1618", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#ang1618"
+    ]
+}

@@ -1,0 +1,528 @@
+{
+    "id": "Ox.Laud.Misc.482", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Laud Misc.", 
+    "shelfmark": "482", 
+    "ker": "343", 
+    "content": "Penitential etc.", 
+    "location": "Worcester", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1-19", 
+            "text": "B.11.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) \u00deis is \u00e6rest se forma capitul hu hit ge|byre\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "rai494", 
+                    "page": "1933, pp. 1-69"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 19-20", 
+            "text": "B.11.1.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 19r) Oon [sic] halgu[m] gewritu[m] is ger\u00e6d \u00fe[\u00e6t] se \u00e6lmihtiga god"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "mon1301", 
+                    "page": "1830"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "1934"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 20-21", 
+            "text": "B.11.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 20r) S[an]c[tu]s gregorius se halga papa gesamnode"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "mon1301", 
+                    "page": "1830"
+                }, 
+                {
+                    "work": "rai494", 
+                    "page": "1933, pp. 71-73"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 21-27", 
+            "text": "B.11.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 21r) Ne sceal se biscop hi[m] sylf n\u00e6nne abbud | geceosan"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "had774", 
+                    "page": "1871, pp. 183, 188"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "mon1301", 
+                    "page": "1830, pp. 519-26"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 27v", 
+            "text": "B.20.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 27v) \u00deis sind \u00fea riht ymbrendagas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "1934, 61"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "mon1301", 
+                    "page": "1830, p. 528"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 27-28", 
+            "text": "B.11.5.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 27v) Gif hwylc man on his gemeleaste f\u00e6ste"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "1934, p. 47"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 238"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 28v", 
+            "text": "B.11.4.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 28v) Be d\u00e6dbetan"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 5"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 278"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 28-40", 
+            "text": "B.11.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 28v) THEODORUS SE HALGA 7 SE GODA BISCEOP"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "1934, p. 174-94"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 40-42", 
+            "text": "B.11.4.6.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40r) Deoplic d\u00e6dbota bi\u00f0. \u00fe[\u00e6t] l\u00e6wede man his | w\u00e6pna alecge"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 5"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 280-86"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42-43", 
+            "text": "B.11.4.6.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 42v) \u00deus m\u00e6 mihtig man 7 freondspedig."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 43v) FINITUM EST"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 6"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 286-88"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45rv", 
+            "text": "B.11.4.6.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 45r) \u00de\u00e6t sceall se scrift ge\u00feencean se \u00f0e | bi\u00f0 manna sawle l\u00e6ce."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 3"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 260"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45-46", 
+            "text": "B.11.4.6.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 45v) Se | l\u00e6ca \u00fee sceal yfela wunda geh\u00e6len"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 5"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 278"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 46", 
+            "text": "B.11.4.6.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 46r) 7 swa man bi\u00f0 mih|tigra... \u00fe\u00e6s \u00fee he worhte"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fow349", 
+                    "page": "1965, no. 3"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "1840, p. 260-62"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 46-47", 
+            "text": "B.11.10.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 46r) \u00d0on[ne] \u00feu | \u00fe\u00e6s mannes andetnesse gehyre."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47-68", 
+            "text": "B.11.4.6.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47r) \u00deon[ne] gif hwa to \u00fea[m] geuntrumod | beo."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 68v) affectu rogare"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "feh1300", 
+                    "page": "1921, pp. 46-66"
+                }, 
+                {
+                    "work": "fra730", 
+                    "page": "1998, pp. 68-72"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 419-22"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "202 mm x 90 mm (dimensions of most of folios, but the folios are heavily trimmed by the binder - size of leaves).\n180 mm x 65 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3", 
+        "summary": "Written mainly by one scribe, apart from fols 7r-8r/8 and 8v/8-24, which are in a similar hand. The aspect of the hand of fols 45-68 is that it is larger, but it is probably the main hand of part one, writing at a later date in time. The second part of the manuscript is in a much larger hand, but is by the same main scribe probably later than the first part, possibly s. xi", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "Insular Minuscule", 
+                "scribe": "Ker 343 Scribe 1", 
+                "description": "Fols 1-68v, except fols 7r-8r/8 and 8v/8-24. A clear, but small and compressed, insular minuscule which increases in size and becomes rounder after fol. 45 and on fol. 59v. The scribe clearly distinguishes script between Latin and Old English, using Caroline and insular forms respectively.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "s", 
+                        "note": "High <span class=\"c\">s</span> is used initially and medially in Old English, with low <span class=\"c\">s</span> finally. Round <span class=\"c\">s</span> also occurs."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "A small rounded <span class=\"c\">d</span> with a short ascender curved and rounded towards the left."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: a long ascenders ending in a short tag curving to the left with a sharp angle."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are long and turn to the left at the end."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> occur occasionally on long syllables."
+                    }
+                ], 
+                "date": "xi"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "Insular Minuscule", 
+                "scribe": "Ker 343 SC2", 
+                "description": "Fols 7r-8r/8 and 8v/8-24. A small and round insular minuscule which is similar to the main hand.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: a small rounded bowl with a long curved ascender towards the right."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: A long, tapered ascender, curving to the right."
+                    }
+                ], 
+                "date": "xi"
+            }, 
+            {
+                "name": "annotations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "The Tremulous Hand included: 'Five nota signs of fols 17v-18v, the Roman numerals 'i' to 'xii' on fols 19r-20r, and glosses on fol. 13v similar to ones on fol. 83v of Junius 121' (", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Seventeenth-century binding, now detached.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "The manuscript was in <span class=\"name\">Worcester</span> at the time of the <span class=\"name\">Tremulous Hand</span>, and considering the note on the hand, it was probably copied there. Tinti suggests that the book was used in the Worcester area for the visitation of the sick and dying (<a href=\"#tin1501\">Tinti</a> 2010, pp. 305-309).", 
+        "acquisition": "According to the inscription on fol. i verso, <span class=\"name\">Archbishop Laud</span> gave the manuscript to the <span class=\"name\">Bodleian library</span> in 1639."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan (May 2010).", 
+    "surrogate": true, 
+    "bib": [
+        "feh1300", 
+        "for643", 
+        "fow349", 
+        "fra730", 
+        "gne146", 
+        "had774", 
+        "hen516", 
+        "ker44", 
+        "lai45", 
+        "web1517", 
+        "mon1301", 
+        "nap123", 
+        "rai494", 
+        "sch1303", 
+        "scr565", 
+        "spi659", 
+        "tin1501", 
+        "tho446", 
+        "wan470", 
+        "was1302"
+    ]
+}

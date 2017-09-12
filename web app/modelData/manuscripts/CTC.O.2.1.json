@@ -1,0 +1,80 @@
+{
+    "id": "CTC.O.2.1", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "O. 2. 1", 
+    "ker": "93", 
+    "content": "Writ", 
+    "location": "Unknown", 
+    "date": "s.xii^{2}", 
+    "summary": "Two passages in Old English in Book 2 of the <span class=\"italics\">Historia Eliensis Insulae</span>; the same Old English passages are in the <a href=\"EM.Ely.Cat.htm\">Ely Cathedral writ</a> of s. xii/xiii (<a href=\"#ker44\">Ker 1957</a>, item 113). Manuscript not localised.", 
+    "items": [
+        {
+            "locus": "fols 73-74", 
+            "text": "A.45", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fols 73v-74r) Merie sungen \u00f0e muneches binnen ely. \u00f0a chut ching reu \u00f0er | by. Ro\u01bfe\u00fe chites noer the land. and here \u01bfve \u00fees muneches s\u00e6ng"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 137"
+                }, 
+                {
+                    "work": "wri1623"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 79r", 
+            "text": "B.15.1.106", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): stabilitas locia rege roborata"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 79r) \u00c6D\u01f7\u00e6rdus cyning gret \u00e6lle mine biscopes \u02e5 mine eorlas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 79r) god eo\u01bf gehealde ('item de eodem' follows the Old English)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 137"
+                }, 
+                {
+                    "work": "wri1623"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#wri1623"
+    ]
+}

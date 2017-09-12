@@ -1,0 +1,54 @@
+{
+    "id": "BL.Roya.6.B.vii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "6. B. vii", 
+    "ker": "255", 
+    "content": "Glosses in OE and Latin to Aldhelm\u2019s prose De laude virginitatis", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}", 
+    "summary": "The main text is in English Caroline minuscule, s. xi<span class=\"sup\">2</span>; Old English and Latin glosses are in the same hand as the main text. <a href=\"#ker44\">Ker</a> reports that Old English s is regularly long. A list of relics given to <span class=\"name\">Exeter</span> by <span class=\"name\">King \u00c6thelstan</span> at the end (fols 54-55) was possibly written by <a href=\"#dra419\">Drage</a>'s Scribe 10 (1978, p. 164), and is similar to the lists in Oxford, Bodleian Library, <a href=\"EM.Ox.Auct.D.2.16.htm\">Auct. D. 2. 16</a> and <a href=\"EM.Ox.Bodl.579.htm\">Bodley 579</a>", 
+    "items": [
+        {
+            "locus": " fols 4-53", 
+            "text": "C.31.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 4) mid \u01bfraxliendumglossing Latin palestricis"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 53)i. ategarasglossing Latin ansatas"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "502 glosses"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 322-23"
+                }, 
+                {
+                    "work": "nap959", 
+                    "page": "item 2"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Sanne van der Schee, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#nap959"
+    ]
+}

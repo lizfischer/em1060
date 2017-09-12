@@ -1,0 +1,45 @@
+{
+    "id": "CUL.Mm.4.28", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Mm. 4. 28", 
+    "ker": "28", 
+    "content": "Godric's Prayer", 
+    "location": "Bucks, Biddlesden Priory", 
+    "summary": "Annotation in Latin and Old English on a blank space on the recto of final leaf of an s. xii<span class=\"sup\">2</span> manuscript of Latin <span class=\"italics\">Vitas patrum</span>, after a note in Latin about Godric\u2019s hymn which <a href=\"ker\">Ker</a> judges to be \u2018in a different, but contemporary hand\u2019. Ker also notes an inscription on fol. 1, possibly of s. xii<span class=\"sup\">ex</span>, from <span class=\"name\">Biddlesden Priory, Bucks</span> (1957, p. 40).", 
+    "items": [
+        {
+            "locus": "fol. 149", 
+            "text": "A.46", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 149) Sancte marie uirgine moder iesu cristes nazarene onfo scild help \u00fein godric onfang bring hehtlic \u00fei\u00f0 \u00fee i godes Riche"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 28"
+                }, 
+                {
+                    "work": "zup1621", 
+                    "page": "p. 415"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#zup1621"
+    ]
+}

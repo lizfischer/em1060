@@ -1,0 +1,50 @@
+{
+    "id": "CTC.R.7.28", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "R. 7. 28", 
+    "ker": "88", 
+    "content": "Bede's Death Song", 
+    "location": "Bury St Edmunds", 
+    "date": "s.xii^{med}", 
+    "summary": "English version of Bede\u2019s <span class=\"italics\">Death Song</span> in the Latin text of Cuthbert\u2019s letter <span class=\"italics\">de obitu beati atque eximii doctoris Bede</span>, here forming part of the 734 annal in the <span class=\"italics\">Chronicon Fani Sancti Neoti</span>, or <span class=\"italics\">Annales Asserii</span>. <a href=\"#ker44\">Ker</a> notes that the manuscript was written by scribes at <span class=\"name\">Bury St Edmunds</span> (1957, p. 134).", 
+    "items": [
+        {
+            "locus": "p. 26", 
+            "text": "A.33.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 26) Fortham nedferre neni Wyrtheth | thances snottera thonne him thearf sy to ge | hicgenne e[tail]r his heonengange hwet his | gaste godes othe yueles efter deathe heonnon | demed weorthe. (thorn, eth and wyn not used)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 133-34"
+                }, 
+                {
+                    "work": "luc785", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#luc785"
+    ]
+}

@@ -1,0 +1,84 @@
+
+/* Layout Stylesheet */ 
+
+body{
+ margin:0;
+ padding:0;
+ background-color:#FFFFFF;
+ color: #333333;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size:small;
+ }
+	 
+#header{
+ height:40px;
+ background-color:#FFFFFF;
+ color:#000000;
+ border:solid #000000;
+ border-width:0px 0px;
+ margin:20px 0 0 0;
+ font-family: Arial, Helvetica, sans-serif;
+ }
+
+#lh-col{
+ position: absolute;
+ top: 133px;
+ left: 20px;
+ width: 150px;
+ border-top: 1px dashed #461B7E;
+ border-right: 1px dashed #461B7E;
+ background-color:#FFFFFF;
+ color: #333333;
+ margin: 0px;
+ padding-top: 0px;
+ height: 300px;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: small;
+ }
+ 
+ #bar {
+ height:20px;
+ font-weight: bold;
+ color: #333333;
+ width: 628px;
+ margin: 40px 20px 0px 180px;
+ text-align: right;
+ padding-top: 5px;
+ padding-right: 1px;
+ padding-bottom: 9px;
+ }
+ 
+#rh-col{
+ margin: 0px 20px 30px 180px;
+ width: 600px;
+ border: solid 1px  #461B7E;
+ background: #E3E4FA;
+ color: #333333;
+ padding-top: 10px;
+ padding-right: 10px;
+ padding-left: 20px;
+ padding-bottom: 0px;
+ position: relative;
+ font-family: Arial, Helvetica, sans-serif;
+ }
+ 
+#small-window {
+ padding-top: 23px;
+ padding-right:20px;
+ padding-left:20px;
+ padding-bottom:7px; 
+ font-family: Arial, Helvetica, sans-serif;}
+
+#map{
+ margin: 0px 20px 10px 245px;
+ width: 698px;
+ border: solid 1px  #461B7E;
+ background: #E3E4FA;
+ color: #333333;
+ padding-top: 10px;
+ padding-right: 10px;
+ padding-left: 10px;
+ padding-bottom: 0px;
+ position: relative;
+ font-family: Arial, Helvetica, sans-serif;
+ }

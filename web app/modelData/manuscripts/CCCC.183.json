@@ -1,0 +1,122 @@
+{
+    "id": "CCCC.183", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "183", 
+    "ker": "42", 
+    "content": "English land grant added to a manuscript of Bede\u2019s Latin prose and verse Lives of Cuthbert", 
+    "location": "Durham", 
+    "date": "s.xi^{2}", 
+    "summary": "English land grant of 1071-80. The main text was written in s. x<span class=\"sup\">1</span>, and the manuscript was in <span class=\"name\">Northumbria</span> in the tenth century after its donation by <span class=\"name\">\u00c6thelstan</span> to the <span class=\"name\">Lindisfarne</span> community at <span class=\"name\">Chester-le-Street</span> in 934 or 937. Old English addition made in <span class=\"name\">Durham</span>.", 
+    "items": [
+        {
+            "locus": "fols 70-92", 
+            "text": "D.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 70r) Haec sunt quae in libello sequenti caraxata suntatquearchana"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 70r) Tetricas obscuritates. lichinos grece."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 92v) sancticudberhti lindis arensis ae acxxe eposcopidominogratias. amen."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Nineteen glosses in an otherwise Latin glossary."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 42"
+                }, 
+                {
+                    "work": "jaa1624", 
+                    "page": "p. 380"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 96v", 
+            "text": "B.16.8.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 96v) Tea. calices.ondsex. disces.ondtwoegentig bleod."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 96v) ond\u00f0rea un rinade"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A list of chalices, bowls etc."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 42"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "no. 4"
+                }, 
+                {
+                    "work": "cra1626", 
+                    "page": "p. 194"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 96v", 
+            "text": "B.16.8.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 96v) Walchear bisceop ond Eal sancte Cu\u00f0berhtes hyred Sealdan ealdgy\u00f0e \u00fe\u00e6t land \u00e6t \u00f0ornhlawa"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 96v) ondeac he l\u00e6nde hyre\u00fe\u00e6tland \u00e6t \u01bfinde gatum ealle \u00f0a h\u01bfile \u00fee hyre \u00feearf by\u00f0"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The contemporary record of a grant of land by Walcher, bishop of Durham 10701-80 and the congregation of St. Cuthbert."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 42"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "no. 2"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#rob439"
+    ]
+}

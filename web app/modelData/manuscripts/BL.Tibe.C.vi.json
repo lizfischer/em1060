@@ -1,0 +1,75 @@
+{
+    "id": "BL.Tibe.C.vi", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius C. vi", 
+    "ker": "199", 
+    "content": "Gloss; Homily", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Continuous Old English gloss to the Gallican Version of the Psalter. The preliminary quires also contain two entries in English from s. xi<span class=\"sup\">med</span>: a homily, De septiformi spitritu, and a heading in red rustic capitals.", 
+    "items": [
+        {
+            "locus": "fols 29v-30r", 
+            "text": "B.1.6.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 29v) Her is \u00fe\u00e6t ylce on \u00e6nglisc. Isaias se \u01bfitega a\u01bfrat on his \u01bfitegunge be \u00feam halgan gaste"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fols 29v-30r) h\u01bf\u00e6\u00f0er him goddes gast on \u01bfunige || o\u00f0\u00f0e \u00fe\u00e6s gramlican deofles"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 30r", 
+            "text": "B.12.4.10.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 30r) \u00d0is gebed Baeda sang \u00e6t \u00f0am saltere"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 31r-129v", 
+            "text": "C.7.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 31r) (incipit illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 129v) \u00fea \u00fee andr\u00e6da\u00f0 hihte on drihten gefylsta heora \u02e5 gefyld is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Takako Kato with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false
+}

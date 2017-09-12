@@ -1,0 +1,46 @@
+
+
+#keywords {
+  margin: 0 auto;
+  margin-bottom: 15px;
+}
+
+
+#keywords thead {
+  cursor: pointer;
+  background: #E2FBD5;
+}
+#keywords thead tr th { 
+  font-weight: bold;
+  font-size: 1.2em;
+  padding: 12px 30px;
+  padding-left: 42px;
+}
+#keywords thead tr th span { 
+  padding-right: 20px;
+  background-repeat: no-repeat;
+  background-position: 100% 100%;
+}
+
+#keywords thead tr th.headerSortUp, #keywords thead tr th.headerSortDown {
+  background: #33CC33;
+}
+
+#keywords thead tr th.headerSortUp span {
+  background-image: url('up-arrow.png');
+}
+#keywords thead tr th.headerSortDown span {
+  background-image: url('down-arrow.png');
+}
+
+
+#keywords tbody tr { 
+  color: #555;
+}
+#keywords tbody tr td {
+  text-align: left;
+  padding: 15px 10px;
+}
+#keywords tbody tr td.lalign {
+  text-align: left;
+}

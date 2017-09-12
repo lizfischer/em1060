@@ -1,0 +1,41 @@
+{
+    "id": "BL.Harl.1005", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "1005, fol. 98v", 
+    "ker": "233", 
+    "content": "Names of the Winds in OE and Latin", 
+    "location": "Unknown", 
+    "date": "s.xii^{ex}", 
+    "summary": "One hand draws a \u2018rough diagram\u2019 and writes eight names of the winds in OE and Latin, and a second hand repeats four of the names in OE. <a href=\"#ker44\">Ker</a> notes that \u2018the leaf on which the diagram occurs looks as if it was a flyleaf, but is actually in the middle of a manuscript of s. s.xiii<span class=\"sup\">ex</span>, coming from <span class=\"name\">Bury St Edmunds</span>\u2019 (1957, p. 307). Place of production of the text not known.", 
+    "items": [
+        {
+            "locus": "fol. 98v", 
+            "text": "B.24.5", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 303"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

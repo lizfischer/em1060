@@ -1,0 +1,54 @@
+{
+    "id": "CCCC.321", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "321", 
+    "ker": "59", 
+    "content": "A dialogue on Alleluia", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Fol. 139, seventeen lines explaining the origin and meaning of Alleluia in dialogue form. Written in one hand. Origin unknown. The manuscript is a sixteenth-century copy of <span class=\"name\">Petrus Johannes Olnivi</span>'s Latin postils on St Matthew. Fol. 139 is an inserted leaf containing only the note on Alleluia.", 
+    "items": [
+        {
+            "locus": "fols 139a r-v", 
+            "text": "B.12.6.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 139ar) S\u00e6ge me h\u01bf\u00e6r \u01bf\u00e6re gec\u01bfeden \u00e6rest Alleluia ic \u00fee secge bet\u01bfih t\u01bfam dunum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 139ar) \u00feonne c\u01bfe\u00fee \u01bfe he \u01bf\u00e6s \u00e1\u00e1 ond nu \u00e1\u00e1 bi\u00fe ond he is fri\u00fe ond ende ond he is lifgende in eallum circum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 59"
+                }, 
+                {
+                    "work": "jam354", 
+                    "page": "p. 138"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Johanna Green, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#jam354"
+    ]
+}

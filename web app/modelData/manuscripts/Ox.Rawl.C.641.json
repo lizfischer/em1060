@@ -1,0 +1,85 @@
+{
+    "id": "Ox.Rawl.C.641", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Rawlinson", 
+    "shelfmark": "C. 641", 
+    "ker": "348", 
+    "content": "Glosses, and proverbs in Latin, French and English", 
+    "location": "Kentish", 
+    "date": "s.xii^{2}", 
+    "summary": "Six OE interlinear glosses, added s. xii<span class=\"sup\">2</span> by the main hand to a text which Liebermann calls<span class=\"italics\"> Instituta Cnuti</span>. Proverbs, mostly in French and Latin, with two in French, Latin and English, added s. xii/xiii as part of an anonymous collection. <a href=\"#ker44\">Ker</a> (1957, p. 427) suggests a <span class=\"name\">Kentish place</span> of production, and argues against <a href=\"#lie467\">Liebermann</a> who makes a case for the hands being French.", 
+    "items": [
+        {
+            "locus": "fols 32-40v", 
+            "text": "C.59", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 32) suling"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 33) ordel"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 40v) tuxel"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 40v) cinban"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 40v) meri"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 348"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13v", 
+            "text": "B.7.4", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Si stille suge fret \u00feere grunninde mete"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "On dai bringd \u00feet al ier ne mai"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 348"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson, manuscript items added by Hollie Morgan, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

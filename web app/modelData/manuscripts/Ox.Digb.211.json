@@ -1,0 +1,23 @@
+{
+    "id": "Ox.Digb.211", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Digby", 
+    "shelfmark": "211", 
+    "ker": "321", 
+    "content": "Bede's Death Song", 
+    "location": "Unknown", 
+    "summary": "Old English text of Bede\u2019s <span class=\"italics\">Death Song</span> is part of Cuthbert\u2019s letter <span class=\"italics\">De obitu Bed\u00e6</span>, which follows a copy of the <span class=\"italics\">Historia ecclesiastica</span>. OE is in the same hand as the main text. <a href=\"#ker44\">Ker</a> notes that \u2018the <span class=\"name\">Waltham Abbey</span> ex-libris inscription [\u2026] is contemporary with the text\u2019 (1957, p. 383).", 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker1615", 
+        "#ker44"
+    ]
+}

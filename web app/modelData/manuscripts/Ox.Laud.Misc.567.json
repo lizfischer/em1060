@@ -1,0 +1,139 @@
+{
+    "id": "Ox.Laud.Misc.567", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Laud Misc.", 
+    "shelfmark": "567", 
+    "ker": "345", 
+    "content": "Glossary", 
+    "location": "Unknown", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 67r-73v", 
+            "text": "D.26", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 67r) Absinthiumi. Weremod"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 73v) Zarnabumi. careu"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 424"
+                }, 
+                {
+                    "work": "", 
+                    "page": "2001, pp. 89-93"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "280 mm x 193 mm (dimensions of all - size of leaves).\n217 mm x 140 mm (dimensions of fols 1-66 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "One hand wrote both the Latin and Old English texts. A second hand (in black ink) added a supplement to the Latin text of the", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscle", 
+                "scribe": "Ker 345 Scribe 1", 
+                "description": "Fols 1-73.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is horned."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> has a flick to the right at the end of the ascender."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is Caroline. The tail is open and extends quite far to the left."
+                    }, 
+                    {
+                        "char": "l", 
+                        "note": "The ascender of <span class=\"c\">l</span> is wedged."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "The limb of <span class=\"c\">r</span> is wavy."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is used in all positions. It often has a broken shaft."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is of the same size and shape as <span class=\"c\">d</span>, with a flick to the right at the end of the ascender."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "The descender of <span class=\"c\">\u00fe</span> is very short. The graph is very similar to <span class=\"c\">\u01bf</span>."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> used in Old English. Very similar to <span class=\"c\">\u00fe</span>."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is dotted and the two strokes bend out from the centre."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "A medieval binding, s. xii, leather on oak. There are the remains of a leather strap attached to the front cover with four tacks. On the back cover, the nail which would have held the clasp is visible. On the inside covers, one can see parts of four thongs in grooves in the wooden boards, three horizontal, and the fourth at an angle. These are no longer attached to the spine, but the ends of the three horizontal thongs are visible at the inner edges of the covers. The outside of the covers are brown, but the insides are white, with a thick brownish paste on top (see also, <a href=\"#doa76\">Doane and Grade</a> 2001, p. 90 and <a href=\"#pol1236\">Pollard</a> 1962).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown", 
+        "provenance": "The inscription 'In the name of <span class=\"name\">Gregory Pryse</span>' suggests it belonged to <span class=\"name\">Gregory Prise</span>, son of <span class=\"name\">John Prise</span>, Welsh bibliophile and decommissioner of monasteries (<a href=\"#ker1233\">Ker</a> 1955, p. 424).", 
+        "acquisition": "Belonged to <span class=\"name\">Archbishop Laud</span> in 1633 and was given by him to the Bodleian Library in 1635."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold and Hollie Morgan with the assistance of Owen Roberson (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bec791", 
+        "bos1229", 
+        "cox1230", 
+        "doa76", 
+        "gar1231", 
+        "gre1232", 
+        "ker44", 
+        "ker1233", 
+        "lai45", 
+        "web1517", 
+        "pet1235", 
+        "phe1234", 
+        "pol1236", 
+        "sez1237", 
+        "spa1238", 
+        "str1239", 
+        "tho807", 
+        "tur1240", 
+        "wac1241", 
+        "wol1242"
+    ]
+}

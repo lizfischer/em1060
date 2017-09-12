@@ -1,0 +1,81 @@
+{
+    "id": "CTC.B.11.2", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "B. 11. 2", 
+    "ker": "84", 
+    "content": "Note of a gift in Latin and English", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}", 
+    "summary": "A note which is written on verso of the blank final leaf of a Latin text: Amalarius\u2019 <span class=\"italics\">Liber officialis</span>. The note records, in Latin and then in English, that the manuscript was given by <span class=\"name\">Leofric</span> to <span class=\"name\">Exeter Cathedral</span>. <a href=\"Ker44\">Ker 1957</a> judges that the note, like the rest of the manuscript, was written in Exeter.", 
+    "items": [
+        {
+            "locus": "fol. 47v", 
+            "text": "C.34", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 47v) untod\u00e6lendlice (glossing Latin 'indifferenter')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 129"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 62", 
+            "text": "C.34.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 62) gesibb (end of word unclear; glossing Latin 'pacata')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 129"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 121v", 
+            "text": "B.16.10.5", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "Inscription recording that the manuscript was a gift of Bishop Leofric to his cathedral of Exeter"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 129"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

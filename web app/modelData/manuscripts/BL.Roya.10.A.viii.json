@@ -1,0 +1,48 @@
+{
+    "id": "BL.Roya.10.A.viii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "10. A. viii", 
+    "ker": "261", 
+    "content": "Names of the Winds in English and Latin", 
+    "location": "Unknown", 
+    "summary": "Manuscript contains Old English and Latin names of winds which have been included on fol. 150v, 'the last leaf of a manuscript containing works of Ivo of Chartres, s. xii' (<a href=\"#ker44\">Ker 1957</a>, p. 331). The manuscript is of unknown origins.", 
+    "items": [
+        {
+            "locus": "fol. 150v", 
+            "text": "B.24.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Subsolanus uel ab oriente. estan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Thaurus. estan nor\u00f0an"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English names"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 261"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan and George Younge, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#"
+    ]
+}

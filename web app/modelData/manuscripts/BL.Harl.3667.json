@@ -1,0 +1,445 @@
+{
+    "id": "BL.Harl.3667", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "3667", 
+    "ker": "196", 
+    "content": "Names of the Winds", 
+    "location": "Peterborough", 
+    "date": "s.xii^{1}", 
+    "summary": "A quire that was once part of a larger scientific manuscript, along with <a href=\"EM.BL.Tibe.C.i.htm\">Tiberius C. i</a>, fols 2-17. Old English Names of the Winds are written in the four margins of fol. 7v, surrounding a typological diagram of Christ and the Apostles with Old Testament kings and prophets.",
+    "items": [
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in lower margin) \u01bfestan nor\u00f0an"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in lower margin) \u0119stan nor\u00f0erne"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.15.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.3.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in lower margin) \u01bfest"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.4.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in lower margin) su\u00f0 \u01bfest"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.5.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in lower margin) nor\u00f0 \u01bfest"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-lower margin", 
+            "text": "C.101.6.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in left hand margin) nor\u00f0 \u01bfind"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-left margin", 
+            "text": "C.101.7.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in left hand margin) nor\u00f0 est"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-left margin", 
+            "text": "C.101.8.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in left hand margin) nor\u00f0 \u01bfest"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-top margin", 
+            "text": "C.101.9.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in top margin) riht east"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-top margin", 
+            "text": "C.101.10.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in top margin) nor\u00f0 east"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-top margin", 
+            "text": "C.101.11.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in top margin) suth east"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-right margin", 
+            "text": "C.101.12.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in right hand margin) east suth"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-right margin", 
+            "text": "C.101.13.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in right hand margin) riht second word illegible"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 7v-right margin", 
+            "text": "C.101.14.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 7v in right hand margin) su\u00f0 \u01bfest"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 259-60"
+                }, 
+                {
+                    "work": "wil78", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment, leaves are arranged HFHF. Flyleaves are paper.", 
+        "extent": "315 mm x 210 mm (dimensions of all - size of leaves).\n232 mm x 143 mm (dimensions of all - size of written space).",
+        "condition": "Fols 1r and 10v are soiled. Parchment is of good quality, but with some holes (fols 3, 5, 10) and mends (fol. 5). Fol. 7 has holes where pair of compasses were used to draw the circles and arcs of the diagram on fol. 7v.",
+        "foliation": "iv + 10 + ix leaves, foliated in pencil 1-10, perhaps in May 1882, when the manuscript was inspected (as noted on the first endleaf in pencil).",
+        "collation": "<span class=\"itemHeading\">Quires:</span> 1<span class=\"sup\">10</span> (fols 1-10). Fols 5 and 6 are singletons.\n<span class=\"itemHeading\">Signatures:</span> A quire signature '.xxi.' is written in ink at the foot of fol. 10v, in the same hand that entered two signatures in <a href=\"EM.BL.Tibe.C.i.htm\">Tiberius C. i</a>.",
+        "layoutDescription": "Ruled in drypoint with 43 lines per page. Double bounding lines, which extend across the length of the page. The top and bottom horizontal lines extend across the width of the page. Prick marks are visible on the outer margins of all leaves.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 in Old English", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "marginalia to fol. 7v", 
+                "scope": "Minor", 
+                "script": "Vernacular Insular Minuscule", 
+                "scribe": "Ker 196 SC1", 
+                "description": "Fol. 7v. Nearly contemporary to the hand of the main text of the diagram. The hand could be that of the diagram on fol. 8r, which also involves the names of the winds.", 
+                "summary": "Special letter-forms are retained, but", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> sometimes has a cedilla."
+                    }, 
+                    {
+                        "char": "\u0119", 
+                        "note": "<span class=\"c\">\u0119</span> is occasionally used."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Both long and short <span class=\"c\">s</span> are used."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is retained."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is retained."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> is retained."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": ["Rubrics are in red.", "The diagrams on fols 1r, 2v, 4r, 4v, 5r, 6r, 9v, 10r, 10v have red lines.","The diagrams on fols 1v-r have red and green lines.", "On fol. 4v are pen-and-ink drawings of Life and Death carrying banners with numbers written on them.", "The diagram on fol. 5v is in red, purple and green, with the winds represented as winged faces.","The diagram on fol. 6v is in red, yellow and green.","The diagram on fol. 7r is in red and yellow.","The diagrams on fols 7v and 8r are in red, yellow, green and purple.","The diagram on fol. 8v contains a <span class=\"italics\">mappa mundi</span> in red, yellow and green.","Initials are in red, green and purple on fols 3r, 8v, 9v.", "Smaller initials are in red on fols 5v, 10v.", "The smaller initial on fol. 10r is in green."],
+    "binding": "Binding is black leather with <span class=\"name\">Harley</span>'s crest in gold, bearing the motto 'virtute et fide'. Written along the length of the spine in gold, from left to right, are '3667' 'MUS. BRIT | BIBL. HARL' 'TABULAE CHRONOLOGICAE, | ETC. | SEC. XII'. The pastedowns are green and black marbled shiny paper.", 
+    "accompanying": "<p>\n</p><ul>\n<li>A bibliographical slip is pasted to fol. [i]r.</li>\n<li>On fol. [i]v in the bottom left-hand corner in pencil is '\u025b692e' written above '655f' (cancelled), which in turn is written above '49e' (cancelled). This '49e' corresponds with the sticker '49. E' on the spine of the book. </li>\n<li>On fol. [iv] at the top is '118B2' written in brown ink, '3667' in black ink and '2/IV E' written in pencil. </li>\n<li>On the first endleaf is the note '10 fols 4' [?] May 1882' in pencil. </li>\n<li><span class=\"name\">British Museum</span> stamps are visible on fols 1v, 5v, 6v and 10v. </li>\n</ul>", 
+    "history": {
+        "origin": "Written at <span class=\"name\">Peterborough</span> between 1122 and 1135, probably soon after 1122, as indicated by the annals concerned with <span class=\"name\">Peterborough Abbey</span>, which has records up to 1122 in one hand, then a record of the death of <span class=\"name\">King Henry I</span> in 1135 in a different hand. The script and decoration suggests that the manuscript was produced in the same scriptorium as the <span class=\"italics\">Peterborough Chronicle</span> (<a href=\"EM.Ox.Laud.363.htm\">Laud Misc 363</a>).", 
+        "provenance": "Probably remained with the rest of the manuscript in <span class=\"name\">Peterborough</span> until the late fourteenth century, as it is probably item A. ii in a late fourteenth-century book-list (<a href=\"#jam518\">James 1926</a>, p. 34).", 
+        "acquisition": "After the manuscript was broken up, it found its way into the <span class=\"name\">Harley</span> collection. Acquired by the <span class=\"name\">British Museum</span> in 1753 on the death of <span class=\"name\">Robert Harley</span>'s son."
+    }, 
+    "admin": "Described by Hollie Morgan with the assistance of Sanne van der Schee; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bak790", 
+        "cla510", 
+        "gam38", 
+        "jam518", 
+        "ker44", 
+        "ker478", 
+        "1422", 
+        "log523", 
+        "pul527", 
+        "van808", 
+        "wat88", 
+        "wil78"
+    ]
+}

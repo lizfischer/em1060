@@ -1,0 +1,40 @@
+{
+    "id": "BL.Vite.D.xx", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vitellius D. xx + Miscellaneous Burnt Cotton Fratments, Bundle I (16)", 
+    "ker": "223", 
+    "content": "[Old English poem: De situ Dunelmi]", 
+    "location": "Durham", 
+    "summary": "On the now-missing fol. \u201820\u2019v of this manuscript was a poem in Old English entitled <span class=\"italics\">De situ dunelmi. Et de sanctorum reliquiis que ibidem continentur carmen compositum</span>. <a href=\"EM.CUL.Ff.1.27\">CUL Ff. 1. 27</a>, pp. 1-40, 73-252 + CCCC 66, pp. 1-114 (s. xii<span class=\"sup\">ex</span>) contains the same poem with the same title. The main text in the manuscript was a Latin Life of Cuthbert; 14 leaves of this have survived the Cotton Library fire. <a href=\"#ker44\">Ker</a> reports that \u2018the OE was probably of the same hand as the rest of the manuscript\u2019, and that the manuscript is \u2018probably from <span class=\"name\">Durham</span>\u2019 (1957, p. 298).", 
+    "items": [
+        {
+            "locus": "fol. 20v", 
+            "text": "A.11.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 20v) Is \u00f0eos burch breome geond breoten rice"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 298"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

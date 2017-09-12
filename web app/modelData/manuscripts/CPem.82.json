@@ -1,0 +1,56 @@
+{
+    "id": "CPem.82", 
+    "city": "Cambridge", 
+    "repository": "Pembroke College", 
+    "collection": "", 
+    "shelfmark": "82", 
+    "ker": "75", 
+    "content": "Verse sentences in English", 
+    "location": "St Albans, Tynemouth", 
+    "summary": "Written on the blank recto of the first leaf of a manuscript containing a number of s. xii Latin texts, including the <span class=\"italics\">Vita S. Alexis</span> and Bede, <span class=\"italics\">Historia Ecclesiastica</span>. The first note names the sons of Lothbrok, including Ubba and Beorn, in English, and is followed by a Latin note on the deeds of Ubba and Beorn. The second note describes the location of Kenelm\u2019s head. Alongside it, in the margin, is a Latin note of s. xiii, giving the author as <span class=\"name\">John de Cella</span>, abbot 1195-1214, and repeating the English note in Latin. <a href=\"#ker44\">Ker 1957</a> notes that the English and Latin texts on this folio are all in the same hand, and that \u2018the manuscript belonged almost certainly to the cell of <span class=\"name\">St. Albans at Tynemouth</span>\u2019 (p. 124).", 
+    "items": [
+        {
+            "locus": "fol. 1r", 
+            "text": "A.49", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1r) Ynguar. And Ubbe. Beorn w\u00e6s \u00fee \u00feridde. Lo\u00feebrokes suns. lo\u00fee weren criste"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 124"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1v", 
+            "text": "A.48", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 1v) In clench qu becche under ane \u00feorne. Liet kenelm kinebern heued bereued"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 124"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Sanne Van Der Schee, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

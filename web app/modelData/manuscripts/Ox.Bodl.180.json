@@ -1,0 +1,361 @@
+{
+    "id": "Ox.Bodl.180", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "180 (2079)", 
+    "ker": "305", 
+    "content": "Boethius's De Consolatione Philosophi\u00e6", 
+    "location": "South East", 
+    "date": "s.xii^{1}", 
+    "summary": "Translation in English of Boethius's <span class=\"italics\">De Consolatione Philosophi\u00e6</span>, which includes the preface and 42 chapters. The manuscript also contains a prayer in English.", 
+    "items": [
+        {
+            "locus": "fol. 1r", 
+            "text": "B.9.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6LFRED KYNING \u01f7\u00c6S \u01f7E | ALHSTOD \u00d0ISSE BEC"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "for\u00fe\u00e6m\u00f0e \u00e6lc mon sceal be his andgites m\u00e6\u00f0e and be his \u00e6mettan sprecan \u00f0\u00e6t he sprec\u00fe. and don \u00fe\u00e6t \u00fe\u00e6t he de\u00fe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "main hand"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 23,  p. 359"
+                }, 
+                {
+                    "work": "kin368", 
+                    "page": "p. 1"
+                }, 
+                {
+                    "work": "god684"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 1r-3r", 
+            "text": "B.9.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6rest hu gotan ge\u01bfunnon romana rice."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Nu \u01bfe sceoldan eallon m\u00e6gne spyrian \u00e6fter gode \u00e6lc be his | andgites m\u00e6\u00fee"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "main hand"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 23,  p. 359"
+                }, 
+                {
+                    "work": "kin368", 
+                    "page": "p. 3"
+                }, 
+                {
+                    "work": "god684"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3v-94r/6", 
+            "text": "B.9.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "ON \u00d0\u00c6RE TIDE \u00d0E GOTAN of Sci\u00fe\u00feiu m\u00e6g\u00fee \u01bfi\u00fe romana rice ge\u01bfin upahofon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "eall he hit gesih\u00fe and eall he hit forgilt. AMEN | FINIT."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "The text is closely affiliated with London, British Library, MS Cotton Otho A. vi, s. xmed (Sedgefield 1890, p. xv). Junius made a copy of this manuscript, the text is laid out side by side with the Latin printed edition (Oxford, Bodleian Library, MS Junius 12, see Madan 1895-1953, n. 5124, p. 965)."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "main hand"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 23,  p. 359"
+                }, 
+                {
+                    "work": "kin368", 
+                    "page": "pp. 7-149"
+                }, 
+                {
+                    "work": "god684"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 94r/8-22", 
+            "text": "B.12.4.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten \u00e6lmihtiga god \u01bfyrhta and \u01bfealdend ealra gesceafta"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "and \u01bfylder nu and a. a.a ta\u01bforulde | buton ogh\u01bfilcum ende Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Folio 94v is blank."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "This hand is the same hand as that which corrected the text, and most probably the same hand as the main hand."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii1, probably copied at a later stage than the main text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 23,  p. 359"
+                }, 
+                {
+                    "work": "kin368", 
+                    "page": "p. 149"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 1r", 
+            "text": "See\n                                                            diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO7"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 24"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 1r-60v"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 73r-94v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 210 mm x 150 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Ruling in dry point consistently done on the flesh side of the parchment. Double bounding lines on both sides of the frame, ca. 7 mm apart. The lines are guided by two small pricks at the top and bottom on the outer and inner margins of the folio. Small pricks appear on the external margin ca. 80 mm apart to guide line. The ruling is still visible. The writing is above the line. See diagram."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 1r", 
+            "text": "See diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO8"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 27"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: 61r-72v"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 235 mm x 145 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: This is Quire 7 which was ruled for 27 lines, but 2 or 3 lines have been left blank on each folio, both on the recto and the verso. However, the ruling technique is the same as the one used for the other quires; that is, ruling in dry point consistently done on the flesh side of the parchment. Double bounding lines on both sides of the frame, ca. 7 mm apart. The lines are guided by two small pricks at the top and bottom on the outer and inner margins of the folio. Small pricks appear on the external margin ca. 8 mm apart to guide line. The ruling is still visible. The writing is above the line. See diagram."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "handDesc": {
+        "number": "1", 
+        "summary": "One hand", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 23", 
+                "description": "An English vernacular minuscule of the twelfth-century, which retains features of the first half of the century, such as headless", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: insular, with a large lobe, occasionally the head protrudes on the left;"
+                    }, 
+                    {
+                        "char": "b", 
+                        "note": "<span class=\"c\">b</span>: with wedged, slightly forked ascender with a straight back and a rounded lobe;"
+                    }, 
+                    {
+                        "char": "c", 
+                        "note": "<span class=\"c\">c</span>: one broken stroke with a curled head;"
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: two broken strokes and a thick upright back stroke, which tapers at the top end, but curls to the right at the point of junction with the left stroke of the bowl."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: insular small rounded and closed with a little tongue on the right side, more evident in final position."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span>: a distinctive insular form: straight upward shaft finishing occasionally with a little curl towards the right, otherwise closing with a fourty-five degree angle. Two dot-like-strokes form the horizontal strokes on the left. A little serif protrudes from the top of the back of the shaft."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>: insular, with an <span class=\"italics\">s</span> shaped descender which curves towards the right just after the writing line, and turns flat into an open lobe on the right topped by a flat horizontal stroke."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span>: Caroline with a thick wedged and slightly forked ascender and a right limb which sometimes curls under the line."
+                    }, 
+                    {
+                        "char": "i", 
+                        "note": "<span class=\"c\">i</span>, <span class=\"c\">m</span>, <span class=\"c\">n</span> and <span class=\"c\">u</span>: minims are traced one at a time, regular in shape and their feet always finish with a small serif to the right."
+                    }, 
+                    {
+                        "char": "l", 
+                        "note": "<span class=\"c\">l</span>: Caroline form with a tall wedged straight ascender, the shaft ends on the line with a foot curling to the right."
+                    }, 
+                    {
+                        "char": "o", 
+                        "note": "<span class=\"c\">o</span>: rounded, oval shaped closed."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> and <span class=\"c\">\u01bf</span> are mainly distinguishable through meaning. However, <span class=\"c\">\u01bf</span> is formed with a wedge-like head and a tailed descender curving towards the left and a closed elongated lobe."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: insular form, with a well defined bow and a descender which ends curving on the left, but finishing with a square or perpendicular angle."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: insular form, with a straight descender below the line of writing, occasionally curving to the left."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span>: straight head-stroke and straight shaft which curls to the right."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span>: is always dotted and the descender curves to the left finishing in a thin tail. The second stroke to the right is done quite high up near the start of the shaft."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span>: formed by an insular <span class=\"italics\">a</span> and an <span class=\"italics\">e</span> which sits on the shoulder of the <span class=\"italics\">a</span> and terminates with a tail on the top right."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is formed like <span class=\"italics\">d</span>, with rounded bowl and upright ascender, but the median stroke is not always straight; it mostly curves from the left to the right finishing with a tail and then a dot below the tail itself, but still attached to the stroke. There is another type of <span class=\"c\">\u00f0</span> which appears more frequently towards the end of the manuscript. The basic formation is the same, but the scribe forms the left side stroke of the bowl to meet the ascender and then continues to finish with a tail curling leftwards."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is upright with wedged ascender and a tailed descender, and a pointed head-stroke."
+                    }, 
+                    {
+                        "char": "A", 
+                        "note": "Capitals are enlarged form of the minuscule with the exception of <span class=\"c\">A</span>, which sometimes is a large two-compartment letter."
+                    }, 
+                    {
+                        "char": "Litterae Notabiliores", 
+                        "note": "<span class=\"c\">Litterae Notabiliores</span> of the main chapters of the table of content are decorated with dots, but written in the same ink as the text by the main hand."
+                    }
+                ], 
+                "date": "s. xii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Bound, s. xviii.", 
+    "accompanying": "<p>Former 12 binding leaves of the manuscript now Oxford, Bodleian Library, Add. MS. D. 98 (see <a href=\"#mad369\">Madan 1895-1953</a>, n. 2079, p. 201) contain a fourteenth-century copy of the <span class=\"italics\">Digest of Justinian</span> (bks 19, 20) in a large hand. One of them, <span class=\"locus\">fol. 3r</span>, bears an inscription, s. xvi: 'Boecius de consolatione philosophie translated into the Saxonie tong by King \u00c6lfred'. These leaves were bound separately in 1884. They were acquired according to Madan not later than 1602. </p><p>An old Bodleian shelfmark 'NE.C.3.11.', which was cut from the former binding, is pasted onto the backcover. </p>", 
+    "history": {
+        "origin": "The manuscript was written 'perhaps in the South East of England' (see <a href=\"#mad369\">Madan 1895-1953</a>, p. 200).", 
+        "provenance": "Unknown.", 
+        "acquisition": "Given to the Library by <span class=\"name\">Thomas Draper</span> in 1601 'Translation qu\u00e6dam Alfr\u00e6di.'"
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold (August 2010). Thanks are due to to Susan Irvine for sharing information about this manuscript with the author.", 
+    "surrogate": true, 
+    "bib": [
+        "gib366", 
+        "god684", 
+        "alf370", 
+        "ker44", 
+        "kie685", 
+        "mad369", 
+        "kin368"
+    ]
+}

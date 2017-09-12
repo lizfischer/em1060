@@ -1,0 +1,1512 @@
+{
+    "id": "CCCC.201", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "201", 
+    "ker": "49B; 50", 
+    "content": "49A: Regularis concodia; Bede, De die judicii", 
+    "location": "Unknown (49)", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 1-7", 
+            "text": "B.10.5.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 1/39) On \u00feonne palmsunnand\u00e6g"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 7/19) \u02e5 cwe\u00f0e \u00e1 \u00fe\u00e6t forme"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 8-9", 
+            "text": "B.3.4.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Adam se \u00e6resta man"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 9-10", 
+            "text": "B.24.25.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De etatibus mundi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On \u00feyssere worlde fruman."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 10-15", 
+            "text": "B.2.2.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipiunt sermonis lupi episcopi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men us is deope beboden. \u00fe\u00e6t we geornlice mingian"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 15-16", 
+            "text": "B.2.2.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De fide catholica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men do\u00f0 swa eow micel \u00feearf is. understanda\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 16-19", 
+            "text": "B.2.2.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men understanda\u00f0 swi\u00f0e georne \u00fe\u00e6t ge \u00e6fre habban"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 19-20", 
+            "text": "B.2.3.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Wulfstan arcebisceop grete\u00f0 freondlice. \u00feegnas on \u00f0eode.. gime se \u00fee wille. Leofan men understanda\u00f0. \u00fe\u00e6t \u00e6rest cristena manna gehwilc."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 20", 
+            "text": "B.2.3.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men for ure ealra \u00feearfe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 20-21", 
+            "text": "B.2.3.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "La lefoan men hwa m\u00e6g \u00e6fre"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 21-22", 
+            "text": "B.2.3.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men uton don eac swa us \u00feearf is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 22-24", 
+            "text": "B.2.2.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men habba\u00f0 \u00e6fre anr\u00e6dne geleafan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 24-25", 
+            "text": "B.3.4.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallum folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men \u00e6lcne \u00feara ic bidde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 25", 
+            "text": "B.3.4.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallum folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eala leofan men understanda\u00f0 \u00fe\u00e6t so\u00f0 is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 25-28", 
+            "text": "B.2.4.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To eallum folce"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men uton understandan ealswa us \u00feearf is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 28-29", 
+            "text": "B.3.4.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be mislicum gelimpum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Gyf hit gewur\u00f0e \u00fe\u00e6t on \u00feeodscipe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 29-30", 
+            "text": "B.3.4.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her it git o\u00feer wel god eaca"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "La leof a is swa betera"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 30", 
+            "text": "B.3.4.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u00d0is man ger\u00e6dde \u00fea se micele here com to lande"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ealle we be\u00feurfan \u00fe\u00e6t we geornlice earnian"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 31-40", 
+            "text": "B.1.8.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To gehadedum mannum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Us biscopum gedafena\u00f0. \u00fe\u00e6t we \u00fea godcundan lare"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 40-42", 
+            "text": "B.13.2.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be gehadedum mannum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Gehadodum mannum gebira\u00f0 \u00e6lc cl\u00e6nnes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 42", 
+            "text": "B.13.2.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): To gehadedum \u02e5 l\u00e6wedum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Gehadedum mannum gebira\u00f0 eac"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 42-43", 
+            "text": "B.13.2.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be eallum cristenum mannum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eallum cristenum mannum is. micel \u00feearf. \u00fe\u00e6t hi rihtne cristendom"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 43-46", 
+            "text": "B.14.32", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Nor\u00f0hymbra preosta lagu"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Gyf hwa \u00e6nigum preoste"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 46-47", 
+            "text": "B.14.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her is eadgares cynincges ger\u00e6dnes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deys is seo ger\u00e6dnes \u00fee eadgar cyncg"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 47-48", 
+            "text": "B.14.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Eadgares cynincges ger\u00e6dnes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deis is \u00f0onne seo worldcunde ger\u00e6dnes. \u00fee ic wille \u00fe\u00e6t man healde"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 48-52", 
+            "text": "B.14.23", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "In nomine domini. \u00d0is is seo ger\u00e6dnes \u00fee engla cyningc"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 52", 
+            "text": "B.2.2.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De preceptis domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Micel is us nyd \u00feearf \u00fe\u00e6t we godes beboda geornlice healden. God silfa spr\u00e6c. hludde st\u00e6fne"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 52", 
+            "text": "B.2.2.8.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De uitis principalibus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 52", 
+            "text": "B.2.2.8.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De uirtutibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0onne syndon eahta. healice m\u00e6gnu"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 53", 
+            "text": "B.14.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): \u00c6\u00f0elstanes cinyncges ger\u00e6dnes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6\u00feelstan cyningc mid ge\u00feeahte wulfhelm[.] arcebiscop"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 53-61", 
+            "text": "B.2.2.8.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): ( p. 53) De cristianitate"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p.56) Her onginne\u00f0 be cristendome"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): A cristo enim cristiani"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 61-64", 
+            "text": "B.2.2.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 64) Uerba hiereme prophete"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit de uisione isaie prophete"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "hu biter \u00fee sceal wur\u00f0an"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 65-66", 
+            "text": "B.2.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00fee of godes agenre gifre cym\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 66-68", 
+            "text": "B.2.1.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De anticristo"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Omnis qui secundum cristiane professionis"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 68-71", 
+            "text": "B.2.1.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Interrogatus iesus. a discipulus de consummatione seculi"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 71-72", 
+            "text": "B.2.1.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Egressus iesus de templo"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 72-74", 
+            "text": "B.2.1.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Erunt signa in sole. et luna et stillis. et reliqua. \u00deis godspel seg\u00f0 \u02e5 swutela\u00f0. \u00fe\u00e6t fela foretacna"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 74-78", 
+            "text": "B.2.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men us is swi\u00f0e micel \u00feearf \u00fe\u00e6t we ware beon \u00fe\u00e6s egeslican timan. \u00fee toweard is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 78-80", 
+            "text": "B.3.4.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men aelmihti god us singallice mana\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 80-81", 
+            "text": "B.2.3.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Uerba ezechiel prophete de pigris aut timidis uel neglegen\\ti/bus pastoribus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ezechiel se witega l\u00e6r\u00f0 godes bydelas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 81", 
+            "text": "B.3.4.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Ne dear ic nu for godes ege.. hetelices leanes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 82-86", 
+            "text": "B.2.4.2_b", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo lupi. ad anglos. quando dani maxime. persecuti sunt eos. quos [altered to quod] fuit. anno. millesimo. VIIII. ab incarnatione. domini nostri iesu cristi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofan men gecnawa\u00f0 \u00fe\u00e6t so\u00f0 is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 86-87", 
+            "text": "B.2.4.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo lupi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eala leofan men. uton understandan ealswa us \u00feearf is"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 87-93", 
+            "text": "B.13.2.3.5.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be cinincge"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Cristenum cyninge gebyra\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 93-96", 
+            "text": "B.14.26", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "AnnoM.XIIII. ab incarnatione. domini nostri iesu cristi. \u00deis is an \u00f0ara ger\u00e6dnessa. \u00fee engla cyningc"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 96-97", 
+            "text": "B.14.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her gebirat to \u00e6\u00f0estanes ger\u00e6dnes. hu he be teo\u00f0unge ger\u00e6dde. Her onginne\u00f0. eadmundes ger\u00e6dnes."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eadmund cyngc gesemnode"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 97-101", 
+            "text": "B.13.1.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her gebira\u00f0 nu to eadgares ger\u00e6dnes. be gehadodum mannum [altered to gehaddora manna] liffadunge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 101-102", 
+            "text": "B.14.46", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be wergildum. \u02e5 be ge\u00f0in\u00f0um"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Hwlium w\u00e6s \u00fe\u00e6t leod. \u02e5 lagu."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 102", 
+            "text": "B.14.47", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Nor\u00f0leoda laga"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Nor\u00f0leoda cynges gild"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 102", 
+            "text": "B.14.48", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be mircna laga"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ceorles wergild"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 102", 
+            "text": "B.14.49", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be mirciscan a\u00f0e"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Twelfhendes mannes a\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 103", 
+            "text": "B.14.50", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be gehadodra manna a\u00f0e \u02e5 be hadbote."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "M\u00e6ssepreostes a\u00f0 \u02e5 world\u00feegnas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 103-108", 
+            "text": "B.2.2.5", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit de baptisma"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Primo necesse est. ut paganus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 108-112", 
+            "text": "B.13.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De ecclesiasticis gradibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Cirichadas sindon to healdenne mid swi\u00f0e micclum wisdome"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 112-114", 
+            "text": "B.12.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De ecclesiasticis officiis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Godcund \u00feeowdom is geset"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 114-126", 
+            "text": "B.11.4.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Quando alquis uoluerit confessionem facere"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 126-30", 
+            "text": "B.14.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "In nomine domini. \u00d0is is seo ger\u00e6dnes \u00fee witan ger\u00e6ddon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 130-131", 
+            "text": "B.14.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Be sacerdan"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Micel is \u02e5 m\u00e6re. \u00fe\u00e6t sacerd ah to donne"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 131-45", 
+            "text": "B.4.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Her onginne\u00f0 seo gerecednes be anti\u00f3che \u00feam unges\u00e6ligan cincge \u02e5 be apolonige \u00feam [...]"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "An antiochia \u00feare ceastre w\u00e6s sum cyningc antiochus gehaten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 147-149", 
+            "text": "B.18.8.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her cy\u00f0 ymbe \u00fea halgan \u00fee on angelcynne resta\u00f0. on ures drihtenes naman h\u00e6lendes cristes. [S]anctus agustinus gefullode ae\u00feelbriht"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 149-151", 
+            "text": "B.18.8.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her onginne\u00f0 secgan be \u00feam godes sanctum, \u00fee on englalande \u00e6rost reston. sanctus albanus martir."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 151-160", 
+            "text": "B.8.1.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her cydde god \u00e6lmihtig his mildheortnisse \u00fee he abrahame behet. \u02e5 isoepe \u02e5 abrahames ofsprincge. \u00dea \u00fea iosep w\u00e6sXVI. wintra"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": " pp. 161-165", 
+            "text": "A.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit uersus Bede presbiteri. De die iudicii."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Inter florigeras.."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Her enda\u00f0 \u00feeos boc \u00fee hatte inter florigeras \u00f0\u00e6t is on englisc betwyx blowende \u00fee to godes rice fara\u00f0. \u02e5 hu \u00f0a \u00ferowia\u00f0. \u00fee to helle fara\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 165-166", 
+            "text": "A.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Nu l\u00e6re ic \u00fee. swa man leofne sceal"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 166-167", 
+            "text": "A.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00de\u00e6nne gemiltsa\u00f0 \u00feeN. mundam qui regit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 167-169", 
+            "text": "A.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Pater noster. \u00deu eart ure f\u00e6der ealles wealdend"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 169-170", 
+            "text": "A.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Sy \u00fee wuldor \u02e5 lof wide geopnod"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 170-176", 
+            "text": "B.10.6.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Quando aliquis uoluerit confessionem facere"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 179-212", 
+            "text": "B.10.6.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 179) Obsecro uos fratres dilectissimi"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (p. 212) sed claustris monasterii contineri"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "Ker44", 
+                    "page": "item 50"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 469"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 212-20", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 212) Ic bidde eow ond eadmodlice l\u00e6re men \u00fea leofestan.\u00fe\u00e6t ge \u01bfepen on \u00feisse medmiclan tide."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 220) ond mid eallan his halgan on ealra \u01bforulda \u01bforuld abutan ende amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "Ker44", 
+                    "page": "item 50"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "pp. 466-469"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 222-30", 
+            "text": "B.3.4.55", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Ic bidde eow \u02e5 eadmodlice l\u00e6re men \u00fea leofestan. \u00fe\u00e6t ge wepen on \u00feisse medmiclan tide"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "p. 221-59", 
+            "text": "B.10.6.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 221) Ic eo\u01bf halsige bro\u00f0ru \u00fea leofestan."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 258-59) Geh\u01bfylces hades mannum \u01bfe beoda\u00f0 \u00fe\u00e6tte h\u01bfa \u00fea heah m\u00e6ssan sece buton \u00feam gehalgedum m\u00e6denum anum \u00feam \u00feea\u01bf o\u00f0\u00f0e ge\u01bfuna nis \u00fe\u00e6t hig of hyra mynstre gan \u00fea sceolon binnan heora mynstres locum ge\u01bfunnian ond him \u00fe\u00e6r m\u00e6ssan gehyran"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "Ker44", 
+                    "page": "item 50"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "pp. 69-488"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 260-61", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 260) Domino Regum piissimo karolo osuuardus sacerdos"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (p. 261) dignetur custodire potentia. Amen"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 50"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 261", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 261) Festiuitates sanctorum apostolorum seu martyrum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (p. 261) offertur deo qui martyres coronauit"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 50"
+                }, 
+                {
+                    "work": "ham1605", 
+                    "page": "p. 669"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 271", 
+            "text": "Ker 1957", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Domino regum piisimo karolo osuuardus sacerdos"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "martyres coronauit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi addition."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Ker 49A-B: 89 folios, preceded by two paper flyleaves contemporary with binding. Ker 50: '42 folios.. followed by three flyleaves, two of paper of the date of binding and one of parchment, s. xvi' (", 
+        "extent": "280 mm x 162 mm (dimensions of pp. 1-176 - size of leaves).\n250 mm x 122 mm (dimensions of pp. 1-176 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 from the period 1060-1220", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule I", 
+                "scribe": "Ker 50 SC1", 
+                "description": "pp. 179-261.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "Both elements of <span class=\"c\">\u00e6</span> are the same size."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> has a bowl that is usually slightly smaller than x-height; the graph has a very short ascender."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is often horned."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "The middle stroke of <span class=\"c\">f</span> is often shorter than the headstroke."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is very rounded, and the tail is closed. The downstroke of <span class=\"c\">g</span> generally begins from the middle of the head."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "High and low <span class=\"c\">s</span> are used, the latter in final position. There is a little knob where the onset stroke of the long form beings. Double long <span class=\"c\">s</span> is used."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has a long, split ascender."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a large bowl and, generally, a straight ascender which turns down to the left at the top. The crossbar pierces the upstroke, and end with a small tag to the left."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is straight and dotted."
+                    }, 
+                    {
+                        "char": "\u00c6", 
+                        "note": "A majuscule form of <span class=\"c\">\u00c6</span> appears as a spurred <span class=\"c\">E</span> at p. 245."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are split at the top."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are generally quite straight, or have a very gentle curve to the left."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> occur very infrequently."
+                    }, 
+                    {
+                        "char": "abbreviations", 
+                        "note": "<span class=\"c\">abbreviations</span> are very rare, suggesting that rapid legibility was a key to the layout of this manuscript. The <span class=\"c\">\u02e5</span> sometimes has a slightly curved head, and a 90\u00ba downstroke. It is often placed in very close proximity to the succeeding graph. The abbreviation for '\u00fe\u00e6t' consistents of a <span class=\"c\">\u00fe</span> with a straight abbreviation stroke through the ascender."
+                    }, 
+                    {
+                        "char": "ligatures", 
+                        "note": "<span class=\"c\">ligatures</span> are very rare. But at p. 24r, line 4, 'martyrdom', a quite remarkable form of <span class=\"c\">rt</span> ligature occurs, where the <span class=\"c\">r</span> extends upwards as if it were a high <span class=\"c\">s</span> and ligatures at the top like an ogee arch, before coming down to the <span class=\"c\">t</span>. This may be an erroneous <span class=\"c\">st</span> ligature; it is a form seen also in <span class=\"name\">Worcester</span>, <span class=\"name\">Canterbury</span> and <span class=\"name\">Winchester</span> manuscripts and p. 38 of <a href=\"EM.BL.Cleo.B.xiii.htm\">Cleopatra B. xiii</a>."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in 1948. The previous binding was eighteenth-century (<a href=\"#ker44\">Ker 1957</a>, p. 90).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "<a href=\"#ker44\">Ker 1957</a> ascribes pp. 179-272 to Exeter.", 
+        "provenance": "pp. 179-272 was previously bound with <a href=\"EM.CCCC.191.htm\">CCCC 191</a> by <span class=\"name\">Archbishop Parker</span> (<a href=\"#ker44\">Ker 1957</a>, p. 90).", 
+        "acquisition": "The manuscript was at <span class=\"name\">Corpus Christi College</span> by 1600."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Bill Green, Hollie Morgan, Owen Roberson and Johanna Green (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "anl1531", 
+        "arc1532", 
+        "ber1533", 
+        "bet109", 
+        "bis642", 
+        "cai1536", 
+        "cle1537", 
+        "par1182", 
+        "cro1538", 
+        "deb1539", 
+        "die1540", 
+        "dra419", 
+        "feh573", 
+        "fow349", 
+        "fow655", 
+        "gne146", 
+        "ham1605", 
+        "jam354", 
+        "ker44", 
+        "law1103", 
+        "lie471", 
+        "mor481", 
+        "nap562", 
+        "nap123", 
+        "rai1542", 
+        "rai494", 
+        "ric918", 
+        "rob102", 
+        "rob945", 
+        "sau1409", 
+        "scr565", 
+        "scr350", 
+        "scr125", 
+        "sha255", 
+        "sis919", 
+        "sis1246", 
+        "spe658", 
+        "sta1105", 
+        "str473", 
+        "tho446", 
+        "tho1543", 
+        "tow133", 
+        "tre761", 
+        "ure661", 
+        "wan416", 
+        "whi1544", 
+        "whi129", 
+        "whi1308", 
+        "whi990", 
+        "wil406", 
+        "wil1552", 
+        "wor920", 
+        "wor1108"
+    ]
+}

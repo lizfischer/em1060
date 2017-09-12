@@ -1,0 +1,46 @@
+{
+    "id": "CCCC.473", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "473", 
+    "ker": "72", 
+    "content": "Scribble", 
+    "location": "Winchester, St Swithun's Cathedral Priory", 
+    "date": "s.xi^{2}", 
+    "summary": "Note in English and Latin in blank space on fol. 197, at the end of the 'Winchester Troper' (the manuscript is from s. xi<span class=\"sup\">1</span>). From <span class=\"name\">St. Swithun's cathedral priory</span>, <span class=\"name\">Winchester</span>.", 
+    "items": [
+        {
+            "locus": "fol. 197r", 
+            "text": "B.27.3.6", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 197r) Unum legio est. sex milia et sexcenti ac sexaginta sex uiri. an legio iss. six \u00feusend \u02e5 six hundred \u02e5 six and sixtig"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 72"
+                }, 
+                {
+                    "work": "fre1637", 
+                    "page": "p. 98"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Johanna Green, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#fre1637"
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "id": "BL.Add.40000", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Add.", 
+    "shelfmark": "40000", 
+    "ker": "131", 
+    "content": "Inscription and entries in list of names", 
+    "location": "Thorney Abbey", 
+    "date": "s.xi^{2}; s.xi/xii",
+    "authors": ["Mary Swan", "Owen Roberson"],
+    "summary": "English inscription (s. xi<span class=\"sup\">2</span>) describing a now-lost binding of this gospel-book, and English phrases (s. xi/xii) in a <span class=\"name\">Thorney</span> name-list. Main manuscript s. x<span class=\"sup\">in</span>, written in continental minuscule. <a href=\"#ker44\">Ker</a> (1957, p. 163) notes that the manuscript was at <span class=\"name\">Thorney Abbey</span> c. 1100.", 
+    "items": [
+        {
+            "locus": "fol. 4", 
+            "text": "B.28.8.EM", 
+            "notes": [
+                {
+                    "head": "Note", 
+                    "body": "An inscription referring to a former binding, in a gospel-book."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi2^{2}"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 131"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 10v", 
+            "text": "B.16.20.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 10r) Eglaf comes ond his bro\u00f0er Vlf [...] \u00d0or\u00f0 clapes sunuondhis wif"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Occasional phrases, in a gosepl-book."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi/xii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 131"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 29", 
+            "text": "C.51.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 29) hold"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 29) meru"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Two glosses in ink, in a gospel-book: 'hold' glosses 'corpus' and 'meru' glosses 'tener'"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 131"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30r-48r", 
+            "text": "C.51.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 30r) \u00fe\u00e6tte se ahongen"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 31r) to hwon ge\u01bfilnigen \u01bfe[...]morgentide"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 48r) of ge\u01bfricsle[...]gongende"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "42 interlinear glosses, pencilled or scratched, in a gospel-book. Only the above examples given in Ker (1957, item 131). No images available. '\u00fe\u00e6tte se ahongen' glosses 'ut crucifigatur' (Matt 26:2); 'to hwon ge\u01bfilnigen \u01bfe' glosses 'quid adhuc egemus' (Matt 26:65); 'morgentide' glosses 'Mane' (Matt 27:1); 'of ge\u01bfricsle' glosses 'de uice' (Luke 1:5); 'gongende' glosses 'incedentes' (Luke 1:6)."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xi^{1}"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 131"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Joanna Green with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

@@ -1,0 +1,57 @@
+{
+    "id": "CCCC.173", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "173, fols 1-56", 
+    "ker": "39", 
+    "content": "English addition to text of Anglo-Saxon Chronicle", 
+    "location": "Canterbury, Christ Church by c. 1070", 
+    "date": "s.xi^{2}", 
+    "summary": "Part I, <span class=\"italics\">The Parker Chronicle and Laws</span> (fols 1-56): a manuscript which may have been originally produced in <span class=\"name\">Winchester</span>, s. ix/x-xi<span class=\"sup\">1</span>. The Manuscript was at <span class=\"name\">Christ Church, Canterbury</span>, by c. 1070.", 
+    "items": [
+        {
+            "locus": "fols 1-32v", 
+            "text": "B.17.1", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "The scribe of Domitian A. viii, s. xi/xii; a rounded hand, s. xii2; and nine annals are in a pointed hand, s. xii1 (Ker 1957, p. 59)."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A complete survey of the hands is given by Plummer 1952 and Thompson, and others, 1903-12."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 39"
+                }, 
+                {
+                    "work": "plu626"
+                }, 
+                {
+                    "work": "tho451"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson, with reference to published scholarship (2010; 2013)", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#plu626", 
+        "#tho451"
+    ]
+}

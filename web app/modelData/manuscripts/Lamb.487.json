@@ -1,0 +1,661 @@
+{
+    "id": "Lamb.487", 
+    "city": "London", 
+    "repository": "Lambeth Palace Library", 
+    "collection": "", 
+    "shelfmark": "487", 
+    "ker": "282", 
+    "content": "Homilies", 
+    "location": "West Midlands", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-3r/3", 
+            "text": "B.1.1.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum appropinquasset iesus ierosolimam. \u02e5 cetera"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Godemen hit is an heste dei"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia seculorum amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "3-11, no. 1"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3r/4-9r/10", 
+            "text": "B.3.2.70.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): hic dicendum est de quadragesima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ecce nunc tempus acceptabile"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Gode men nu beo\u00f0 icumen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "feder and sune \u02e5 hali gast wuniende \u02e5 rixlende on worlde a buten ende. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Incorporates a passage from Wulfstan's Be godcundre warnunge"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "11-25, no. 2"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 9r/11-15v/26", 
+            "text": "B.3.2.71.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "In leinten time uwilc mon ga\u00f0 to scrifte"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "mid \u00fee feder \u02e5 mid \u00fee sune \u02e5 mid \u00fee halie gast abuten ende. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "25-41, no. 3"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 15v/27-18v/9", 
+            "text": "B.3.2.72.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In diebus dominicis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofemen gef ge lusten wule\u00f0 \u02e5 ge willeliche hit understonden"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "41-7, no. 4"
+                }, 
+                {
+                    "work": "hal485", 
+                    "page": "76-9, no. 10"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 18v/9-21v/15", 
+            "text": "B.3.5.18.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Hic dicendum est de propheta."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Missus est ieremias in puteum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Leofemen we uinde\u00f0 in halie boc."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "47-53, no. 5"
+                }, 
+                {
+                    "work": "hal485", 
+                    "page": "79-82, no. 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 21v/16-25r/26", 
+            "text": "A.55.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Pater Noster"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Pater noster qui es in celis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Vre feder \u00feet in heouene is \u00feet is al so\u00f0 ful iwis"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feet we hes ibeten \u00feurh halie scrifte. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "55-71, no. 6"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 25r/27-27v/4", 
+            "text": "B.3.4.58.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Tria sunt hominum saluti necessaria. fides. baptismus. mundicia uite."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00fero \u00feing bod \u00feet ech. mon. habbe mot \u00feetwile his cristindom folge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): spiritus sanctus et cetera."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Also found in Cambridge, Trinity B.14.52, fols 12r-14r (Homily 4)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "73-77, no. 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 27v/6-30v/16", 
+            "text": "B.3.5.19.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Homo quidam descendebat ab ierusalem in ierico et cetera"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "God almihti sei\u00f0 an forbisne to his folk in \u00fee halie godspel"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Begins imperfectly"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "79-85, no. 8"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30v/17-37v/3", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Fram \u00fean halie hester dei"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Qui vuiuit et Regnat, et cetera."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with occasional Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "87-101, no. 9"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "354-64"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 37v/4-45r/11", 
+            "text": "B.1.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De octo uiciis. et de duodecim abusiuis huius seculi."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Omnia nimia nocent. et temperantia mater uirtutum dicitur"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00feet is on englisc. all ofer done\u00feing dena\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "101-19, no. 10 and 296-304"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45r/12-47r/17", 
+            "text": "B.3.2.73.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Factus est filius dei omnibus sibi obtemperantibus causa salutis eterne"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Vre drihtnes halie passiun"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia secula seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Includes an extract on Christ's willingness to die from \u00c6lfric's Catholic Homilies, First Series, XIV (Palm Sunday)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "119-25, no. 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 47r/18-49r/5", 
+            "text": "B.3.2.74.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Christus passus est pro nobis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Al \u00feet me ret \u02e5 singe\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia seculorum. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "125-31, no. 12"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 49r/6-51v/21", 
+            "text": "B.3.5.20.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): QVi parce seminat; parce et metet."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Vre lauerd seinte paul heges lar\u00f0ewen efter ure helende seolfe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): per omnia secula seculorum. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Also found in Cambridge, Trinity College, B.14.52, fols 64r-66r (Homily 26)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "131-9, no. 13"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 51v/22-54r/7", 
+            "text": "B.3.2.75.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In die dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Reuerenda est nobis hec dies sancta que dicitur dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Muchel man ach to wur\u00feen \u00feis halie dei \u00feat is sunnen dei icleoped"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "wone of alle uuele; wole \u02e5 alle gode. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with extensive use of Latin citations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "139-45, no. 14"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 54r/8-56r/9", 
+            "text": "B.3.5.21.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Qvi uult ueniet post me abneget semet ipsum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "wa is \u00feet. man. \u00feet wa is \u02e5 me him mare bihat"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Quod nobis prestare dignetur qui uiuit et cetera. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with extensive use of Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Also found in Cambridge, Trinity College, B.14.52, fols 81r-83r (Homily 32)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "145-9, no. 15"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 56r/10-57v/22", 
+            "text": "B.3.5.22.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Estote fortes in bello et pugnate cum antiquo serpente"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deis word \u00fee ich nu \u00fee for tech; seide ure drihten et sume time"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Quod nobis prestare dignetur qui uiuit et regnat, deus, et cetera. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with extensive use of Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Also found in Cambridge, Trinity College, B.14.52, fols 75v-78r (Homily 30)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "151-5, no. 16"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57v/23-59v/4", 
+            "text": "B.3.5.23.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Euntes ibant \u02e5 flebant. mittentes semina sua"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00dee halie prophete dauid spec\u00f0 on ane stude in \u00fee sauter"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Quod nobis prestare dignetur, et cetera. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with extensive use of Latin citations"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Also found in Cambridge, Trinity College, B.14.52, fols 61v-64r (Homily 25)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "155-9, no. 17"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 59v/5-65r/11", 
+            "text": "A.54.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): ich em nu alder \u00feene ich wes a winter \u02e5 a lare... to gung ich em on rede."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Vnnet lif ich habbe iled"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00dea bo\u00f0 nu mid him in helle fordon \u02e5 formet"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly. Also found in Cambridge, Trinity College, B.14.52, fols 2r-9v"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "159-83, no. 18"
+                }, 
+                {
+                    "work": "hal485", 
+                    "page": "30-46, no. 8"
+                }, 
+                {
+                    "work": "hil898"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 65v/1-67r/29", 
+            "text": "B.3.4.68.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Iesu so\u00f0 god. godes sone. iesu so\u00f0 mon. mon maidene bern"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00feah he sende. moder \u00feet \u00feu wult"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor900", 
+                    "page": "183-9, no. 19"
+                }, 
+                {
+                    "work": "tho902", 
+                    "page": "1\u20134"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "176 mm x 130-133 mm (dimensions of all - size of leaves; dimensions of size of leaves include extra width of 4-5 mm from the mending strip applied to the outer margin of each leaf. On fol. 11, a wider mending strip is used to make up the missing edge of the parchment in the top half of the page.).\n160-166 mm x 84-88 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "<a href=\"#wil78\">Wilcox 2000</a> reports that the manuscript is \u2018bound in a fairly thick, coarse leaf of parchment with hairside on the outside. \u201c487\u201d and \u201c8\u201d are now written on the spine and there are three tears where previous spine labels have been removed. Two older press marks, \u201c#. C. 12\u201d and \u201c4<span class=\"sup\">to</span> 185\u201d, appear on the inside cover. The endleaves include two paper bifolia cut down to the size of the manuscript, bound upside down as fols i-ii and rightway up as fols [69-70]. These are from Thomas Aquinas's <span class=\"italics\">Summa Theologica</span>, printed by Peter Schoeffer of Mainz in March 1467\u2019 (<a href=\"#wil78\">Wilcox 2000</a>, p. 75, reporting identification by <a href=\"#hil897\">Hill 1970-72</a>, p. 271).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Not known, dialect is largely consistent across all of items 1 to 18, and is localisable to the <span class=\"name\">West Midlands</span>. Laing suggests that the main scribe\u2019s dialect is from <span class=\"name\">North West Worcestershire</span> (<a href=\"#lai378\">Laing 2004</a>, pp. 72-73). Aspects of the copying hand and manuscript production might imply that the main scribe had intermittent access to a repository of source-texts. Manuscript copies of of the pre-Conquest Old English items would have been available in well-stocked institutions such as <span class=\"name\">Worcester Cathedral</span>. The holdings of such institutions would presumably be accessible to those working in neighbouring areas as well as to those based in the institution, so it is possible that the main scribe was trained and working in NW Worcestershire, and had access to a major library from time to time (<a href=\"#swa753\">Swan 2007</a>). <a href=\"#swa753\">Swan</a> (2007) also suggests reproduction from memory at some stage of the transmission process from source-texts to this manuscript.", 
+        "provenance": "<span class=\"italics\">On Ureisun of Oure Louerde</span> might suggest female ownership; very little else can be determined of the provenance.", 
+        "acquisition": "Donated to <span class=\"name\">Lambeth Palace Library</span> by Archbishop <span class=\"name\">Richard Bancroft</span> (Archbishop of Canterbury 1604-1610). Listed in two catalogues of his manuscripts from 1612."
+    }, 
+    "admin": "Manuscript described by Mary Swan with the assistance of Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bet109", 
+        "cle112", 
+        "cox896", 
+        "dob617", 
+        "hal485", 
+        "hic721", 
+        "hil897", 
+        "hil898", 
+        "lam899", 
+        "ker44", 
+        "lai378", 
+        "mor900", 
+        "obr901", 
+        "pop87", 
+        "rob1318", 
+        "sis152", 
+        "swa284", 
+        "swa281", 
+        "swa283", 
+        "swa753", 
+        "tho902", 
+        "wan470", 
+        "wil78", 
+        "wre903"
+    ]
+}

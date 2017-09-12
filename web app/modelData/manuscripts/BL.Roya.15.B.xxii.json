@@ -1,0 +1,139 @@
+{
+    "id": "BL.Roya.15.B.xxii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "15. B. xxii", 
+    "ker": "269", 
+    "content": "\u00c6lfric's Grammar", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Fols 5v-70v", 
+            "text": "B.1.9.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5v) Ic \u00e6lfric \u01bfolde \u00feas lytlan boc a\u01bf\u00e6ndan to engliscum gereorde | of \u00feam st\u00e6fcr\u00e6fte: \u00f0e is gehaten gramatica"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 70v) \u00d0a gemetu gebyria\u00f0to ledenum leo\u00f0cr\u00e6fte."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Old English preface preceded by Latin preface on fol. 5r 'Ego \u00c6lficvs ut minus sapiens'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 335"
+                }, 
+                {
+                    "work": "doa1177", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 71r", 
+            "text": "B.1.9.1.8.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 71r) Se cr\u00e6ft is s \u01bfa ameten \u00fe\u00e6t \u00fe\u00e6r ne mot beon fur\u00f0on an | st\u00e6f ofer getel ac beo\u00f0 ealla \u00fea uers geemnytte be anum | getele. gif hit aht beon sceal."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 71r) Fif penegas ge | maciga\u00f0 \u00e6nne scillinge. \u02e5 xxx penega \u00e6nne mancus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 335"
+                }, 
+                {
+                    "work": "doa1177", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "262 mm x 175 mm (dimensions of all - size of leaves).\n203 mm x 124 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "The text is written on 26 long lines. The frame is ruled on the hair side, double bounding lines in both margins, scored on the hair side, few folios at the time. In Quire 1, the blank folios are also ruled.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "Sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker  269", 
+                "description": "Fols 5-70v. Insular minuscule for English and Caroline for Latin are employed by the scribe, alternating scripts according to the language of the text which is copied. This is a small rounded hand, well proportioned and with regular characteristics, which shares some similarities with", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: the high, long form has a pronounced, curved, hook-like top."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "The serif on <span class=\"c\">minims</span> are prominent."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span>: are wedged in <span class=\"c\">d</span>, <span class=\"c\">l</span> and <span class=\"c\">b</span>; pointy, and slightly curving to the left in <span class=\"c\">\u00f0</span> and upright and tapered in <span class=\"c\">d</span>."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: prominent with well-defined feet and small serifs."
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Nineteenth-century.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "<p>The manuscript is noted in red, which led scholars to believe that it may have been in the possession of <span class=\"name\">Archbishop Parker</span>. Marks appear on fols 5, 31 and notes in red pencil include: fol. 1v, 'hic liber scriptus ante conquestum', and on fol. 71 'finis'. 'Cor. Coll' is on fol. 5. Royal 15 B. xxii seems also to have been used by Parker as an exemplar to correct Cambridge, Corpus Christi College 449, it may be possible that <span class=\"name\">Parker</span> owed both manuscripts (<a href=\"#ker44\">Ker 1957</a>, p. 335; <a href=\"#war764\">Warner and Gilson 1921</a>, p. 335; <a href=\"#wan470\">Wanley 1705</a>, p. 182). </p><p>The manuscript belonged to <span class=\"name\">Lord Lumley</span>, whose name is on fol. 5r. There is also a reference to <span class=\"name\">Casely</span>'s <span class=\"italics\">Catalogue</span> on fol. 5r (<a href=\"#cas1178\">Casley 1734</a> and <a href=\"#doa1177\">Doane 2007</a>). </p>", 
+        "acquisition": "Transferred to the British Museum with the other Royal manuscripts by <span class=\"name\">George II</span> in 1757."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "cam10", 
+        "cas1178", 
+        "doa1177", 
+        "sea1179", 
+        "gne146", 
+        "ker44", 
+        "bri1165", 
+        "scr565", 
+        "wan470", 
+        "war764", 
+        "zup447"
+    ]
+}

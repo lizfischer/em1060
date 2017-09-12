@@ -1,0 +1,367 @@
+{
+    "id": "YM.1", 
+    "city": "York", 
+    "repository": "Minster Library", 
+    "collection": "", 
+    "shelfmark": "1", 
+    "ker": "402", 
+    "content": "Documents and Sermons", 
+    "location": "Canterbury, Christ Church", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 156v-57v", 
+            "text": "B.16.24.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 156v) \u0110is is seo socn into scyreburna"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 156v-57v", 
+            "text": "B.16.24.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Into ottenleageIIII. ploga-land"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 156v-57v", 
+            "text": "B.16.24.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00c6t rypum \u00e6rest milegemet"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 158r-v", 
+            "text": "B.3.4.48", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 158r) Sermo lupi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 158r) Leofan men do\u00f0 swa ic l\u00e6re. gehyra\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 159r", 
+            "text": "B.3.4.49", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 159r) Be h\u00e6\u00f0endome"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 159r) Nemo cristianorum 'uel nullus cristianus' paganas...Eala mycel is nyd\u00feearf manna gehwylcum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 159v", 
+            "text": "B.3.4.50", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 159v) Be cristendome"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 159v) A cristo enim... Crist is ealra cristenra manna heafod"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 160r-v", 
+            "text": "B.14.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 160r) Cnut cyning gret his arcebiscop. and his leodbiscopas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 161r", 
+            "text": "B.16.24.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 161r) \u00deis syndon \u00fea cyrican madmas on scirburnan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 161v", 
+            "text": "B.12.4.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 161v) + Wultan we gebiddan god ealmihtine"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 161v", 
+            "text": "B.16.24.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 161v) \u0110is sindan \u00fea festermen. Elfricas"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 402"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "270 mm x 205 mm (dimensions of last quire of manuscript - size of leaf).\n228 mm x 133 mm (dimensions of last quire of manuscript - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 from the period 1060-1220", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "fol. 161v", 
+                "scope": "sole", 
+                "script": "Late eleventh-century", 
+                "scribe": "Ker 402 art. f", 
+                "description": "fol. 161v. The aspect of this hand is round and upright, and more laterally expansive than the preceding hands. The ink is quite black.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is single-compartment, and either round or tear-drop shaped."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "There are no examples of <span class=\"c\">\u00e6</span> in this hand."
+                    }, 
+                    {
+                        "char": "b", 
+                        "note": "<span class=\"c\">b</span> has a rounded bowl."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Insular, round-backed <span class=\"c\">d</span>, but the back is higher than earlier eleventh-century examples of English minuscule."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The <span class=\"c\">e</span> is quite distinctive: it is very round, with a small bowl."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "The <span class=\"c\">f</span> is also quite distinctive: the medial stroke is longer than the headstroke and has a tendency to curve upwards."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "The <span class=\"c\">minims</span> are often quite uneven, and occasionally have serifs to the right."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Insular <span class=\"c\">r</span> has a narrow, quite angular shoulder, and curves upward at the end."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Both long and low forms of <span class=\"c\">s</span> are used."
+                    }, 
+                    {
+                        "char": "A", 
+                        "note": "The majuscule <span class=\"c\">A</span> is half-uncial in form."
+                    }, 
+                    {
+                        "char": "B", 
+                        "note": "The lower bowl of majuscule <span class=\"c\">B</span> is larger than the upper."
+                    }, 
+                    {
+                        "char": "E", 
+                        "note": "The majuscule <span class=\"c\">E</span> is rustic capital in form."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are tagged to the left. Ascenders of <span class=\"c\">b</span>, <span class=\"c\">l</span> and <span class=\"c\">\u00f0</span> tend to be higher than those of other graphs."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are straight but turn to the left at the very end."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "Punctuation consists of a <span class=\"c\">punctus</span>, placed above the base line."
+                    }, 
+                    {
+                        "char": "abbreviation mark", 
+                        "note": "Occasional accents are used."
+                    }, 
+                    {
+                        "char": "abbreviation mark", 
+                        "note": "The <span class=\"c\">abbreviation mark</span> is zig-zagged."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The<span class=\"c\">\u02e5</span> is very straight, with a 90\u00ba angle at the descender. The very end of the descender curves slightly to the left."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "The book probably lost its medieval silver-gilt cover about 1547 at the time of the royal injuction for episcopal inventories and subsequent confiscations. It was presumably rebound more simply at the time. Rebound in 1678 in reversed calf over paste-boards with no lettering on the spine. As a note on fol. ir recto reveals, the 1678 covers are preserved as York Minster Library MS. Add. 1A. Rebound again by <span class=\"name\">K. Phillips</span> of the <span class=\"name\">British Museum</span> in full dark brown undecorated morocco, on spine in gold capitals 'THE | YORK | GOSPELS'. Kept in a box now. The shelfmark appears on the inner front cover.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to <a href=\"#doa788\">Doane</a> the manuscript was probably produced at <span class=\"name\">Christ Church, Canterbury</span>, as fol. 23v was executed in the known hand of the Christ Church scribe <span class=\"name\">Eadui Basan</span> (1012-1020s), though <span class=\"name\">St. Augustine's</span> is a possibility (2007, p. 135).", 
+        "provenance": "The manuscript was at <span class=\"name\">York</span> in s. xi<span class=\"sup\">1</span>, as can be seen from the Old English surveys of three Yorkshire estates. Because the manuscript survived the fire of 1069, <a href=\"#nor985\">Norton</a> 2004 argues that the book was not kept at the Minster but at the estate of the York archbishops at <span class=\"name\">Sherburn-in-Elmet</span>, mentioned in the surveys. York-related documents continued to be recorded until the late sixteenth-century, and was used as an oath-book for the chapter, s. xiii-xv.", 
+        "acquisition": "During the period of the Civil Wars or Commonwealth the Gospels appear to have left <span class=\"name\">York</span>, because in 1678 they were returned by the executors of the will of <span class=\"name\">Henry King, Bishop of Chichester</span>, who had died nine years earlier (Barr in <a href=\"#ale591\">Alexander et al</a> 1986, pp. 11-12)."
+    }, 
+    "admin": "Described by Elaine Treharne with the assistance of Hollie Morgan (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "ale591", 
+        "bax972", 
+        "bet109", 
+        "bra973", 
+        "bro974", 
+        "dav978", 
+        "doa788", 
+        "dug979", 
+        "fal980", 
+        "gam981", 
+        "gil992", 
+        "gne146", 
+        "hes982", 
+        "ill983", 
+        "ker44", 
+        "ker984", 
+        "lie471", 
+        "nap123", 
+        "nor985", 
+        "pfa609", 
+        "rai986", 
+        "rai987", 
+        "rai988", 
+        "rob439", 
+        "scr565", 
+        "ste989", 
+        "tho452", 
+        "tow133", 
+        "whi990", 
+        "whi128", 
+        "wor991"
+    ]
+}

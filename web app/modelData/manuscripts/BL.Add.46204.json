@@ -1,0 +1,425 @@
+{
+    "id": "BL.Add.46204", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Add.", 
+    "shelfmark": "46204", 
+    "ker": null,
+    "content": "Worcester Cartulary (fragments)",
+    "location": "Worcester", 
+    "date": "s.xi^{2}",
+    "authors": ["Takako Kato"],
+    "summary": "One leaf and two strips of a second leaf from a <span class=\"name\">Worcester</span> cartulary, a portion of which is preserved in <a href=\"EM.BL.Nero.E.i.htm\">Nero E. i</a>, fols 181-84. Old English text appears on the recto, column 1, lines 1-15, and both recto and verso of the two strips. The Latin and Old English contents of these fragments (<a href=\"#bri1165\">British Library Catalogue</a>) are printed in <a href=\"#ste1277\">Stevenson</a> (1911, pp. 199-212).",
+    "items": [
+        {
+            "locus": "complete leaf, recto/col. 1", 
+            "text": "B.15.5.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "he his \u00e6rendgewrit to wulfhearde"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "sy\u00fe\u00fean a o\u00fe his daga ende gode gefultimendum :-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Continues from BL Cotton Nero, E. i. part 2, Item 7."
+                },
+                {
+                    "head": "Note",
+                    "body": "Sawyer 1432, dated 822×823. 'Memorandum concerning King Ceolwulf's request for land at Bromsgrove, Worcster, from Bishop Heahberht and his community, and a consequent attempt by Wulfheard to obtain possession of Inkberrow, Worcester' (<a href=\"#saw1604\">Sawyer and Keynes 2013</a>)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }, 
+                {
+                    "work": "saw1604"
+                }
+            ]
+        }, 
+        {
+            "locus": "complete leaf, recto/col. 1",
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Fl\u00e6danbyrig Apostolus paulus de extremo iudicio domini manifestissime loquens ita refert."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego berhtred. Ego oftfor episcopus donationem quam a rege accepi propria manu subnoto."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 76, dated 691\u00d7699"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "complete leaf, recto/cols 1-2",
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Fl\u00e6dan byrig."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Reuerentissime memorie pontificis ostfori."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): \u00c6\u00feelric. \u00e6\u00feel\u01bfard \u00e6\u00feelbriht. omuling. abbas. hi sunt confirmatores et testes huiusce donationis."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 1252, dated 699\u00d7717"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "complete leaf, recto/col. 2",
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Cenylfes freols."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine dei excelsi qui est spes omnium finium terre. et in mari longe."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego mucel dux. Ego ceolf\u01bfulf consensi."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 172, dated 814"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "complete leaf, verso/col. 1",
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Fledebyrig"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ego etiam cenulf rex merciorum eodem honorabili episcopo deneberhto et eius famili\u00e6 \u01bfeogornensis \u00e6cclesi\u00e6 post uite me\u00e6 do terram."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Si uero quod non optamus aliquis hoc in aliquo frangere uel minuere temptauerit. sciat se alientum a deo in die magno. nisi ante hic correctus cum satisfactione. emendauerit et ad dignam penitentiam uenerit."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 185, dated 798\u00d7824"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "complete leaf, verso/cols 1-2",
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Breodun."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): In nomine imnipotentis dei et domini nostri iesu christi qui uiuit et regnat in saecula."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Signum eadboldi principis. Signum eadboldi ducis."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Sawyer 116, dated 780"
+                }
+            ],
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "complete leaf, verso/col. 2",
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Stoltun. and \u01bfassaburna. and kineburhtun and tateringtun and codesw\u00e6l"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Alto etiam agio deo nostro ac sanct\u00e6 ac gloriose trinitati uirtus honor et potesta sit in euum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): Ego kineberht dux Ego sigered dux"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Continues to BL Cotton Nero, E. i. part 2, Item 8."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "strips, recto", 
+            "text": "B.15.5.8", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "... minre a.. |.. presbyter.. |.. presbyter.. |.. presbyter.. |"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragmentary, only few words. Sawyer 1446, dated 903. 'Settlement of a dispute between W\u00e6rferth, bishop, and Eadnoth, concerning land at Sodbury, Gloucs' (Sawyer and Keynes 2013)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }, 
+                {
+                    "work": "saw1604"
+                }
+            ]
+        }, 
+        {
+            "locus": "strips, recto",
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "... ndan gen.. |.. STOCE. \u00c6\u00d0EL.. |.. \u00feegn clericus... |"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English bounds."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragmentary text. Sawyer 1346, dated 984."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "strips, recto", 
+            "text": "B.15.3.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "... \u00c6\u00d0ELWE.."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English and English bounds."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragmentary, only few words. Sawyer 1317, dated 969. Oswald, bishop, to \u00c6thelweard, his minister; lease, for three lives, of 2 hides (mansae) at Stoke Bishop, Gloucs., with reversion to the bishopric (Sawyer and Keynes 2013)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }, 
+        {
+            "locus": "strips, verso", 
+            "text": "B.15.3.35", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "... oman. Ic.. |.. ge sumbe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "... \u00e6s croftes \u00fe\u00e6rto.. |.. on \u00fe\u00e6t ilce gerad.."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English with bounds."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragmentary. Sawyer 1362, dated 990. 'Oswald, archbishop, to \u00c6thelm\u00e6r, his man; lease, for three lives, of 1 hide at Compton Greenfield and 1 at Marsh, Gloucs., in return for 2 pounds of silver and livestock, with postscript granting the worthig at Brynes hamme which \u00c6thelm owned. Bounds of Marsh' (Sawyer and Keynes 2013). [xx]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }, 
+                {
+                    "work": "saw1604"
+                }
+            ]
+        }, 
+        {
+            "locus": "strips, verso",
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin):.. sul dominic\u00e6 incarnationis.."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin):.. forde of stanforda"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English bounds."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragmentary. Sawyer 1304, dated 963. [xx]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "her1289"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "One leaf + two fragments", 
+        "support": "Parchment", 
+        "extent": "436 mm x 292-95 mm (dimensions of leaf - size of leaf, trimmed).\n378-82 mm x 13-14 mm (dimensions of all - size of strips).", 
+        "condition": "The leaf, which was cut in half for a binding, is now taped together. Two strips are from a single leaf. The fragments are kept in a wooden frame between two sheets of plastic.",
+        "foliation": null,
+        "collation": null,
+        "layoutDesc": {
+            "summary": "The outer pricking is visible. The large capital letters are placed in the double lines on the left side of the writing space.",
+            "type": 20,
+            "columns": 2,
+            "lines": 44,
+            "dimensions": "ca. 345mm x ca. 95mm; ruled"
+        },
+        "note": "Double columns, 44 lines. The original position of the leaf was between fols 182 and 183 of <a href=\"EM.BL.Nero.E.i.htm\"> Nero E. i, part 2</a>. The fragments have an 'unusually large format' (<a href=\"#web638\">Webster and Backhouse 1991</a>, p. 123), suggesting that they formed part of a cartulary which was written and inserted into a Bible, perhaps the one reported to have been given to <span class=\"name\">Worcester</span> by <span class=\"name\">King Offa</span> (<a href=\"#atk489\">Atkins and Ker 1944</a>, pp. 77-79)."
+    },
+    "handDesc":{
+        "number":"1",
+        "summary":"The scribe makes a clear distinction between English and Latin in terms of script. Round and compact.",
+        "hands":[
+            {
+                "name": "Main text",
+                "scope": "Major",
+                "script": "English Vernacular Minuscule",
+                "scribe": null,
+                "description": null,
+                "summary": null,
+                "characters": [
+                    {"char": "æ", "note": "<li class=\"s\"><span class=\"c\">æ</span> has <span class=\"c\">e</span> higher than <span class=\"c\">a</span>."},
+                    {"char": "d", "note": "Insular <span class=\"c\">d</span> is round-backed and its ascender is horizontal."},
+                    {"char": "f", "note": "Insular <span class=\"c\">f</span>; the end of the descender curves to the left."},
+                    {"char": "g", "note": "Insular <span class=\"c\">g</span> is 5-shaped."},
+                    {"char": "h", "note": "Insular <span class=\"c\">h</span>"},
+                    {"char": "n", "note": "Larger <span class=\"c\">n</span> is used at the end of the line to fill in the space."},
+                    {"char": "r", "note": "Insular <span class=\"c\">r</span>."},
+                    {"char": "s", "note": "Insular <span class=\"c\">s</span> is used, as well as long <span class=\"c\">s</span>, which has an extended head. The descender of long <span class=\"c\">s</span> sometimes stops on the writing line."},
+                    {"char": "þ", "note": "<span class=\"c\">þ</span> is used."},
+                    {"char": "ð", "note": "<span class=\"c\">ð</span> has a tall ascender, and its cross bar is mostly a straight horizontal line, which extends only to the right of the ascender. The cross-bar sometimes curls downwards at the right end."},
+                    {"char": "y", "note": "<span class=\"c\">y</span> is dotted, and its descender extends to theleft under the previous letter."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> are straight and shorter than the height of the body of the letter and slightly curve to the left at the very end."},
+                    {"char": "˥", "note": "<span class=\"c\">˥</span> mark is high, and extends to the length of the descender. The horizontal head is straight or slightly curved backward."},
+                    {"char": "abbreviated þæt", "note": "The cross-bar of <span class=\"c\">þ</span> for the abbreviation of þæt is a straight horizontal line, which extends only to the right of the ascender."},
+                    {"char": "macrons", "note": "<span class=\"c\">macrons</span> are straight horizontal lines, and the ends sometimes curls upwards. The same for the cross bar of <span class=\"c\">ƀ</span>."},
+                    {"char": "·", "note": "<span class=\"c\">·</span> is used."}
+                ],
+                "date":""
+            }
+        ]
+    },
+    "decoration": ["Red initials", "Some rubrics are also in red."],
+    "binding": null,
+    "additions": "The seventeenth-century handwriting on the leaf might be that of the naturalist <span class=\"name\">Francis Willoughby</span> (1635-72), who is suggested to have rescued the leaf from a bundle of estate documents at <span class=\"name\">Wollaton Hall</span> (<a href=\"#ste1277\">Stevenson 1911</a>, p. 197).",
+    "accompanying": null, 
+    "history": {
+        "origin": "Presumed to have been written at <span class=\"name\">Worcester</span> (<a href=\"#bri1165\">British Library Catalogue</a>).", 
+        "provenance": "<p> Appears to have remained in <span class=\"name\">Worcester</span>. </p><p>The <span class=\"name\">Willoughby</span> family (of <span class=\"name\">Middleton Hall</span>) acquired documents from <span class=\"name\">Worcester</span> when it was dissolved in 1540. </p><p>The fragments were used in the binding of the 'Colpyt Book from the Natyvitie of Our Lorde <span class=\"italics\">in anno regni Regis Edwardi Sexti secundo</span>' at <span class=\"name\">Middleton Hall</span> and the leaf was discovered in a bundle of estate documents at <span class=\"name\">Wollaton Hall</span>, one of the seats of the <span class=\"name\">Willoughby</span> family. </p><p>The trace of the binding is clearly visible. The leaf was cut in half and was used as pastedowns of covers. The two strips were probably used on the spine of the book. </p>", 
+        "acquisition": "It was acquired from <span class=\"name\">Lord Middleton</span> by the <span class=\"name\">British Library</span> with the aid of a contribution from <span class=\"name\">Neil Ker</span>."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "atk1279", 
+        "atk489", 
+        "bir1276", 
+        "bri1165", 
+        "her1289", 
+        "saw11", 
+        "saw1604", 
+        "ste1277", 
+        "tho160", 
+        "tur1278", 
+        "web638"
+    ]
+}

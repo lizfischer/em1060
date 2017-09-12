@@ -1,0 +1,932 @@
+{
+    "id": "Ox.Juni.1", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Junius", 
+    "shelfmark": "1", 
+    "ker": "", 
+    "content": "The Ormulum", 
+    "location": "Lincolnshire", 
+    "date": "s.xii^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 3r/1-4v/18 (with text on fol. 9r/1-9v/18\n                  \tmarked for insertion at fol. 3v/39; this text was mistakenly printed by\n                  \t\t\t", 
+            "text": "Holt-White 1878", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Nu bro\u00feerr Walterr bro\u00feerr min"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): \u02e5 predicauit per biennium deinde uenit"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English. The table of contents enumerates the Latin pericopes for the individual items."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The prefatory materials constitute one, cohesive text."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fol. 10r/a1-b51", 
+            "text": "B.3.1.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "All mannkinn fra \u00featt Adam wass"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "To \u021darrkenn Cristess we\u021d\u021dess"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "These lines are not presented as a separate text by White but the major initials that begin this item and the next indicate Orrm considered it a discrete section."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 10r/b51-22v", 
+            "text": "B.3.1.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "An preost wass onn Herodess da\u021d\u021d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "wi\u00fe\u00fe preostess"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand C's writing is visible on the stub before fol. 10 (conjoint with fol. 22)."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 23r-30v", 
+            "text": "B.3.1.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "i clene unnwemednesse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "all ma\u021d\u021ddenn \u00feweo\u00a0(deletion: erasure) rrt ut clene"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The outer two bifolia of Quire 3 (bearing cols. 45-52, 69-76) have been lost. Cols. 45-52 contained the end of Fit 1 and the beginning of Fit 2, hence the defective explicit of this item. Some 25 septenaries survive in Vliet's transcription."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 31r-32v/a49", 
+            "text": "B.3.1.3.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "i \u00featt time"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 so\u00fefastt lufe 7 troww [\u00fee]\u00a0(supplied: loss)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The outer two bifolia of Quire 3 (bearing cols. 45-52, 69-76) have been lost. Cols. 69-76 must have contained the end of Fit 2 and the beginning of Fit 3; some 30 septenaries survive in Vliet's transcription."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 32v/a49-35v", 
+            "text": "B.3.1.3.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "An Romanisshe Kaserrking"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "To brukenn heo\u00a0(deletion: erasure) ffness blisse. Am\u00e6n"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 36r-52v", 
+            "text": "B.3.1.3.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u02e5 forr\u00fei wass itt upponn hi"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "7 wass Rach\u00e6l \u021dehatenn"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The fit is imperfect at the beginning due to the loss of a bifolium (cols 97-104) from the centre of Quire 4. Some 25 septentiaries are preserved in Vliet's transcription."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 53r-63r/a34", 
+            "text": "B.3.1.3.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "ledenn he \u00fee we\u021d\u021de rihht"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Att ure lifess ende. Am\u00e6n"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf (cols. 157-60) has been lost after fol. 52. Two septentiaries are preserved in Vliet's transcription. This leaf would have contained the beginning of this homily and the end of the preceeding item."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "fol. 53v/a10"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 63r/a35-65v", 
+            "text": "B.3.1.3.8.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Forr\u00ferihht se time come \u00fe\u00e6rto"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 forr"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "An unknown number of leaves or slips have been lost between fols 63 and 65. The text on fol. 64 was evidently intended for insertion into whatever text occupied this lacuna. Since there is no gap in the column numeration here, the loss must predate Junius's ownership."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 66r-68r/a18", 
+            "text": "B.3.1.3.9.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "he wollde litell"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "To winnenn Cristess are"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Three bifolia have been lost from the centre of Quire 6, containing the beginning of this item and the end of the preceding homily."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 68r/a19-70r/b13", 
+            "text": "B.3.1.3.10.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Affterr \u00featt \u00featt Herode king"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Beon borr\u021dhenn \u00feurrh hiss are. Am\u00e6n"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 70r/b14-72ra", 
+            "text": "B.3.1.3.11.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Affterr \u00featt tatt Laferrd Crist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Beon borr\u021dhenn \u00feurrh hiss are. Am\u00e6n"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A single leaf (cols 221-224) lost between fols 70 and 72"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 72rb-77v/b7 ", 
+            "text": "B.3.1.3.12.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Nu cume\u00fe\u00fe me to tellenn for\u00fe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Att ure lifess ende. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A bifolium (cols 237-44) lost from the centre of Quire 7, between fols 74 and 75."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 77v/b8-80v/a7", 
+            "text": "B.3.1.3.13.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Forr\u00fei \u00featt Sannt Johaness word"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "A butenn ende brukenn. Am\u00e6n."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf (cols 257-60) lost between fols 77 and 79. The text on fol. 78 (ll. 10291-10300) was presumably for insertion into the text on this lost leaf."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 80v/a8-84r/a2", 
+            "text": "B.3.1.3.14.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Underr \u00fea da\u021dhess, alls uss se\u021d\u021d\u00fe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "To brukenn eche blisse. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf (cols 277-80) lost between fols 83 and 84."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 84r/a3-89r/b31", 
+            "text": "B.3.1.3.15.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Forr\u00ferihht se Jesuss fullhtnedd wass"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "To winnenn eche blisse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf (cols 297-300) lost between fols 87 and 88."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 89r/b32-89v", 
+            "text": "B.3.1.3.16.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Affterr \u00featt Jesuss fandedd wass"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Acc all wi\u00fe\u00feutenn sinne."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At least one leaf (conjugate with fol. 80) lost after fol. 89. The loss was sustained before Junius numbered the columns. Even taking into account the text lost on this missing leaf, the homily is unusually short, perhaps suggesting the loss of one or more singletons after fol. 89."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 90r-95r/b9", 
+            "text": "B.3.1.3.17.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00de\u00e6raffterr onn an o\u00feerr da\u021d\u021d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Att ure lifess ende. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 95r/b10-101r/b19", 
+            "text": "B.3.1.3.18.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Uppo \u00fee \u00feridde da\u021d\u021d bilammp"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Att ure lifess ende. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 101r/b20-105v/a21", 
+            "text": "B.3.1.3.19.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Affterr \u00featt tatt te Laferrd Crist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Off all \u00featt he forrbede\u00fe\u00fe. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 106v/a22-111v/a", 
+            "text": "B.3.1.3.20.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "An mann amang Judisskenn \u00feed"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "To winnenn Cristess are. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 111v/b1-32", 
+            "text": "B.3.1.3.21.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Affterr \u00fee Pasche messeda\u021d\u021d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 till \u00fee rihhte l\u00e6fe."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Neither Holt-White nor Matthes acknowledge the independence of this section of text, but the ordinatio demarks it distinctly."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 111v/b33-113v", 
+            "text": "B.3.1.3.22.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Annd si\u00fe\u00feen comm \u00fee Laferrd Crist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 lisste till his lare."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A bifolium (cols 399-406) is missing from the centre of Quire 10. This would have contained the end of this homily and the beginning of the next."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 113v-117r/b14", 
+            "text": "B.3.1.3.23.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Drihhtin unnderrstanndenn"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Inn all hiss Goddcunndnesse. Am\u00e6n;-"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A bifolium (cols 399-406) is missing from the centre of Quire 10. This would have contained the beginning of this homily and the end of the preceding."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "fols 117r/b15-117v/a17", 
+            "text": "B.3.1.3.24.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Icc hafe se\u021d\u021dd whatt Sannt Johan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "7 off Iohan Bapptisste."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Neither Holt-White nor Matthes acknowledge the independence of this section of text, but the ordinatio demarks it distinctly."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "117v/a18-\"118r/b51\"", 
+            "text": "B.3.1.3.25.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Affterr \u00featt ure Laferrd Crist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u021d\u00e6n himm \u02e5 \u021d\u00e6n his lare."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Matthes treats this as a double homily, pairing it with the next item, but the structure of the homily and the allusion to a single 'Goddspel' [l. 19611] suggests Orrm envisaged them as separate."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "118r/b52-\"119v\"", 
+            "text": "B.3.1.3.26.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Herode King of Galile"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00featt [xxx]\u00a0(unclear: loss) hu [xxx]\u00a0(unclear: loss) himm [xxx]\u00a0(unclear: loss) \u00fe [xxx]\u00a0(unclear: loss)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Matthes treats this as the second half of a double homily, pairing it with the preceding item, but the structure of the preceding homily and the allusion to a single 'Goddspel' [l. 19611] suggests Orrm envisaged them as separate."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": ""
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "67v", 
+            "text": "diagram", 
+            "notes": [
+                {
+                    "head": "Layout type:", 
+                    "body": "Layout type: LO17"
+                }, 
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 2"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: The original leaves are generally in two columns (with the exception of Quire 1, where the leaves were too small). The number of lines per page varies significantly, though there are usually between 50 and 70. The number of lines is generally in proportion to the dimensions of the leaf, which likewise varies significantly. Some leaves were ruled in plummet, others in drypoint. Orrm was unafraid to ignore the rulings (e.g. fol. 68v). Accordingly, the diagram above, which depicts fol. 17, cannot be taken as representative."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "handDesc": {
+        "number": "2", 
+        "summary": "The main text and the bulk of the revisions are in Orrm's hand; a second hand (known as Hand C) added the Latin pericope at the beginning of each homily, and made a few English additions (e. g. fols 43r, 62r, 67v).", 
+        "hands": [
+            {
+                "name": "Main text", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Orrm", 
+                "description": "English written in an unusual, heavy, cramped English Vernacular minuscule. Ascenders and descenders are short compared to the body of the minims. Word division is not always a priority. One feature of Orrm's unique orthographical system is his use of geminate consonants; these generally indicate the preceding vowel is short, unless that vowel is in an open syllable. To economise the space this system requires, Orrm sometimes stacks the second consonant of a pair on top of the first consonant.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: may or may not have a head."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "<span class=\"c\">\u00e6</span> retained, though absent from Orrm's Latin."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: round-backed. Occasional biting of <span class=\"c\">de</span>."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: there are occasional examples of e-caudata."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>: an insular form, carefully composed of three strokes; a modified caroline form, finished with a horizontal stroke along the top of the bole, which is used for the stop consonant; and occasionally, the pure Caroline form."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span>: Orrm uses the straight-limbed insular form in his English text, a curved-limbed form when writing Latin. <span class=\"c\">H</span> can also appear superscript above a <span class=\"c\">g</span>, indicating a medial guttural sound."
+                    }, 
+                    {
+                        "char": "i", 
+                        "note": "<span class=\"c\">i</span>: double <span class=\"c\">i</span> is ticked, single <span class=\"c\">i</span> is not."
+                    }, 
+                    {
+                        "char": "o", 
+                        "note": "<span class=\"c\">o</span> Pointed oval."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: generally a simplified insular form, though Orrm uses the Caroline form when stacking a geminate consonant, which he also uses when writing Latin. Orrm is also inclined to use a majuscule <span class=\"c\">r</span> in 'Mar\u021de'."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> Invariably the tall Caroline form, usually descending very slightly below the line. Orrm also uses the <span class=\"c\">st</span> ligature."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> used throughout."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> a rare form, only used 117 times in total throughout the Orrmulum."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span>: used throughout."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span>generally wedged"
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: generally taper left"
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span>: Accents are used to disambiguate potential confusions."
+                    }, 
+                    {
+                        "char": "barred t", 
+                        "note": "Orrm uses a range of techniques to clarify the structure of the text. Major structural divisions are marked by decorative capitals; paraph marks (for which Orrm has three designs, but the choice seems to be random) indicate further divisions. Orrm also uses the simplex ductus to mark key passages marginally. Individual half-lines usually begin with a capital."
+                    }, 
+                    {
+                        "char": "barred t", 
+                        "note": "<span class=\"c\">barred t</span>\n<span class=\"expanded\">-terr</span>"
+                    }, 
+                    {
+                        "char": "double common mark of abbreviation", 
+                        "note": "<span class=\"c\">double common mark of abbreviation</span>\n<span class=\"expanded\">-mm, -nn</span>"
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligature in English and Latin; <span class=\"c\">ct</span> ligature in Latin, with the tie taking an oblique angle"
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "Pericopes, corrections", 
+                "scope": "Minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Hand C", 
+                "description": "Hand C added the Gospel pericopes at the beginning of individual homilies, using a small academic hand. He also rewrote several of Orrm's additions more clearly (fols 43r, 67v, 69r, 117v). He may have added ll. 7471-80 (fol. 62r) by his own initiative, though the text is identical to ll. 6494-6504. While he fails to follow Orrm's orthographical conventions exactly, he evidently understood the principles on which they rested.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: generally with a pronounced headstroke that is the same length as the bole, though the headless form is also frequently found. The headless form is also used superscript as a syllabic suspension, a feature Parkes suggests dies out in the 1180s."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: round-backed; lobe composed of broken strokes."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: tongue generally protrudes, a feature exacerbated when the letter is word-final."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span>, like <span class=\"c\">s</span> descends slightly below the line (features, according to Parkes, extremely rare in bookhand)."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>: Caroline, composed of a lobe and tail which initially descends in front of the lobe, before turning back perpendicularly to the left. This stroke is often extended. In English, where the tail of Caroline <span class=\"c\">g</span> is typically closed, he also uses insular <span class=\"c\">g</span>, as well as Orrm's hybrid form."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span>: in Latin, the second limb curves inward and is often extended beneath the line; in English, Hand C maintains the insular form."
+                    }, 
+                    {
+                        "char": "i", 
+                        "note": "<span class=\"c\">i</span>: wedged at top, at base sometimes finished with an oblique rightward serif, sometimes unfinished. Word final <span class=\"c\">i </span> is sometimes long."
+                    }, 
+                    {
+                        "char": "m", 
+                        "note": "<span class=\"c\">m</span>: generally has rounded arches. Such arches became pointed in the 1170s according to Parkes."
+                    }, 
+                    {
+                        "char": "o", 
+                        "note": "<span class=\"c\">o</span> Pointed oval."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: generally Caroline in Latin; insular in English."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> Descends slightly below the line."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span>: The stem sometimes bisects headstroke. The stem is often extended upwards to the right."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> is used to the exclusion of <span class=\"c\">\u00f0</span> in English. The crossbar of the abbreviation '\u00fe<span class=\"expanded\">att</span>' turns up at the right."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span>: used in English; often very similar to <span class=\"c\">p</span>."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> sometimes wedged, but often unfinished"
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: generally straight with a very slight taper to the left. This taper became more pronounced in documentary hands of the 1160s and 1170s."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "<span class=\"c\">\u02e5</span> sits on the line; the descender is finished with a serif to the right. The capitular form is barred."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "In English, uses syllabic suspension in 'c<span class=\"expanded\">ri</span>stes' (<span class=\"locus\">67v</span>)."
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligature in English and Latin."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "binding": "<p>Bound in modern pulp boards. The binding probably postdates the significant losses the manuscript suffered after Junius had numbered the columns. </p><p>Sewn on six thongs, spine uncovered.</p><p>Paper pastedowns at front and back.</p>", 
+    "accompanying": "Fols 1, 2 form a bifolium, probably unconnected with the manuscript proper despite their comparable dimensions. Fol. 2r bears a thirteenth-century 'alphabeticum anglicum' in roman script and runes (inventoried <a href=\"#der768\">Derolez 1954</a>, [lvii-]viii, n3), written parallel to the spine of the book, from the foot of the page to the top.", 
+    "history": {
+        "origin": "<a href=\"#par149\">Parkes 1991</a> has suggested <span class=\"name\">Orrm</span> wrote the text at the Augustinian Abbey of <span class=\"name\">Bourne in Lincolnshire</span>. His evidence comes from the list of capitula, which indicates that the latter stages of Orrm's work focussed heavily on the deeds of SS. Peter and Paul. Bourne was dedicated to these two saints, and the dialect evidence supports placing the work in this part of Lincolnshire.", 
+        "provenance": "Belonged to <span class=\"name\">Jan van Vliet</span> in 1659, from whom it was acquired by <span class=\"name\">Franciscus Junius</span>.", 
+        "acquisition": "Entered the Bodleian with Junius's manuscripts in 1678."
+    }, 
+    "admin": "Described by Mark Faulkner (July 2010).\nThanks are due to Martin Kauffmann for granting access to the manuscript.", 
+    "surrogate": true, 
+    "bib": [
+        "bur830", 
+        "bur1336", 
+        "der768", 
+        "hol1329", 
+        "hol1328", 
+        "joh1343", 
+        "ker44", 
+        "ker1334", 
+        "kwa1511", 
+        "lai45", 
+        "mat1330", 
+        "his364", 
+        "par149", 
+        "rob335", 
+        "scr1339", 
+        "ske1512", 
+        "pal1514", 
+        "ker1335", 
+        "wri1513"
+    ]
+}

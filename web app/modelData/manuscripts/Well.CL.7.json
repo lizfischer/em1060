@@ -1,0 +1,49 @@
+{
+    "id": "Well.CL.7", 
+    "city": "Wells", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "7", 
+    "ker": "395", 
+    "content": "Rule of St. Benedict", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Fragment of <span class=\"italics\">Rule of St. Benedict</span> with the Old English following the Latin chapter by chapter. One hand, origin unknown (<a href=\"#ker44\">Ker 1957</a>, item 395).", 
+    "items": [
+        {
+            "locus": "fols 1-23", 
+            "text": "B.10.3.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol.1) his bigleofan godes"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fol. 8 is missing. [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 395"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

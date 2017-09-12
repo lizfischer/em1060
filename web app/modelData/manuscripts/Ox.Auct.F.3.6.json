@@ -1,0 +1,129 @@
+{
+    "id": "Ox.Auct.F.3.6", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Auct.", 
+    "shelfmark": "F. 3. 6 (2666)", 
+    "ker": "296", 
+    "content": "Inscription in Latin and Old English", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}", 
+    "summary": "Main text of the manuscript is a s. xi<span class=\"sup\">1</span> copy of Prudentius. Old English charms added at the same date. An inscription of s. xi<span class=\"sup\">2</span> records the gift of this manuscript to <span class=\"name\">Exeter</span> by <span class=\"name\">Leofric</span>. <a href=\"#ker44\">Ker</a> identifies the hand of the inscription as \u2018of <span class=\"name\">Exeter</span> type\u2019 (1957, p. 355).", 
+    "items": [
+        {
+            "locus": "fols 92v-98v, 124-25v", 
+            "text": "C.94.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 92v) gewis"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 296"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. iiv", 
+            "text": "B.27.3.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. iiv) scurfede hors"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 296"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. ii", 
+            "text": "B.23.1.13.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. ii) wi\u00f0 \u00feone dworh"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 296"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. iiiv", 
+            "text": "B.23.1.13.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. iiiv) Gif men ierne blod of nebbe to swi\u00f0e"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 296"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. iiiv", 
+            "text": "B.16.10.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. iiiv) \u0189as boc gef leofric biscop"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. iiiv) mid eallum deoflum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 296"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

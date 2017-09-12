@@ -1,0 +1,115 @@
+{
+    "id": "Ox.Juni.86", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Junius", 
+    "shelfmark": "86", 
+    "ker": "336", 
+    "content": "Homilies", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Three homilies, fragments, owing to the loss of leaves after and before quires. The manuscript is part of <a href=\"EM.Ox.Juni.85.htm\">Junius 85</a>. Origin unknown.", 
+    "items": [
+        {
+            "locus": "fols 36-40", 
+            "text": "B.3.5.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 36) continuation of Junius 85"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 40r) wunia\u00f0 \u00f0on[ne] mid criste | \u00f0am \u00f0e nu lyfa\u00f0. 7 ricsa\u00f0. mid god | f\u00e6der. \u00f0am sie wuldor. 7 lof. a in eal|ra. worulda. woruld. a buten \u00e6nde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lui328", 
+                    "page": "1977, pp. 6-31"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 40-61", 
+            "text": "B.3.5.16.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40v/1) GEHERA\u00d0 NU m\u00e6n \u00f0a leofestan. hw\u00e6t | her s\u00e6g\u00fe on \u00f0issum bocum. be | manna teo\u00f0ungceapa"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 61v/14) ends imperfectly"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor1249", 
+                    "page": "1880, pp. 39-53/2, 195, 52/2-end no. 4 and 16"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28"
+                }, 
+                {
+                    "work": "wil1437", 
+                    "page": "1949, pp. 72-78"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 62-81", 
+            "text": "B.3.3.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 62r/1) HER we magon hwylcum|hwega wordum secgan be | \u00f0\u00e6re arwyr\u00f0an gebyrda. 7 be \u00feam | halgan life 7 for\u00f0fore \u00f0\u00e6s eadi|gan weres. s[an]c[tu[s] martinus"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 81r/11) to \u00f0an us gefultumige ure | drihten. se leofa\u00f0. 7 ricsa\u00f0 a | butan \u00e6nde. AMEN"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 409-11"
+                }, 
+                {
+                    "work": "scr215", 
+                    "page": "1992, pp. 291-308, no. 18"
+                }, 
+                {
+                    "work": "wil1614", 
+                    "page": "2008, pp. 113-28"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson August 2010 with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#scr215", 
+        "#wil1614"
+    ]
+}

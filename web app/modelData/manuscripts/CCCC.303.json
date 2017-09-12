@@ -1,0 +1,2561 @@
+{
+    "id": "CCCC.303", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "303", 
+    "ker": "57", 
+    "content": "Homilies", 
+    "location": "Rochester", 
+    "date": "s.xii^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "p. 1/1-1/4 (underneath a sixteenth-century strip\n                                              of parchment)", 
+            "text": "B.1.2.5", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 54. See p. 47 and\n                                                           plates 29 and 30."
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 1/1-6/1", 
+            "text": "B.1.1.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Dominica. III. Secundum Matheum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum descendisset iesus.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Matheus se eadiga godspellere."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00fee leofa\u00f0 \u02e5 rixa\u00f0. nu \u02e5 sym|le. a on \u01bforulde amen."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added 'Post Epiphania' to beginning of title, and 'Cap. 8' at the end."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 120"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "241"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 6/1-10/33", 
+            "text": "B.1.2.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in dominica in Septuagesima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Simile est regnum> celorum homini patrifamilias.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se h\u00e6lend cw\u00e6\u00f0 \u00fe\u00e6t heofona rica"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 a buton ende. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Predominantly English, with Latin rubrics and incipit"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 72-84"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "pp. 41-49, 233"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 10/33-12/5", 
+            "text": "B.1.2.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo in Septuagesima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "We willad eo\u01bf secgan be \u00feyssere andweardan tide"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "on \u00f0am \u01bfe him singa\u00f0 ecelice alleluian buton ges\u01bfince amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 84"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "pp. 29, 234-51"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 12/5-16/14", 
+            "text": "B.1.2.7", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium | Secundum Lucam"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum turba plurima.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'On sumere tide \u00fea \u00fea mycel m\u00e6niu'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Ic bidda eo\u01bf ge|bro\u00f0ra tihta eo\u01bfre mod to gecneordnysse godra \u01bfeorca \u00fe\u00e6t ge mid gedylde godne \u01bf\u00e6stma to godes handa bringan \u00fe\u00e6t ge mid him \u02e5 mid his halgan \u00fe\u00e6t ece | lif habban moton on ealra \u01bforulda \u01bforuld"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In right margin between lines 12 and 13, in s. xvi hand, is '8 Sexagesima'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 88"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 52"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 16/14-21/16", 
+            "text": "B.1.1.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Dominica iii\u00a0(deletion: dittography) in quinquagesima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Assumpsit Iesus duodecim discipulos.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Her is ger\u00e6d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fe\u00e6t eal folc c\u01bfe\u00f0e be us s\u01bfa s\u01bfa | be \u00fean blindan gec\u01bfe\u00f0an \u01bf\u00e6s \u00fea \u00fea his eagan \u01bf\u00e6ron on lihte, \u00fe\u00e6t is eal folc \u00fee | \u00fe\u00e6t geseah herode god se \u00fee leofo\u00f0 \u02e5 rixa\u00f0 abuton ende. amen;"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In right margin at p. 16.14 is 'Math. 4' in s. xvi hand."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 152"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "258"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 21/6-27/7", 
+            "text": "B.1.1.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DominicaI. in | Quadragesima Secundum matheum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ductus est\nIesus.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ic wolde eow trahtnian"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "se \u00f0e for gylt mid | hundfealdum s\u01bfa h\u01bf\u00e6t s\u01bfa \u01bfe do\u00f0 eamum mannum for his lufun. Se \u00f0e leofa\u00f0 | \u02e5 rixa\u00f0 abuton ende onecnysse. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 22/5, S in 'Se' is red. In right margin, s. xvi hand has added '4' to the rubric. At p. 23/17, 'sunne' glosses 'leahter'; p. 23/24, 'blisse' glosses 'wuldor'. At p. 26/1, 'he gesutelede' is added above the line by Scribe C."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 166"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "p. 266"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 27/7-30/3", 
+            "text": "B.1.2.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DominicaII. quadragesime Secundum matheum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Egressus Iesus.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten h\u00e6lend \u00fer\u00e6de"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(pp. 29-30) Christenra || manna geleafan h\u00e6fde se \u00e6lmihtiga god mid manegum tacnum ge\u01bfur\u00f0od. \u00feurh his hal|gan. \u00e6re on heore life. \u02e5 si\u00f0\u00f0an \u00e6t heora halgum byregenum. \u00feam sy \u01bfuldor \u02e5 \u01bfur\u00f0ment a on ecnysse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added 'xv' under 'matheum' in the rubric. The heading 'Omelia' (p. 27.23) precedes the words '\u00d0is chananeisce wif' (p. 27/24; Th. 110.10)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 110"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 67"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 30/3-34", 
+            "text": "B.1.4.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium Secundum in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Erat Iesus eiciens demonia.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On \u00fe\u00e6ra m\u00e6re tide"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Uton herran | urne drihtne \u02e5 \u00fe\u00e6t halige godes \u01bford eac swilce lufian \u02e5 mid ge leafan ge | healdon. \u00fe\u00e6s geunne se ealmihtiga \u01bfealdend se \u00fee arixa\u00f0 on ecnesse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added '3 quadragesima Luc iii(?)' after rubric. W in 'We', p. 31/1, (ed. 20.23) is red. At p. 30/27, 'walcynde' glosses 'woriende' (cf. Pope 1967-68, i. 263 'walconde'); p. 31/6, 'sunne went to' in right margin added by Scribe C; p. 3/21. '\u00feencen' glosses 'wealcen'; p. 34/14, 'cunne' glosses 'm\u00e6g\u00fee'; p. 34/27, 'iwissice' glosses 'untwilice'."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 35/1-38/22", 
+            "text": "B.1.1.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): DominicaIIII. in quadragesima Ewangelium"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Abiit Iesus.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se h\u00e6lend ferde ofer \u00fe\u00e6re galileisca s\u00e6"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u01bfe c\u01bfe\u00f0a\u00f0 mid fullum ge leafum \u00fe\u00e6t crist is so\u00f0 \u01bfitega. \u02e5 ealre \u01bfitegena \u01bfitega. \u02e5 \u00fe\u00e6t he | leofa\u00f0 \u02e5 rixa\u00f0 on annyssa \u00fe\u00e6s halgan gastes a buton \u00e6nde. on ecnysse. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added 'Ioh. 4' in right margin, p. 35/1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 180"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "257"
+                }
+            ]
+        }, 
+        {
+            "locus": "38/23-43/05", 
+            "text": "B.1.4.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium de lazaro in quadragesima Secundum Iohannem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Erat quidam languens lazarus.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On \u00fean halgan godspelle \u00fee ge herdon nu r\u00e6den"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u01bfe ne durren l\u00e6ngan na l\u00e6ng \u00feisne tiaht ne eo\u01bf ges\u01bfeanean na s\u01bfider | mid \u00feam \u00fee l\u00e6s \u00fee eo\u01bfer sunum ceorige on mode. ac uton biddan ealle urne driht crist | \u00fe\u00e6t he ure sa\u01bfle fram synne ar\u00e6re. \u02e5 us \u00fe\u00e6t ece lif on ende for gife. \u00feam fy \u01bfuldor \u02e5 lof | a to \u01bfurulde amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "I. 311"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 43/5-49/2", 
+            "text": "B.1.2.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Dominica in passione domini Secundum Iohannem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): I n illo. Dicebat Iesus turbis iudeorum..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0eos tid fram \u00feisum andweardum d\u00e6ge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(pp. 48-49) \u00fea \u00fea crist | hangode on rode for ure alysednysse. \u00fe\u00e6ra halgan rode tacn is ure bletsung. | \u02e5 to \u00fe\u00e6re rode \u01bfe us gebidd\u00e6\u00f0 na s\u01bfa \u00feeah to \u00feam treo\u01bfe ac to \u00feam almihtigan || drihtne. \u00fee on \u00fe\u00e6re halgan rode for us hangode. Si him lof \u02e5 \u01bfuldor hisn orm\u00e6tan | eadmodnysse. on ealra \u01bforulda \u01bforuld amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "p. 127"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 49/2-56/17", 
+            "text": "B.1.2.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De passione domini nostri Iesu | cristi Secundum Iohannem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihtnes \u00ferowunge we willa\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0a he \u00feafode pilatus \u00fe\u00e6t hi hine besetton mid ymtrymminge \u02e5 \u00fea \u00feruh geinseg|loden. ac crist aras s\u01bfa \u00feeah of \u00feam dea\u00f0e gesund on \u00feam \u00feriddan d\u00e6ge \u00e6fter | his \u00fero\u01bfunge over s\u01bfi\u00f0um dea\u00f0e. Si him a \u01bfuldor mid his heofonlicen f\u00e6der. \u02e5 \u00feam halgan gaste on anre godcundnesse on ecere \u01bforulde amen."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Scribe 2 takes over at p. 51."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 240"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 137"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 56/18-61/23", 
+            "text": "B.1.1.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in Ramis palmarum. Secundum Matheum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum appropinquasset.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se h\u00e6lend ferde to \u00fe\u00e6re byrig"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se lichama \u00fee is \u00fe\u00e6re sa\u01bfla reaf anbida\u00f0 \u00fe\u00e6s micclan domes. \u02e5 \u00feeah hi beo | to duste for moldned; god hine ar\u00e6r\u00f0. \u02e5 gebring\u00f0 tog\u00e6dere sa\u01bfle \u02e5 lichaman | to \u00fean ecan life. \u02e5 bi\u00f0 \u00feonne gefylled cristes behad. \u00fee \u00feus c\u01bf\u00e6\u00f0. Domini scine\u00f0 \u00fea | riht\u01bfsan s\u01bfa s\u01bfa sunne on heora f\u00e6der rice. Se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 a buton | \u00e6nde. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 59/24, 'geferrede' glosses 'farelde'; p. 59/26, 'geoden' glosses 'stopon'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 206.8"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "290"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 61/23-68/13", 
+            "text": "B.3.2.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FeriaVI. Passio domini nostri Iesu\ncristi Secundum Iohannem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): I n illo. Egressus est\nIesus..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan her seg\u00fe se halga sanctus iohannes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "His selfes naman to \u01bfuldrigenne \u02e5 to gerigen'|ne. on ecum ge feah. \u02e5 on ecere eadignesse \u00feurh ealre \u01bforulde \u01bforuld god | us to \u00fean gefultinnige \u00e6fre on ecnesse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added 'cap. 18' after rubric."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "scr125", 
+                    "page": "13/75 ff."
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 68/13-72/33", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in Resur | rectione domini. Secundum. Marcum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Maria magdalene et maria iacobi.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "E\u00a0(deletion: ) Oft\u00a0(addition: ) ge geherdon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 aras of dea\u00f0e on \u00feisum | d\u00e6ge \u02e5 stah to heofonum on \u00fean feortigan d\u00e6ge his \u00e6ristes \u00e6t foran ma'|negra manna gesih\u00f0e \u02e5 rixa\u00f0 mid \u00feam \u00e6lmihtigum f\u00e6der \u02e5 mid \u00feam hal'|gan gaste nu. and a on ecnysse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The 'Oft' in the incipit is altered from 'Eft': the guide letter for the miniator is 'e'. At p. 70/4, 'wur\u00f0mente' glosses 'gecnyrdnesse'; p. 70/30, 'gesege' glosses 'gehiwod'; p. 72/1, 'blisse' added in left margin by Scribe C."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 220"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "299"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 72/33-75", 
+            "text": "B.8.5.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo in Resurrectione domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan. her seg\u00fe on \u00feissere boc embe \u00fea mycclan | wundre."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 he f\u00e6r\u00f0 | \u00feonum to heofonum \u02e5 \u00fea ealle mid him \u00fee ny her on middan earde \u00fe\u00e6s rices | georne\u00f0. \u02e5 \u00e6fter eania\u00f0 \u02e5 ures drihtnes bebodu healde\u00f0. Se drihten leofa\u00f0 \u02e5 | rixa\u00f0 on ealre \u01bforulde \u01bforuld a buton ende so\u00f0lice on ecnesse \u01bfe c\u01bfe\u00f0a\u00f0 amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 73/33, 'folc' glosses 'werod'; p. 75/27, 'goda'glosses 'gedefu'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hul584", 
+                    "page": "610"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 76/1-82/7", 
+            "text": "B.3.3.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Inuentione Sancte Crucis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan geheora\u00f0 nu hw\u00e6t ic eow wille secgan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Sy him selfum | \u00feanc \u00fe\u00e6s \u00fee he for us ge\u00fero\u01bfode. \u02e5 sy him symle lof \u02e5 \u01bfuldor ealre his godnes'|se \u00fee he mancynne gecy\u00f0 h\u00e6f\u00f0. a on ealre \u01bforulde \u01bforuld a buton \u00e6nde | on ecnesse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor780", 
+                    "page": "3"
+                }, 
+                {
+                    "work": "bod391", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 82/7-87/13", 
+            "text": "B.1.1.27", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Natiuitate Sancti Iohannis baptiste"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se godspellere lucas awrat on cristes bec."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Utan biddan mid in\u01bfeardre heortan nu | ealle \u00feone \u01bfealdende h\u00e6lend \u00fe\u00e6t he \u00feurh his m\u00e6ran forryneles \u02e5 fulluhteres \u00fein'|gunge us gemiltsigra on \u00feisum life \u02e5 us to \u00fean ecan life gel\u00e6de \u00fean sy \u01bfuldor \u02e5 lof | mid f\u00e6der \u02e5 halgan gaste a on ecnesse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added 'Luc I' in right margin, l. 7."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 350"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "379"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 87/13-89/28", 
+            "text": "B.1.1.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Natale Sanctorum Apostolorum Petri | et Pauli. Lectio Sancti Ewangelii Secundum Matheum. | Omelia uenerabilis bede presbiteri de eadem lectione"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): [I]\u00a0(unclear: missing) n illo. Venit Iesus in partes | cesaree philippi.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Matheus se godspellere awrat on \u00fe\u00e6re godspellican | gesetnessa..."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Gif heort \u00e6fter \u00fe\u00e6re godspellen gesetnessa earfullice | healda\u00f0. Ac for \u00fei is seo c\u00e6g petre synderlice be t\u00e6ht. \u00fe\u00e6t eall \u00feeodscipe gl\u00e6p'|lice to cna\u01bfe. \u00fe\u00e6t s\u01bfa h\u01bfa s\u01bfa o\u00f0scyt fram annesse \u00fe\u00e6s ge leafan. \u00fee petrus \u00fea andette | criste. \u00fe\u00e6t him ne bi\u00f0 geti\u00f0od na\u00feor ne synne forgyfennessa. ne inf\u00e6r \u00fe\u00e6s heofon'|lices rices."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added 'cap. 10' after 'Matheum'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 364"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "388-91"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 89/28-94/25", 
+            "text": "B.1.1.28.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De passione Apostolorum petri \u02e5 pauli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "We wille\u00f0 \u00e6fter \u00feisum godspelle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 94/18-25) \u00feurh \u00fe\u00e6s h\u00e6lendes gyfe. Uton biddan ealle eadmodlice \u00feas haligan | apostolas. \u00fe\u00e6t hi for heora m\u00e6ron geearnungon us ge\u00feingian to \u00fean mildheortan | h\u00e6l\u00f0e \u00fe\u00e6t he us gemiltsie. \u02e5 sylle forgifennesse ealre ure synna. \u00fee we si\u00f0\u00f0e | o\u00f0\u00f0e \u00e6r geworhtan. o\u00f0\u00f0e ge\u00feohtan ongean his leofan willan. \u02e5 \u00fe\u00e6t he geunnon | us gesundfulnesse on \u00feisre worulde. \u02e5 forgife us so\u00fee sibbe on \u00feise l\u00e6ne life. | \u02e5 on \u00feam toweardan ece reste. on heofonan rice. mid his eadigan apostolan \u00fee we | nu tod\u00e6g wur\u00feia\u00f0. \u02e5 mid eallon his halgan. se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 a buton | \u00e6nde on ecnesse. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Text in Thorpe (1844-46) finishes with '\u00feurh \u00fe\u00e6s h\u00e6lendes gyfe' (Thorpe (1844-46), 384.19). [et]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 370"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "391.97-399"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 94/25-99/25", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Sancto Iacobo Apostolo\u00a0(deletion: ) De Sancto Paulo Apostolo"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Godes gela\u00feung"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0u \u00e6lmihtiga drihten ge mite'|sa us synfullum. \u02e5 urne forsi\u00f0 s\u01bfa ge fada \u00fe\u00e6t \u01bfe ge bettum synnum \u00e6fter \u00feisum fr\u00e6cen'|fullum life \u00feinum halgum geferl\u00e6hte beon moton. Sy \u00fee lof \u02e5 \u01bfuldor on ealra \u01bforul'|da \u01bforuld. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The cancelled words in the rubric are a preceding title. The Latin text at Thorpe (1844-46) 392/27 here follows the word 'geherdon' (Thorpe 1844-46 392/30, Clemoes 1997, 407/214), and the word 'Dixit' begins a new paragraph at p. 97/18 in the manuscript. Ends at p. 99/20 with 'edlean. mid cristes apostolum' (Thorpe 1844-46, 398/25, Clemoes 1997, 407/214).'Men. | beon we carfulle \u00fe\u00e6t ure time mid idelnesse us ne losie. \u02e5 we \u00feonne to weld\u00e6dum gecer | ran willan. \u00feonne us se dea\u00f0 to for\u00f0si\u00f0e ge\u00fereata\u00f0. \u00d0u \u00e6lmihtiga drihten gemilt | sa us synfullum. \u02e5 urne forsi\u00f0 swa gefada \u00fe\u00e6t we gebettum synnum \u00e6fter \u00feisum fr\u00e6cen | fullum life \u00feinum halgum geferl\u00e6hte beon moton. Sy \u00fee lof \u02e5 wuldor on ealra worul | da woruld. Amen'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 384"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "401.2-07.214"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 99/25-107/20", 
+            "text": "B.3.3.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Passio beate Margarete uirginis et martyris."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00e6\u00a0(deletion: ) E\n\u00a0(addition: ) fter drihtnes \u00ferowunge."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 heo on heofone rice gebrohton. \u02e5 nu hi si mid gode \u02e5 mid eallum | his halgum. \u02e5 \u00fe\u00e6r hi \u01bfuna\u00f0 nu. \u02e5 \u00e6fre \u01bfunian sceal in ealra \u01bforulda \u01bforuld | a buton \u00e6nde. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": ""
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cla111", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 107/20-14/1", 
+            "text": "B.1.1.31", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Passio Sancti Laurentii martyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On decies d\u00e6ge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00f0\u00e6s freolstid ges\u01bfutela\u00f0 \u00fe\u00e6s and\u01bfearde d\u00e6g ealre | geleaffulre gela\u00feunge \u00fe\u00e6t he us ge\u00feingie to \u00feam heofonlice cyninge for \u00fe\u00e6s | naman he \u00fero\u01bfode mid kene mode manigfealde tihtrega, mid \u00fean he or'|forhlice on ecnesse \u01bfuldra\u00f0 abutan \u00e6nde Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 416"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "418"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 114/11-19/11", 
+            "text": "B.1.1.34", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Decollatione Sancti Iohannis | Baptiste. Secundum Marcum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Misit herodes.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Marcus se godspellere awrat on cristes boc"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0es D\u00e6g. \u02e5 \u00feis lif is | behaten riht\u01bfisum cristenum. to \u00feam us gel\u00e6de se mildheorta drihten. se \u00fee leofa\u00f0 \u02e5 | rixa\u00f0 mid f\u00e6der \u02e5 mid halgum gaste a buton ende. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Incipit: Large, square red 'M' of 'Marcus' encloses smaller red 'M' of 'Misit'. Hand of s. xvi has added 'cap [..]\u00a0(unclear:?) ' in right margin, line 12."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 476"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "451"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 119/11-32/14", 
+            "text": "B.3.3.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Hec est hystoria Sancti | Egidii abbatis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se eadiga egidius w\u00e6s geboren of swi\u00f0e | wur\u00f0fullum mannum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 his \u00e6ngla \u01bfyrd to bege'|anne. \u02e5 hi hio geferoden mid sangum up to heofonum. \u02e5 hio geoffrodon ure drihtene | se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 mid his sune \u02e5 mid \u00feam halgan gaste an god on ealra \u01bforulda | \u01bforuld a butan \u00e6nde amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tre156", 
+                    "page": "131-47"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 132/14-40a/18", 
+            "text": "B.1.5.8", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo de natiuitate Sancte Marie matris | domini. vi. idus Septembris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan we synd gemynegode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 be us gel\u00e6de to \u00feam| ecan lufe. \u00feam se \u01bfuldor \u02e5 \u01bfur\u00f0ment a to \u01bfeorulde amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": ""
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "24"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 141/19-44/24", 
+            "text": "B.1.1.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Annuntiatione Sancte Marie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Missus est gabri'h'el.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan ure se \u00e6lmihtiga sceppend"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "se \u00fee ge\u01bfalt | ealra \u00feinga mid f\u00e6der. \u02e5 mid \u00fean halgan gaste. a'buton ecnesse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Hand of s. xvi has added 'Luk I' in right margin at p. 141/19."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 192"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "281"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 144/25-50/34", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Festiuitate Sancti Michaelis Archangeli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "'Manegum 'i's cu\u00f0'"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fe\u00e6t is | gedon be doges fandunge. \u00fe\u00e6t se m\u00e6re heofonlice engel beo syngallice cristenre | manna gefylta on eor\u00fean. \u02e5 \u00feingere on heofonum to \u00feam ealmihtigan gode. | Se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 abuton ecnesse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The title Euangelium and Latin text in Clemoes (1997), 469/133-35 are omitted here."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 502"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "465"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 150/34-54/7", 
+            "text": "B.1.1.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In festiuitate omnium sanctorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 151/1) Halige lareowas r\u00e6ddon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "s\u01bfa h\u01bf\u00e6t s\u01bfa \u01bfe on o\u00f0rum freoldagum eal'|les geares ymbrines for m\u00e6nniscre tyddernesse h\u01bfonlicor gefyldon \u02e5 carful'|lica hogian \u00fe\u00e6t \u01bfe to \u00fe\u00e6re ecan freolstide becuman."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Red G in 'Godes', p. 151/11 (Thorpe 1844-46, 538/23) begins a paragraph headed 'Sermo', p. 151/10."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 538-48"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "486"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 154/7-7/13", 
+            "text": "B.1.1.38.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium. In festiuitate | omnium Sanctorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Videns Iesus turbas.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0\u00e6t halige godspell \u00fee nu litle \u00e6r"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Seo \u01bfuldor \u02e5 lof h\u00e6lendum criste. Se \u00f0e is | angin \u02e5 \u00e6nde sceppend \u02e5 alesend ealre halgene. mid f\u00e6der \u02e5 mid halgum gaste | a on ecenesse. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Red 'S' in 'Se', p. 154/23 (Thorpe 1844-46, 548/17). Hand of s. xvi has added 'Math [...]\u00a0(unclear: ) ' in right margin at p. 154/7."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 548"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 157/13-63/20", 
+            "text": "B.1.1.39", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Natale Sancti Clementis pape 7 martyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan eower geleafa beo\u00f0 \u00fee trumra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se so\u00f0a drihten us ahredde fram eallum frecednessum. \u02e5 to \u00feam ecan | life gel\u00e6de. se \u00fee leofa\u00f0 \u02e5 rixa\u00f0 a butan ende amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Red 'O' in 'Oft', p. 160/25."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 556"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "497"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 163/30-71/16", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In Natale Sancti Andree Apostoli"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ambulans Iesus..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Crist on sumere | tide"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Sy \u00feam metodan drihtne \u01bfur\u00f0ment \u02e5 lof \u00e1 on ecnesse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 167/13, the rubric Passio Sancti Andree apostoli is preceded by the words after 'gefylle' (Thorpe 1844-46, 586/27), 'We h\u00e6bbe\u00f0 nu | ges\u00e6d \u00feis godspell sceortlice. Nu wille we eow secgan hu se apostol andreas \u00fee we nu | tod\u00e6g wur\u00feia\u00f0 his agen lif sealde for cristes geleafan for \u00fe\u00e6re lare \u00fee he | bodode', p. 167/10-13. Red 'S' in 'Se', p. 167/13 (Thorpe 1844-46, 586/29). Hand of s. xvi has added 'Math 4' in right margin following main rubric."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 576"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "507"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 171/16-85/16", 
+            "text": "B.3.3.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Hic incipit prologus de Sancto Nicholao episcopo 7 | confessore"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deito\u00f0lice \u00e6lc \u00fe\u00e6re wyrhta.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se eadige nicholaus of \u00e6\u00feelan cynne w\u00e6r\u00f0 up asprungan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00d0a cnihtes dyden \u00fea eal s\u01bfa se godes mann heo be bead foran \u00fea | ongean to \u00fe\u00e6re burh constantinapolim blitsigende on drihtene. \u02e5 on \u00feone halgan| nicolae"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tre156", 
+                    "page": "83-100"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 185/16-88/2", 
+            "text": "B.1.2.44", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo de Apostolis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0es apostolica freolsd\u00e6g"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(pp. 187-88) \u01bfitod|lice gis \u01bfe \u00fe\u00e6s bidda\u00f0 \u00fee us to ecere h\u00e6l\u00fee frema\u00f0. us gety\u00fea\u00f0 \u00fe\u00e6s se goda \u02e5 se heofenlica || f\u00e6der \u00feurh his sunu \u00fee mid gim lieofa\u00f0 \u02e5 rixia\u00f0 \u00e1 on ecnessa \u00fe\u00e6s halgan gastes on alra | \u01bforula \u01bforuld amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 520"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 299"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 188/28-90/28", 
+            "text": "B.1.2.45", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De ewangelistis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se h\u00e6lende geceas him to eacan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "ge l\u00e6de us to \u00fean ecan life \u00feider \u00fee he us gela\u00feode \u00feurh hi \u02e5 \u00feurh | heora \u00e6ftergangen. Sy him selfe lof \u02e5 \u01bfuldor alra his \u01bfeld\u00e6da amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 528"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 304"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 190/28-94/23", 
+            "text": "B.1.2.46", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De martyribus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum audieritis.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se h\u00e6lende fors\u00e6de"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se almihtiga god be | s\u01bfinc\u00f0 tironian \u00ferea\u00f0 \u00fea \u00fea he lufa\u00f0. \u00fe\u00e6t he \u00feurh \u00fea h\u01bfil\u01bf\u00e6ndlican ges\u01bf\u00e6ncennesse \u01bfuldor| fulle becinnon to \u00fean ecan life \u00fee he \u00e6r middaneardes frym\u00fee his geleaffullum | gegearcode. Si him \u01bfuldor \u02e5 \u01bfur\u00f0ment on alra \u01bfurolda \u01bforulda. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Rubric partially obscured in margin."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 536"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 310"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 194/24-199/16", 
+            "text": "B.1.2.47", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium de confessoribus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Homo quidam peregre.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Vre drihten sede \u00feis bispel"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Sy lof \u00fean hlaforde \u00fee leofa\u00f0 on ecenesse \u00e6fre buton an|ginne on \u00e6ndeleasan m\u00e6gen\u00ferymme. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 548"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 318"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 199/16-202/17", 
+            "text": "B.3.2.48", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium De uirginibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Simile. est regnum celorum decem uirginibus\u2026"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Matheus se godspellere awrat \u00feis halige bispel"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 \u00fea \u00fea openia\u00f0 heora heorta eage|ne to geseonne godes rice. on\u00fean he leofa\u00f0 \u02e5 rixia\u00f0 \u00e1\u00e1on ecednesse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added 'Math 25' at p. 199.17."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gue392", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 202/18-35", 
+            "text": "B.3.5.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In left margin.De inclusis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Sum deofel gast s\u00e6de sumen ancre.. ne mid idelnesse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Be\u00fe\u00e6nce se man hine. \u00fee hi selfes recli\u00f0 for\u00feon se man \u00fee | hefene rice secen \u01bfile. he hit sceal secan mid s\u01bfince. \u02e5 naht mid e\u00f0nesse. ne unidelnesse."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Text is a quire filler."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "scr125", 
+                    "page": "174-78 (H), 240\n                                                           (H)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 203/1-11/20", 
+            "text": "B.1.4.11", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo quando uolueris de temporibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00dee willa\u00f0 eow seggan sume swutelunge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00fee leofa\u00f0 \u02e5 rixat mid his leofan suna \u02e5 \u00feam halgum gaste | on ealre \u01bforulde \u01bforulda buton \u00e6lcum ende amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 205/9, 'mildheornesse' [sic] glosses 'arfestnysse', 'manne' glosses 'heap' p. 208/28, 'hersumnese' glosses 'beggungu' p. 209/9 and 13, 'rihtwisen' glosses 'arf\u00e6sten'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "I. 415"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 211/20-15/10", 
+            "text": "B.1.1.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): FeriaII. In letania maiore."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Quis uestrum habebit amicum..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "[ S]\u00a0(unclear: missing) e h\u00e6lend cw\u00e6\u00f0 to his leorningcnihtum. Hwylc eower is"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fe\u00e6t gedo\u00f0 me sylfum. Se \u00f0e leva\u00f0 and rixa\u00f0 mid f\u00e6der \u02e5 mid halgum gaste \u00e1. buton | ende. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Initial 'S' of 'Se' is omitted. At p. 214/16, 'formete' glosses 'formittrum'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 246.30"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "318.44 ff"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 215/10-19/13", 
+            "text": "B.3.2.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo in letania maiore"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan us ge\u00f0auena\u00f0 \u00e6rest"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 \u00fe\u00e6r is ece ges\u00e6lignisse mid f\u00e6der. \u02e5 mid \u00feam suna. \u02e5 mid \u00feam haligan | gaste \u00e1 buton ende. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "scr125", 
+                    "page": "315"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 219/13-23/32", 
+            "text": "B.3.2.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Alius sermo Feria III in Rogationibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Mine gebro\u00f0ra \u00fea leofestan. \u00feis syndon halige dagas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "mid \u00feam ece f\u00e6der. \u02e5 mid \u00feam | efenecan sunu. \u02e5 mid his \u00feam efenecan haligan gaste on ealra \u01bforulda \u01bforuld | \u00e1 buton ende amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At MS. p. 220/2, '\u00feolian' glosses 'ar\u00e6fnian'; p. 220/9, 'bugon' glosses 'ge\u00f0eodd'; p. 220/10, 'gefyrred' glosses 'geelfremed'; p. 220/15, 'bygd' glosses 'ge\u00f0eoda\u00f0'; p. 220/19, 'cnoce\u00fe' glosses 'cnyst'; p. 220/26, 'wr\u00e6\u00f0a\u00f0' glosses 'geabyliga\u00f0'; p. 220/26, 'ealle \u00fee hi lufiad on heoras lifes ende' glosses '\u00e6lcne \u00fe\u00e6r\u00e6 \u00fee hi o\u00f0 heora yte'; p. 221/1, 'luran' glosses 'forspildan'; p. 221/20-21, 'luua(?) on his geleafa' glosses 'ge\u00feungennysse his ge\u00feeahtes'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "scr125", 
+                    "page": "332"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 223/32-26/26", 
+            "text": "B.3.2.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): In uigilia Ascensionis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan \u00feis syndon halige dagas \u02e5 gastlice \u00feenunge mid mannum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 \u00fea egelice sto\u01bfa helle \u01bfites. \u00fe\u00e6r ealle deo|fle on \u01bfunia\u00f0. Ac \u00fe\u00e6t \u01bfe migon \u02e5 moton his \u00fea mucclan mildheortneysse geear|nian. \u02e5 mid him \u02e5 mid eallum his halgum \u01bfunian. \u02e5 eadian. abuton ende amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 226/27-31/13", 
+            "text": "B.1.2.28", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Feria IIII in letania maiore."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Iohannes se godspellere awrat | on \u00feisse deg\u00f0erlice godspelle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00f0e leofad \u02e5 rixia\u00f0 mid feder \u02e5 \u00fean halga gaste \u00e1 on ece|nesse amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Red 'S' in 'Se' at p. 226/31. Third scribe begins stint at p. 226/27. A hand of s. xvi has added 'Joh. 17' after rubric."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 360"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 206"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 231/13-36/15", 
+            "text": "B.1.3.18", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo in letania maiore de epistola pauli et de auguriis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se apostol paulus alra \u00feeoda lareow manode."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fee heine lufia\u00f0. Sy him \u01bfuldor \u02e5 lof \u00e1 ' to \u01bforulde. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "At p. 232/27 is the title 'Sermo Sancti Augustini de auguriis | ' Red 'A' in 'Augustini'. (Skeat, 18811900, 1. 67). Text underlined at p. 231/16, p. 232/7-8."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I. 364"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 236/16-42/6", 
+            "text": "B.1.1.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo in ascensione domini"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Lucas se godspellere us manode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Ic beo mid eo\u01bf eallum dagum. o\u00f0 \u00f0issere \u01bforulde geendunge. | Se \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 mid \u00feam halgum gaste a onecnys|se amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 294"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "345"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 242/6-48/14", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo in die Sancto Pentecosten"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Fram \u00feam halgan easterlican d\u00e6ge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "s\u01bfa \u00fe\u00e6t hi setta\u00f0 heora handan ofer geleaddullum manum \u02e5 bid|da\u00f0 \u02e5 rixa\u00f0 a buton ende amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 310"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "354"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 248/14-52/15", 
+            "text": "B.1.1.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium Dominica post octabas pentecosten"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Homo quidam erat diues et induebatur..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se wealdenda drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 on ecenesse mid \u00fean elmihtigan feder. \u02e5 \u00fean halgan | gaste hi \u00fereo on anre godcundnesse \u01bfunigende butan anginne \u02e5 ende | a to \u01bforulde amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added 'Luc 16' at p. 248/15."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 328"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "365"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 252/16-55/10", 
+            "text": "B.1.2.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Homo quidam fecit cenam magnam..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Se helende sede \u00feis bispel"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Uton biddan \u00feone \u00e6lmihtigan drihten \u00fe\u00e6t he us gebringe to his ecan | gebeorscipe se \u00f0e \u00feurh his tocyme us \u00fe\u00e6r to gela\u00f0ode"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Space has been left for rubric. A hand of s. xvi has added 'Luk 14' in left margin of p. 252/16."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 370"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 213 (3rd Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 255/10-56/32", 
+            "text": "B.1.2.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Mine gebro\u00f0ra we willa\u00f0 eow gereccan | sume cristes wundra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 us miltsunge biddan \u02e5 yfel forl\u00e6tan \u02e5 eft nege edl\u00e6can \u00fe\u00e6t \u01bfe moton | \u00e6t \u01bfindan \u00feam \u01bf\u00e6lhreo\u01bfan deoflum \u02e5 gode gedeon \u00feurh godre gehealdum|nysse. \u00feam sy \u01bfuldor \u02e5 \u01bfur\u00f0mynt ato \u01bforulde. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 378"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "pp. 217/126 ff.\n                                                         (Alia narratio de euangelii textu)."
+                }, 
+                {
+                    "work": "pop87", 
+                    "page": "II.\n                                                           575/203-579/276"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 256/33-61/31", 
+            "text": "B.1.1.26", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium | in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Erant appropinquantes.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00de\u00e6t halige godspell r\u00e6g\u00f0 [sic]"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Geleafful|lum mannum m\u00e6g beon mycel tru\u01bfa \u02e5 hopa to \u00feam m\u00e6nniscu criste se \u00fee is ure | mundbora \u02e5 dema \u00fee leofa\u00f0 \u02e5 rixa\u00f0 mide f\u00e6der on ancnysse \u00fe\u00e6 haligan gastes | on ealra \u01bforulda \u01bforuld \u00e1 buton ende. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 338"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "371 (Fourth Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 261/31-64", 
+            "text": "B.1.2.32", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum multa turba esset cum\nIesu.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Marcus se godspellere cw\u00e6\u00f0 on \u00feisum d\u00e6g\u00f0erlicum godspelle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Se \u00f0e leofa\u00f0 \u02e5 rix|a\u00f0 on ealre \u01bforulda \u01bforuld amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added '\u02e5 Marc. 8 | post Trin. | ' at right margin p. 261/31-2."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 394"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 230 (8th Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 265/1-68/4", 
+            "text": "B.1.2.33", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Adtendite a falsis prophetis..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten cw\u00e6\u00f0 to his leorningcnihtum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "gif hit crist sylf us nevehete. \u02e5 for\u00f0i to middan|earde ge\u01bf\u00e6nde \u00fe\u00e6t he us to him gesette. Si his \u01bfuldor \u02e5 lof mid f\u00e6der \u02e5 halgum gaste. on ealra \u01bforulda \u01bforuld. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added '8 | post Trinit. | Math [.]' in right margin of p. 265/1."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 404"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 235 (9th Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 268/4-73/10", 
+            "text": "B.1.1.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Cum appropinquaret..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On sumere tide w\u00e6s se h\u00e6lend farende"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 urne for\u00f0tid | s\u01bfa gefada \u00fe\u00e6t \u01bfe gebettum synnum; \u00e6fter \u00feysum fr\u00e6cenfullum life; \u00feinum halgum gefer|lahte beon mote. Sy \u00fee lof \u02e5 \u01bfuldor on ealra \u01bforulda \u01bforuld amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Red 'S' in 'Se', p. 272/19 (Thorpe 1844-46, 412/33). A hand of s. xvi has added 'x post Trin. | Luk 19' in right margin after rubric."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 402"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "410 (11th Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 273/10-76/31", 
+            "text": "B.1.2.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium | Dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Dixit\nIesus ad quosdam..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten s\u00e6de \u00feis bigspell"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Ge unne eo\u01bf se \u00e6lmihtiga. \u00feurh his m\u00e6gen \u00ferymme. | on \u00f0yssere \u01bforulde gesundfulnesse. \u02e5 so\u00f0re eadmodnysse. \u02e5 eo\u01bf a hebbe to his | heofonlice rice. se \u00f0e ana ge\u01bfilt ealra gesceafta \u00fee leofa\u00f0 amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added 'xj post | Trinit | Luk. 18 | ' at p. 273/11-12, right margin."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 426"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 249 (12th Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 276/31-79/6", 
+            "text": "B.1.2.38", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium | in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Nemo potest..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten cw\u00e6\u00f0 on sume timan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "God us gerihtl\u00e6ce | \u02e5 to \u00f0an ece life gel\u00e6de s\u01bfa s\u01bfa he behet \u00fean hine lufia\u00f0. Sy him \u01bfuldor | \u02e5 \u01bfur\u00f0 mynt on ealra \u01bforulda \u01bforuld amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added 'xv post Trinit | ' in right margin of p. 276/32."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 460"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 268 (16th Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 279/ 6-15", 
+            "text": "B.1.2.39", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De Natiuitate Sancte marie"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Hw\u00e6t wille we secgan ymbe marian gebyrdtide |"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fei \u01bfe hit l\u00e6ta\u00f0 unr\u00e6d | nege bera \u00feyf naht \u00fearto buton for ydelnesse"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The words 'ne gebera \u00feys naht \u00feaer to. buton for ydelnesse' follow immediately."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "II. 466"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "p. 271"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 279/15-83/11", 
+            "text": "B.1.1.35", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium Dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ibat Iesus in ciuitatem que uocatur naim..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Ure drihten. ferde"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 \u00feam | halgan gaste. Se \u00f0e \u00e6fre is of heom bam hi dry an \u00e6lmihtig god untod\u00e6ledlic. \u00e1 | on ecnysse rixiende amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A hand of s. xvi has added '16 | post Trin. Luk 7 | ' in right margin of p. 279/15."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 490"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "459 (17th Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 283/11-90/2", 
+            "text": "B.1.1.37", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Ewangelium in dominica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Loquebatur\nIesus.."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Drihten w\u00e6s sprecende"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "middan eardes \u00fee lufiendum. \u00feu \u00fee leofast \u02e5 rixast | mid \u00feam ecan f\u00e6der \u02e5 halgum gaste on ealra \u01bforulda \u01bforuld a onecennysse amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Red 'L', red 'D'. A hand of s. xvi has added '20 post Trinit | Math 22 | ' in right margin of p. 283/11-12."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "I. 520"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "476 (21st Sunday after\n                                                           Pentecost)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 290/3-96/28", 
+            "text": "B.1.3.17", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo de memoria sanctorum quando uolueris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Ego sum alfa. et o..."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0\u00e6t is on \u00e6nglisc. ic eom angin"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u01bfe magon \u00feurh godes fylst \u00fea feondlican leahtras mid ge | campe ofer \u01bfinnan gif \u01bfe kenlice feohta\u00f0. \u02e5 habban us on ende \u00feone ecean | \u01bfur\u00f0ment \u00e1 mid gode flyfum. gif \u01bfe s\u01bfinca\u00f0 nu her."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I. 336"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 296/28-301/27", 
+            "text": "B.1.6.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Sermo de duodecim | Abusiuis Secundum disputationem sancti Cypriani"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Nu synd twelf | abusiua. \u00fe\u00e6t synd twelf un\u00feeawas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u00fe\u00e6t he ure sa\u01bfla underfo \u00fee hi asende to \u00feam lichaman Si him | \u00e1 \u01bfuldor \u02e5 \u01bfur\u00f0ment. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "mor580", 
+                    "page": "299/1"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 301/27-06/33", 
+            "text": "B.1.4.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De doctrina apostolica"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On manega wisan l\u00e6r\u00f0 godes lar"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "And se \u00f0e | hopa\u00f0 to criste becum\u00f0 to mitesunge. huru on domes d\u00e6ge for \u00f0\u00e6s | h\u00e6lendes godnysse. Se us gel\u00e6de to \u00f0an ecan lufe. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "II. 622"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 306/33-17/31", 
+            "text": "B.1.4.22", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De falsis diis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 307/1) Fratres dilectissimi diuina scriptura\u2026"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Eala ge gebro\u00f0ra \u00fea leofostan \u00fe\u00e6t godcund\u00e6 gewrit"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "S\u01bfa micelne \u01bfur\u00f0mynt forgeaf se mild heorta | drihten his haldum \u00feegnum \u00fe\u00e6t he het hi godas. ac nan man n\u00e6f\u00f0 s\u01bfa \u00f0eah | nane mihte \u00feurh hine sylfne buton of\u00f0an anum gode \u00fee ealle \u00f0incg gesce|op. \u00feam \u01bfuldor \u02e5 lof ato \u01bforulde Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pop87", 
+                    "page": "II.\n                                                           676-712.1-140, 150-296, 299-301, 304-514, 565-676"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 317/31-27/33", 
+            "text": "B.1.6.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Interrogationes Siwlfi presbiteri"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Sum ge\u00f0ungen lareow"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Hella \u01bfe na | s\u01bfi\u00f0or emde \u00f0is sprecan fo\u00f0an\u00f0e \u01bfe habba\u00f0 \u00fea nyd be hefestan axunga| nu a\u01bfritene."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "pp. 327/33-33/4", 
+            "text": "B.1.3.13", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Dominica in quinquagesima."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "On \u00feissere wucan on wodnosd\u00e6g"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Si him a \u01bfuldor on ecnesse Amen. \u01f7e s\u00e6don | nu \u00feis spel fo\u00fean\u00f0e her bi\u00f0 l\u00e6s manna on \u01bfodnes d\u00e6g \u02e5 eo\u01bf gebrod. \u00fe\u00e6t ge beon ge | serifene on \u00f0issere \u01bfucan. o\u00f0\u00f0e huru on \u00feussere o\u00f0\u00f0re."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I. 260 (Ash\n                                                           Wednesday)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 333/4-38/15", 
+            "text": "B.1.3.14", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): De oratione moysi in me | dia quadragesima"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00e6\u00a0(deletion: ) E\n\u00a0(addition: ) fter \u00fean \u00f0e moyses se m\u00e6ra heretoga | of aegipta lande"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "\u02e5 he ana is deor \u01bfur\u00f0ra \u00feone \u00fea deora mad | mas. \u00fe\u00e6t is se \u01bfisdom. \u00fe\u00e6t mann \u01bfislice libbe \u02e5 his d\u00e6da gefarige to his drihtnes \u01bfillan | \u00fe\u00e6t he edlean underfo on \u00feam ecan life. Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Guide letter of the initial letter in the incipit is '\u00e6', but the red letter is 'E'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I. 282"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 338/16-39/26", 
+            "text": "B.14.42", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial):"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): [E]\u00a0(unclear: missing) x auctoritate dei patris omnipotentis. et filii. et spiritus sancti\u2026"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 339.3) [M]\u00a0(unclear: missing) en \u00fea leofestan gehera\u00f0 hw\u00e6t \u00feeos boc seg\u00fe. Mid ealdorlicnesse \u00e6lmihtiges godes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Eall folc c\u01bfe\u00f0e so\u00f0 hit si. ge\u01bfur\u00fee \u00fe\u00e6t."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "In left margin, p. 338/16, title supplied in s. xiv hand: 'Excomunicationis formula'. Blank space at p. 339/27-34."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tre108", 
+                    "page": "209-11"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 340/1-41/25", 
+            "text": "B.1.3.20", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Quomodo Acitofel \u02e5 multi aiii laqueo se suspenderunt"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Is nu eac to witenne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Ge scylde us se sceppend \u00fe gesceop | us to mannum. \u01bfi\u00f0 \u00fe\u00e6s deofles s\u01bficdom \u00fee syr\u01bf\u00f0 emde us. \u02e5 us mildheortlice ge|l\u00e6de to \u00feam ecan life. on \u00feam is ece \u01bfuldor on ealra \u01bforul. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "I. 424"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 341/26-55/24", 
+            "text": "B.1.3.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Kalens Augusti Passio Sanctorum Machabeorum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Efter \u00feam \u00fee alexander"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Si \u01bfuldor \u02e5 lof \u00feam \u01bfel\u01bfillendan gode. \u00e1 on ec'|nesse \u01bfe c\u01bfe\u00fe\u00e6\u00f0. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Divided into ten numbered sections, though section XI ofSkeat (1881-1900) is not numbered here."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "II. 66 (no. 25,\n                                                           ll.1 811)"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 355/24-56/22", 
+            "text": "B.1.3.25.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Qui sint Oratores. Laboratores. Bellatores"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Is swa \u00feeah to witenne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "H\u00e6s nan halif fodes \u00feeo\u01bfa, \u00e6fter \u00fe\u00e6s | h\u00e6lendes \u00fero\u01bfunge. \u00fee \u00e6fre ongefeohte his handa \u01bfolde afylan. ac hi forb\u00e6|ron ehtnesse aleafra c\u01bfellera. \u02e5 heora lif sealdon. mid unsce\u00fe\u00feinesse for godes | geleafan. \u02e5 hi mid gode nu libba\u00f0 for\u00fean\u00fee hi fur\u00feon noldon. \u00e6nefitgel | ac\u01bfellan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "II. 120"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 356/22-62", 
+            "text": "B.1.5.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): Incipit de iudith quomodo interfecit olofernem"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "\u00de e secga\u00f0 nu \u00e6rest"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Ends imperfectly '\u02e5 god \u00fee gestrangode for \u00fe\u00e6re cl\u00e6nnesse' (Assmann 1889, 1. 393)."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "102"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. ii", 
+            "text": "Ker\n                                           1957", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 34-35"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single column writing grid with 34 lines per page usually, but 35 in Quire XI. Pencil ruling, done before folding, with single vertical and two horizontal bounding lines at top and bottom (penultimate and ultimate horizontal lines ruled)."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Pages i-iv and 363-66 are paper flyleaves of s. xx; pp. v-viii are s. xvi parchment. Leaves are arranged HHFF.", 
+        "extent": "ca. 260 mm x ca. 196 mm (dimensions of all - size of leaves).\n213-203 mm x 149-138 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in tan goatskin in 1956.", 
+    "accompanying": "Added flyleaves of a printed edition of a Latin text at the beginning and the end of the manuscript.", 
+    "history": {
+        "origin": "Almost certainly attributable to <span class=\"name\">Rochester Cathedral Priory</span>.", 
+        "provenance": "While the origin of this manuscript is probably <span class=\"name\">Rochester</span>, nothing is known of its subsequent medieval history. It was in <span class=\"name\">Archbishop Parker's</span> possession after 1565 when he labelled it 'Homiliarum Saxonicarum Liber Nonus' (S. 17).", 
+        "acquisition": "Parker bequeathed it to <span class=\"name\">Corpus Christi College</span> in his Indenture of 1575."
+    }, 
+    "admin": "Manuscript described by Takako Kato, Hollie Morgan and Owen Roberson, completed by Elaine Treharne (2012; 13).", 
+    "surrogate": true
+}

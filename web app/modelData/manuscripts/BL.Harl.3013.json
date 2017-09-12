@@ -1,0 +1,139 @@
+{
+    "id": "BL.Harl.3013", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "3013", 
+    "ker": "238", 
+    "content": "Glosses in OE and Latin to Aldhelm, prose De laude virginitatis", 
+    "location": "Cistercian Abbey of Newminster, near Morpeth in Northumberland", 
+    "date": "s.xii^{2}", 
+    "summary": "Six OE glosses of the same date as the main text and its Latin glosses. <a href=\"#ker44\">Ker</a> transcribes the inscription on fol. 1v of s. xii/xiii 'Liber sancta marie noui monasterii', and notes \u2018i.e. the Cistercian abbey of <span class=\"name\">Newminster</span>, near <span class=\"name\">Morpeth</span> in <span class=\"name\">Northumberland</span>\u2019 (1957, p. 309).", 
+    "items": [
+        {
+            "locus": "fol. 13v", 
+            "text": "C.31.6.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 13v) lind (glossing Latin 'tilia\u0119')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 14r", 
+            "text": "C.31.6.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 14r) uirge oser (glossing Latin 'uiminis')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 30r", 
+            "text": "C.31.6.3", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 30r) scale (glossing Latin 'glumula')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 33r", 
+            "text": "C.31.6.4", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 33r) \u02e5 t\u016bdar (glossing Latin 'naptarum')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 43r", 
+            "text": "C.31.6.5", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 43v) felg (glossing Latin 'occa')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 65v", 
+            "text": "C.31.6.6", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 65v) tanas (glossing Latin 'antes')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#pul1609"
+    ]
+}

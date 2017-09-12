@@ -1,0 +1,73 @@
+{
+    "id": "Ox.Rawl.G.57", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Rawlinson", 
+    "shelfmark": "G. 57 + G. 111 (14788, 14836)", 
+    "ker": "350", 
+    "content": "Glosses", 
+    "location": "Unknown", 
+    "date": "s.xi^{ex}", 
+    "summary": "Main text is a collection of Latin poetry written in s. xi<span class=\"sup\">2</span> and s. xi<span class=\"sup\">ex</span>. English glosses to three of the items are added in what <a href=\"#ker44\">Ker</a> (1957, p. 428) describes as 'very minute hands'. Place of production not known.", 
+    "items": [
+        {
+            "locus": "G. 57, fols 1-5v", 
+            "text": "C.55.2", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 350"
+                }
+            ]
+        }, 
+        {
+            "locus": "G. 57, fols 6-27", 
+            "text": "C.72.1.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 350"
+                }
+            ]
+        }, 
+        {
+            "locus": "G. 111, fols 1-16", 
+            "text": "C.72.2.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 350"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson, manuscript items added by Hollie Morganrship, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

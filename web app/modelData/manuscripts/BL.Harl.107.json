@@ -1,0 +1,182 @@
+{
+    "id": "BL.Harl.107", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "107", 
+    "ker": "227", 
+    "content": "Ælfric's Grammar (fragment)", 
+    "location": "Kent", 
+    "date": "s.xi^{med}", 
+    "summary": "Ælfric's <span class=\"italics\">Grammar and Glossary</span>. Incomplete, probably due to two missing quires. Written by two hands, xi<span class=\"sup\">med</span>, <a href=\"#ker44\">Ker</a> notes that the manuscript is 'possibly <span class=\"name\">Kentish</span>' (1957, p. 303).", 
+    "items": [
+        {
+            "locus": "fols 1r-69v", 
+            "text": "B.1.9.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) Ic \u00e6lfric \u01bfolde \u00feas lytlan boc a\u01bfendan to engliscum gereorde | of \u00f0am st\u00e6rcr\u00e6fte \u00fee is gehaten gramatica sy\u00fe\u00fean ic \u00f0a t\u01bfa bec | a\u01bfende on hundeahtatigum spellum. for\u00f0dan \u00fee cr\u00e6ft ys || seo c\u00e6g \u00f0e \u00fe\u00e6ra boca angyt unlec\u00f0 (the Old English preface is preceded by a Latin preface)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 69v) on ealdum da | gum \u02e5 us dyrne \u01bf\u00e6ron. SiG \u00feeos boc \u00feus her GEÆndod"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 303"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 69v", 
+            "text": "B.1.9.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 69v) DE NUMERO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 69v) On l\u00e6den sprece siond m\u00e6nig | fealde get\u00e6l"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 69v) fif | penegas gemacia\u00fe \u00e6nne scylling \u02e5 \u00feritti penega gema | cia\u00fe \u00e6nne mancus"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 303"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 69v-71v", 
+            "text": "B.1.9.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 69v) INCIPIUNT NOMINA MULTARUM | RERVM ANGLICE MONICA"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 69v ) Deus omnipotens. \u00fe\u00e6t is | god aelmihtig. se \u01bf\u00e6r \u00e6fre unbegunnen. \u02e5 \u00e6fre unge | \u00e6ndod"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 71v) \u01f7e ne magon | s\u01bfa \u00feeah ealle naman a\u01bfritan. ne fur\u00feon ge\u00fe\u00e6ncan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "The gramatical dialogue in Latin follows in fols 71v-72v."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 303"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 72v", 
+            "text": "B.27.4.14.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 72v) (beginning of incipit illegible) s regnat. Crist rixa\u00f0."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 72v) Crist casere. Imperator. Casere."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 303"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 72v", 
+            "text": "D.15", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 72v) DE NO | MINA UOLUCRI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): ( fol. 72v ) (beginning of incipit illegible) ipus. io\u01bf"
+                }, 
+                {
+                    "head": "Explicit (Latin)", 
+                    "body": "( fol. 72v ) Sulio styria (ending imperfect)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 303"
+                }, 
+                {
+                    "work": "doa788", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#doa788"
+    ]
+}

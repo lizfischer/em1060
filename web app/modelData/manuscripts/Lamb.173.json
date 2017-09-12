@@ -1,0 +1,116 @@
+{
+    "id": "Lamb.173", 
+    "city": "London", 
+    "repository": "Lambeth Palace Library", 
+    "collection": "", 
+    "shelfmark": "173", 
+    "ker": "276", 
+    "content": "Glosses", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 212v", 
+            "text": "C.45.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "ongean nor\u00f0\u0119st roder s\u01bfa sunnan upgang bi\u00f0 to middan sumera"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glossing Latin 'contra ortum solis solstitialem'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 340"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 214r", 
+            "text": "C.45.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "Su\u00f0east s\u01bfa sunne on \u01bfintra upg\u00e6\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Glossing Latin 'contra ortum solis brumalemhe'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 340"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": null, 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 in Old English", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "glosses", 
+                "scope": "sole", 
+                "script": "Caroline Minuscule", 
+                "scribe": "Ker 173", 
+                "description": "Fols 212v, 214v.", 
+                "summary": "Contemporary with the Latin text. Caroline script with occasional insular features.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> Caroline."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> insular and Caroline."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> Caroline."
+                    }
+                ], 
+                "date": "s. xi"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Fols 1-156 and fols 157-221 were originally separate volumes. Ker reports that they were probably joined in the Middle Ages (<a href=\"#ker44\">Ker</a> 1957, p. 341).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Origin is unknown.", 
+        "provenance": "On fol. 1r, 'Euerard' is written in large letters. The same name is written in London, Lambeth Palace 351 (s. xiv). Belonged to <span class=\"name\">Richard Bancroft</span> and recorded in the catalogue of his manuscripts at <span class=\"name\">Lambeth Palace</span>, 1612 (fol. 85) (<a href=\"#ker44\">Ker 1957</a>, p. 341).", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Mary Swan with the assistance of Hollie Morgan and Sanne van der Schee, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "gne146", 
+        "ker44", 
+        "mil455", 
+        "mer1069"
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "id": "BL.Tibe.B.iv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius B. iv", 
+    "ker": "192", 
+    "content": "Chronicle", 
+    "location": "Worcester (?)", 
+    "date": "s.xi^{med-2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 3-86", 
+            "text": "B.17.8.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3v) Britene igland is ehta hund mila lang"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 86r) his f\u00e6der ge"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 253-54"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 87", 
+            "text": "B.15.1.61.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 87r) + Cnut cyncg gret eadsige bisceop \u02e5 \u00e6lfstan abbod. \u02e5 \u00e6gelric. \u02e5 ealle mine \u00feegenas on cent freondlice \u02e5 ic cy\u00f0e eo\u01bf \u00fe\u00e6t ic h\u00e6bbe geunnan \u00e6\u00feelno\u00f0e arcebisceope"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 346"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 87", 
+            "text": "B.15.1.61.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 87v) + Cnut cyncg great eadsige bisceop"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 87v) freondlice \u02e5 ic cy\u00f0e eo\u01bf \u00fe\u00e6t ic \u01bfylle \u00fe\u00e6t \u00e6\u00feelno\u00f0 arcebisceop"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 346"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 88v-90r", 
+            "text": "B.17.8.2", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 253-54"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment. Supply leaves are parchment and paper.", 
+        "extent": "c. 285 mm x 190 mm (dimensions of all - size of leaves).\nc. 243 mm x 116 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "The manuscript was in <span class=\"name\">Worcester Cathedral</span> in about 1565. It is possible that the manuscript was partially compiled in <span class=\"name\">Worcester</span>, in view of the characteristics of some of the hands. <a href=\"#wat88\">Watson</a> (1979, vol 1, p. 106) notes that 'local references suggest that the manuscript was written in the <span class=\"name\">West Midlands,</span> perhaps at <span class=\"name\">Worcester</span>. <span class=\"name\">Joscelyn</span> notes 'Chronica Saxonica Wigorniens(is) ecclesi\u00e6 ab anno domini primo ad annum domini 1080. est adhuc in bibliotheca ecclesi\u00e6' (British Library, Cotton Nero C. iii, fol. 208). Perhaps owned by <span class=\"name\">Joscelyn</span>, as in Cotton's note in British Library, Harley 6018, fol. 156, in which Cotton refers to a loan to <span class=\"name\">Francis Tate</span> of 'Old Saxon story manuscrip. it was Mr Gocelins' (<a href=\"#ker44\">Ker</a> 1957, pp. 255).", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "cla826", 
+        "cub827", 
+        "gam1636", 
+        "gne146", 
+        "kel828", 
+        "ker44", 
+        "lai45", 
+        "bri1165", 
+        "pla1170", 
+        "oni625", 
+        "plu626", 
+        "rob335", 
+        "scr565", 
+        "tho813", 
+        "wan416", 
+        "wat88", 
+        "whi653"
+    ]
+}

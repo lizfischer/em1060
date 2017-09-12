@@ -1,0 +1,239 @@
+{
+    "id": "BL.Stow.944", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Stowe", 
+    "shelfmark": "944", 
+    "ker": "274", 
+    "content": "Will of King Alfred; Resting places of Saints, etc.", 
+    "location": "Winchester, New Minster", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 28v-29r", 
+            "text": "B.16.21.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "'Godwine iustines sunu', 'Eadlred. Alfuuoldes sunu. \u00e6gilhild his uuif', 'leofred et eius conunx burewyn. 7 \u00f0as habba\u00f0 behatan \u00e6lce geare ane gecn\u00e6\u01bfnesse', 'Ordgiuu. \u00feeo nunne'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with four English names"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 338"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 29v-33r", 
+            "text": "B.15.6.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 29v) Ic \u00e6lfred cingc mid godes gife"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 338"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 33r-34r", 
+            "text": "B.24.25.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 33r) Her ongin\u00f0 ymbe \u00feyses middangeardes ylde h\u01bf\u00e6t \u01bf\u00e6s fram adame o\u00f0 noe (incipit of the first commonplace)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 338-39"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 34v-39r", 
+            "text": "B.18.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 34v) On ures drihtnes naman h\u00e6lendes cristes. Sanctus augustinus gefullode"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 339"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 39r-v", 
+            "text": "B.18.6.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 39r) Ine cingc rixodeXXXVII. \u01bfintra"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 39v) \u00fea feng Cnut cingc to rice"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 339"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 40v", 
+            "text": "B.15.4.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 40r) Ic EAD\u01f7ine munuk cilda m\u00e6ster"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 339"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "1428"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 57r-v", 
+            "text": "B.15.5.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 57r) (beginning imperfect) \u01bfestryhte be \u00f0\u00e6re su\u00f0str\u00e6te"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fragment"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 339"
+                }, 
+                {
+                    "work": "saw1604", 
+                    "page": "1443"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 58r-v", 
+            "text": "B.16.21.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Three lists, all with English titles. The first list is in Latin, with one item in English. The other two lists are in English."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 339"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 59v-60r", 
+            "text": "B.12.10.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 59v) Leof bro\u00f0or 7 ure efen sacerd"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin. A Latin version precedes the Old English."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 339"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Fols (i, ii), 69, (70-71) are paper leaves from the date of binding. The two leaves between fols 68 and 69 are medieval blank leaves. Fols 1-5 were added by", 
+        "extent": "255 mm x 150 mm (dimensions of all - size of leaves).\n203 mm x 95 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Eighteenth-century binding.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written at <span class=\"name\">New Minster, Winchester</span>.", 
+        "provenance": "Belonged to <span class=\"name\">Walter Clavel</span> in 1710, later to <span class=\"name\">George North</span>, later to <span class=\"name\">Michael Lort</span>, George North's executor, and to <span class=\"name\">Thomas Astle</span> in 1770. It was transferred to <span class=\"name\">Stowe</span> along with the other Astle manuscripts in 1804.", 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> from <span class=\"name\">Lord Ashburnham</span> in 1883."
+    }, 
+    "admin": "Described by Hollie Morgan with the assistance of Sanne van der Schee (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bir1276", 
+        "bir1079", 
+        "for574", 
+        "for1071", 
+        "har1482", 
+        "ker44", 
+        "key91", 
+        "lie722", 
+        "nap964", 
+        "saw1604", 
+        "scr565", 
+        "wor1173"
+    ]
+}

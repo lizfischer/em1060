@@ -1,0 +1,1561 @@
+{
+    "id": "BL.Vite.D.xvii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vitellius D. xvii", 
+    "ker": "222", 
+    "content": "Homilies for Saints' Days", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Fols 4-92, a set of Homilies for Saints days, followed by a description of the resting places of the Saints in England. Written in two hands, origin unknown (<a href=\"#ker44\">Ker 1957</a>, p. 298). The manuscript is badly burned.", 
+    "items": [
+        {
+            "locus": "fols '23-27'", 
+            "text": "B.1.2.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '23') (beginning illegible) rst \u00feam hunde. \u02e5 to langu fyrste n\u00e6 (ending illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '27') (part illegible) nu sende he hundas to me for\u00f0on \u00f0e he (ending imperfect)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '27-30'", 
+            "text": "B.1.2.34", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '27') \u02e5 unaberendlice fornumene (part illegible) \u00feurh | iacobes lare on crist gelyfdon. Namon \u00fea (part illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '30'", 
+            "text": "B.1.1.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '30') Iohannes se godspellere Cristes dyrling (Text lost. Based on Ker and Doane.)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '36-37'", 
+            "text": "B.1.2.21.3.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '36') (beginning imperfect) geare f\u00e6ce \u00e6fter cristes \u00f0ro\u01bfunga"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '37') geleaffullum mannum. \u00f0am si \u01bful | dor \u02e5 lof a to \u01bforulde. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '37-38'", 
+            "text": "B.1.2.21.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '37' ) DE IACOBA APOSTOLO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol'. '38') \u01f7e \u01bfurdia\u00f0 eac on \u00f0issere freolstida"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '38') se \u00f0e ana rixa\u00f0 on ecnysse | (beginning of line unclear) amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '38-42'", 
+            "text": "B.1.1.34.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '38' ) VIII KALENDAS SEPTEMBRIS NATALE SANCT BARTHOLOMEI. APOSTOLI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '42' ) \u01f7yrd\u01bfiteras secga\u00f0 \u00fe\u00e6t \u00f0ry beodscipas sind gehatene india"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fols '') \u00fe\u00e6t he aidlige ealle \u00f0a h\u00e6\u00f0engyld (ending imperfect)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '43-48'", 
+            "text": "B.1.2.41.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '43' (lower fragment) ) babilonia \u01bfyrcen (rest illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol.'48' (lower fragment) ) H\u01bf\u00e6t \u00fe\u00e6t cild \u00f0a getingelice spr\u00e6c"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '48'", 
+            "text": "B.1.2.41.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol '48' (upper fragment) ) dan heora \u00e6hta"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol '48' (upper fragment) ) on ealra \u01bforuld amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '22, 48-50'", 
+            "text": "B.1.3.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 22r) VII k MAI NATALE SANCTI MARCI. EVANGELISTA"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '48') Marcus se godspellere be godes dihte gefor to || egipta lande"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. ' 50') \u00f0am sy \u01bfuldor. \u02e5 lof a to \u01bforulde. | amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '50-52'", 
+            "text": "B.1.3.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '50') DE QVATVOR EVANGELISTARUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '50') \u01f7e habba\u00f0 nu ges\u00e6d sceorlice on \u00f0ysum ge\u01bfrite"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '52') (beginning illegible) geendia\u00f0 \u00feus \u00f0as gesetnysse her"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '26, 52-65'", 
+            "text": "B.1.2.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 26r) vii. kalendas ianuarii | Natale Sancti stephani protomartyris"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. ' 52' ) (beginning illegible) biscop spr\u00e6c to his folce (part of text missing) and\u01bfyrdon his frynd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. ' 65') Sy him \u01bfuldor \u02e5 lof a on ecnys | se amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '56-61'", 
+            "text": "B.1.1.4", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '56') ITEM DE SANCTI STEPHANO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '56') \u01f7e r\u00e6da\u00f0 on \u00fe\u00e6re bec \u00fee is gehatan actus apostolorum | \u00fe\u00e6t \u00f0a apostolas gehadedon seofon diaconas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '61') mid \u00feam he \u01bfuldra\u00f0. \u02e5 blissa\u00f0 | a on acnysse amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '61-65'", 
+            "text": "B.1.1.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '61') IN NATALE INNOCENTIUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '61') (beginning illegible) d\u00e6g godes gela\u00feung geond ealne ymbh\u01bfyrft (part illegible) o\u00f0 \u00fe\u00e6t he gestod ofer h\u00e6 (part missing) rest \u00feone \u02e5 steorran gesa\u01bfon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '65') se \u00f0e leofa\u00f0 \u02e5 rixa\u00f0 a butan ende | AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '65-72'", 
+            "text": "B.1.3.6", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '65') xiiii, kalendas FEBRUARII NATALE SANCTI SEBASTIANI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '65') Sebastianus hatte sum halig godes \u00feegen (part missing) fare nu se \u00f0e \u01bfille for\u00f0 mid chro | matie \u02e5 \u01bfunige se \u00f0e \u01bfille mid me on \u00feyssere"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '72') ea\u00f0e secgende him bet\u01bfeonan \u00fe\u00e6t huru \u00fea cristennan | becomon his lice (part missing) se \u00f0e ge\u01bfylt ealle \u00feing rixiende a on ecnysse eces \u01bfuldres cyning"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '72-82'", 
+            "text": "B.3.3.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '72') v. kalendas AVGVSTI PASSIO SANCTI PAN (end illegible)"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '72') Gehera\u00f0 nu men \u00fea leofestan h\u01bf\u00e6t her seg\u00f0 on \u00feysum b (rest of incipit illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '82')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '82-83'", 
+            "text": "B.1.2.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (beginning illegible) NATALE SANCTI MATHEI. APOSTOLI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '82') Se godspellere matheus \u00fee \u01bfe tod\u00e6g \u01bfur\u00f0ia\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '83') sy him \u00fe\u00e6s | \u01bfuldor a on ecnysse amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '83-86'", 
+            "text": "B.1.2.40.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '83') \u00d0es ylca apostol \u02e5 godspellere becom \u00feurh godes | sande"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '86') Sy \u00fe\u00e6s gode lof a on ecnysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '86-96'", 
+            "text": "B.1.2.12", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '86') xii. kalendas APRILIS DEPOSITIO SANCTI BENEDICTI. ABBATIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '86') Benedictus se halga abbud on \u00feisum and\u01bferdum d\u00e6ge (part missing)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '96') Sy him \u01bfuldor \u02e5 lof a on | ecnysse mid eallum his halgum se \u00fee ana is unascegendlic god. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '96-101'", 
+            "text": "B.1.2.42", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '96') MARTINUS se \u01bfuldorfulla godes andete (part missing)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '101') Sy \u00f0am \u01bfuldor on ecere \u01bforulde. \u00fee leofa\u00f0 \u02e5 rixa\u00f0 | \u00feurh hine sylfne god. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '101-05'", 
+            "text": "B.1.2.10", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '101') De SANCTI GREGORIO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '101') Gregorius se halga papa engliscra | \u00feeoden apostol (part missing)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '105') on \u00f0am he leofa\u00f0 mid gode \u00e6lmihtigum | a on ecnysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '105'", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol.'105') DE SANCTO MICHAELE ARCHANGELO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '105') Manegum is cu\u00f0 seo halige sto\u01bfe sancte michaheles"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '108-09'", 
+            "text": "B.1.2.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 108') (beginning missing) \u01bfe \u01bfur\u00f0ia\u00f0 \u00fe\u00e6re halgan rode gemynd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. fol. '109') (beginning illegible) i \u01bfur\u00f0ia\u00f0 a for \u01bfur\u00f0 | mynte cristes. se (part missing) life. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '109-10'", 
+            "text": "B.1.2.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '109') PASSIO SANCTERUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '109) On \u00feisum d\u00e6gpart illegible r\u01bfur\u00f0e papa alexander geha | ten mid t\u01bfam m\u00e6ssepreostum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '110') o\u00f0 \u00feisne and\u01bfeardan d\u00e6g sy \u00feam \u00e6lmihtigan lof. se \u00f0e ana ricsia\u00f0 | on ecnysse god. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '110'", 
+            "text": "B.1.1.40", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '110') SANCTO ANDREA APOSTOLO"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '110') SE APOSTOL ANDREAS \u00e6fter cristes \u00fero\u01bfung (part missing)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '116-20'", 
+            "text": "B.1.1.31", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '116') (beginning missing) ge\u00feylde heora \u01bfordum heorcnode."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '120') mid cenum mode m\u00e6nigfealde tintregu mid \u00feam he | orsohlice on ecnysse \u01bfuldra\u00f0. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '120-22'", 
+            "text": "B.1.1.39", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '120') ix kalendas DECEMBRIS. NATALE SANCTI CLEMENTIS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '120') Men \u00fea leofoston eo\u01bfer geleafa bi\u00f0 trumra"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '132-27'", 
+            "text": "B.1.3.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '123') (beginning illegible) s\u01bfylce to gebeorscipe (part illegible) ldan \u01bfe efstan to dea\u00fee"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '127') o\u00f0 \u00fe\u00e6t hi ealle c\u01bf\u00e6don mid anre stemne \u00feus. \u01f7e gelu || (end illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '127v-31'", 
+            "text": "B.1.3.23", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '127v') (beginning illegible) (top line gone) id petre sum ar\u01bfur\u00f0e gode (part illegible) appolin (part illegible) | haten \u00fe\u00e6s halgan apostoles"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '131') nu beo \u00feu"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '131'", 
+            "text": "B.1.3.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '131') On Decies dagum \u00fe\u00e6s deoflican Casere (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '132-33'", 
+            "text": "B.1.3.24.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '132') Nu \u01bfe spr\u00e6con be cynegum. \u01bfe \u01bfilla\u00f0 \u00feysne c\u01bfide gelencgan (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '133-42'", 
+            "text": "B.3.3.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '133') \u01bfuldre. ac eall s\u01bfa \u00feu ge\u01bfilnodest \u00fe\u00e6t \u00feu mannum (part missing) \u00fea nolde he hi al\u00e6tan (end missing)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '142v-44'", 
+            "text": "B.1.3.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '142v') Ged\u01bfol men a\u01bfriton ged\u01bfyld on heora bocum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '144v-48'", 
+            "text": "B.1.3.26", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '144v') (beginning illegible) tan to \u00feam halgan os\u01bfolde. \u00dea geseah"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '148-53'", 
+            "text": "B.1.3.34", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '148') \u00c6fter \u00fe\u00e6s h\u00e6lendes \u00f0ro\u01bfunge \u02e5 \u00e6riste of dea\u00f0e (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '153-55'", 
+            "text": "B.1.3.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '153') Maximianus hatte sum h\u00e6\u00fean Casere (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '156-59'", 
+            "text": "B.1.3.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '156') Paulus \u00feeoda lareo\u01bf \u00fea \u00fea he geond land sende (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '161-63'", 
+            "text": "B.1.1.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '161') (beginning illegible) uppon hire \u01bfur\u00fe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '163') mid blode begleddod. \u00fea"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '164-67'", 
+            "text": "B.1.1.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '164') Ure se \u00e6lmihtiga scippend se \u00f0e ealla gesceafta butan \u00e6lcum antimbre (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '169-70'", 
+            "text": "B.1.3.27", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '169') (beginning missing) for\u00fean \u00f0e he \u01bf\u00e6s \u02e5s\u00e6te ealle (rest illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '170') stanas toburston (rest illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '171-74'", 
+            "text": "B.1.2.47", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. '171) OMELIA"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '171') (everything before line 7 illegible) ge nyten on h\u01bfilcere tide"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '174') se ana rixa\u00f0 on ecnysse Amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '174'", 
+            "text": "B.1.2.45", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '174') Designauit dominus & alios septuaginto duos. & reliqua. | Se h\u00e6lend geceas him to eacan \u00feam t\u01bfelf apostolas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '174') \u00fe\u00e6t he asend \u01bfyrhtan to his geripe (ends imperfectly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '178-80'", 
+            "text": "B.1.2.44", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '178') (beginning illegible) \u01bfitega (rest illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '180') (the ending is obscured by a hole and a mesh) | amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '180-81'", 
+            "text": "B.1.2.49", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fols '') IN DEDICATION (end illegible)"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '180') (beginning illegible) \u01bfe \u01bfylla\u00f0 sume ti (rest illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '181') (explicit illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '189'", 
+            "text": "B.1.3.31", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '189') (top four lines gone) \u01bfican \u00f0a | (beginning of line illegible) ne \u00f0one martyr mid menniscum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '189') \u00e1 mid his heofonlican f\u00e6der \u02e5 \u00feam | halgan gaste"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '189-97'", 
+            "text": "B.1.3.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '189') (beginning illegible) teah nan \u00e6\u00feelborennysse n\u00e6nne (part illegible) | \u00e6r \u00f0am lange leornode \u00e6t gel\u00e6redum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '197') to \u01bforuld mid gode. Amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '197-201'", 
+            "text": "B.1.1.29", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fols '197') kalendas IULII NATALE SANCTI PAVLI APOSTOLI"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '197') Godes ge (part illegible) r\u00f0a\u00f0 \u00f0ysne d\u00e6g. \u00feam m\u00e6ran ap (rest illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '201') \u00fe\u00e6t him mid him \u02e5 mid gode (end illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '201'", 
+            "text": "B.1.3.25", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fols '201') kalendas AUGUSTI. PASSIO SANCTOR MACABEORUM"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '201') \u00c6fter \u00f0an \u00f0e alexander se e (rest illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '201') \u00f0\u00e6s cyningas h\u00e6sum \u02e5 \u01bfoldon heora"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '204-11'", 
+            "text": "B.1.8.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '204') \u01f7e \u01bfylla\u00f0 eac a\u01bfritan hu \u00fe\u00e6t ge\u01bfinn geendod (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '211-12'", 
+            "text": "B.1.3.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '211') Ambrosius Biscop binnan Mediolana afunde on ealdum bocum (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '213-16'", 
+            "text": "B.1.3.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '213') On \u00f0am dagum \u01bf\u00e6s sum Heretoga gehaten Gallicanus (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '217-20'", 
+            "text": "B.1.3.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fols '217') Non Februari Passio Sact\u00e6 Agatha Virginis."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '217') Agathes \u01bf\u00e6s geciged sum ges\u00e6lig m\u00e6den on \u00f0\u00e6re scire Sicillianow lost"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '220-22'", 
+            "text": "B.1.3.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '220') \u00d0a asprang Agathen hlisa ofer land \u02e5 s\u00e6 (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '222-26'", 
+            "text": "B.1.3.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '222') \u01f7e c\u01bf\u00e6\u00f0a\u00f0 on Gerim-cr\u00e6fte Cathendra sancti Petri (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '226-28'", 
+            "text": "B.1.3.20.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '226') (text lost, based on Doane 2012 and Ker 1957) Sum h\u00e6\u00f0en Casere \u01bf\u00e6s gehaten Dioclitianus (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '228-29'", 
+            "text": "B.1.3.20.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fols '228') De Iniostis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '228') Is nu eac to \u01bfitan \u00fe\u00e6t man \u01bfitna\u00f0 for oft (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols '230-31'", 
+            "text": "B.1.3.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '230') \u01f7e \u01bfilla\u00f0 nu a\u01bfritan \u00f0eah \u00fee hit \u01bfundorlic sy. be \u00fe\u00e6re halgan \u00c6\u00d0ELDRYDE (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. '232'", 
+            "text": "B.18.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. '232') Sanctus Albanus Martyr in Breotene. se reste\u00f0 neah \u01f7\u00e6tlinga ceastre be \u00fe\u00e6re ea \u00f0e is genemmed \u01f7earlame (now lost)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. '232') \u00d0onne reste\u00f0 sanctus Cu\u00f0man \u00e6t St\u00e6nige on Su\u00fesexum neah \u00fe\u00e6r ea Bremre (now lost)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 292-98"
+                }, 
+                {
+                    "work": "ang1618"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013). Transcription is based on Doane 2010 and Ker 1957, as the text is illegible on microfiche.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#ang1618"
+    ]
+}

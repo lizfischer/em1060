@@ -1,0 +1,77 @@
+{
+    "id": "BL.Stow.57", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Stowe", 
+    "shelfmark": "57", 
+    "ker": "272", 
+    "content": "Names of letters of the alphabet; glosses in English, French and Latin", 
+    "location": "Peterborough", 
+    "date": "s.xii^{2}", 
+    "summary": "The principal text in the manuscript is a Latin world history in verse and prose, written in s.xii<span class=\"sup\">2</span>. At the same date, names of letters are written in English on fol. 3v, and glosses in English and French are added to a Latin list of names of animals, etc., on fols 156, 158, 159v and 160. <a href=\"#ker44\">Ker</a> suggests that the manuscript might come from <span class=\"name\">Peterborough</span> (1957, p. 337).", 
+    "items": [
+        {
+            "locus": "fol. 3v", 
+            "text": "B.24.6", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 3v) A a B be uel bei C ce uel cei D de uel dei E e F f G ge uel gei H hah uel hake I i K ka L l el M m em N n en O o Q quu R r er S s es T te V u X x ix Y y fix Z zede & & (second & smaller) \u00f7 \u00f7 (second \u00f7 smaller) Wtitel. Anglic\u0119 litter\u0119 \u01f7 \u01bfen \u00d0 \u00f0et \u00de \u00feorn"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 337"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 3v", 
+            "text": "B.25.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 337"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 156r-60r", 
+            "text": "D.62.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English, French and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 337"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

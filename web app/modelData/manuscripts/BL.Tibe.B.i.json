@@ -1,0 +1,540 @@
+{
+    "id": "BL.Tibe.B.i", 
+    "city": "London", 
+    "repository": "British\r\n  Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Tiberius B. i", 
+    "ker": "191", 
+    "content": "Annotations to Orosius, Chronicle", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 3r-7r", 
+            "text": "B.9.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 3r) Her onginne\u00f0 seo boc \u00fee man prosius nemne\u00f0"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) Vre yldran ealne \u00f0ysne ymbh\u01bfyrft on \u00fereo | to d\u00e6ldon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 7r) Hu god dyde romanum his miltsunge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 7-28", 
+            "text": "B.9.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 7v) VRE YLDRAN EALNE \u00d0YSNE YMBH\u01f7YRFT \u00d0USES MIDDANGEARDES C\u01f7\u00c6T OROSIUS. | s\u01bfa s\u01bfa oceanus ymblige\u00f0 utan \u00f0one man gar | segc hata\u00f0 on \u00f0reo to d\u00e6ldon \u02e5 hu hy \u00fea \u00fery d\u00e6las on | \u00f0reo to nemdon asiam europam \u02e5 africam"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 28v) Her | enda\u00f0 sio forme boc. \u02e5 ongin\u00f0 sio \u00e6ftere"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 28-42", 
+            "text": "B.9.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 28v) IC \u01f7ENE C\u01f7\u00c6\u00d0 OROSIVS | \u00d0\u00c6T NAN WIS MANNE SY BUTAN HE GENOH GEARE \u01f7ITE. \u00d0\u00c6T | god \u00feone \u00e6restan man rihtne \u02e5 godne gesceop | \u02e5 eall mancynn mid him"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 42r) Ne \u01bfene | ic c\u01bf\u00e6\u00f0 orosius nu ic lange spell h\u00e6bbe to segcenne || \u00fe\u00e6t ic hy on \u00feysse bec geendian m\u00e6ge ac ic o\u00f0ere ongin | nan sceal"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 42-63", 
+            "text": "B.9.2.4.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 42r) \u00c6FTER \u00d0AM \u00d0E ROME | BVRH GETIMBRAD \u01f7AS III HUND \u01f7INTRA \u02e5 LUII ON \u00deAM | dagum \u00fee gallie rome a\u01bfest h\u00e6fdon ; \u00dea ge\u01bfear\u00f0 | seo m\u00e6ste sibb \u02e5 seo bysmorlecoste bet\u01bfih l\u00e6ce | demonium creca londe \u02e5 persum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63r) Ne fur\u00feon \u00feaet \u00fea \u01bfoldon gefryn beon \u00fee \u01bf\u00e6ron ge | bro\u00f0ra of f\u00e6der \u02e5 of meder"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": ""
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 63-83", 
+            "text": "B.9.2.5.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 63r) INCIPIT LIBER QUARTUS"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63r) \u00c6FTER \u00d0AM \u00d0E ROMEBURH GETIMBRED | \u01bf\u00e6scccc. hund \u01bfintrum\u02e5 lxiiii. gum \u00fe\u00e6t taren | tine \u00fe\u00e6t folc plegedon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 83r) S\u01bfa \u00feonne is me nu | s\u01bfi\u00f0e earfe\u00f0e heora mod to ah\u01bfettane nu hit na | \u00f0or nele beon ne scearp ne heard"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 83", 
+            "text": "B.9.2.6.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 83r) I. Hu ororius spr\u00e6c umbe romana gyl\u00fe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 83v)XV Hu sume ispania \u01bf\u00e6ron aguster \u01bfi\u00f0er\u01bfinnan."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 84-96", 
+            "text": "B.9.2.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 84r) IC \u01f7AT C\u01f7\u00c6\u00d0 OROSIUS. H\u01f7\u00c6T SE ROMANA | gil\u00fe s\u01bfi\u00f0ost is"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 96r) her enda\u00f0 seov. boc. \u02e5 onging\u00f0 seovi."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 96-97", 
+            "text": "B.9.2.7.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 96r) Hu orosius \u01bf\u00e6s sprecende ymb \u00feaiiii. an\u01bfealdas | \u00fearaiiii. heafodlice \u00feisses middangeardes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 97r) Hu god gedyde romanum his miltsunge"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 97-111", 
+            "text": "B.9.2.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 97r) NU IC \u01f7ILLE C\u01f7\u00c6\u00d0 OROSIVS ON FORE\u01f7EARDRE | \u00feissevi. bec gereccean \u00fe\u00e6t hit \u00feeah godes bebod | \u01bf\u00e6s \u00feeah hit strang \u01bf\u00e6re. Hu emlice. \u00fea feo\u01bfer | an\u01bfealdas \u00feara feo\u01bfer heafodrica \u00feisses middan | geardes gestodon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 111v) Si\u00fe\u00feon s\u00e6tan \u00fea gotan | \u00fe\u00e6r on lande. sume be \u00fe\u00e6s case\u01bfer \u01bfillan. Sume hi foran on ispanie. \u02e5 \u00fe\u00e6r | ges\u00e6tan. Sume on affrice"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 112-14", 
+            "text": "A.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 112r) CRIST \u01f7\u00c6S ACEN | NYD CYNINGA \u01f7VLdor | on middne \u01bfinter m\u00e6re \u00feeoden ece \u00e6lmihtig on | \u00fey eahteo\u00f0an d\u00e6g h\u00e6lend gehaten heofon rices | \u01bfeard."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 114v) nu gefindan magon | haligra tiid \u00fee man healdan sceal S\u01bfa bebuge\u00f0 gebod | geond brytenricu. sexna kyninges on \u00feas sylfan tiid."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 115", 
+            "text": "A.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115r) CYNING SCEAL RICE HEALDAN"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 115v) n\u00e6ni eft cyme\u00f0 hider under hrofas. \u00fee \u00fe\u00e6t her | for so\u00f0 mannum secge h\u01bfylc sy meotodes gesceaft | sigefolca gesetu \u00fe\u00e6r he sylfa \u01bfuna\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 115-64", 
+            "text": "B.17.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 115v) \u00c6scnesselx. \u01bfintra galius iulius se casere | \u00e6rest romana brytenland gesohte. \u02e5 bryt | tas mid gefeohte cnysede \u02e5 hy ofers\u01bfi\u00f0\u00f0e. \u02e5 s\u01bfa \u00feeah || ne mihte \u00fe\u00e6r rice ge\u01bfinnan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 164vexplicit occurs on fol. 162v, which is now out of order but the last folio on which part of this text occurs is 164v) \u02e5 \u00fe\u00e6r \u01bfar | harold cyning of nor\u01bfegum \u02e5 tostig eorl ofslagen \u02e5 ungerim | folces mid heom \u00e6g\u00f0er ge normana ge englisca \u02e5 \u00fea normenends imperfectly"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 164", 
+            "text": "B.27.3.45", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 164r) begins imperfectly to follow on from 11th century copy flugon \u00fea englisa. \u00d0a \u01bfes \u00feer an of nor\u01bfegan \u00fee \u01bfi\u00f0stod \u00feet en | glisce folc \u00feet hi ne micte \u00fea brigge oferstigan ne sige ge | rechen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 164r) \u02e5 \u00fees cyninges supart illegible het | mundus let harold faran ham to nor\u01bfeie mid alle \u00fea scipe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 251-53"
+                }, 
+                {
+                    "work": "obr634", 
+                    "page": ""
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "c. 280 mm x 195 mm (dimensions of all - size of leaves).\n215-224 mm x 130-136 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "13. Three from the period 1060-1220", 
+        "summary": "Some of the hands in the manuscript share characteristics which can be found in contemporary", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 191 SC1", 
+                "description": "Fols 160-162. Round and small minuscule", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> with tapered descender and a hooked head which at times almost closes on itself."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "small <span class=\"c\">d</span> with short ascender."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "back-stroke <span class=\"c\">\u00f0</span> with long ascender ending with a tail to the left and a cross-bar with a right-side dot to the right."
+                    }
+                ], 
+                "date": "xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 191 SC2", 
+                "description": "Fols 162r/7-162v. Round and small minuscule very similar to the one immediately preceding it.", 
+                "summary": "Retains the special insular letter-forms:", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> with short descender, finishing just below the line of writing and a short hooked head."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Small <span class=\"c\">d</span> with short ascender almost upright."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "Back-stroke <span class=\"c\">\u00f0</span> with long ascender ending with a very short tail to the left. At times especially in double <span class=\"c\">\u00f0</span>, the ascender curves slightly to the right."
+                    }
+                ], 
+                "date": "xi"
+            }, 
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 191 SC3", 
+                "description": "Fol. 164r. A larger minuscule with letter forms of squarish proportion, which retain the special insular letter-forms.", 
+                "summary": "Retains the special insular letter-forms except:", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: round back with curved ascender to the left."
+                    }, 
+                    {
+                        "char": "Tironian Nota", 
+                        "note": "<span class=\"c\">Tironian Nota</span> is, in two cases, short with curved descender to the right and almost sitting on the line of writing."
+                    }
+                ], 
+                "date": "xi/xii"
+            }, 
+            {
+                "name": "glosses and alterations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Hand", 
+                "description": "The Old English", 
+                "summary": null, 
+                "date": "xiii"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Repaired and rebound in 1839. Rebound in 1865 and again in 1957.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown. <a href=\"#ker44\">Ker</a> notes that from 977 onwards there are local entries relating to <span class=\"name\">Abingdon</span> (1957, p. 253), although O'Brien O'Keeffe argues that the ascription of an <span class=\"name\">Abingdon</span> provenance is mainly due to tradition and is difficult to sustain (<a href=\"#obr624\">2001</a>, pp. lxxiv-xcii and <a href=\"#obr634\">2003</a>, p. 1) Considering the analysis of some of the hands, it likely that there is also a layer of production in <span class=\"name\">Worcester</span>.", 
+        "provenance": "May have been in Abingdon from s. xi<span class=\"sup\">med</span> (<a href=\"#ker44\">Ker 1957</a>, p. 253).", 
+        "acquisition": "<a href=\"#obr634\">O\u2019Brien O\u2019Keeffe</a> reports that the manuscript was owned by <span class=\"name\">Robert Talbot</span>, prebendary of <span class=\"name\">Norwich</span> (d. 1558), during which time <span class=\"name\">Robert Recorde</span> (d. 1558) made extracts from the Chronicle (2003, p. 1). <span class=\"name\">John Leland</span> (d. 1552) copied some of Talbot\u2019s annotations and glosses into his <span class=\"italics\">Collectanea</span>. <span class=\"name\">Laurence Nowell</span> copied part of Chronicle in London, British Library, Add. 43704. <span class=\"name\">William Bowyer</span> (d. 1576), Keeper of the Records in the Tower of London. <span class=\"name\">Robert Cotton</span> acquired the manuscript as a result of an exchange with <span class=\"name\">Robert Bowyer</span> by exchange, as recorded in the 1621 Cotton catalogue (British Library, Harley 6018, fols 154v, 158r). Acquired by the British Museum along with the rest of the Cotton library."
+    }, 
+    "admin": "Manuscript described by Mary Swan with the assistance of Hollie Morgan and Sanne van der Schee, hand descriptions by Orietta Da Rold; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bat613", 
+        "bat614", 
+        "cla826", 
+        "con615", 
+        "cub827", 
+        "dic616", 
+        "dob617", 
+        "gne146", 
+        "gra618", 
+        "hea619", 
+        "kel828", 
+        "ker44", 
+        "len620", 
+        "lut621", 
+        "lut622", 
+        "obr624", 
+        "obr634", 
+        "obr623", 
+        "oni625", 
+        "plu626", 
+        "pre627", 
+        "rob335", 
+        "ros628", 
+        "scr565", 
+        "tem30", 
+        "tho813", 
+        "tit629", 
+        "tos630", 
+        "wan416", 
+        "wat88", 
+        "whi653", 
+        "wor631", 
+        "wri632"
+    ]
+}

@@ -1,0 +1,818 @@
+{
+    "id": "BL.Cali.A.xv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Caligula A. xv", 
+    "ker": "139A; 139B", 
+    "content": "Computistica etc.; \u00c6lfric's rendering of Bede's De temporibus anni", 
+    "location": "Canterbury, Christ Church (Pt A);", 
+    "date": "s.xi^{2}", 
+    "summary": " A composite manuscript. Fols 3 - 117 are material from the eighth and ninth centuries (see < a href = \"#ram1169\" > Ramsay 1998 < / a >).The manuscript has a North - Eastern French provenance, and was in < span class =\"name\" > England < / span > by s. ix / x( < a href = \"#gne146\" > Gneuss 2001 < / a >, item 311). The eleventh - century material(fols 120 - 53) once formed a single volume with BL Egerton 3314, some of which was written by < span class =\"name\" > Salomon < / span >, monk of < span class =\"name\" > Christ Church, Canterbury < / span > ( < a href = \"#wil1168\" > Willetts 1966 < / a >).This portion of the manuscript is made up of two parts: < ul > < li > Part A(fols 120 - 41), s.xi < span class =\"sup\" > 2 < / span >, contains notes on computus and the calculation and observance of church services; a table of years and annals of < span class =\"name\" > Christ Church, Canterbury < / span >; < span class =\"italics\" > lunar prognostics < / span >; charms and other notes, mostly in Old English.In the annals(fols 133 - 37) the Conquest was not noticed by the original annalist for 1066, who wrote 'Her forðferde eadward kyng'.A later hand added '˥ her com willelm'. < / li > < li > Part B contains extracts from Bede 's <span class=\"italics\"> < span class =\"italics\" > De temporibus < / span > < / span > (fols 142, 144 - 53 v), a note of the ferial regulars and concurrents(fols 142 v - 43 r) and a note on epacts(fol. 143) ( < a href = \"#ker44\" > Ker 1957 < / a >, pp. 175 - 76).",
+    "items": [
+        {
+            "locus": "fols 125v\u201326r", 
+            "text": "B.23.3.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(125v) Se \u00fee afeal\u00f0 earfo\u00f0lice he \u00e6twint"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (a)"
+                }, 
+                {
+                    "work": "for500", 
+                    "page": "p. 37"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 126v", 
+            "text": "B.20.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(126v) On anre nihta eald mona"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (b)"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 222"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 127r-v", 
+            "text": "C.102.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (c)"
+                }, 
+                {
+                    "work": "for502", 
+                    "page": "p. 75"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 129r-v", 
+            "text": "B.23.1.9.3.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 129) Wi\u00f0 gedrif, Wi\u00f0 poccas, Wi\u00f0 geswell"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (d)"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 295"
+                }, 
+                {
+                    "work": "dic1109", 
+                    "page": "p. 67"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "no. 68"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 130r", 
+            "text": "B.23.2.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Syndon twegen dagas on \u00e6ghwylcum mon\u00f0e"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (e)"
+                }, 
+                {
+                    "work": "for1083", 
+                    "page": "p. 262"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 130r", 
+            "text": "B.20.1.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(130r) \u00c6lce geare \u00feonne \u00feu scyle witan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (f)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p.47"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 130r", 
+            "text": "B.20.1.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(130r) Ealde witan \u02e5 wise romane gesetton on gerimcr\u00e6fte"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (g)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 46"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 130v-31r", 
+            "text": "B.23.2.3.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(130v) \u00d0a ealdan l\u00e6ces gesetton on ledonbocum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Corresponds with the days listed in Latin on fol. 129v"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139A (h)"
+                }, 
+                {
+                    "work": "for1083", 
+                    "page": "p. 266"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131r", 
+            "text": "B.23.2.3.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131r) \u00d0reo dagas syndon on XII mon\u00f0um mid \u00ferim nihtum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (i)"
+                }, 
+                {
+                    "work": "for1083", 
+                    "page": "p. 260"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131r", 
+            "text": "B.20.1.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131r) On Kalend Ianuarii"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (j)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 42"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 226"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131r", 
+            "text": "B.20.2.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131r) Gif \u00feu nyte swylce concurrentes beon on geare"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (k)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 51"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 226"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131r", 
+            "text": "B.20.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131r) And gif \u00feu wille witan mid gesceade \u00fe\u00e6t gem\u00e6re termen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (l)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 44"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 226"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131r", 
+            "text": "B.20.2.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131r) And gif \u00feu wille witan hra\u00f0e hu fela epactas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (m)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 48"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 228"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131v", 
+            "text": "B.20.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131v) And gif \u00feu wille witan hu eald se mona w\u00e6re fyrngeare"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (n)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 55"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 228"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131v", 
+            "text": "B.20.11.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131v) Se \u00e6resta friged\u00e6g \u00fee man sceal f\u00e6sten"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139A (o)"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p.64"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 64"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 131v-32r", 
+            "text": "B.23.3.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(131v) On anre nihta eald monan swa hw\u00e6t swa \u00fee m\u00e6te\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139A (p)"
+                }, 
+                {
+                    "work": "for502", 
+                    "page": "p. 79"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 132r", 
+            "text": "B.23.3.2.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(132r) Gif mann bi\u00f0 akenned on anre nihte ealne monan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139A (q)"
+                }, 
+                {
+                    "work": "for500", 
+                    "page": "p. 21"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 132v-38v", 
+            "text": "B.17.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(132v) An. dccccxxv. On \u00feison geare w\u00e6s sancte Dunstan geboren"
+                }, 
+                {
+                    "head": "Explicit (Latin)", 
+                    "body": "(138v) apud castrum Mirabel, kalendis Augusti."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Christ Church house chronicle running from 988 (the ordination of Archbishop Dunstan) to 1193 with extensions to 1268. Entries are in English until 1109 and therafter in Latin (with the exception of a solitary English annal recording the consecration of Christ Church in 1130)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139A (r)"
+                }, 
+                {
+                    "work": "bak1502", 
+                    "page": "pp. 129\u201334"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 139v", 
+            "text": "B.24.25.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(139v) Her ongin\u00f0 embe \u00feises middaneardes yldo"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (s)"
+                }, 
+                {
+                    "work": "for574", 
+                    "page": "p. 192"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 140r", 
+            "text": "B.23.1.9.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(140r) Se engel brohte \u00feis gewrit of heofonum. \u02e5 lede hit uppan sanctus petrus weofud on rome."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc404", 
+                    "page": "III, 288"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (u)"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "no. 34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fo. 140r", 
+            "text": "B.23.1.9.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(140r) Gif \u00feu wille gan in to \u00feinum hlaforde o\u00fe\u00fee to o\u00ferum menn o\u00f0\u00f0e to gemote \u00feonne b\u00e6r \u00feu \u00feas stafas mid \u00fee \u00feonne bi\u00f0 he \u00fee li\u00fee \u02e5 bli\u00f0."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "coc404", 
+                    "page": "III, 290"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (v)"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "no. 69"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 140v", 
+            "text": "B.12.10.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(140v) Her ongin\u00f0 damasus papan smeagung wi\u00f0 hieronime"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 139A (w)"
+                }, 
+                {
+                    "work": "nap964", 
+                    "page": "p. 7"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 142r-v", 
+            "text": "B.1.9.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(142r) Manegra manna cwyddung is \u00fe\u00e6t se lenctenlice emniht"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139B.1"
+                }, 
+                {
+                    "work": "hen403", 
+                    "page": "44/1\u201346/5 and 54/5-64/5"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols. 142v-43r", 
+            "text": "B.20.3.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(142v) Gyf \u00feu wilt witan mid gesceade hwanun comon"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends abruptly"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139B.2"
+                }, 
+                {
+                    "work": "hen516", 
+                    "page": "p. 53"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols. 143r-43v", 
+            "text": "B.20.2.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(143r) Epactas \u00fee me to \u00feissum twelfmon\u00f0um de\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139B.3"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 282"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols. 144r-53v", 
+            "text": "B.1.9.4.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(144r) \u00de\u00e6re sunnan gear is \u00fe\u00e6t heo beyrne \u00f0one micelan circul Zodiacum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "139B.4"
+                }, 
+                {
+                    "work": "hen403", 
+                    "page": "28/1-78/10"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "III, 224-276"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Original flyleaves (fols 1-2) are in parchment; with two modern paper flyleaves.", 
+        "extent": "217 mm x 170 mm (dimensions of all - size of leaves).\n180-190 mm x c. 120 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": "Part A(fols 120 - 41): 1 - 2 <span class = \"sup \" > 8 < / span >, 3 <span class = \"sup \" > 6 < / span >.Two parchments are inserted before this part and attached to fol. 120. Part B(fols 142 - 53): five bifolia(fols 143 - 52), preceded and followed by singletons(fols 142 and 153).",
+        "layoutDescription": "Single column. Part A: 36 long lines.Pricking and rulings are visible on all folios.Fol. 141 v has an additional line outside the rulings, and has 37 lines of the text.Pricking for the vertical lines are sometime visible on pages with tables (for example, fol. 121 r). Part B: pricked for 38 long lines, but only fols 142-43, 146-49 and 152 are ruled for 38 lines and only fols 142-43 are actually written in 38 long lines.On fols 146 - 49 and 152 the scribe wrote on every alternate line.On fols 144 - 45 and 150 - 51, 19 lines are ruled in pencil.On fol. 153 ruling is not visible.",
+        "note": null
+    },
+    "handDesc": {
+        "number":"3 main hands for English entries and various hands responsible for annals",
+        "summary":"Part A is by one scribe in the same ink, writing soon after 1073. The annals from 1085 are in various different hands, some of them of the < span class =\"name\" > Canterbury < / span > type: insular < span class =\"c\" > g < / span > and < span class =\"c\" > r < / span > are still in use in the latest Old English entry, made in 1130. The notice of a 'benedictio cerei' on Easter Sunday is added by another hand in blank space on fol. 141. In part B fols 142 r - 143 v are in one hand, s.xi < span class =\"sup\" > 2 < / span > and fols 144-53 in a second hand, s.xi / xii.",
+        "hands":[
+            {
+                "name": "Part A, except later annals ",
+                "scope": "Major",
+                "script": "English Vernacular Minuscule",
+                "scribe": "Ker 139",
+                "description": "Fols 120r-134v (up to 137r for the table), 139v-415. The annals from 988 to 1073 (fols 133r-134v) are in the same hand and ink as the rest of this part of the manuscript. The next annal, 1076, is in the same hand, but a different ink. No further annals are entered until 1085.",
+                "summary": "'A firm, bold hand'(<a href = \"#scr565\" > C11 project </a>).",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span> is broad, almost square and 'flat-topped, which appears in other Christ Church, Canterbury manuscripts' (<a href=\"#ker44\">Ker 1957</a>, p. 176). Sometimes open at the top. Final <span class=\"c\">a</span> usually has a long finishing-stroke and the stress-mark, when used, is long, slanting up to the right then sometimes turning down at the end."},
+                    {"char": "e", "note": " <span class=\"c\">e</span> is open at the top."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> is insular, and has a closed loop."},
+                    {"char": "o", "note": "<span class=\"c\">o</span> is sometimes open at the top."},
+                    {"char": "s", "note": "<span class=\"c\">s</span> is always long, even when doubled."},
+                    {"char": "ð", "note": "The cross-bar of <span class=\"c\">ð</span> turns over at one or both ends. The ascender is generally curved."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are wedged or split."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> curves to the left at the end."},
+                    {"char": "macron", "note": "The <span class=\"c\">macron</span> indicating a missing <span class=\"c\">m</span> or <span class=\"c\">n</span> turns over at one or both ends."},
+                    {"char": "þæt", "note": "The abbreviation for 'þæt' turns over at one or both ends (<a href=\"#scr565\">C11 project</a>)."},
+                    {"char": "˥", "note": "The head of the <span class=\"c\">˥</span> is generally curved."},
+                    {"char": ".", "note": "Punctuation is by <span class=\"c\">low point</span>."}
+                ],
+                "date":"Soon after 1073",
+                "place": "Christ Church, Canterbury",
+                "otherManuscripts": "The hand seems to be the same as that which wrote the first series of Canterbury privileges in British Library, Cotton Claudius A.iii, fols 4 - 6 (<a href = \"#ker44\"> Ker 1957 </a>, p. 176)."
+            },
+            {
+                "name": "Part A, added annals ",
+                "scope": "Major",
+                "script": "Various hands",
+                "description": "Fols 135 r - 38 r. Annals both in English and Latin were added by various contemporary hands. <a href = \"#ker44 \"> Ker </a> (1957) says that some of them are of the 'Canterbury type', and insular <span class = \"c \"> g </span> and <span class = \"c \"> r </span> are still in use in the latest Old English entry, 1130. The annals added in fols 138 v - 39 r are all in Latin by much later hands.",
+                "date": "1085-1130 or later"
+            },
+            {
+                "name": "The first scribe of Part B ",
+                "scope": "Major",
+                "script": "English Vernacular Minuscule",
+                "scribe": null,
+                "description": " Fols 142r/9-143v.",
+                "summary": "Round script. As the <a href=\"#scr656\">C11 project</a> says, this is 'small but very clear', and many of the capitals are the same height as the minuscule letter.",
+                "characters": [
+                    {"char": "d", "note": "The ascender of <span class =\"c\">d</span> is short and horizontal and turns up at the end."},
+                    {"char": "e", "note": "<span class =\"c\" >e</span> has a round back."},
+                    {"char": "f", "note": "<span class =\"c\" >f</span> is insular."},
+                    {"char": "g", "note": "<span class =\"c\" >g</span> is insular."},
+                    {"char": "h", "note": "<span class =\"c\" >h</span> is insular; both limbs with distinct feet."},
+                    {"char": "t", "note": "<span class =\"c\" >t</span> is insular."},
+                    {"char": "ð", "note": "The ascender of <span class =\"c\" >ð</span> is at 45º, and its horizontal crossbar extends only to the right and turns up at the end."},
+                    {"char": "x", "note": "The left leg of<span  class =\"c\" >x</span>is extended, but not greatly."},
+                    {"char": "Æ", "note": "The<span  class =\"c\" >e</span>component of<span  class =\"c\" >Æ</span>is minuscule."}
+                ],
+                "date":"s. xi^{2}"
+            },
+            {
+                "name": "Main text",
+                "scope": "Major",
+                "script": "Caroline Minuscule",
+                "scribe": "not in Ker",
+                "description": "Fols 1-75r/3..",
+                "summary": "There is no major...",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span> is insular."},
+                    {"char": "æ", "note": "The two elements of <span class=\"c\">æ</span> are almost equal in height."},
+                    {"char": "d", "note": "The descender of <span class=\"c\">d</span> is very short and curls upwards."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> is insular with a closed loop."},
+                    {"char": "n", "note": "When the final letter in a line is <span class=\"c\">n</span> it frequently appears as a rustic capital in a minuscule context."},
+                    {"char": "e", "note": "Insular <span class=\"c\">e</span> is horned and has a tongue."},
+                    {"char": "ð", "note": "The cross-stroke of <span class=\"c\">ð</span> does not always bisect the ascender, and usually flicks upwards at the right end."},
+                    {"char": "Æ", "note": "In <span class=\"c\">Æ</span>, the <span class=\"c\">E</span> component is small and set low down."},
+                    {"char": "E", "note": "Enlarged <span class=\"c\">e</span> often used in place of <span class=\"c\">E</span>."},
+                    {"char": "N", "note": "The right leg of <span class=\"c\">N</span> does not extend far below the line. The left leg has a serif. Enlarged <span class=\"c\">n</span> often used in place of <span class=\"c\">N</span>."},
+                    {"char": "ascenders", "note": "<span class=\"c\">ascenders</span> are twice the minim height and wedged at the top."},
+                    {"char": "descenders", "note": "<span class=\"c\">descenders</span> are of minim length and turn to the left."}
+                ],
+                "date":"s. xi/xii"
+            }
+        ]
+    },
+    "decoration": ["Tables (fols 120r, 20v-22r) and diagrams use red and green (fols 120-22).","The image of the saints in pen drawing is coloured in red and green (fols 122v-23r).", "Capital letters are red, green, black and blue. Some rubrics are in red."],
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "At least Part A was written at <span class=\"name\">Christ Church, Canterbury</span> (<a href=\"#ker44\">Ker 1957</a>, p. 176).", 
+        "provenance": null, 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> with the rest of the <span class=\"name\">Cotton</span> Library."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Zo\u00eb Enstone, Molly Hogan, Hollie Morgan and George Younge (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bak1502", 
+        "bri1165", 
+        "coc404", 
+        "cra1110", 
+        "dic1109", 
+        "for498", 
+        "for500", 
+        "for502", 
+        "for1083", 
+        "for574", 
+        "gam420", 
+        "gam187", 
+        "gam38", 
+        "gne146", 
+        "hen403", 
+        "hen516", 
+        "ker44", 
+        "low17", 
+        "nap964", 
+        "pla1170", 
+        "ram1169", 
+        "rob335", 
+        "scr565", 
+        "smi1171",
+        "sto907", 
+        "wan416", 
+        "wat88", 
+        "web186", 
+        "wil1168", 
+        "wor29"
+    ]
+}

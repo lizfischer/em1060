@@ -1,0 +1,61 @@
+{
+    "id": "BL.Titu.D.xxiv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Titus D. xxiv", 
+    "ker": "201", 
+    "content": "Formulas for the visitation of the sick", 
+    "location": "Nottinghamshire, Cistercian Abbey of Rufford", 
+    "date": "s.xii^{2}", 
+    "summary": "Two English passages added to the last leaf of a collection of s. xii<span class=\"sup\">2</span> Latin verses. The first passage is preceded by the text in Latin; the second by the text in Latin and in French. Different languages are written in different colours. <a href=\"#ker44\">Ker</a> notes that the manuscript is from the <span class=\"name\">Cistercian abbey of Rufford, Notts</span> (1957, p. 264).", 
+    "items": [
+        {
+            "locus": "fol. 156r", 
+            "text": "B.12.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 156r) here leue bro\u00feor cristes fles and his blod \u00feat \u01bfe \u00fee to bringen tro\u01bfes tu \u00feat it is \u00feat ilche \u00feing in \u00feat is ure lif and ure hele and ure resinge of dead to liue"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 264"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 156v", 
+            "text": "B.12.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 156v) Ic haue singed on \u01bford on thoct. on dede. mei culpe. tudens pectus suum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 264"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Takako Kato with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

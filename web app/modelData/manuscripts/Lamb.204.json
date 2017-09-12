@@ -1,0 +1,153 @@
+{
+    "id": "Lamb.204", 
+    "city": "London", 
+    "repository": "Lambeth Palace Library", 
+    "collection": "", 
+    "shelfmark": "204", 
+    "ker": "277", 
+    "content": "Glosses and a scribble", 
+    "location": "Ely", 
+    "date": "s.xi^{med}", 
+    "summary": "The main text is Gregory's <span class=\"italics\">Dialogues</span> and Ephrem Syrus, <span class=\"italics\">De compunctione cordis</span>, in a s. xi<span class=\"sup\">1</span> hand. The glosses and a scribble are by s. xi<span class=\"sup\">med</span> hands, apart from the gloss on fol. 70v, which may be in the hand of the main text. <a href=\"#ker44\">Ker</a> suggests that the manuscript may be from <span class=\"name\">Ely</span>, as the arms of <span class=\"name\">Robert Steward</span> are on fol. 129v (1957, p. 341).", 
+    "items": [
+        {
+            "locus": "fol. 25r", 
+            "text": "C.69.2.1", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 38v", 
+            "text": "C.69.2.2", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 70v", 
+            "text": "C.69.2.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 74v", 
+            "text": "C.69.2.4", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 74v) byt (glossing Latin 'oretis')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 119v", 
+            "text": "C.64.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 119v) min sar me benet to segen \u02e5 min unriht\u01bfisnesse me \u00f0r\u00e6\u00f0 \u00fe\u00e6t ic s\u01bfige sar me for (glossing Latin 'Dolor me conpellit dicere et iniquitas mea minatur mihi ut sileam. Dolor me proloqui')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 128v", 
+            "text": "C.64.2.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 128v) \u00e6di so\u00f0lice \u00f0e him silue (glossing Latin 'Beatus ergo qui sibi')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 129v", 
+            "text": "B.27.3.26", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 129v) \u00d0a \u00e6fter \u00e6adgares cininges for\u00f0si\u00f0e on \u00f0am ge\u01bfalce"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "p. 341"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

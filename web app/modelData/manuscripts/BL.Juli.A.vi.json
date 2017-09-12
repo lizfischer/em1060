@@ -1,0 +1,41 @@
+{
+    "id": "BL.Juli.A.vi", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Julius A. vi", 
+    "ker": "160", 
+    "content": "Gloss to Hymnal", 
+    "location": "Durham", 
+    "date": "s.xi^{med}", 
+    "summary": "Continuous Old English interlinear glosses to prose paraphrases of Latin hymns, and 27 monastic canticles. At <span class=\"name\">Durham</span> in 1391 (<a href=\"#ker44\">Ker 1957</a>, p. 205).", 
+    "items": [
+        {
+            "locus": "fols 20v-72v", 
+            "text": "C.18.3", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 160"
+                }, 
+                {
+                    "work": "pul", 
+                    "page": "1996, item 199, pp. 1-13"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#pul"
+    ]
+}

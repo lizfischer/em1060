@@ -1,0 +1,164 @@
+{
+    "id": "Ox.CCC.197", 
+    "city": "Oxford", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "197", 
+    "ker": "353", 
+    "content": "Documents relating to Bury St. Edmunds", 
+    "location": "Bury St Edmunds", 
+    "date": "s.xi^{2}", 
+    "summary": "A number of documents in English and Latin added in several hands s. xi<span class=\"sup\">2</span>-xii<span class=\"sup\">1</span> to a manuscript containing a s. x<span class=\"sup\">2</span> copy of the bilingual Latin and Old English <span class=\"italics\">Rule of Benedict</span>. From <span class=\"name\">Bury St Edmunds</span>.", 
+    "items": [
+        {
+            "locus": "fols 1-105", 
+            "text": "B.10.3.1", 
+            "notes": [
+                {
+                    "head": "Date", 
+                    "body": "s. x2"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "430"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 106-09", 
+            "text": "B.16.5.4.1.EM", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "430"
+                }, 
+                {
+                    "work": "rob439", 
+                    "page": "no. 104"
+                }, 
+                {
+                    "work": "dou1616", 
+                    "page": "381"
+                }, 
+                {
+                    "work": "her1617", 
+                    "page": "2-8"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 106v-08", 
+            "text": "B.16.5.4.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 106v) Her stent \u00f0a forwarde"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "430-31"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 108r/7-12", 
+            "text": "B.16.5.4.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her stant gewriten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "7 \u00fe\u00e6r sculan.. III oran (According to Ker, by a different hand)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "431"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 108r/14-23", 
+            "text": "B.16.5.4.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00d0is is seo caritas"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "431"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 108v/1-11", 
+            "text": "B.16.5.4.5.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "431"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 108v/12-22", 
+            "text": "B.16.5.4.6.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "431"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 109r/1-12", 
+            "text": "B.16.5.4.7.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 109r) \u00d0is is sancte eadmundes ferme"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "431"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

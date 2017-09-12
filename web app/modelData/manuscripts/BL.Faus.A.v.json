@@ -1,0 +1,106 @@
+{
+    "id": "BL.Faus.A.v", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Faustina A. v + Dublin Trinity College 114 (A. 5. 2)", 
+    "ker": "152", 
+    "content": "Bede's Death Song", 
+    "location": "Durham", 
+    "date": "s.xii^{1}", 
+    "summary": "A composite manuscript. It contains items copied in various centuries, s. xii<span class=\"sup\">1</span>-s. xv. Items from s. xii<span class=\"sup\">1</span> are Symeon of Durham, <span class=\"italics\">Liber de exordio atque procursu Dunelmensis ecclesiae</span> (fols 25r-97r), Pseudo-Bede, <span class=\"italics\">De Quindecim Signis</span> (fols 99r-99v) and Pseudo-Augustine <span class=\"italics\">De Antichristo quomodo et ubi nasci debeat</span> (fols 99v-102r). 'Bede's Death Song' in OE (West Saxon Version) is part of Symeon of Durham's 'Liber', and appears on fol. 43r/7-11. This manuscript originally made up a volume together with Dublin, Trinity College 114, which contains Clement of Llanthony (s. xiv<span class=\"sup\">med</span>) and Sermons (s. xv<span class=\"sup\">med</span>).",
+    "items": [
+        {
+            "locus": "fol. 43r/7-11", 
+            "text": "A.33.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 43r) For \u00feam neodfere nenig wyr\u00fee\u00f0"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "luc694", 
+                    "page": "art. 191, pp. 42-47"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 152"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Fols ii + 104 + v. Arrangement of HF is irregular.", 
+        "extent": "c. 240-42 mm x c. 178 mm (dimensions of all - size of leaves).\n190 mm x 135 mm (dimensions of range - size of written space).\n188 mm x 143/136 mm (dimensions of range - size of written space).\n195 mm x 166 mm (dimensions of range - size of written space).",
+        "foliation": "Pencil foliation starts on fol. i and ends on fol. 106. Two flyleaves are not foliated, nor is fol. 207.",
+        "collation": null, 
+        "layoutDescription": "The ruling patterns varies. Mostly single column, except Quire II (fols 31-24). According to <a href=\"#gul700\">Gullick 1998</a>, the ruling scheme is very similar to that in Durham, University Library Cosin V. II. 6 (124), which contains corrections by <span class=\"name\">Symeon of Durham</span>. Bede's Death Song is 'written out like prose with pointing at the end of verse-lines' (<a href=\"#luc694\">Lucas 1997</a>, p. 44). Fol. 43r has single bounding lines at both sides, and double horizontal bounding lines which are two-line height, 26 lines. See a representative <a href=\"../mss_layout/LO26.pdf\">diagram</a>.",
+        "note": null
+    }, 
+    "handDesc": {
+        "number":"1 for Old English",
+        "hands":[
+            {
+                "name": "1",
+                "scope": "Major",
+                "script": "English Vernacular Minuscule for English",
+                "description": "According to <a href=\"#ker44\">Ker 1957</a> (pp. 189-90), Bede's Death Song (fol. 43r/7-11) was written by the main hand which copied the whole of Symeon of Durham's 'Liber de exordio atque procursu Dunelmensis ecclesiae' (fols 25r-97r). This scribe uses 'the special insular letter-forms' for Bede's Death Song (fol. 43r/7-11. ).",
+                "characters": [
+                    {"char": "a", "note": "<span class=\"c\">a</span> is in Caroline form."},
+                    {"char": "æ", "note": "<span class=\"c\">æ</span>, <span class=\"c\">a</span> and <span class=\"c\">e</span> are the same height; <span class=\"c\">e</span> has a hairline."},
+                    {"char": "d", "note": "<span class=\"c\">d</span> is insular; the top of the ascender curls backwards. <span class=\"c\">d</span> and <span class=\"c\">Ã°</span> are 'of the same shape and size'."},
+                    {"char": "e", "note": "<span class=\"c\">e</span> in 'gehiggene' and the first 'heonen' are in caroline form with a hairline-like tongue;"},
+                    {"char": "f", "note": "<span class=\"c\">f</span> is insular form."},
+                    {"char": "h", "note": "Both Caroline and insular forms of <span class=\"c\">h</span>."},
+                    {"char": "g", "note": "<span class=\"c\">g</span> is insular; the top is sometimes wavy, and the loop is open and finishes with upwards hairline stroke to the right."},
+                    {"char": "r", "note": "<span class=\"c\">r</span> is insular."},
+                    {"char": "s", "note": "<span class=\"c\">s</span> both in insular and Caroline. The Caroline long <span class=\"c\">s</span> sometimes extends below the writing line, sometimes stops at the writing line."},
+                    {"char": "Ã¾", "note": "<span class=\"c\">Ã¾</span> is used."},
+                    {"char": "Ã°", "note": "<span class=\"c\">Ã°</span> is used."},
+                    {"char": "y", "note": "<span class=\"c\">y</span> is insular and dotted."},
+                    {"char": "ascenders", "note": "The top of <span class=\"c\">ascenders</span> are split."},
+                    {"char": "descenders", "note": "The ends of <span class=\"c\">descenders</span> turn to the left."}
+                ]
+            }
+        ]
+    },
+    "decoration": null,
+    "additions": "There is an inscription by Thomas Allen in a flyleaf.",
+    "binding": "Modern brown binding. The quires are mounted in guards.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Symeon of Durham's <span class=\"italics\">Liber</span>, which includes <span class=\"italics\">Bede's Death Song</span>, was originally written at <span class=\"name\">Durham</span>. It is 'an early witness of Symeon of Durham's 'Historia Dunelmensis ecclesiae' (<a href=\"#luc694\">Lucas 1997</a>, p. 42).", 
+        "provenance": "The manuscript was originally together with Dublin, Trinity College 114. <span class=\"name\">Henry Savile the Elder</span> (1547-1622) dismembered it and gave this part to <span class=\"name\">Thomas Allen</span> (1542-1632) of Oxford in 1589. Allen then gave it to <span class=\"name\">Cotton</span> (Allen's promise to Cotton is recorded in Harley 6018, fol. 150v, dated as 30 April 1621). See <a href=\"#luc694\">Lucas 1997</a>, p. 42.", 
+        "acquisition": null
+    }, 
+    "admin": "Described by Takako Kato (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "spe706", 
+        "all696", 
+        "arn697", 
+        "cai698", 
+        "dob617", 
+        "fab711", 
+        "fos710", 
+        "gil701", 
+        "gul700", 
+        "hei702", 
+        "ker44", 
+        "ker703", 
+        "lab704", 
+        "lab712", 
+        "luc695", 
+        "luc694", 
+        "myn182", 
+        "rol705", 
+        "ste707", 
+        "wat708", 
+        "wat709", 
+        "wat714", 
+        "wat713"
+    ]
+}

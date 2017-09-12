@@ -1,0 +1,44 @@
+{
+    "id": "Ro.BM.l.49", 
+    "city": "Rouen", 
+    "repository": "Biblioth\u00e8que Municipale", 
+    "collection": "", 
+    "shelfmark": "I. 49", 
+    "ker": "375", 
+    "content": "Note", 
+    "location": "Unknown", 
+    "summary": "A note which was added in Old English by the main hand in a margin of a copy of the Latin text of the <span class=\"italics\">Historia ecclesiastica</span>. Place of production not known.", 
+    "items": [
+        {
+            "locus": "fol. 95v", 
+            "text": "B.24.28.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 95v) romeburg geitmbred were from frim\u00f0e weron agane feower \u00f0usend wintra 7 feor hund. 7 twa 7 hund eahtatig. 7 \u00e6fter \u00feem \u00fee rome getimbro\u00f0 wes wes ures drihtnes acenes ymb seofon hund wintre 7 tiene"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Possible Orosius? [OR]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, p. 448"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

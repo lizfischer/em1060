@@ -1,0 +1,590 @@
+{
+    "id": "BL.Vite.E.xviii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Vitellius E. xviii", 
+    "ker": "224", 
+    "content": "Gloss to Psalter", 
+    "location": "Winchester", 
+    "date": "s.xi^{med}", 
+    "summary": "Interlinear gloss to a psalter and canticles of the Gallican version. It also contains some computistical information and notes, such as a list of unlucky days for bloodletting. Written by one hand, but <a href=\"#ker44\">Ker </a> (1957, p. 301) suggests it is not the same of the main text. The computistical material is by the same hand as the glosses. Written in <span class=\"name\">Winchester</span>.", 
+    "items": [
+        {
+            "locus": "fol. 9r", 
+            "text": "B.20.1.5.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) Gif \u00feu \u01bfitan mid gesceade \u00fe\u00e6t gem\u00e6re termen septuagessimalis"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 9r) and man ne sing\u00f0 leng \u00fe\u00e6t godes lof alleluian \u00e6r \u00fe\u00e6re eastertide."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "B.20.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) Gif \u00feu \u01bfille \u01bfitan hu eald se mona beo nu tod\u00e6g on t\u01bfelf mon\u00feum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 9r) \u00deus \u00feu miht asmeagean \u00feeah \u00feu \u01bfille | to hundteontigum \u01bfintrum fare bisextus s\u01bfa he fare. o\u00f0\u00f0e \u00e6nig o\u00feer get\u00e6l"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "B.23.2.5.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 9r) De diebus malis cuiusque mensis"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) T\u01bfeigen dagas syndon on \u00e6gh\u01bfilcum onginne\u00f0."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 9r) Butan \u00e6lcan t\u01bfeon s\u01bfa hit bi\u00f0 ge\u01bfislice. gyme se\u00fee \u01bfille."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13r", 
+            "text": "B.20.2.6", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 13r) Gif \u00feu nite h\u01bfilc concurrent beo on geare. Sec georne h\u01bfilce d\u00e6g"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 13r) And s\u01bfa fela nihta | s\u01bfa se mona bi\u00f0 onxi. kalendas aprilis. and s\u01bfa fela epacta \u00feu scealt | haban \u00fei geare"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13r", 
+            "text": "B.20.1.5.2.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 13r", 
+            "text": "B.23.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. fol. 13r) Eahtatine nihtum \u00e6r hlafm\u00e6ssan gange\u00f0 se styrra up"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 13r) nihta ofer text at the bottom of the page illegible or lost probably 'and eallum cristenmannum on \u00fea tid is blodl\u00e6tincg forboden, eahtatina nihtum \u00e6r hlafm\u00e6ssan and fif and \u00ferittig nihta ofer hlafm\u00e6ssan' (DOE corpus)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15r", 
+            "text": "B.23.2.5.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15r) \u00dery dagas syndon on t\u01bfelf mon\u00f0um"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15r) he sceal s\u01bfyltan \u00e6r feo\u01bfertugum dagpresumably ends in 'dagum' but folio is damaged"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 15rv", 
+            "text": "B.23.2.5.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15r) \u00fea ealdan l\u00e6cas gesettan on ledenbocum'\u00fea eal' illegible on microfiche because of fire damage, based on Pulsiano 1994"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v) \u00feone halganmost of the explicit is illegible on microfiche but presumably 'Nan \u01bfilung, ac \u01bfise menn hit afundon \u00feurh \u00feone halgan \u01bfisdom s\u01bfa s\u01bfa him dihte god' (DOE corpus)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.23.1.12.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v) beginning imperfect e m\u00e6der ci\u00f0 on \u00feinre hyfe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v) ne m\u00e6g forstelan \u00fea h\u01bfile \u00fee se | ci\u00f0 on \u00fe\u00e6re hyfe bi\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.23.1.12.2.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 15v) \u00deis is sancte columcille circul"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v) \u01f7rit \u00feysne circul mid \u00feines cnifes orde on anum mealan stane ('stane' illegible, based on Pulsiano 1994)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v) \u02e5 lege \u00feone stan on uppan \u00feam stacan, \u00fe\u00e6t he beo eall under eor\u00f0an. butan \u00feam ge\u01bfritenan'\u00feone stan' and '\u00feam ge\u01bfritene' illegible on microfiche, based on Pulsiano 1994"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.23.1.12.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v) \u00feonne \u00fee ma h\u01bf\u00e6t forstele | a\u01bfrit \u00feis"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v) \u00feonne acsaxt \u00feu sone"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.21.5.9.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v) beginning imperfect, presumably 'Gif' was losthry\u00feeru beon on lungen co\u00f0on"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v) \u02e5 sing \u00feas \u00fery sealmas \u00fe\u00e6r ofer, Miserere nostri \u02e5 Exurgat dominus & Quicumque uult misere lost"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.21.5.9.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v ) illegible on microfiche, based on Cockayne 1864-1866 Gif | sceap si on ylon"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 15v) \u00fe\u00e6t heom cym\u00f0 to bote"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.23.1.12.4.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 15v) \u00feis is \u00feinan yrfe to bote"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v ) beginning of incipit lost ymb \u00fein yrfe \u00e6lce \u00e6fen him to helpe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 15v ) beginning of explicit lostymb \u00fein yrfe \u00e6lce \u00e6fen him to helpe. AGIOS AGIOS AGIOS"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 15v", 
+            "text": "B.23.1.12.5.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 15v) beginning of incipit lost lange sticcan fe\u00f0erecgede \u02e5 \u01bfrit on \u00e6g\u00f0erne sticcan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 15v ) explicit lost"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16r", 
+            "text": "C.37", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 16r) to sunnand\u00e6ge monand\u00e6ge to ti\u01bfersd\u00e6ge to \u01bfodnesd\u00e6ge to \u00feunresd\u00e6ge to friged\u00e6ge end of the incipit lost"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16v", 
+            "text": "B.26.1.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 16v) nys \u00fenks frfgfn syllkc \u00feknc to r\u00e6dnfnnf | \u00deu \u00fee f\u00e6rst on \u00feone \u01bfegillegible on microfiche, based on F\u00f6rster 1905"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 16v) \u02e5 mine bearn syndon ge\u01bforden mines f\u00e6der modor"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1905"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 16v", 
+            "text": "B.26.1.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 16v) \u00d0is is quinque uocales."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 16v ) Hit is lytel cr\u00e6ft ac \u00feeah man m\u00e6g d\u01bfelian manega men | mid. \u00e6g\u00f0er ge\u01bfare geun\u01bfare:"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 18-131", 
+            "text": "C.7.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 18r) adig | \u01bfer se \u00f0e | ne ge | \u01bfat | on ge\u00feeahte arleas \u02e5 on \u01bfege synfulra | ne gestod \u02e5 on heahsetle \u01bfolberendra | ne site\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 131r) explicit illegible"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 131-40", 
+            "text": "C.11.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 131v ) Latin begins Confitebor tibi domine ic andette se drihten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 140v ) Latin ends Haec est fides catholica quam nisi end of line illegible | fideliter firmiterque credid end of final line illegible \u00deis is geleafa cyriclicra \u00feone nim\u00f0e h\u01bfilc | getreorlice \u02e5 trumlice gely rest of explicit illegible"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 298-301"
+                }, 
+                {
+                    "work": "pul1163", 
+                    "page": "1994"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#pul1163"
+    ]
+}

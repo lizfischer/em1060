@@ -1,0 +1,78 @@
+{
+    "id": "CUL.Ff.1.27", 
+    "city": "Cambridge", 
+    "repository": "University Library", 
+    "collection": "", 
+    "shelfmark": "Ff. 1. 27 + CCCC 66", 
+    "ker": "14", 
+    "content": "Verses 'De Situ Dunelmi'", 
+    "location": "Sawley, Cistercian Abbey, Yorkshire", 
+    "date": "s.xii^{ex}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "p. 202", 
+            "text": "A.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Is \u00f0eos burch. breome geond breotenrice"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "bide\u00f0 (ends imperfectly because the final two-and-a-half lines have been erased)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "arn697", 
+                    "page": "i, p. 221"
+                }, 
+                {
+                    "work": "dob617", 
+                    "page": "p. 27"
+                }, 
+                {
+                    "work": "gre962", 
+                    "page": "i. p. 389"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 12"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": null, 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Part 1 of this manuscript, together with CCCC 66, was from the Cistercian abbey of <span class=\"name\">Sawley, Yorkshire</span>. The ex-libris, s. xii/xiii is on p. 2 of Cambridge, Corpus Christi College 66 (<a href=\"#ker44\">Ker 1957</a>, p. 12). <a href=\"#mee1656\">Meehan 1994</a>, however, suggests that the manuscript was a Durham product (p. 443).", 
+        "provenance": "The manuscript belonged to <span class=\"name\">Archbishop Parker</span>.", 
+        "acquisition": "<p>\n<span class=\"name\">Archbishop Parker</span> split two manuscripts in half and rebound them: the twelfth-century manuscript was from <span class=\"name\">Sawley</span> and the fourteenth-century manuscript from <span class=\"name\">Bury St. Edmund's</span>. He bound the first halves of the manuscripts together and gave the resulting volume to Cambridge Corpus Christi College (now CCCC 66 and 66A), and bound the latter halves of manuscripts together and gave the resulting volume to <span class=\"name\">Cambridge University Library</span> in 1574; this is now CUL Ff. 1. 27. </p><p>CUL Ff. 1. 27 was formerly known as no. 247. The full contents of Sawley and Bury manuscripts are listed by <a href=\"#jam1291\">James 1600</a>, which is reproduced on <a href=\"#par1182\">\n<span class=\"italics\">Parker Library on the Web</span>\n</a>. </p>"
+    }, 
+    "admin": "Manuscript described by Hollie Morgan and Takako Kato with the assistance of Simon Patterson and Sanne van der Schee, with reference to published scholarship (2010; 2013)", 
+    "surrogate": false, 
+    "bib": [
+        "arn697", 
+        "par1182", 
+        "dob617", 
+        "gre962", 
+        "jam1291", 
+        "ker44", 
+        "mee1656"
+    ]
+}

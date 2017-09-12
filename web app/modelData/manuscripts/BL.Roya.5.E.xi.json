@@ -1,0 +1,54 @@
+{
+    "id": "BL.Roya.5.E.xi", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "5. E. xi", 
+    "ker": "252", 
+    "content": "Glosses to Aldhelm's prose treatise", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "Numerous glosses are added to Aldhelm's <span class=\"italics\">De laude virginitatis</span>, written in s. x/xi. Some by contemporary or near contemporary hands, some in s. xi<span class=\"sup\">in</span>, and some in xi<span class=\"sup\">med</span>.", 
+    "items": [
+        {
+            "locus": "fols 1-120", 
+            "text": "C.31.7", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "Eighty-two out of ca. 700 Old English interlinear and marginal glosses are from s. ximed."
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "In 'rougher script' than earlier hands (Ker 1957)."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "pul1609", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "p. 321, i(c)"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Sanne van der Schee, with reference to published scholarship (2010; 2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#pul1609", 
+        "#ker44"
+    ]
+}

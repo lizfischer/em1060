@@ -1,0 +1,368 @@
+{
+    "id": "BL.Clau.B.iv", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Claudius B. iv", 
+    "ker": "142", 
+    "content": "Annotations to an Illustrated Old English Hexateuch", 
+    "location": "Canterbury, St Augustine's", 
+    "date": "s.xii^{med}", 
+    "summary": "A lavishly-illustrated English <span class=\"italics\">Heptateuch</span>, datable to the second quarter of the eleventh century, and localised to <span class=\"name\">Canterbury</span>, probably <span class=\"name\">St Augustine's</span>. Its later medieval provenance is certainly <span class=\"name\">St Augustine's</span>. It was annotated extensively in s. xii by two hands, one of which wrote English notes in a <span class=\"name\">Kent</span>ish dialect on fols 4, 5v, 7v, 8v, 9-12, 14r, 15v, 16v, 17r, 19v, 34v, 40v, 44r, 51, 155v (<a href=\"#cra327\">Crawford</a> 1922) and a note on fol. 8r, 'Efter fyftene wintra; ˥ is súster chalmana' (<a href=\"#ang86\">Doane</a> 1998, p. 37). The same hand has added a few words to the main text, for example 'abrhames breþer' (fol. 39), '7 áne dohter' (fol. 80v) (<a href=\"#ker44\">Ker</a> 1957, p. 179).",
+    "items": [
+        {
+            "locus": "fols 1r-v", 
+            "text": "B.8.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) [1 leaf missing before fol. 1r] [...] ondsyl\u00f0 us synna forgyfnysse \u00e6rest \u00f0urh w\u00e6ter on \u00f0am fulluhte"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 1v) Ic bidde nu on Goddes naman gyf h\u01bfa \u00f0as boc a\u01bfritan \u01bfille \u00f0\u00e6t he hi gerihte \u01bfel be \u00f0\u00e6re bysne for \u00f0an \u00f0e ic nah ge\u01bfeald \u00f0eah \u00f0e hi h\u01bfa to \u01bfoge gebringe \u00f0urh lease writerasondhit bi\u00f0 \u00f0onne his pleoh na min micel yfel de\u00f0 se un\u01bfritere gyf he nele his ge\u01bfrit gerihtan"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "facsimile increasingly unreadable; explicit checked against DOE Corpus"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 1v-72v", 
+            "text": "Crawford", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1v) On angynne gesceop god heofonanondeor\u00f0an se eor\u00f0e so\u00f0lice w\u00e6s idelond\u00e6mti"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 72v) Iosep for\u00feferde \u00fea he w\u00e6s anhund wintraondtinwintreondhine man bebyrigde mid wyrtgemange he w\u00e6s gel\u00e6d of his stowe of egypta lande"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 72v-105r", 
+            "text": "Crawford", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 72v) \u00d0is sind israhela bearna naman \u00fee mid iacobe foron on egypta land"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 105r) Mosys c\u01bf\u00e6\u00fe to eallum israhela folce \u00f0is synd \u00fea \u00feinc \u00fee drihten bebead wyrcea\u00f0 six dagasondfreolsia\u00fe \u00feone seofo\u00fean gode to \u01bfur\u00feminte se \u00fee \u01bfyrc\u00fe on \u00feam seofo\u00feam d\u00e6ge sy he ofslagen ne on\u00e6le ge nan fyr on \u00feam d\u00e6ge."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "An inserted leaf appears on fol. 74, detailing genealogical lists in Latin, written in two late 12th-century hands"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 105v-10v", 
+            "text": "Crawford", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 105v) Her ongyn\u00f0 seo \u00f0ridde boc \u00f0e is genemned on ebreis uaiccraondleuiticus on greciscondministerialis on leden \u00f0\u00e6t is \u00f0enungboc on englisc for \u00f0an \u00f0e \u00f0\u00e6ra sacerda \u00f0enunga synd \u00f0\u00e6ron a\u01bfritene. Drihten clypode to moyse on \u00fe\u00e6re halgan \u01bfur\u00feungsto\u01bfeond\u00f0us c\u01bf\u00e6\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 110v) \u00d0is sind \u00f0a beboduonddomasondlaga \u00f0e drihten gesette bet\u01bfux himondisrahela folce on sinai dune."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 111r-28r", 
+            "text": "Crawford", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 111r) Her ongyn\u00f0 seo boc \u00f0e is genemned on ebrisc ualedaber \u00f0\u00e6t is on leden numerus and on englisc getel for \u00f0an \u00f0e israhela bearn \u01bf\u00e6ron on \u00f0\u00e6re getealde. Drihten spr\u00e6c \u01bfitodlice to moyse on sinai dune on \u00f0\u00e6re halgan stowe"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 128r) Heora f\u00e6deras ealle for\u00f0ferdon on \u00f0am \u01bfestene buton calephondiosue hi comon to \u00f0am landeondmid israhela bearnum \u00feone eard geeodonondhim betwynan d\u00e6ldon s\u01bfa s\u01bfa him dihte iosue"
+                }, 
+                {
+                    "head": "Colophon (Latin):", 
+                    "body": "Colophon (Latin): (fol. 128r) unreadable"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 128v-39r", 
+            "text": "Crawford", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 128v) Her ongyn\u00f0 seo boc \u00f0e is genemned on ebreisc helle adabarim and on grecisc deuteronomiumondon leden secunda lexondon englisc seo \u00e6fre \u00e6. \u00d0is synd \u00f0a \u01bford \u00f0e moyses spr\u00e6c to eallum israhela folc begondan iordane on \u00f0am feld\u01bfestene \u01bfi\u00f0 \u00f0a readan s\u00e6"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 139r) ondeall \u00f0a strangan mihtaond\u00f0a miclan \u01bfundra \u00fee moyses \u01bforhte \u00e6tforan israhela folce"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "full text pages; no illustrations fols 128v-138r, 139r. fols 139v-140r contain no Old English, rather Latin commentary and full page illustrations"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 140v-55v", 
+            "text": "Crawford", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 140v) Hit \u01bf\u00e6s ge\u01bforden \u00e6fter moyses for\u00f0si\u00f0e drihtnes \u00f0eowan \u00f0\u00e6t drihten spr\u00e6c to iosue nunes sunaondc\u01bf\u00e6\u00f0 him to moyses min \u00f0eowa for\u00f0ferde aris nuondfar ofer \u00f0as ea iordanen \u00f0uondeal \u00f0is folc mid \u00f0e to \u00f0am lande \u00f0e ic forgyfe israhela bearnum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 155v) ondhit \u01bf\u00e6s gehloten to iosepes bearna lande"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "fol. 147 is an inserted leaf containing Latin notes which continue notes from fol. 146v/25."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cra327", 
+                    "page": "1922"
+                }, 
+                {
+                    "work": "dod1052", 
+                    "page": "1974"
+                }, 
+                {
+                    "work": "wil130", 
+                    "page": "1994, pp.116-19"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "325 mm x 215 mm (dimensions of all - size of leaves).\n260 mm x 160 mm (dimensions of all - size of written space).", 
+        "foliation": "Two foliations.The oldest is s.xvi / xvii, done in ink after the loss of the original first leaf, and omits number '32'(fols 1 - 31, 33 - 157).The later foliation, in pencil, is from 1884 and corrects this by renumbering the old '33' as '32' and cancelling old foliation from '33' on(fols 1 - 156[157 - 61]) ( < a href =  \"#ang86 \" > Doane < / a > 1998, p. 38).",
+        "collation": "1<span class= \"sup \">8</span> wants 1 (fols 1-7); 2<span class= \"sup \">8</span> (fols 8-15); 3<span class= \"sup \">4+1</span> 2 added (fols 16-20); 4-9<span class= \"sup \">8</span> (fols 21-68); 10<span class= \"sup \">6+1</span> . Fol. 74 an unrelated insertion after 5 (fols 69- 76); 11-14<span class= \"sup \">8</span> (fols 77- 108); 15<span class= \"sup \">9</span> 5 added (fols 109-117); 16-18<span class= \"sup \">8</span> (fols 118- 141); 19<span class= \"sup \">8+1</span> fol. 147 an unrelated insertion after 5 (fols 142- 152); 20<span class= \"sup \">8+1</span> sheets 6-8 gone, unrelated sheet inserted after fol. 155.",
+        "layoutDescription": null, 
+        "note": "Fols 152 and 153 were reversed before the first foliation was done and correctly reordered in the nineteenth century. A sixteenth century note on fol. 153 advises 'read this leafe after the next'. Pasteboard inner cover, two modern vellum flyleaves, seventeenth century paper fly with shelf mark, five final flyleaves (foliated 157-61), followed by pasteboard inner cover. Pricking on left and right of writing area on each leaf, and ruled on hair side for 38 lines, occasionally re-ruled on the flesh side. Double bounding lines. Arranged HFHF. Illustrations are drawn over the rules, and frames and borders (always square) follow the pre-existing rules and verticals as guides. Most pages have water damage at the top edge."
+    }, 
+    "handDesc": {
+        "number": "1 hand in English from the period 1050-1220", 
+        "summary": "Two hands are responsible for the main text, and in s. xii 'the text was annotated, mainly by two hands' (", 
+        "hands": [
+            {
+                "name": "annotations", 
+                "scope": "major", 
+                "script": "Late English Vernacular Minuscule", 
+                "scribe": "Ker 1957 SC1", 
+                "description": "fols 4, 5 v, 7 v, 8, 9 - 12, 14 r, 15 v, 16 v, 17 r, 19 v, 34 v, 40 v, 44 r, 51, 155 v. This s. xii < span class = \"sup \" > med < / span > scribe writes in a brownish ink in both Latin and English, and is generally very careful to avoid overwriting the illustrations; often, indeed, adhering to the ruling of the illustration frames, or preferring to write in the upper and lower margins.When necessary, though, the scribe will write within the frames themselves, adding explicatory text around and between the figures(such as fol. 7 v).As a result of the additions, pages that would have been filled with white space ( if such a description might be permitted), are now crowded in the manner of twelfth - century scholastic manuscripts.In the English additions, Ker states that 'the orthography is strange and dialectal forms are Kentish ' (<a href= \"#ker44 \">Ker 1957</a> p. 179), but this is not always the case, and there are many West Saxon forms.To the main text, the hand has added a large number of additional accents, usually acute, but c - shaped on 'god' and its case - forms, and on a few other short vowels.Similar c - shaped accents are found in < span class = \"name \" > Canterbury, Christ Church < / span > manuscripts, and books from < span class = \"name \" > Exeter < / span >. ",
+                "summary": "'A poor hand'( < a href = \"#ker44 \" > Ker < / a > 1957, p. 179), usually Caroline in both Latin and English. < a href = \"#ker44 \" > Ker < / a > (1957) is incorrect in stating that this scribe uses only insular < span class = \"c \" > g < / span > and < span class = \"c \" > r < / span >, and it unclear what criteria are being employed in describing the hand as 'poor'. Characteristics of the hand are as follows(based on the extensive addition in English, contemporary with the note at fols 51rv, relating to Genesis 34) ",
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Caroline <span class=\"c\">a</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "The ascender of round-backed <span class=\"c\">d</span> is long."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> occurs in earlier folios, with an ascender as long as that of <span class=\"c\">d</span>, and with the cross-stroke extending only from the left and flicking down at the end in a 40\u00ba stroke."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> often has a very extended tongue at word end."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> has a crossbar which sits on the line and is slightly longer than the head-stroke; the former stroke sometimes curves over onto the crossbar (as in the hand of the scribe of <a href=\"EM.CCCC.367.htm\">CCCC 367</a>, Part II and <a href=\"EM.CUL.Ii.1.33.htm\">CUL Ii. 1. 33</a>)."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> is insular, loosely written, with a generous open tail that flicks to the left."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are angular, with small feet to the right."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is low, and might easily be confused with <span class=\"c\">r</span>."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> has quite a rounded bowl, but also has a line through the ascender (in a bizarre hybrid form of eth and thorn?) in earlier folios."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span> has a very slightly pointed bowl."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is rounded and dotted."
+                    }, 
+                    {
+                        "char": "O", 
+                        "note": "Capital <span class=\"c\">O</span> (fol. 51v) has a decorative line in the middle."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are tagged to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are straight or slightly curved to the left or ending with a 45\u00ba serif to the right."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are frequent and are either c-shaped or are at a 45\u00ba angle with a firm stroke down at the end."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The <span class=\"c\">\u02e5</span> occurs, with a very prominent 45\u00ba onset stroke, and the nota swoops below the line at 60\u00ba."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "Two-shaped <span class=\"c\">r</span> occurs in ligature with a preceding <span class=\"c\">o</span>"
+                    }, 
+                    {
+                        "char": "st", 
+                        "note": "<span class=\"c\">st</span> ligature occurs in this hand."
+                    }
+                ], 
+                "otherManuscripts": ["For some palaeographical similarities, the flick at the end of the tail of <span class= \"c \">g</span>, the curved head-stroke of <span class= \"c \">f</span>, the decorated capital <span class= \"c \">O</span>, and capitulum-shaped run-over insertion marks, see the latter folios of <a href= \"EM.BL.Vesp.D.xiv.htm \">Cotton Vespasian D. xiv</a>."]
+            }
+        ]
+    }, 
+    "decoration": "Text initials in green, blue, orange and turquoise with different coloured borders, apparently striving for variety and non - repetition on each opening.The manuscript contains 394 coloured illustrations in 'the first <span class= \"name \">Winchester</span> Style'( < a href = \"#wor29 \" > Wormald < / a > 1952, pp. 26 - 29).According to < a href = \"#wit1055 \" > Withers < / a > (1994, 1996), the pictures follow the sections of text they illustrate, as visual recapitulations.Titles are in red, rustic capitals or the script of the text. ",
+    "additions": "Some alterations in <span class= \"name \">William Lisle</span>'s hand as the result of a collation with <a href= \"EM.Ox.Laud.509.htm \">Laud Misc. 509</a>. The words 'ex. XXXVII' at the head of fol. 53 are in the hand of <span class= \"name \">Robert Talbot</span>. Talbot's extracts from this manuscript are found in Cambridge, CCC, 379.",
+    "binding": "Previous binding by <span class=\"name\">Charles Tuckett</span>, Sr., between 1825 and 1865. New binding of dark green calfskin provided in 2006 after the manuscript was disbound for digitisation.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Probably produced at <span class=\"name\">Canterbury</span> (<a href=\"#dod1052\">Dodwell and Clemoes</a> 1974, p. 16).", 
+        "provenance": "<span class=\"name\">Robert Talbot</span> (1505?-1558) was probably the first private owner of the manuscript after the dissolution of <span class=\"name\">St. Augustine's</span>, <span class=\"name\">Canterbury</span> in 1538. He transcribed some of the material in his commonplace book. <span class=\"name\">Cotton</span> probably acquired the manuscript after 1603. <span class=\"name\">William Lisle</span> borrowed it from <span class=\"name\">Cotton</span> and had it out in April 1623, and wrote some alternative readings into the manuscript.", 
+        "acquisition": "Acquired by the <span class=\"name\">British Museum</span> along with the rest of the <span class=\"name\">Cotton</span> Library."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Johanna Green (August 2010; September 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bar1050", 
+        "bar474", 
+        "cra327", 
+        "ang86", 
+        "dod1052", 
+        "gne146", 
+        "gra476", 
+        "jam602", 
+        "joh1053", 
+        "jos477", 
+        "ker44", 
+        "mel1054", 
+        "mor481", 
+        "rai482", 
+        "rob335", 
+        "smi483", 
+        "tit629", 
+        "wan470", 
+        "wil130", 
+        "wit1055", 
+        "wit1056", 
+        "wit1550", 
+        "wor29"
+    ]
+}

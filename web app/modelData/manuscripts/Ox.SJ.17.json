@@ -1,0 +1,337 @@
+{
+    "id": "Ox.SJ.17", 
+    "city": "Oxford", 
+    "repository": "St. John's College", 
+    "collection": "", 
+    "shelfmark": "17 + BL, Cotton, Nero C. vii, fols 80-84", 
+    "ker": "360", 
+    "content": "Old English Glosses, Names and Charms", 
+    "location": "Thorney", 
+    "date": "s.xii^{in}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 5v", 
+            "text": "B.25.1.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English, Latin, Futhark"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "English names written against a list of 41 runes and the names of two Norse fu\u00fearks."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 360, article a"
+                }, 
+                {
+                    "work": "wre1127", 
+                    "page": "p. 32"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 6r", 
+            "text": "C.95.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(6r col. 1/1) patruus / f\u00e6dera"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(6r col. 2/7) generum / a\u00feum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English glosses"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Twenty glosses to names of relationships occurring in verse memoranda in illustration of a table of consanguinity."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gou861", 
+                    "page": "p. 282-83"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 360, article b"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 16r-21v", 
+            "text": "B.24.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(16r) ianuarius / gyuli"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(21v) december / giuli"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 361, article c"
+                }, 
+                {
+                    "work": "gou861", 
+                    "page": "p. 283"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 18r/41", 
+            "text": "Singer 1917-19", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin with English vocabulary"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "sin1136", 
+                    "page": "p. 119"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 71v/31-37", 
+            "text": "B.24.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(71v/31)i. Sunnand\u00e6\u021d"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(71v/37)vii. Saterd\u00e6\u021d"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English, Latin and Irish"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Names of the days of the week written in the margin opposite chapter 8 of Bede's De temporum ratione. The list is written in one of five circular containers that occupy the left-hand margin of 71v. Each of these features the names of the days of the week in a different language."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gou861", 
+                    "page": "p.284"
+                }, 
+                {
+                    "work": "jon777", 
+                    "page": "p. 340"
+                }, 
+                {
+                    "work": "", 
+                    "page": "item 360, article d"
+                }, 
+                {
+                    "work": "lel1078", 
+                    "page": "iv, p. 99"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 74r-margin", 
+            "text": "D.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(74r lower margin) antenna / culling"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(74r lower margin) dentix / hacod"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 361, article e"
+                }, 
+                {
+                    "work": "nap1124", 
+                    "page": "p. 278"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 76r-v", 
+            "text": "B.24.4.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(76r col. 2/33) giuli"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(76v col. 1/3) giuli"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Names of the month incorporated into chapter 15 of Bede's De temporum ratione."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "gou861", 
+                    "page": "p. 284"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 175r", 
+            "text": "B.23.1.16", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (175r right-hand margin) Wi\u00f0 blodrine of nosu \u01bfriht on his forheafod on christes mel"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English heading and Greek text"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 360, article f"
+                }, 
+                {
+                    "work": "sin1125", 
+                    "page": "p. 138"
+                }, 
+                {
+                    "work": "sin1126", 
+                    "page": "p. 259"
+                }, 
+                {
+                    "work": "sto907", 
+                    "page": "no. 54, p. 291"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": null, 
+        "extent": "340 mm x 250 mm (dimensions of all - size of leaves).\n231-38 mm x 102-84 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "Around 9 hands altogether, perhaps 1 in Old English", 
+        "summary": "", 
+        "hands": [
+            {
+                "name": "Old English", 
+                "scope": "major", 
+                "script": "Caroline Minuscule", 
+                "scribe": "Wallis Scribe B?", 
+                "description": "fols 5v, 6, 16-21v, 71v, 74, 175.", 
+                "summary": "Contemporary with the main hand of the manuscript.", 
+                "characters": [
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> square minuscule forms in Old English (<a href=\"#scr1115\">Wallis 2007: 'Scribes and Scripts'</a>)."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> usually insular in Old English (<a href=\"#ker44\">Ker 1957</a>, p. 435)."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> square minuscule forms in Old English (<a href=\"#scr1115\">Wallis 2007: 'Scribes and Scripts'</a>)."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> used for Old English, whereas <span class=\"c\">th</span> is used in Latin, but not consistently (<a href=\"#scr1115\">Wallis 2007: 'Scribes and Scripts'</a>)."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> used for Old English, whereas <span class=\"c\">th</span> is used in Latin, but not consistently (<a href=\"#scr1115\">Wallis 2007: 'Scribes and Scripts'</a>)."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Seventeenth-century binding: black leather over medieval boards, probably those used in the thirteenth-century binding (<a href=\"#han1113\">Hanna and Griffiths 2002</a>, pp. 32-33). Covers have metal corner-plates, roughly square, with bosses surrounded by crown stamping. The front cover has a central metal boss and is surrounded by a gold-stamped centrepiece. There are two clasps on the back cover and grooves for straps on the front cover, but the straps are missing. The shelfmark '17' is written in gold at the head of the spine and 'old' has been written on the leading edges. Single stamped and gilt fillet. The bookplate of <span class=\"name\">St. John's College</span> is attached to the front pastedown. It was probably rebound after <span class=\"name\">Cotton</span> had removed the five leaves, as the two stubs that remain are almost invisible in the tight binding (<a href=\"#desc1114\">Wallis 2007: 'Description'</a>; <a href=\"#mat1116\">Wallis 2007: 'Materials and Structure'</a>).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written at <span class=\"name\">Thorney Abbey</span> (<a href=\"#loc1118\">Wallis 2007: 'Location and Dating'</a>).", 
+        "provenance": "Remained at <span class=\"name\">Thorney Abbey</span> until at least 1422.", 
+        "acquisition": "Acquired by <span class=\"name\">Duke Humfrey</span> in 1427, who gave it to <span class=\"name\">Oxford University</span> in either 1439 or 1444. In the sixteenth century it was owned by <span class=\"name\">Robert Talbot</span> (<a href=\"#ker478\">Ker 1938</a>, p. 131), at least by 1547 when it was examined by <span class=\"name\">Leland</span> in <span class=\"name\">Talbot</span>'s <span class=\"name\">Norwich</span> residence. After <span class=\"name\">Talbot</span>'s death it became the property of <span class=\"name\">Antony Anderson</span>, country parson. It is unclear who next owned the manuscript but it was given to <span class=\"name\">St. John's College</span> by <span class=\"name\">Hugh Wicksteed</span>, merchant tailor, in s. xvii<span class=\"sup\">in</span> (<a href=\"#ker44\">Ker 1957</a>, p. 435; <a href=\"#for1133\">Wallis 2007: 'The Fortunes of the Manuscript'</a>)."
+    }, 
+    "admin": "Described by Hollie Morgan with the assistance of George Younge, with reference to published literature and examining in particular Wallis 2007 (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "bli1145", 
+        "cla1139", 
+        "cox1112", 
+        "for1137", 
+        "fos1138", 
+        "fus1140", 
+        "gil1119", 
+        "gil1128", 
+        "gou861", 
+        "han1113", 
+        "har307", 
+        "har1129", 
+        "hum1135", 
+        "hun1143", 
+        "jon777", 
+        "kau54", 
+        "ker44", 
+        "ker48", 
+        "ker478", 
+        "ker1144", 
+        "lel1078", 
+        "mck1141", 
+        "nap1124", 
+        "pro1134", 
+        "sin1125", 
+        "sin1126", 
+        "sin1136", 
+        "spu1120", 
+        "ste1142", 
+        "sto907", 
+        "tit629", 
+        "vez1122", 
+        "vez1123", 
+        "vez1121", 
+        "wal686", 
+        "wal1130", 
+        "dec1117", 
+        "des1114", 
+        "for1133", 
+        "loc1118", 
+        "mat1116", 
+        "scr1115", 
+        "wat89", 
+        "wei1131", 
+        "wre1127"
+    ]
+}

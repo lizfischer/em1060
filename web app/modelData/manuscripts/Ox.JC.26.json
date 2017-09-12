@@ -1,0 +1,49 @@
+{
+    "id": "Ox.JC.26", 
+    "city": "Oxford", 
+    "repository": "Jesus College", 
+    "collection": "", 
+    "shelfmark": "26", 
+    "ker": "355", 
+    "content": "Names of familial relationships in English and French", 
+    "location": "Cirencester", 
+    "date": "s.xii^{med}", 
+    "summary": "Main text is a s. xii<span class=\"sup\">med</span> copy of <span class=\"name\">Ivo of Chartres</span>\u2019 <span class=\"italics\">Panormia</span>. A contemporary hand adds, above the main text, the English and French equivalents of the names of relationships in a table of the degrees of consanguinity, within which marriage is prohibited in the main text. <a href=\"#ker44\">Ker</a> suggests that the manuscript may be from <span class=\"name\">Cirencester</span> (1957, p. 433)", 
+    "items": [
+        {
+            "locus": "fol. 170v", 
+            "text": "B.24.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(170v) Pere. \u02e5 mere. Vader and moder"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(170v) Cusins parenz. Isibba child. Maglingas. Siblingas."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "", 
+                    "page": "item 355"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan and George Younge, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#"
+    ]
+}

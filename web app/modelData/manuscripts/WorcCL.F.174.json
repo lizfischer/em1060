@@ -1,0 +1,210 @@
+{
+    "id": "WorcCL.F.174", 
+    "city": "Worcester", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "F. 174", 
+    "ker": "398", 
+    "content": "\u00c6lfric's Grammar and Glossary", 
+    "location": "Worcester", 
+    "date": "s.xiii^{1}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1-63r", 
+            "text": "B.1.9.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 10) Tertia declinatio"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1) so muchel so"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 63r) pelex cyfes 7 cetera"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker, 'the complete text survives only on fols 3-5, 8, 12, 14, 17, 19, 20, 25, 36, 39, 41, 47, but the amount missing on the other leaves is not usually considerable' (1957, p. 466). [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 398"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 63r", 
+            "text": "B.3.4.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63r) Sanctus beda was iboren her on breotene mid us"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 63r) \u00feet we sceolen f\u00e6ier fe\u00fe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Two or three letters are missing at the end of each line [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 398"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 63v-66v", 
+            "text": "B.3.4.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 63v) en earde. 7 alle \u00feeo"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 66v) sicut nouelle"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A line or two at the top of each leaf and some letters in the outer margins are missing. [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 398"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "276m mm x 175 mm (dimensions of some complete leaves, e.g. fol. 12 - size of leaf).\n264 mm x 162 mm (dimensions of some complete leaves, e.g. fol. 12 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Hand of Worcester", 
+                "description": "Fols 1-66.", 
+                "summary": "Backward-sloping, 'tremulous' hand. Caroline letter-forms.", 
+                "characters": [
+                    {
+                        "char": "\u00e6", 
+                        "note": "Both elements of <span class=\"c\">\u00e6</span> are the same size, the bowl of <span class=\"c\">e</span> often being broken."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is usually round-backed, but occasionally has an upright ascender."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> is retained for the spirant, beside Caroline <span class=\"c\">g</span> for the stop. The latter is eight-shaped, with an almost triangular tail; the former sits on the line, and is 5-shaped, though the headstroke does extend to the right."
+                    }, 
+                    {
+                        "char": "i", 
+                        "note": "<span class=\"c\">i</span> often has a short slash above it."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "2-shaped <span class=\"c\">r</span> is used both in ligature with <span class=\"c\">o</span> and when <span class=\"c\">r</span> occurs after other graphs."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Round, uncial <span class=\"c\">s</span> and high <span class=\"c\">s</span> are used."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "The upstroke of <span class=\"c\">t</span> pierces the headstroke."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> is used, generally in final position."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are thick, straight, and generally wedged."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are very short indeed, particularly those of the graphs <span class=\"c\">y</span>, <span class=\"c\">\u01bf</span> and <span class=\"c\">\u00fe</span>."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are regular, angular, and without feet. Occasionally, the downstrokes of <span class=\"c\">minims</span> are unconnected."
+                    }, 
+                    {
+                        "char": "punctus", 
+                        "note": "Punctuation is generally by <span class=\"c\">punctus</span> at medial height in relation to x-height."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "Abbreviation is common in the Latin, and less frequent in the English. In the vernacular, abbreviation consists of the <span class=\"c\">\u02e5</span>, which is at a 90\u00ba angle, with a downstroke that descends slightly below the line"
+                    }, 
+                    {
+                        "char": "subpunctus", 
+                        "note": "A slightly wavy macron denotes the omission of a nasal."
+                    }, 
+                    {
+                        "char": "subpunctus", 
+                        "note": "Correction is by <span class=\"c\">subpunctus</span> and <span class=\"c\">interlinear addition</span>."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Nineteenth-century binding.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Written in <span class=\"name\">Worcester</span> and found there 'in the cover of an old book' by <span class=\"name\">Sir Thomas Phillips</span>, who published part of the fragments in 1838.", 
+        "provenance": null, 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bre976", 
+        "floy975", 
+        "fra188", 
+        "hal485", 
+        "Hen1560", 
+        "ker44", 
+        "mof971", 
+        "tho977", 
+        "tre742", 
+        "zup447"
+    ]
+}

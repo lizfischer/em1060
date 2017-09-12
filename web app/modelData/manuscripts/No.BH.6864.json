@@ -1,0 +1,53 @@
+{
+    "id": "No.BH.6864", 
+    "city": "Norfolk", 
+    "repository": "Blickling Hall", 
+    "collection": "", 
+    "shelfmark": "6864", 
+    "ker": "supp 414", 
+    "content": "The Creed", 
+    "location": "South East", 
+    "summary": "Main text is a copy of the Latin version of Gregory\u2019s <span class=\"italics\">Dialogues</span>, which <a href=\"#ker44\">Ker 1957</a> judges \u2018can hardly have been written before about 1200\u2019 (p. 575). Additions at the end of the final quire include <span class=\"italics\">The Creed</span> ('said by Ker to be <span class=\"italics\">The Lord's Prayer</span>') in Old English (<a href=\"#lai45\">Laing 1993</a>, p. 151). <a href=\"#ker44\">Ker 1957</a> describes the additions as \u2018in an older type of writing and all by one hand\u2019, suggests that they may have been produced in <span class=\"name\">South-East England</span>, records a s. xiii Latin marginal inscription which names <span class=\"name\">St Paul</span>, and notes the dedication to St Paul of the <span class=\"name\">Augustinian priory at Chich, Essex</span>.", 
+    "items": [
+        {
+            "locus": "fol. 35r", 
+            "text": "B.12.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(35r) Iche geleue on \u00feane fader alweldende, sceppinde of heuene \u02e5 of eor\u00fee"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(35r) Ich geleue on \u00feane halege gast. \u00feat imannesse is of halichireche. Sanesse of halgen. forgeuenesse of sennen. flasches aris\u00fee. \u02e5 \u00feat echelif. amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "1643", 
+                    "page": "p. 138"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item supp. 414"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan and George Young, with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#1643", 
+        "#ker44"
+    ]
+}

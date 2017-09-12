@@ -1,0 +1,98 @@
+{
+    "id": "BL.Roya.10.C.v", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "10. C. v", 
+    "ker": "262", 
+    "content": "Notes, added to Petrus Cantor, Biblical Commentaries", 
+    "location": "St Paul's (?)", 
+    "date": "s.xii^{ex}", 
+    "summary": "The text is mainly a copy of <span class=\"name\">Petrus Cantor</span>'s commentary on the Psalms in Latin. The Old English historical notes on fols 18r and 74v date the manuscript to 1193-94 (<a href=\"#ker44\">Ker 1957</a> p. 331).", 
+    "items": [
+        {
+            "locus": "fol. 18r", 
+            "text": "B.24.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 18r) Gysorz \u01bf\u00e6s ygolde filippe frank\u00e6ne kinge \u00feurh s\u01bficdome"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Refers to the capture of the Gisors in April 1193."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "../surrogates/BL/Royal.10.C.V_fol.18r.htm"
+                }, 
+                {
+                    "work": "pul867"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 74v", 
+            "text": "B.24.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 74v) Filippe frank\u00e6ne kyng ne spedde naht \u00e6t fernuyl"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 74v) t\u01bfelfmon\u00fee after \u00fean \u00fee he y\u01bfan gisorz \u00feurh s\u01bficdome"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Refers to the raising of the siege of Verneuil on 28th May 1194."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "../surrogates/BL/Royal.10.C.V_fol.74v.htm"
+                }, 
+                {
+                    "work": "pul867"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment, with paper flyleaves. The fourth paper flyleaf at the front has the watermark", 
+        "extent": "332 mm x 225 mm (dimensions of all - size of leaves).\n252 mm x 154 mm (dimensions of all - size of writing grid).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Layout: ", 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Red leather binding. On the cover is the Royal crest in gold. The spine reads 'P. CANTOR | BIBLICAL COMMENTARIES | BRITISH LIBRARY | ROYAL | MS. | 10 C. V'.", 
+    "accompanying": null, 
+    "history": {
+        "origin": null, 
+        "provenance": null, 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Hollie Morgan and Takako Kato with the assistance of Sanne van der Schee (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "dug870", 
+        "gib869", 
+        "wzm1478", 
+        "ker44", 
+        "pow868", 
+        "pul867", 
+        "war764"
+    ]
+}

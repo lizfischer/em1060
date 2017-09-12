@@ -1,0 +1,212 @@
+{
+    "id": "BL.Domi.ix", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Domitian ix", 
+    "ker": "150; 151", 
+    "content": "Chronicle; Names of Runes", 
+    "location": "Unknown", 
+    "date": "s.xi/xii; s.xii^{1}", 
+    "summary": "A collection of fragments comprising 19 items, of which the following are in English: Item 2, fol. 9: one leaf from a <span class=\"italics\">Chronicle</span> beginning with: the annal for 1113 'sÆ¿a Ã¾Ã¦t hig uneaÃ°e' (opening fol. 9v) and ending with the annal for 1114 'on rofecestre' (<a href=\"#zup960\">Zupitza</a> 1878, p. 195; <a href=\"#plu626\">Plummer</a> 1952, p. 243). <a href=\"#ker44\">Ker</a> notes that the differences in colour of ink and in writing, and the change of ink during the 1114 annal at 'Her Ã¦fter he ferde', would suggest that these are 'contemporary entries written up at short intervals' (<a href=\"#ker44\">Ker</a> 1957, p. 188). Item 4, fol. 11: one surviving leaf from the end of a manuscript which has not yet been identified. The recto contains three extracts from the translation of Bede's <span class=\"italics\">Historia ecclesiastica</span> (s. x<span class=\"sup\">in</span>). The verso contains thirty-five runic letters with transliteration and name of each rune in Anglo-Saxon script. The runes appear in three lines, the last of which comprises six runes in the tenth-century hand; according to <a href=\"#ker44\">Ker</a> (1957, p. 189) the others were probably added in s. xi/xii. Each line of runes has underneath it two more lines: one giving the Anglo-Saxon script value of each rune, and a second giving the rune names in Old English. <a href=\"#bat1193\">Bateley</a> (1992, p. 38) notes that some of the runes are partly covered by Talbot's annotations.",
+    "items": [
+        {
+            "locus": "fols 4r and 7r", 
+            "text": "C.31.5", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 149"
+                }, 
+                {
+                    "work": "nap959", 
+                    "page": "1900, no.13"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 9r", 
+            "text": "B.17.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 9r) s\u01bfa \u00fe\u00e6t hig unea\u00f0e"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 9r) on rofecestre"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "A single leaf from a chronicle beginning imperfectly in the annal for 1113 adn ending imperfectly in the annal for 1114"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 150"
+                }, 
+                {
+                    "work": "zup960", 
+                    "page": "1878, p. 195"
+                }, 
+                {
+                    "work": "plu626", 
+                    "page": "1892-99, p. 243"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11r", 
+            "text": "B.9.6", 
+            "notes": [], 
+            "bib": [
+                {
+                    "work": "zup4570", 
+                    "page": "1886, p. 185"
+                }, 
+                {
+                    "work": "mil455", 
+                    "page": "1890-98, i p. xx"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 11r", 
+            "text": "B.25.1.1", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11r) feoh"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 11r) gar"
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "Single leaves", 
+        "support": "Parchment", 
+        "extent": "205 mm x 127-130 mm (dimensions of fols 9 and 11 - size of leaves).\n162 mm x 112 mm (dimensions of fol. 9 - size of written space).", 
+        "foliation": null, 
+        "collation": "<span class=\"itemHeading\">Quires:</span> Single leaves. <span class=\"itemHeading\">Signatures:</span> On fol. 11v '.XIII' at the center of the bottom margin.",
+        "layoutDescription": null, 
+        "note": "Written in long lines, ruled on the recto. According to <a href=\"#bat1193\">Bateley</a> (1992, p. 37), 'Repaired and bound in on the repair [...] The presence of the quire signature \".xiii.\" at the foot of the verso in the middle suggests that it was once the last leaf of a quire and that it formed part of a fairly extensive manuscript'."
+    }, 
+    "handDesc": {
+        "number": "2 from the period 1060 to 1220", 
+        "summary": "Fol. 9: one hand s. xii", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule I", 
+                "scribe": "Ker 50 SC1", 
+                "description": "Fol. 9. A large hand of the beginning of the twelfth-century, despite", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: Caroline."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: insular. Smaller than <span class=\"c\">\u00f0</span> and shaped differently."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: horned and open at the top."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span>: insular."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span>: insular."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span>: Caroline."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: insular."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span>: long."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> long."
+                    }, 
+                    {
+                        "char": "names",
+                        "note": "Proper names begin with a capital letter."
+                    }, 
+                    {
+                        "char": "abbr",
+                        "note": "The mark of abbreviation is curved."
+                    }
+                ], 
+                "date": "s. xii"
+            }, 
+            {
+                "name": "additions", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 151 Scribe 2", 
+                "description": "Fol. 11v. This hand mixes Caroline letter-forms with insular features.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span>: used."
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span>: used."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span>: insular in 'rad'."
+                    }
+                ], 
+                "date": "s. xi/xii"
+            }
+        ]
+    }, 
+    "decoration": ["Fol. 9v, one red capital - <span class=\"c\">O</span> of 'On' at the beginning of annal 1114.","Fol. 11r, tinted capitals in red. Ornamental capitals, zoomorphic: <span class=\"c\">Ãž</span>, a serpent with a head and tail. Pen dots around all initials."],
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "Composite manuscript with several unidentified origins.", 
+        "provenance": "Used by <span class=\"name\">Robert Talbot</span> (<a href=\"#wan470\">Wanley</a> 1705, p. 239). <a href=\"#sis246\">Sisam</a> (1953, p. 18) assigns the verso entry to Kent, though <a href=\"#whi1529\">Whitelock</a> (1981) suggests <span class=\"name\">St. Paul's London</span>.", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Mary Swan; additional notes by Owen Roberson and Mary Swan (August 2010); manuscript items added by Johanna Green (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bat1193", 
+        "gne146", 
+        "hem961", 
+        "hic721", 
+        "ker44", 
+        "lai45", 
+        "bri1165", 
+        "mil455", 
+        "nap959", 
+        "pla1170", 
+        "plu626", 
+        "sis823", 
+        "wan470", 
+        "whi1529", 
+        "zup457", 
+        "zup960"
+    ]
+}

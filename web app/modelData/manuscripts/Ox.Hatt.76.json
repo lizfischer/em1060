@@ -1,0 +1,300 @@
+{
+    "id": "Ox.Hatt.76", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "76", 
+    "ker": "328", 
+    "content": "Pt A: Translation of Gregory's Dialogues (fragments)", 
+    "location": "Worcester", 
+    "date": "s.xi^{med}", 
+    "summary": "The manuscript is in two parts. Part A (fols 1-67) consists of a translation of Gregory's <span class=\"italics\">Dialogues</span> and St. Basil's <span class=\"italics\">Monita</span>, s. xi<span class=\"sup\">1</span>. Part B (fols 68-139) is a translation of <span class=\"italics\">Herbarius</span> of Pseudo-Apuleius and <span class=\"italics\"> Medicina de quadrupedibus</span>, s. xi<span class=\"sup\">med</span>; and a Latin lapidary, s. xi/xii.", 
+    "items": [
+        {
+            "locus": "fols 1-3", 
+            "text": "B.9.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) IC \u00c6LFRED. GIFENDVM | CRISTE mid cynehades m\u00e6rnesse ge\u01bfeor\u00f0ad h\u00e6bbe | cu\u00f0 (part of line illegible) \u02e5 \u00feurh gehaligra boca r\u00e6dinge oft gehyred \u00fe\u00e6t us | (beginning of line illegible) healicnysse \u01bforuld ge\u00feing \u00f0a fogifen | h\u00e6f\u00f0 is se (part of the line illegible) \u00fe\u00e6t \u01bfe h\u01bfilon ure mod geli\u00f0ian (end of line illegible) | to \u00feam godcundum \u02e5 gast (rest of line illegible)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 3r) Ic geleornode \u00e6t ges\u00e6gene s\u01bfi\u00f0e ar\u01bfur\u00f0ra \u01bfitena | \u00fe\u00e6t \u00fe\u00e6t ic sege. Explicit prefatio"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": ""
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3-4", 
+            "text": "B.9.5.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3r) Her ongin\u00f0 \u00fea capi | tulas \u00fe\u00e6re forman boce dialogorum be haligra \u01bfundrum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 4v ) Be honorate \u00feam cnihte hu him \u01bf\u00e6s ge (end of line ilegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 5-29", 
+            "text": "B.9.5.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5r) com to sumre ea \u00fe\u00e6re nama is uulturnus. (beginning imperfect)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 29v) Gregorius him ans\u01bfarode"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 29-30", 
+            "text": "B.9.5.1.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 29v) Her endia\u00f0 \u00fea capitulas \u00fe\u00e6re \u00e6ftran boce"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 30r) Hu ad\u01bf\u00e6scte \u00fe\u00e6t ged\u01bfimorlice fyr."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 30-52", 
+            "text": "B.9.5.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 30r) Her onginne\u00f0 seo \u00e6ftre boc dialogorum be | life \u02e5 \u01bfundrum sanctus benedictes abbodes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "( fol. 52v) Petrus c\u01bf\u00e6\u00f0. Me \u00feince\u00f0 \u00fe\u00e6t ic full nyttlice ne under | gite na \u00fea \u00feing \u00fee \u00feu s\u00e6dest. \u00feonne of minre l\u00e6t (ends imperfectly near the end of book 2, chapter 35; fols 53 and 54 belong before fol. 51; end of final word illegible, probably 'nyse')"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 55-67", 
+            "text": "B.1.9.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 55r) BASILVS SE EADIGA BE \u00d0AM \u01f7E \u00c6R | a\u01bfriton. \u01bf\u00e6s s\u01bfi\u00f0e halig bisceop. on ces | sarean byrig on greciscre \u00feeode god | lufigende s\u01bfi\u00f0e on cl\u00e6nesse \u01bfunigende | on cristes \u00fe (part of line illegible) manegra mune |ca f (part of line illegible) chades him sylf."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 67v ) Do \u00fee \u00e6lfremedne | fram \u00feysum leahtre a. \u02e5 hafa \u00fee gemet (ends imperfectly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 68-73", 
+            "text": "B.21.1.1.4.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 68r) \u01f7i\u00f0 unhyrum nihtg\u00e6ngum \u02e5 \u01bfi\u00f0 egslicum | gesih\u00f0um \u02e5 s\u01bfefnum (de Vriend 1984 gives the incipit as 'I. Nomen herbe betonica | \u00fe\u00e6t is biscop\u01bfyrt' but this is not visible on the microfiche; only the second line is transcribed here.)"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 73v) \u01f7i\u00f0 inno\u00f0es sare (ends imperfectly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dev838"
+                }, 
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 74-124", 
+            "text": "Franzen 1998", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 74r) \u00d0EOS \u01f7YRT \u00d0E MAN | bettonican nemne\u00f0 | heo bi\u00f0 c\u00e6nne\u00f0 on m\u00e6dum \u02e5 on | cl\u00e6num dunlandum \u02e5 on gefry | \u00feedum sto\u01bfum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 124r) hit astira\u00f0 \u00feone inno\u00f0."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 124-130a", 
+            "text": "B.21.1.1.6.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 124v) SAGA\u00d0 \u00d0\u00c6T \u00c6GYPTA | cyninc idpartus \u01bf\u00e6s haten"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 130ar) rednysse. \u02e5 \u01bfi\u00f0er | r\u00e6dnysse. se \u00fee hafa\u00f0 | hundes heortan mid him. ne beo\u00f0 | ongean hine hundas cene. (this folio is now a small fragment; beginning illegible)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }, 
+        {
+            "locus": "passim, fols 4r-49r", 
+            "text": "C.86.EM", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Hand", 
+                    "body": "Tremulous Hand"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730"
+                }, 
+                {
+                    "work": "fra188"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "pp. 388-90"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Takako Kato and Owen Roberson with the assistance of Sanne van der Schee, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#fra730", 
+        "#fra188", 
+        "#ker44"
+    ]
+}

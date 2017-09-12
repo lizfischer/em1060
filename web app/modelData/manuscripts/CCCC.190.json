@@ -1,0 +1,849 @@
+{
+    "id": "CCCC.190", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "190", 
+    "ker": "45", 
+    "content": "Ecclesiastical Institutes, etc", 
+    "location": "Exeter", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "p. 17", 
+            "text": "C.89.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 17) se \u00fee bi\u00f0 his f\u00e6der slaga"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "OE gloss; according to Ker, corresponding to the word 'parricidio' in the text of the 'Penitentialis egberti archiepiscopi'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "tho446"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 130", 
+            "text": "B.23.1.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 130) Gyf feoh sy underfangen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 130) for\u00feamhi hyt for helan ne mihtan"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'a charm to recover cattle' (Ker)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "sto907"
+                }, 
+                {
+                    "work": "mcb908"
+                }, 
+                {
+                    "work": "coc404"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 246", 
+            "text": "C.82.2", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 246) on s\u01bfate and \u01bflitan \u00f0ines \u00f0u sealt brucan hlafes \u00f0ines be heofygende synna \u00f0ine mid ge\u00f0ylde mycclon"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'interlinear glosses to the antiphon 'In sudore uultus tui' (Ker)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 265-66", 
+            "text": "C.15", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(p. 265) '\u00feurhbeorht' to 'perspicuus'"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(p. 266) 'fram \u00feysre \u01bforulde' to 'huic seculo'"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(p. 266) 'ascyred \u019a asyndrod' to 'discretus'.'"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "rho909", 
+                    "page": "pp. 22, 61"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 320", 
+            "text": "B.1.8.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 320) Prologus uenerabilis aelfrici abbatis"
+                }, 
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (medial): (p.320) Finit salutatio"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 320) \u00c6lfricus abbas uulfstano uenerabili archiepiscopo"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "Explicit (Latin): (p. 320) Uale feliciter inchristo"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "wan 470", 
+                    "page": "p. 22"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 68"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 320-36", 
+            "text": "B.1.8.2", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 320) Hic incipit prima epistola anglice exposita"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 320) Us bisceopum gedafena\u00f0\u00fe\u00e6t\u01bfe \u00fea boclican lare"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 336) \u01f7e bidda\u00f0 eo\u01bf preostas beo\u00f0 \u00feyses gemyndig \u00fe\u00e6s \u00fee ge nu gehyrdon\u00fe\u00e6tge habban\u00fe\u00e6ta mede \u00fee ure h\u00e6lend be het \u00feam \u00fee him \u00feenia\u00f0."
+                }, 
+                {
+                    "head": "Colophon", 
+                    "body": "Colophon (Latin): (p.336) Euge serue boneetfidelis quiasuperpauca fuisti fidelis supra mlta teconstituam intra ingaudiumdominitui. Explixit prima epistola"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 68"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 364"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 336-37", 
+            "text": "B.1.8.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 336) Sequitur secunda epistola quando diuidiscrismam"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 336) Eala ge m\u00e6ssepreostas"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 337) ond c\u01bf\u00e6\u00f0 \u00feus min hus is gec\u01bfeden gebedhus"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p.146"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 390"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 337-49", 
+            "text": "B.1.8.3.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 337) Sermo in cenadominiet.VI.feriaetsabbato sanctoSaxonice"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 337) In cenadominietinparasceueetinsancto sabbato. On \u00feyssum \u00ferym s\u01bfigenihtum ge sceolan singan \u00e6t g\u00e6dere"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 349) ond\u00fean haligum gaste on anre codcundnisse hig \u00f0ri an god \u00e6fre ryxiende a \u01bforuld. Amen"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 146"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 349-50", 
+            "text": "B.12.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 349) De officio missae in uiglia pascae"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 349) On \u00feone haligan easter\u00e6fen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 350) ondmid anrecollectanbeluce \u00f0a m\u00e6ssanondc\u01bf\u00e6\u00f0e"
+                }, 
+                {
+                    "head": "Colophon", 
+                    "body": "Colophon (Latin): (p. 350) Ite missa est Deo gratias"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 228"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 350", 
+            "text": "B.12.9.1.EM", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 350) De officio missae in uigilia pentecosten"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 350) \u00d0onne on pentecostenes m\u00e6sse\u00e6fen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 350) ond \u00fear \u00e6fter gengende eft binnan mid \u00ferim fealdan letanian eal s\u01bfa on \u00e6ster\u00e6fen"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 232"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 366-84", 
+            "text": "B.11.2.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 366) Her onginna\u00f0 \u00f0isse boce capitulas. \u00f0e \u01bfe hata\u00f0 scriftboc"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 366) \u00deas capitulas ecgbyrhti arcebisceop on eofer\u01bfic a\u01bfende ofledene on englisc \u00fe\u00e6t ungel\u00e6redan hit mihton \u00fee e\u00f0 understandan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 384) Se \u00fee forfeadne man f\u00e6ste\u00f0 hit bi\u00f0 him sylfum frofor gif hit \u00feam deadan ne hylp\u00f0 god ana \u01bfat h\u01bf\u00e6t his deadan geg\u00e6\u00fe"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 128"
+                }, 
+                {
+                    "work": "ber910", 
+                    "page": "p. 11"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 384", 
+            "text": "B.10.4.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 384) Sanctus siluester c\u01bf\u00e6\u00f0 ne sceal nan acolitus"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 384) ondne m\u00e6g man nanne diacon ge \u01bf\u00e6gnigan butanXXXVI. sumondm\u00e6srepreostXLIIII. sum."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "p. 190"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 166"
+                }, 
+                {
+                    "work": "nap562", 
+                    "page": "p. 97"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 384-86", 
+            "text": "B.11.2.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 384) \u00deeodorus se m\u00e6ra bisceop"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 386) \u00de\u00e6tis on f\u00e6stenumondon \u01bf\u00e6cceumondon gebedumondon halsungum to gode mid heortan onbryrdnysseondmid teara agotennysse"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "p. 172"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 387-413", 
+            "text": "B.11.2.1.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 387) Her ongin\u00f0 se forme capitul"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 413) Gif he \u01bfyle mid so\u00fere godes lufe him sylfum \u00feingian"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "rai494"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "pp. 170-222"
+                }, 
+                {
+                    "work": "ber910", 
+                    "page": "p. 18"
+                }, 
+                {
+                    "work": "sch1303"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 413-14", 
+            "text": "B.11.2.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 413) on halgum ge\u01bfritum ys ger\u00e6dd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 414) Seo t\u01bfelfte sor gy fennys ys martir had s\u01bfa \u00feam scea\u00fean \u01bfear\u00f0 \u00e6r drihtnes \u00fero\u01bfunge \u00feu se h\u00e6lendhimto c\u01bf\u00e6\u00f0 so\u00f0 is\u00fe\u00e6tic \u00fee secge nu to d\u00e6g \u00feu byst mid me onmines f\u00e6der rice"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 222-24"
+                }, 
+                {
+                    "work": "spi659", 
+                    "page": "p. 174"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 414-16", 
+            "text": "B.11.10.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 414) \u00d0ys syndon \u00fea godcundan bebodu"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 416) Ic \u00fee \u00feonne mindrhitenea\u00f0modlice bidde\u00fe\u00e6t\u00feu me forgyfe\u00fe\u00e6tic \u00fe\u00e6s bidde \u00fe\u00e6s \u00fee \u00fein \u01bfilla sigondminre sa\u01bfle r\u00e6d on ecnysseondmines \u01bforldlifes bletsung anstande"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 224-28"
+                }, 
+                {
+                    "work": "ber910", 
+                    "page": "p. 25"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 416-18", 
+            "text": "B.11.5.3.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 416) Gif h\u01bfa s\u01bfere\u00f0 on bisceopes handa"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 418) Gif he \u00feurh un nytte ceaste-man ofslea"
+                }, 
+                {
+                    "head": "Colophon:", 
+                    "body": "Colophon: (p. 418) F\u00e6ste X. gear."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 228-30"
+                }, 
+                {
+                    "work": "ber910", 
+                    "page": "p. 26"
+                }
+            ]
+        }, 
+        {
+            "locus": "p. 365", 
+            "text": "B.11.9.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 365) Ic andette \u00fee drihten \u00e6lmihtig god"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 365) Gemyltsige eo\u01bf se \u00e6lmihtiga god ond forgife eo\u01bf ealle eo\u01bfre synnaondalyse eo\u01bf fram eallum yfelum d\u00e6dum ond gehealde eo\u01bf fram synnum ond gel\u00e6de us crist \u00fe\u00e6s lifiendan godes sunu into \u00feam ecean life. amen."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Form of absolution transcribed in full as explicit"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "for643", 
+                    "page": "p. 14"
+                }, 
+                {
+                    "work": "wan470", 
+                    "page": "p. 111"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 418-20", 
+            "text": "B.14.48", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 418) Be gehadendra a\u00f0e \u02e5 be h\u00e1dbote"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 419) M\u00e6ssepreostes a\u00f0ond\u01bforuld\u00feegnes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 420) ond \u01bfise \u01bf\u00e6ron \u01bforld\u01bfitan \u00fee to godcundan rihtlagan \u00feas laga seton folce for steore ond halidom ond hada for godes lufan \u01bfur\u00f0odo ond godes hus ond godes \u00feeo\u01bfas deoplice gri\u00f0edon"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "lie471", 
+                    "page": "pp. 462-64"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 295-308", 
+            "text": "B.1.8.1", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 295) Be preoste syno\u00f0e"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 295) Ic secge eo\u01bfpreostum\u00fe\u00e6tic sylf nelle beran"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 308) God ge unne eo\u01bf\u00fe\u00e6tge hit moton s\u01bfa aredigan s\u01bfa eo\u01bfer \u00feearf sy."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 342 and p. 358"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 308-14", 
+            "text": "B.1.2.45", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p.308) Sequentia Sancti Euuangelii secundum Lucam"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 308) In illo tempore designauit dominus et alios"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 308) Se h\u00e6lend geceas hit to eacan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 314) Sy him a\u01bfuldor ond lof ealra his \u01bfel d\u00e6da. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "tho446", 
+                    "page": "p. 528"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 314-19", 
+            "text": "B.13.3", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 314) De eclesiasticis gradibus"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 314) Heah hadas sindon to healdenne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 319) Se god \u00fee ealle \u00feing don m\u00e6g ond ealra \u00feinga ge\u01bfeald ah helpe ureondgefylste us\u00fe\u00e6t\u01bfe magon ond moton his \u01bfyllan ge\u01bfyrcean. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 351-53", 
+            "text": "B.3.2.9", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 351) Sermo in capite ieiunii ad populum"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 351) Audite fratres karissimi"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 351) Gehira\u00f0 bro\u00f0ru \u00fea leofestan \u01bfe mynegia\u00f0 eo\u01bf ealle gem\u00e6nlice"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 353) To \u00f0\u00e6ra geferr\u00e6ddene us eac gebringe crist se \u00f0e leofa\u00f0 ond rixia\u00f0 mid his efenecan f\u00e6der ond \u00feam halgangaste on ealra \u01bforulda \u01bforuld. amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }, 
+                {
+                    "work": "feh573", 
+                    "page": "p. 247"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 353-59", 
+            "text": "B.3.2.23", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (p. 353) Sermo in cenadominiad penitentes"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (p. 354) Uerefratreskarissimihoc debetis scire"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 354) Mine gebro\u00f0ru \u00f0a leofestan ge sculon to so\u00f0on \u00f0is \u01bfitan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 359) \u00d0\u00e6s eo\u01bf geunne se mildheorta drihten \u00fee leofa\u00f0 ond rixa\u00f0 on ealra \u01bforulda \u01bforuld amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 45"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Large size book. Parchment generally in good condition; seems well used if limpness at corners is an indication. Fols iii + 153 + 64 + iv. Two unnumbered paper leaves at each end are of the date of binding. Pages i, ii are medieval parchment flyleaves.", 
+        "extent": "c. 288 mm x 185 mm (dimensions of all - size of leaves).\n230-220 mm x 132 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Generous interlinear space. 28 long lines (27 lines on pp. 303-18; 25 lines on pp. 351-64). Blind ruled with double vertical bounding lines and single lines at first and last of horizontal axis.", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 main hand from 1060 to 1220, but a number of others also contributed to this set of legal, homiletic and pastoral texts. The main hand is described here.", 
+        "summary": "The additions of s. xi", 
+        "hands": [
+            {
+                "name": "pp. 418-20, 295-359", 
+                "scope": "Major", 
+                "script": "English Vernacular Minuscule I", 
+                "scribe": "Ker 45 Gneuss G59.5", 
+                "description": "pp. 418-20, 295-359. Very like the hand in", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "ascenders", 
+                        "note": "Long <span class=\"c\">ascenders</span>, split, with elaborate flags to left and right"
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "Less long <span class=\"c\">descenders</span> (than ascenders), many curving to left"
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> of <span class=\"c\">\u00e6</span> slightly higher than <span class=\"c\">e</span>"
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Very low rounded <span class=\"c\">d</span>, sometimes finished with a little curved flick upwards"
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "Occasional horned <span class=\"c\">e</span>"
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> with crossbar longer than headstroke, flat on line, curved descender"
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> with sweeping and closed tail that emerges from the far left of headstroke"
+                    }, 
+                    {
+                        "char": "i", 
+                        "note": "<span class=\"c\">i</span> used almost indifferently to <span class=\"c\">y</span>. <span class=\"c\">i</span> is often altered to <span class=\"c\">y</span> in the text of the sermons (pp. 351-59)"
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> with notable onset stroke and sweep to leftward curve at tail-end. Also low <span class=\"c\">s</span>. End of long <span class=\"c\">s</span> sometimes curls round at top"
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> distinctively hooked downwards at end. Cross-stroke through ascender with flagged flick up to the left at the end. Double <span class=\"c\">\u00f0</span> has one long cross-stroke"
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "Straight limbed <span class=\"c\">y</span> with dot. <span class=\"c\">y</span> used almost indifferently to <span class=\"c\">i</span>"
+                    }, 
+                    {
+                        "char": "initials", 
+                        "note": "No offset <span class=\"c\">initials</span>"
+                    }, 
+                    {
+                        "char": "initials", 
+                        "note": "Coloured enlarged <span class=\"c\">initials</span>, and coloured in-fill of some initials and notae occasionally (e.g., p. 314)"
+                    }, 
+                    {
+                        "char": "Accents", 
+                        "note": "<span class=\"c\">Accents</span> at 45 degrees, with blob at end, often slightly high. Occasional use of c-shaped <span class=\"c\">accent</span> (might be added?); e.g., p. 309. <span class=\"c\">accents</span> a total of about 80 c-shaped accents over short vowels are to be found in this hand."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in 1953; the previous binding was eighteenth-century.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to <a href=\"#ker44\">Ker 1957</a> (p. 73) the script suggests that the first part of the manuscript was added to in Exeter, and the part containing English was written there. The two parts were probably combined in s. xi.", 
+        "provenance": "The two parts may be the 'canon on leden 7 scriftboc on englisc' that Bishop Leofric (d. 1072) gave to Exeter (<a href=\"#cha548\">Chambers 1933</a>, p. 27). The whole manuscript is certainly the 'Penitentiale uetus et alia plura cum anglico in fine quod sic incipit In principio prec' xij d' in the Exeter catalogue of 1327 (<a href=\"#oli436\">Oliver 1861</a>, p. 309). A note by Parker on fol. 111 of BL. Harley 3013 refers to it as a book of the Church of Exeter.", 
+        "acquisition": "In the list of manuscripts bequeathed by Archbishop Parker to Corpus Christi College (<a href=\"#wan470\">Wanley 1705</a>, p. 110)."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan, Owen Roberson and Johanna Green (2010; 2013)", 
+    "surrogate": true, 
+    "bib": [
+        "bat905", 
+        "ber910", 
+        "bet906", 
+        "cha548", 
+        "coc404", 
+        "par1182", 
+        "dac911", 
+        "feh573", 
+        "for643", 
+        "gne146", 
+        "jam354", 
+        "ker44", 
+        "lie471", 
+        "mcb908", 
+        "nap562", 
+        "oli436", 
+        "rai494", 
+        "rho909", 
+        "scr565", 
+        "sch1303", 
+        "spi659", 
+        "sto907", 
+        "tho446", 
+        "wan470"
+    ]
+}

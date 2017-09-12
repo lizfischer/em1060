@@ -1,0 +1,882 @@
+{
+    "id": "CTC.B.15.34", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "B. 15. 34", 
+    "ker": "86", 
+    "content": "Homilies", 
+    "location": "Canterbury", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "pp. 3-18", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 3) OFT GE GEHER | don ymbe \u00fe\u00e6s h\u00e6lendes \u00e6rist"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 18) 7 \u00f0am | halgan gaste. nu 7 a on ecenysse. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 18-26", 
+            "text": "B.1.2.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 18) HIT IS SWI\u00d0E GEDAFENLIC"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 26) Si lof 7 wuldor \u00f0am | welwillendan h\u00e6lende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 26-35", 
+            "text": "B.1.2.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 26) GELOME \u00c6TEOW | de ure drihten hine sylfne"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 35) 7 godum geearnungum. | to \u00f0am ecum life becuman moton"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 35-51", 
+            "text": "B.1.1.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 35) Cum esset sero die illa una sabatorum & reliqua | \u00c6FTER \u00d0\u00c6S H\u00c6 | lendes \u00e6riste w\u00e6ron his discipuli | belocene on anum huse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 51) wunigende | on bro\u00f0orlicre lufe mid gode a on ex | nysse. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 51-79", 
+            "text": "B.1.1.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 51) Dixit iesus discipulis suis. Ego sum | pastor bonus. bonus pastor animam suam || ponat pro ouibus suis. & reliqua | \u00d0IS GODSPELL | \u00fee nu ger\u00e6d w\u00e6s"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 79) \u00deam seo wuldor. 7 lof on ealra | worulda woruld. a butan ende amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 79-90", 
+            "text": "B.1.5.5", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 79) URE LEOFA H\u00c6 | lend. \u00fea \u00f0e he her on life w\u00e6s"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 90) a on ecnysse. \u00fe\u00e6t he us alysde. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 90-103", 
+            "text": "B.1.4.7", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 90) Uado ad eum qui me misit. | MAEGA GOD | spell syndon gesette"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 103) on anre m\u00e6gen\u00ferymnysse. a to weo | rulde. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 103-18", 
+            "text": "B.1.4.8", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 103) SUME MEN NY | ton gewiss. for heora nytenysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 118) \u00feam is \u00e6fre an | wuldor. 7 an wurdmynt. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 118-35", 
+            "text": "B.3.2.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 118) \u00d0AS DAGAS SYND | gehatene letanige"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 135) Se \u00fee leofa\u00f0 | 7 rixa\u00f0 mid f\u00e6der 7 mid \u00feam halgum | gaste. a butan ende AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 135-56", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 135) SE H\u00c6LEND CRIST. | sy\u00fe\u00fean he to \u00feisum life com"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 156) he rixa\u00f0 | mid eallum his halgum on | ealra worulda woruld on ecnese amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 156-79", 
+            "text": "B.1.1.22", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 156) \u00c6LC CRISTEN | man sceal \u00e6fter rihte cunnan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 179) se \u00fee | \u00feurhwuna\u00f0 on \u00ferynesse. an \u00e6lmihtig | god. a on ecnesse amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 179-98", 
+            "text": "B.3.2.76.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 179) Primum quidem sermonem feci. & reliqua. | LUCAS SE GOD | spellere us manode"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 198) Se \u00fee leofa\u00f0 7 rixa\u00f0 mid \u00f0am | \u00e6lmihtigan f\u00e6der 7 \u00feam halgan | gaste on ecnesse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 198-211", 
+            "text": "B.1.4.9", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 198) Cum autem uenerit paraclitus quem | ego mittam uobis a patre & reliqua. | SE H\u00c6LAND | her on life mid his halgum apostol | um"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 211) Se \u00f0e a | rixa\u00f0 on ecnysse. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 211-32", 
+            "text": "B.1.1.24", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 211) FRAM \u00d0AM | halgan easterd\u00e6ge"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 232) se \u00f0e leofa\u00f0 7 rixa\u00f0 a butan ende | AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 232-44", 
+            "text": "B.1.4.10", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 232) Si quis diligit me & reliqua. | IOHANNES | se godspellere. \u00fee \u00f0is godspell awrat"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 244) mid \u00f0am halgan gaste on ecnysse amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 244-49", 
+            "text": "B.1.6.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 244; 45) Spiritus sanctus pro septenaria operatione | [...] alter peior | dolus ficte. reliosistatis | ISAIAS SE WITEGA AWRAT ON HIS WITE | gunge be \u00feam halgan gaste"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 249) hw\u00e6\u00f0er him | godes gast on wunige o\u00f0\u00f0e \u00fe\u00e6s gram | lican deofles"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 241-89", 
+            "text": "B.1.4.11", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 249) WE WYLLA\u00d0 EOW | s\u00e6cgan sume swutelunge nu"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 281) an \u00e6lmihtig god | a butan ende. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 281-95", 
+            "text": "B.1.4.13", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 281) Erat homo ex pharisseis & reliqua | SUM PHARISE | isc man w\u00e6s gehaten. nichodemus"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 295) on anre godcundnysse. | we cwe\u00f0a\u00f0.l AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 295-310", 
+            "text": "B.1.1.25", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 295) Homo quidam erat diues. & reliqua. | SE WEALDENDA | drihten s\u00e6de \u00feis bispell"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 310) on anre godcund | nesse wunigende butan anginne | 7 ende a worulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 310-19", 
+            "text": "B.1.2.29", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 310) Homo quidam fecit cenam magnam & reliqua | SE H\u00c6LEND S\u00c6de | \u00feis bigspell his leorningcnihtum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 319) se \u00f0e \u00feurh his tocyme us \u00fe\u00e6r | to gela\u00f0ode. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 337-50", 
+            "text": "B.1.4.14", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 337) Estote ergo misericordes & reliqua. | LVCAS SE GOD | spellere. \u00fee w\u00e6s l\u00e6ce on life"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 350) \u00feam is | wuldur 7 lof a to weorulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 350-63", 
+            "text": "B.1.4.15", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 350) Cum turbe inruerent ad iesum. & reliqua. | ON \u00d0\u00c6RE TIDE | iu. hit getimode swa"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 363) \u00feam is wuldor \\ 7 wur\u00f0mynt. a to worulde AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 363-76", 
+            "text": "B.1.4.16", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 363) Amen dico uobis nisi abundauerit & reliqua. | MATHEVS SE | godspellere. \u00fee w\u00e6s mid criste on life"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 376) \u00deam is wuldor | 7 wur\u00f0mynt. a to worulde. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 376-87", 
+            "text": "B.1.2.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 376) Cum multa turba esset cum iesum nec | aberent quod manducarent. & reliqua. | MARCUS SE GOD | spellere cw\u00e6\u00f0 on \u00f0isum d\u00e6g\u00f0erlicum | godspelle"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 387) Se \u00f0e leofa\u00f0 7 rixa\u00f0 on ealra | worulda woruld. AMEN"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 387-98", 
+            "text": "B.1.2.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 387) Adtendite a falsis prophetis qui ue | niunt in uestimentis ouium & reliqua. | DRIHTEN CW\u00c6\u00d0 | to his leorningcnihtum behealda\u00f0 | eow wi\u00f0 lease witegan \u00fee to eow cuma\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 398) Sy him | wuldor. 7 lof mid f\u00e6der. 7 halgan gaste. on ealra worulda woruld. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 398-414", 
+            "text": "B.1.4.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 398) Homo quidam erat diues qui ha \\ bebat uillicum. & reliqua. | SE H\u00c6LEND S\u00c6 | de \u00feus to his halgum apostolum. her | on \u00feisum life libbende"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 414) \u00feam sy | a wuldor on ecnysse. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }, 
+        {
+            "locus": "pp. 415-32", 
+            "text": "B.1.1.30", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(p. 415) Cum adpropinquas & iesus hierusalem. | ON SVMERE TIDE | w\u00e6s se h\u00e6lend farende to hierusalem"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(p. 432) ends imperfectly; the rest of the homily is supplied on p. 433 in hand of s. xviAc uton we beon carfulle \u00fe\u00e6t ure tima"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 130-32"
+                }, 
+                {
+                    "work": "wil1652"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": null, 
+        "extent": "c. 247 mm x 165 mm (dimensions of all - size of leaves).\n200 mm x 100 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "3", 
+        "summary": "One main hand, s. xi", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "major", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 86 SC1", 
+                "description": "pp. 3-432. This hand is upright and relatively angular. The", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline, but often has an undeveloped head."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is often high in the combination <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "c", 
+                        "note": "<span class=\"c\">c</span> is horned."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is horned both in Latin and Old English."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is insular; the middle stroke, which is longer than the headstroke, sits flat on the line."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> has a flat headstroke; the tail descends from the left of the headstroke into a curved and closed tail."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "High and low <span class=\"c\">s</span> are used in all positions. The former has a distinctive onset stroke; the latter, a split shoulder."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a cross-bar which transects the upstroke. The cross-bar curves down at the end. The upstroke frequently ends with a small blob down to the right."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are long in proportion to x-height, and sometimes have a tag to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are relatively short and have a very slight curve to the left."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "additions and glosses", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 86 SC2", 
+                "description": "The general aspect is upright; the duct angular. The", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is Caroline."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "Round-backed <span class=\"c\">d</span> with an upstroke the same size as <span class=\"c\">\u00f0</span> is used."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "<span class=\"c\">f</span> is Caroline."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Insular <span class=\"c\">g</span> is used for the spirant."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is Caroline."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is used."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> has a straight crossbar which transects the upstroke."
+                    }, 
+                    {
+                        "char": "u", 
+                        "note": "<span class=\"c\">u</span> is used for WS <span class=\"c\">y</span>, as in 'ufelnesse', 'sunfullan.'"
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are split wedges."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Sixteenth-century binding of brown leather, elaborately tooled and gilded, with decorated clasps on the front. The cover of the binding is stamped at a later date with the arms of <span class=\"name\">Archbishop Whitgift</span>. Top, bottom and foredge are gilded, and '26' is written on the foredge. Front board of binding has had the pastedown removed, allowing an examination of the sewing, consisting of three thongs in the boards. The original binding was attached by four thongs, though. On the board 'Omilia. Saxon 26' is written; this seems to be a typical <span class=\"name\">Parker</span>ian designation. The unpasted pastedown is a sixteenth-century accounts page.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "The script and illumination suggest that it was produced in <span class=\"name\">Canterbury</span>.", 
+        "provenance": "Unknown. The alterations of s. xii appear not to be in a south-eastern dialect.", 
+        "acquisition": "Presumably belonged to <span class=\"name\">Archbishop Matthew Parker</span>. It then belonged to his son, <span class=\"name\">John Parker</span>, whose signature is on the pastedown: it is no. 44 in the list of John Parker's manuscripts in London, Lambeth Palace, 737. Bequeathed to <span class=\"name\">Trinity College</span> by <span class=\"name\">Archbishop Whitgift</span>. A note by <span class=\"name\">Professor Timothy Graham</span> in the folder explains that many of the pencil markings in the manuscript are in the hand of <span class=\"name\">William L'Isle</span>. At pages iii-viii is a <span class=\"name\">Abraham Wheelocke</span> index with a title 'Homiliae quaedam Saxonice' at the top middle of p. iii. The index continues at pages 434-438, some of it overwriting an accounts page."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Sanne van der Schee (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "ass389", 
+        "bel365", 
+        "gne146", 
+        "gre1423", 
+        "jam1253", 
+        "ker44", 
+        "key605", 
+        "nap123", 
+        "pop87", 
+        "scr565", 
+        "tho57", 
+        "wan416", 
+        "wil1652", 
+        "wor29"
+    ]
+}

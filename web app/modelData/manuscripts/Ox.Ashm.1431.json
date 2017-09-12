@@ -1,0 +1,159 @@
+{
+    "id": "Ox.Ashm.1431", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Ashmole", 
+    "shelfmark": "1431 (7523)", 
+    "ker": "289", 
+    "content": "Glosses to Herbarius of Pseudo-Apuleius", 
+    "location": "Canterbury, St Augustine's", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 5-42v", 
+            "text": "C.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5r) w\u00e6gbrada"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 42v) banece"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 289"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "235 mm x 150 mm (dimensions of fols 3-43 - size of leaves).\n174 mm x 105 mm (dimensions of fols 3-32 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "One hand glossing the text in Old English", 
+        "hands": [
+            {
+                "name": "glosses", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 289 SC1", 
+                "description": "Fols 5r-42v. A twelfth-century hand using mainly Caroline form, but adopting occasional insular letters.", 
+                "summary": "According to Ker, spellings are South-Eastern (", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "Both insular and Caroline forms of <span class=\"c\">a</span> are used."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The <span class=\"c\">e</span> component of <span class=\"c\">\u00e6</span> is horned."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> and <span class=\"c\">\u00f0</span> are similar in shape and size."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> is horned and sometimes open at the top."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Caroline <span class=\"c\">g</span> has an open lower lobe and is very angular and upright. The cross-bar of insular <span class=\"c\">g</span> flicks down at the left and up at the right. The end of the tail flicks towards the right."
+                    }, 
+                    {
+                        "char": "minims", 
+                        "note": "<span class=\"c\">minims</span> are usually distinguishable."
+                    }, 
+                    {
+                        "char": "o", 
+                        "note": "<span class=\"c\">o</span> is sometimes horned."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> and <span class=\"c\">\u01bf</span> are very similar in size and shape."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "The limb of <span class=\"c\">r</span> is wavy."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is used in all positions."
+                    }, 
+                    {
+                        "char": "t", 
+                        "note": "<span class=\"c\">t</span> has a long cross-bar."
+                    }, 
+                    {
+                        "char": "\u00fe", 
+                        "note": "<span class=\"c\">\u00fe</span> used."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "The ascender of <span class=\"c\">\u00f0</span> curls to the right at the top. The cross-bar does not transect the ascender."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is dotted."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> are sometimes used on <span class=\"c\">\u00e6</span>."
+                    }, 
+                    {
+                        "char": "macrons", 
+                        "note": "<span class=\"c\">macrons</span> and <span class=\"c\">\u02e5</span> are used."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Leather, s. xviii, with 'ASH. | 1431' on the spine.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "According to <a href=\"#doa76\">Doane</a>, the manuscript was 'probably produced at <span class=\"name\">St. Augustine's, Canterbury'</span> (2001, p. 84).", 
+        "provenance": "Belonged to <span class=\"name\">St. Augustine's, Canterbury</span> (<a href=\"#jam602\">James</a> 1903, no. 1264). Later belonged to <span class=\"name\">Elias Ashmole</span> (1617-92) (<a href=\"#ker44\">Ker</a> 1957, p. 350).", 
+        "acquisition": "<span class=\"name\">Ashmole</span> bequeathed the manuscript to the <span class=\"name\">Ashmolean museum</span> at his death (<a href=\"#ove1224\">Ovenell</a> 1986, pp. 71-73). Transferred to the <span class=\"name\">Bodleian library</span> in 1860 (<a href=\"#ove1224\">Ovenell</a> 1986, p. 217 and <a href=\"#doa76\">Doane</a> 2001, p. 84)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold and Hollie Morgan (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bla1218", 
+        "blu1219", 
+        "doa76", 
+        "can223", 
+        "gne146", 
+        "gra1220", 
+        "gun1228", 
+        "how1221", 
+        "jam602", 
+        "kas1223", 
+        "kas1222", 
+        "kau54", 
+        "ker44", 
+        "ker48", 
+        "lai45", 
+        "web1517", 
+        "ove1224", 
+        "pro1225", 
+        "rid1226", 
+        "sin1227"
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "id": "LCL.298", 
+    "city": "Lincoln", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "298, B", 
+    "ker": "125", 
+    "content": "Hexateuch (fragment)", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-2v", 
+            "text": "B.8.1.3", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r) \u00d0a hi \u00fea utforan of egipta lande"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 2v) ondgod wuna\u00f0 on him"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 125"
+                }, 
+                {
+                    "work": "cra497", 
+                    "page": "1921, p. 2"
+                }, 
+                {
+                    "work": "cra327", 
+                    "page": "1922, p. 308"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Fragment", 
+        "support": "Parchment", 
+        "extent": "300 mm x 209 mm mm (dimensions of fol. 2 - size of leaves).\n277 mm x 189-97 mm (dimensions of fol. 2 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 125 SC1", 
+                "description": "An insular minuscule with some Caroline influences.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> squat, rounded, short."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> round-backed."
+                    }, 
+                    {
+                        "char": "m", 
+                        "note": "<span class=\"c\">m</span> terminal <span class=\"c\">m</span> often suspended. The suspension mark is a zigzag."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> broken-shafted Caroline <span class=\"c\">s</span>, beside low. Long <span class=\"c\">s</span> is rare, and it has split-topped ascenders."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> fine descending stroke, upturned at the end."
+                    }, 
+                    {
+                        "char": "D", 
+                        "note": "<span class=\"c\">D</span> occurs in both minuscule and rustic."
+                    }, 
+                    {
+                        "char": "M", 
+                        "note": "<span class=\"c\">M</span> there are three forms."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> split-topped."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> a hair-line slopes up to the right from the ends of the descenders."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "Now bound as the second item in a portfolio of twelve fragments, collected in the early twentieth century. The fragments have been described in <a href=\"#tho269\">Thomson</a> (1989, pp. 205-07).", 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Johanna Green, and with reference to published scholarship (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "cra327", 
+        "cra497", 
+        "gne146", 
+        "ker44", 
+        "mar811", 
+        "scr565", 
+        "tho269", 
+        "wan416"
+    ]
+}

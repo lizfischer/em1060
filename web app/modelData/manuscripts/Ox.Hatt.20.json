@@ -1,0 +1,280 @@
+{
+    "id": "Ox.Hatt.20", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Hatton", 
+    "shelfmark": "20", 
+    "ker": "324", 
+    "content": "Annotations to Gregory's Regula Pastoralis", 
+    "location": "Worcester", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1r-2v", 
+            "text": "B.9.1.2.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 1r ) + \u00d0EOS BOC SCEAL TO\u01f7OGORA CEASTRE \u00c6lfred kyning hate\u00f0 gretan \u01bf\u00e6rfer\u00f0 biscep"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 2v) for\u00f0y ic \u01bfolde | \u00f0\u00e6tt hier ealneg \u00e6t \u00f0\u00e6re sto\u01bfe \u01bf\u00e6ren. buton se biscep hie mid him | habban \u01bfille. o\u00f0\u00f0e hio h\u01bf\u00e6r to l\u00e6ne sie. o\u00f0\u00f0e h\u01bfa o\u00f0re bi\u01bfrite:"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "890-97"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 384-86"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 2v", 
+            "text": "A.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 2v) \u00deis \u00e6rendge\u01bfrit agustinus. ofer sealtne s\u00e6 su\u00f0an gebrohte | iegbuendum s\u01bfa hit \u00e6r fore Adihtode dryhtnes cempa rome | papa"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 2v) Si\u00f0\u00f0an min on englisc \u00e6lfred kyning a\u01bfende | \u01bforda geh\u01bfelc \u02e5 me his \u01bfriterum sende su\u00f0 \u02e5 nor\u00f0 heht him | (beginning of line illegible on microfiche, probably 's\u01bfelcra') ma brengan bi \u00f0\u00e6re bisene \u00f0\u00e6t he his biscepum sen | (beginning of line illegible on microfiche, probably 'dan meahte') for\u00f0\u00e6m he his sume \u00f0orfton \u00f0a \u00f0e l\u00e6denspr\u00e6 | ce l\u00e6ste cu\u00f0on"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "890-97"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 384-86"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3r-5v", 
+            "text": "B.9.1.2.2.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "( fol. 3r) i \u00d0\u00e6tte unl\u00e6rede ne dyrren underfon lario\u01bfdom"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 5v) lxii rest of number illegible \u00d0onne h\u01bfa \u00f0is eall gefylled h\u00e6bbe hu he \u00f0onne sceal hine selfne ge | \u00f0encean \u02e5 ong\u00e6tan \u00f0yl\u00e6s hine au\u00f0er o\u00f0\u00f0e his lif o\u00f0\u00f0e his lar to upa | hebbe."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "890-97"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 384-86"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 6r-98r", 
+            "text": "B.9.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 6r) \u00deV leofustra bro\u00f0ur sui\u00f0e freondlice \u02e5 sui\u00f0e fremsumlice \u00f0u me t\u00e6l | des\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 98r) Ac ic \u00f0e bidde \u00f0\u00e6t \u00f0u | me on \u00f0\u00e6m scipgebroce \u00f0isses and\u01bfeardan lifes sum bred ger\u00e6ce \u00f0in | ra gebeda \u00f0\u00e6t ic m\u00e6ge on sittan o\u00f0 ic to londe cume \u02e5 ar\u00e6r me mi\u00f0 \u00f0\u00e6re | honda \u00f0inra geearnunga for\u00f0\u00e6m me h\u00e6f gehefegad sio byr\u00f0en min | ra agenra scylda."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "890-97"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 384-86"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 53v and 55r, margins", 
+            "text": "B.27.3.33", 
+            "notes": [
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 53v) \u01bfillimot writ \u00feus o\u00f0\u00f0e bet"
+                }, 
+                {
+                    "head": "Addition", 
+                    "body": "(fol. 55r) \u01bfrit \u00feus o\u00f0\u00f0e bet o\u00f0\u00f0e \u00feine hyde forlet"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "s. xii"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 384-86"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 98r", 
+            "text": "A.37", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 98r) beginning of incipit illegible on microfiche, Franzen reads '\u00d0is is nu se' \u01bf\u00e6terscipe \u00f0e us \u01bfereda god to frofre gehet foldbuendum."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 98r) explicit illegible"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "890-97"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "fra730", 
+                    "page": "1998"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "1957, pp. 384-86"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "parchment", 
+        "extent": "c. 274 mm x 215 mm (dimensions of most - size of leaves).\n225-205 mm x 175-157 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Franzen", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": "Ker distinguishes one main hand, datable 890-97, the hand of an annotator, probably Wulfstan's hand, s. xi", 
+        "hands": [
+            {
+                "name": "annotations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "not in Ker", 
+                "description": "Fols 53v and 55r. An English Vernacular Minuscule using insular forms.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span>: insular"
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span>: long ascender curving to the right and a round bowl"
+                    }, 
+                    {
+                        "char": "\u01bf", 
+                        "note": "<span class=\"c\">\u01bf</span>: with long tapered descender."
+                    }
+                ], 
+                "date": "s. xii"
+            }, 
+            {
+                "name": "annotations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "Latin annotations by", 
+                "summary": null, 
+                "date": null
+            }
+        ]
+    }, 
+    "binding": "Rebound, s. xvii/ xviii, along with <a href=\"EM.Ox.Hatt.76.htm\">Hatton 76</a>, <a href=\"EM.Ox.Hatt.115.htm\">Hatton 115</a> and <a href=\"EM.Ox.Hatt.116.htm\">Hatton 116</a> (<a href=\"#fra730\">Franzen</a> 1998, p. 11).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "On fol. 1, there is a note '\u01f7iogora ceastre'. According to Franzen this validates the suggestion that this manuscript was sent to <span class=\"name\">W\u00e6rfer\u00f0, Bishop of Worcester</span> as referred to in London, BL, Cotton Tiberius B. xi, same copy as the ones (now lost) sent to <span class=\"name\">Archbishop Plegmund</span> and <span class=\"name\">Bishop Swithulf</span> (<a href=\"#fra730\">Franzen</a> 1998, pp. 11-12). Hatton 20 must have been copied between 890 and 897, possibly in <span class=\"name\">Winchester</span> (<a href=\"#ker44\">Ker</a> 1957, pp. 384-86 and <a href=\"#fra730\">Franzen</a> 1998, p. 10).", 
+        "provenance": "The manuscript was in <span class=\"name\">Worcester</span> by the first half of the thirteenth-century as it was annotated by the <span class=\"name\">Tremulous Hand</span>.", 
+        "acquisition": "<span class=\"name\">Archbishop Parker</span>'s secretary <span class=\"name\">Joscelyn</span> must have used it, it was then borrowed by <span class=\"name\">Christopher, Lord Hatton</span> before August 1644 and was used by <span class=\"name\">Dugdale</span>, for his Old English-English dictionary, and <span class=\"name\">Junius</span>, who supplied the missing text on fol. 42 (now lost). After Hatton's death it was sold to the <span class=\"name\">London</span> bookseller <span class=\"name\">Robert Scot</span>, who sold it to the <span class=\"name\">Bodleian Library</span> in 1671 (<a href=\"#fra730\">Franzen</a> 1998, p. 10)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Sanne van der Schee with reference to published scholarship (2010; 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "atk489", 
+        "cle1271", 
+        "dob617", 
+        "fra730", 
+        "fra188", 
+        "gne146", 
+        "hor1273", 
+        "hor1272", 
+        "Ken1275", 
+        "ker44", 
+        "ker504", 
+        "lai45", 
+        "web1517", 
+        "rob335", 
+        "sis1274", 
+        "tin1501", 
+        "wat89"
+    ]
+}

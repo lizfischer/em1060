@@ -1,0 +1,668 @@
+{
+    "id": "CCCC.367", 
+    "city": "Cambridge", 
+    "repository": "Corpus Christi College", 
+    "collection": "", 
+    "shelfmark": "367", 
+    "ker": "62; 63; 64", 
+    "content": "Homilies, Vision of Leofric, etc.", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "Fol. 54r/1-55v/36 (Ker fols 1, 2, 7-10: beginning of the part on\n                                              parchment)", 
+            "text": "B.1.9.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u00deone forman d\u00e6g \u00feyssere \u01bforulde \u01bfe magon afin | dan"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(Fol. 55v) Eft on langiendum dagum he ofer ge\u00f0 \u00feone su\u00f0ran sunsted \u00b7 7 for\u00fei he by\u00f0 nor\u00feur gese\u01bfen \u00feonne seo sunne on \u01bfintra \u00b7 s\u01bfa \u00feeah ne g\u00e6\u00f0 heora"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Fols 10r/21-36 and 10v blank."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "hen403", 
+                    "page": "as C"
+                }, 
+                {
+                    "work": "coc404", 
+                    "page": "iii, 238-80"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 74r-v (Ker fols 21r-v, 20r/1-24 (Quire 2))", 
+            "text": "B.1.1.17", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(Fol. 74r/1) (beg. imperf.) 'fram \u00ferowunge to \u00e6riste'."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(Fol. 74v) (ends).. we cwe\u00fea\u00f0. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "'uel teoden' glosses 'hosp'."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "i. 224/11"
+                }, 
+                {
+                    "work": "cle112", 
+                    "page": "299-306/118-178"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 20r/25-20v, 26r-v (Quire 1)", 
+            "text": "B.1.2.19", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Feria secunda."
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "Hit is swy\u00f0e gedfenlic [sic] \u00fe\u00e6t ge on \u00feissum drihten licum"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(ends imperfectly) \u00feurh \u00feone la\u00f0an"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "tho57", 
+                    "page": "ii. 282 ('Alius\n                                                               Sermo de Die Paschae')"
+                }, 
+                {
+                    "work": "god42", 
+                    "page": "161-68/1-95, 208-223 ('Alius Sermo de Die Paschae')"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 17r-v, 29r-v (Quire 3)", 
+            "text": "B.1.1.21", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(begins imperfectly) 'ure rice gif we hit.. '"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(ends imperfectly) 'on \u00fe\u00e6re fandunge..'"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "325-334/87-167"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "i, 264/5-68/11"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 23rv, 6rv, 3r-5r/30 (Quire 4)", 
+            "text": "B.1.1.32", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Hieronimus se halga sacerd awrat \u00e6nne pistol'."
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf is missing between fol. 23 which ends '\u00feurh \u00feone ylcan gast' and fol. 6 which begins 'be \u00feisse heofenlican cwene'."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "23r/1 Red 'H' of 'Hieronimus' with zig-zag decoration."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "429-38/1-59, 113-273"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "i, 436"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 5r/30, 5v, 24rv (Quire 4)", 
+            "text": "B.1.1.33", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "\u01f7yrdwryteras secga\u00f0 \u00fe\u00e6t \u00fere leodscipas |"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(ends imperfectly with) \u00feearle"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf is missing between fol. 5 which ends 'gewur\u00f0od \u00fe\u00e6s' and fol. 24 which begins 'menniscnysse'."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "' \u01f7yrdwryteras': Red and black \u01f7 with zig-zag decoration."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "439-50/1-24, 78-135"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "i, 454"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 11r/1-16v (Quire 5)", 
+            "text": "B.3.3.18", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Men \u00fea leofestan weor\u00f0iat we nu on and | weardnysse"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(Ends imperfectly).. of \u00feam sl\u00e6pe. swy\u00fee ge ||"
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "'Men': Red uncial M."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ass389", 
+                    "page": "p. 117"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fols 28r-v/20 (Quire 6)", 
+            "text": "B.1.3.27", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(begins imperfectly) \u00fe\u00e6t cristes l\u00e6wa'."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ske153", 
+                    "page": "ii, 154, 1. 157"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 28v/21, 19r-v, 27r-v/12 (Quire\n                                              6)", 
+            "text": "B.1.2.40", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Se godspellere mat | heus. \u00fee we tod\u00e6g wur\u00f0ia\u00f0"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "One leaf is lost between fol. 19 which ends 'mid \u00feam synfullum \u00e6t' and fol. 27 which begins 'wy\u00f0e [sic] astyred'."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "'Se godspellere': elaborate red S."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "god42", 
+                    "page": "pp. 273-79/1-72, 191-225"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "ii, 468"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 27v/13, 18rv, 22r-v (Quires 6-7)", 
+            "text": "B.1.1.36", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Manegum is cu\u00f0"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(Fol. 22v/32) (ends imperfectly).. h\u00e6f\u00f0 he swa miccle"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Two leaves are missing after fol. 18 which ends 'undergeaton \u00fe\u00e6t se'; fol. 22 begins 'gafol o\u00f0\u00f0e tol' and ends 'h\u00e6f\u00f0 he swa miccle'."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "'Manegum': Elaborate red and black M with foliate decoration."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cle112", 
+                    "page": "465-75/1-66, 161-203"
+                }, 
+                {
+                    "work": "tho57", 
+                    "page": "i, 502"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 25r-v (Quire 7)", 
+            "text": "B.3.1.2.4", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(Begins imperfectly) fram gode. to \u00fee cumen."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(Ends imperfectly) \u00fe\u00e6r ongean. \u00fee |"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "scr125", 
+                    "page": "pp.\n                                                               90-104/275-323"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45r-48r (Quire 10)", 
+            "text": "Love 1996", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Two scribes"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lov415", 
+                    "page": "pp. 126-29"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 48r/margin (Quire 10)", 
+            "text": "Love 1996", 
+            "notes": [
+                {
+                    "head": "Explicit", 
+                    "body": "(ends:) qui uiuit \u02e5 regnat per omnia secula seculorum amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lov415", 
+                    "page": "pp. 62-66"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 48v/2-4 ", 
+            "text": "B.16.23.1", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ker notes: 'A list of eleven books, all but two of which are stated to be englisce.' (Ker 1957, p. 110)"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "lap16", 
+                    "page": "pp. 62-64"
+                }, 
+                {
+                    "work": "sha255", 
+                    "page": "p. 653"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fols 48v/5-50v/15", 
+            "text": "B.4.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Her gesutela\u00f0 \u00f0a gesih\u00f0e \u00f0e leofric eorl ges\u00e6h."
+                }, 
+                {
+                    "head": "Decoration", 
+                    "body": "'Visio Leofrici': Pencilled in rough majuscules by an early hand at the head of the text."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap400", 
+                    "page": "p. 182"
+                }
+            ]
+        }, 
+        {
+            "locus": "Fol. 51r/8-23", 
+            "text": "James, Parker, and Rogers 1912", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": " Fol. 52r/1-59 ", 
+            "text": "James, Parker, and Rogers 1912", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): Hubertus Abbas. Westmon' \u02e5 Edwinus prior eiusdem loci. uenerabili priori Wigornie | \u2026\u2019"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "laudando creatorem qui ouem suam reduxit ad gregem. Vale."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "jam354", 
+                    "page": "ii, 203"
+                }
+            ]
+        }, 
+        {
+            "locus": " Fol. 52r/16-105r", 
+            "text": "James 1912", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): + In nomine p. et f. et s. s. amen + Ire + arex + Christe + rauex + filiax + | arafax + N. Medicina contra febres."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fol. 52v", 
+            "text": "James 1912", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "Latin"
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Text on paper (fols 1-53)"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 163 x 115; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Pencil ruling."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 30-38"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quire 1"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: ca. 170 mm x ca. 103 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single bounding lines. Ruling with a pencil. Pricks in both margins to guide ruling."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: 30-36 long lines (27 lines on fols 17, 29)."
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quires 2-7"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: ca. 176 mm x ca. 105 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Single bounding lines in Quires 2 and 3 (except fols 3, 4, 5, 6 which have double bounding lines). Dry point ruling."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 43"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quire 8"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: ca. 170 mm x ca. 108 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Annotations and corrections in the margins, some of which have been excised by trimming."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 2"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 32"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quire 9"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 193 mm x 120 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: In two pencil-ruled columns of 32 lines, the quatrains linked by wavy brackets on fol. 42 (fols 42-44)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Columns:", 
+                    "body": "Columns: 1"
+                }, 
+                {
+                    "head": "Written Lines:", 
+                    "body": "Written Lines: 22"
+                }, 
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quire 10"
+                }, 
+                {
+                    "head": "Dimensions:", 
+                    "body": "Dimensions: 178 mm x 113 mm; ruled"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: 22 lines until fol. 48r12 when text is squeezed into lower and right margins. Dry point ruling (virtually incising the parchment)."
+                }
+            ], 
+            "bib": null
+        }, 
+        {
+            "locus": "Fols 1-29/19 (paper)", 
+            "text": "Crawford 1922", 
+            "notes": [
+                {
+                    "head": "Locus:", 
+                    "body": "Locus: Quire 11"
+                }, 
+                {
+                    "head": "Overview:", 
+                    "body": "Overview: Quire 11 has a variety of informal copies of texts and pen-trials."
+                }
+            ], 
+            "bib": null
+        }
+    ], 
+    "objectDesc": {
+        "form": "codex", 
+        "support": "Folios 1-53 are paper of s. xv. Remainder of manuscript is vellum, arranged HHFF.", 
+        "extent": "ca. 215 mm x ca. 138 mm (dimensions of fols 1-53 - size of leaves).\n165 mm x 115 mm (dimensions of fols 1-53 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "7", 
+        "summary": null, 
+        "hands": []
+    }, 
+    "decoration": null, 
+    "binding": "Rebound in tan goatskin in 1946.", 
+    "accompanying": "Pages i-ii and two at the end are paper flyleaves of date of binding (1946).", 
+    "history": {
+        "origin": "This manuscript is part of a collection of fragments bound together for Archbishop Parker. Nothing is known of the individual elements that make up this composite codex, save that the letter on fol. 52r provides a provenance of Worcester for at least that quire. It is one of four manuscripts about which almost nothing of the previous history is known.", 
+        "provenance": "<p>Importantly, it seems that by the fourteenth century, when the annotator whose hand is apparent at fols 1, 2, 7-10, and 28r was working, Quires 1 and 2-7 were probably kept together (i.e., <span class=\"italics\">De Temporibus</span> and the Old English <span class=\"italics\">Homilies</span>). </p><p>It was in <span class=\"name\">Archbishop Parker\u2019s</span> possession after 1565 as his \u2018Quintus liber homiliarum\u2019 (S. 9). </p>", 
+        "acquisition": "It was bequeathed by Parker to <span class=\"name\">Corpus Christi College</span> in 1575. It was kept 'inter libror. impressos' in 1575. The mark '19 9' is on fol. i of pt. I."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Takako Kato and Owen Roberson (2010; 2013).", 
+    "surrogate": true
+}

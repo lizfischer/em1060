@@ -1,0 +1,41 @@
+{
+    "id": "Ox.Bodl.708", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Bodley", 
+    "shelfmark": "708 (2609)", 
+    "ker": "316", 
+    "content": "Inscription in Latin and Old English", 
+    "location": "Exeter", 
+    "date": "s.xi^{2}", 
+    "summary": "Main text of manuscript is a s. xi<span class=\"sup\">in</span> Latin copy of Gregory\u2019s <span class=\"italics\">Pastoral Care</span> written in England. At the top of the recto of the final leaf, an inscription in Latin records the donation of the manuscript to <span class=\"name\">Exeter</span> by <span class=\"name\">Leofric</span>. The same inscription is repeated in Old English.", 
+    "items": [
+        {
+            "locus": "fol. 113", 
+            "text": "B.16.10.5", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 316"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan, with reference to published scholarship (2012).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

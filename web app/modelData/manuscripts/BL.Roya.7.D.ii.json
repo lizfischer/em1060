@@ -1,0 +1,54 @@
+{
+    "id": "BL.Roya.7.D.ii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Royal", 
+    "shelfmark": "7. D. ii", 
+    "ker": "258", 
+    "content": "Glosses in OE, Latin and French", 
+    "location": "Canterbury, St Augustine's", 
+    "date": "s.xii^{med}", 
+    "summary": "Manuscript contains a number of texts in Latin written in s.xii<span class=\"sup\">med</span>, including Cassiodorus, <span class=\"italics\">De anima</span>. The beginning of an alphabetical glossary is on fols 18v-19v, and this is glosses interlinearly in English, Latin and French. From <span class=\"name\">St Augustine\u2019s, Canterbury</span>.", 
+    "items": [
+        {
+            "locus": "fols 18v-19v", 
+            "text": "D.20", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(18v) Acrifolusholen"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(19v) bardioriolus colmase."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 258"
+                }, 
+                {
+                    "work": "mer1069", 
+                    "page": "no. 69"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Mary Swan and Owen Roberson with the assistance of Hollie Morgan and George Younge, with reference to published scholarship; ed. by Takako Kato (2010; 2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44", 
+        "#mer1069"
+    ]
+}

@@ -1,0 +1,134 @@
+{
+    "id": "BL.Harl.55", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Harley", 
+    "shelfmark": "55", 
+    "ker": "226", 
+    "content": "Laws of Cnut", 
+    "location": "Unknown", 
+    "date": "s.xii^{med}", 
+    "summary": "A miscellany comprising two fragments: Part 1: Fols 1-4v include three items copied in the early eleventh century: fols 1-3, Bald's Leechbook, Book II, ch. 59; fols 3v-4v, II Eadgar (r. 959-975); fol. 4v, Charters: Miscellaneous: Archbishop Oswald's memoranda on the estates of the see of York Sawyer 1453. Item perhaps annotated by <span class=\"name\">Wulfstan, bishop of Worcester</span> (1003-1016) and archbishop of York (1003-1023). Fols 3v/9-10 and 4r/8 contain annotations by the <span class=\"name\">Tremulous Hand</span>. Part 2: Fols 5-13v, I, II Cnut , 'Ãis is seo gerednes Ã¾e cnut cyning...' (<a href=\"#lie471\">Liebermann</a> 1903, p. 278); s. xii<span class=\"sup\">med</span>",
+    "items": [
+        {
+            "locus": "fol. 5r - fol. 13v", 
+            "text": "B.14.30", 
+            "notes": [
+                {
+                    "head": "Rubric", 
+                    "body": "Rubric (initial): (fol. 5r) \u0110is is seo gerednes \u00fee cnut cyning ealles engla landes cyninge. onddena cyninge ondnor\u00ferigena cyninge ge r\u00e6dde ondhis \u01bfitan gode to lofe.ond him sylfum to cyne scipe ondto \u00feearfe. rade s\u01bfa h\u01bf\u00e6\u00f0er s\u01bfa man \u01bfille;"
+                }, 
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 5r) \u0110is is seo gerednes \u00fee cnut cynige mid his \u01bfitena ge\u00feeahte ge redde gode to lofe."
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 13v) God \u00e6lmihtig us eallum ge miltryge s\u01bfa his \u01bfille sy amen."
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 226"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Fragment", 
+        "support": "Parchment", 
+        "extent": "290 mm x 190 mm (dimensions of fols 1-4 - size of leave).\n206 mm x 145 mm (dimensions of fols 1-4 - size of written space).\n270 mm x 190 mm (dimensions of fols 5-13 - size of leave).\n206 mm x 152 mm (dimensions of fols 5-13 - size of written space).",
+        "foliation": "Foliated formerly 3-11.",
+        "collation": "<span class=\"itemHeading\">Quires:</span> Part 1 is made up of 2 bifolia. Part 2 is a quire of 10 leaves, wanting 10, probably blank. Fol. 13v, column 1/31-35 and column 2 is blank. This gathering is probably from the end of a manuscript.",
+        "layoutDescription": null, 
+        "note": "Part 1, ruled on the hair side, double bounding lines on both side of the frame. Part 2, two columns, 35 lines. Ruled in hard point, pricks in both margins to guide ruling. Single vertical bounding lines, first line above top line."
+    }, 
+    "handDesc": {
+        "number": "2", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "Sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 226", 
+                "description": "Part 2: fols 5-13. A regular hand which adopts many Caroline features, but insular characters are present.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": null, 
+                        "note": "<span class=\"c\"></span> Caroline <span class=\"c\">a</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> the same shape and size as <span class=\"c\">\u00f0</span>, with a short and pointy ascender."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> insular and Caroline <span class=\"c\">s</span> are used indifferently. Suprascript round <span class=\"c\">s</span> once at a line-end, fol. 5."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> the same size and shape as <span class=\"c\">d</span>."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> straight-limb and dotted."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> the ends curve to the left."
+                    }, 
+                    {
+                        "char": "\u02e5", 
+                        "note": "The shaft of <span class=\"c\">\u02e5</span> slopes to the left."
+                    },
+                    {
+                        "char": "hyphen",
+                        "note": "<span class=\"c\">hyphen</span> is a fine upward-sloping line."
+                    }
+                ], 
+                "date": null
+            }, 
+            {
+                "name": "annotations", 
+                "scope": "minor", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Tremulous Scribe", 
+                "description": "Extensive glosses, corrections and alterations by the <span class=\"name\">Tremulous Hand</span> (<a href=\"#fra730\">Franzen</a> 1998, p. 46).",
+                "summary": null, 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": ["Red initials with pen-ink work in red. Tinted first letters of a sentence in red."],
+    "binding": "British Library binding with Harley arms and motto gilt-tooled at centre of covers.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "As the manuscript is annotated by the <span class=\"name\">'Tremulous Hand'</span>, it is possible that at least the first part was at <span class=\"name\">Worcester</span> at the beginning of the thirteenth century (<a href=\"#wat88\">Watson</a> 1979, p. 118, item 629). Harley 55 is one of the manuscripts used by <span class=\"name\">Lambarde</span> for his <span class=\"italics\">Archaionomia</span>, 1568. The manuscript belonged to <span class=\"name\">John Selden</span> (1584-1655), who presented it to <span class=\"name\">Sir Simonds D'Ewes</span> (1602-1650), in 1648/49 (Letter of thanks in British Library Harley 377, fols 156v-157. See <a href=\"#wat1176\">Watson</a> 1966). The volume was purchased on 4 October 1705 with the <span class=\"name\">D'Ewes library</span> by <span class=\"name\">Robert Harley</span> (1661-1724), 1st earl of Oxford and Mortimer. Harley shelfmarks '34.A.16 / 5'5' ' in dark brown ink and pencil and '16/II F' in pencil (fol. 1).", 
+        "acquisition": "Sold to parliament in 1753 and thus incorporated in the <span class=\"name\">British Museum</span> (further on the history of the manuscript in the seventeenth and eighteenth century, see the <a href=\"#bri1165\">British Library, <span class=\"italics\">Manuscripts Catalogue</span></a>)."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan and Thom Gobbitt (April 2010; September 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "bri1174", 
+        "bri1165", 
+        "cam10", 
+        "fra1175", 
+        "fra188", 
+        "gne146", 
+        "ker44", 
+        "lai45", 
+        "lie471", 
+        "scr565", 
+        "wan470", 
+        "wat88", 
+        "wat1176"
+    ]
+}

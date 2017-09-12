@@ -1,0 +1,144 @@
+{
+    "id": "G.Hunt.229", 
+    "city": "Glasgow", 
+    "repository": "University Library", 
+    "collection": "Hunter", 
+    "shelfmark": "229", 
+    "ker": "", 
+    "content": "Charm added to the Hunterian Psalter", 
+    "location": "Canterbury?", 
+    "date": "s.xii^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fol. 210v", 
+            "text": "B.23.1.19.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 210v) + usy + begete + agala + lentotan + domnes + cibu + glaes +.+."
+                }, 
+                {
+                    "head": "Date", 
+                    "body": "c. 1200"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "bro1013", 
+                    "page": "1980"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment, arranged HHFF.", 
+        "extent": "290 mm x 186 mm (dimensions of all - size of leaves).\n216 mm x 114 mm (dimensions of majority of text - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": "Ruling is by plummet for single columns of 21 lines, apart from\n                                                  the Kalendar which is in 35 lines. The ruling lines are faint.\n                                              \n               ", 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 in English", 
+        "summary": null, 
+        "hands": [
+            {
+                "name": "Addition", 
+                "scope": "Minor", 
+                "script": "Diplomatic hand", 
+                "scribe": "n.a.", 
+                "description": "fol. 210v. It lacks angularity and biting.", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is in the rounded insular form; Caroline <span class=\"c\">a</span> is used for Latin, but sometimes the insular <span class=\"c\">a</span> appears in Latin too."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "The ascender of <span class=\"c\">d</span> curves backwards to the right at the top."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "Caroline <span class=\"c\">g</span> with a round top and a flat triangular loop."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "Long <span class=\"c\">s</span> is almost in shape of capital letter 'S', with its descender curving to the left."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> drastically curve to the left."
+                    }, 
+                    {
+                        "char": "Tironian nota", 
+                        "note": "<span class=\"c\">Tironian nota</span> with a crossbar, which looks like 'Z'. Cross-marks are used to punctuate."
+                    }
+                ], 
+                "date": "c. 1200"
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "s. xvii. Millboards, covered crimson morocco, richly gilt-tooled inside margins, edges and sides, panelled back. Entitled 'PSALTERIUM | UETUS | IN MEMBRANIS'.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown, although it has been suggested that the manuscript might have been made in a scriptorium in the <span class=\"name\">South East of England</span> (<span class=\"name\">Canterbury</span>?), and that it is probably not a monastic production (<a href=\"#gar1048\">Gardham</a> 2007). <a href=\"#sti1038\">Stirneman</a> (1999) argues that it was probably produced in the same scriptorium as Copenhagen, Royal Library MS. Thott 143 by different artists with access to the same models.", 
+        "provenance": "Previously known as <span class=\"italics\">The York Psalter</span>. As there are a number of Northern saints' days marked in the calendar, it has been traditionally ascribed a Northern provenance. The presence of <span class=\"name\">John of Beverley</span> (Archbishop of <span class=\"name\">York</span>, d. 721) and <span class=\"name\">Paulinus</span> (Bishop of <span class=\"name\">York</span>, d. 644) in the Litany supports this argument. <a href=\"#gre1024\">Greenland</a> (1997) argues that the manuscript was possibly made for <span class=\"name\">Roger de Mowbray</span> (d. 1188), a <span class=\"name\">Yorkshire</span> magnate who founded over thirty mainly Augustinian and Cistercian monasteries and nunneries.", 
+        "acquisition": "<span class=\"name\">Hunter</span> acquired the manuscript at the sale of the <span class=\"name\">library of Louis-Jean Gaignat</span> in <span class=\"name\">Paris</span>, 10th April 1769. His French agent, <span class=\"name\">Jean B. Dessain</span>, bought it for fifty livres and one sou. It was acquired by the <span class=\"name\">University of Glasgow</span> in 1807 with the rest of the <span class=\"name\">Hunter</span> library (<a href=\"#gar1048\">Gardham</a> 2007)."
+    }, 
+    "admin": "Manuscript described by Takako Kato with the assistance of Hollie Morgan (August 2010) and Johanna Green (September 2012). Thanks are due to David Weston for granting access to the manuscript.", 
+    "surrogate": true, 
+    "bib": [
+        "eng1022", 
+        "gla1060", 
+        "tre1040", 
+        "tre1041", 
+        "bal1008", 
+        "bla1009", 
+        "boa1010", 
+        "boa1011", 
+        "bro1013", 
+        "but1017", 
+        "bur1015", 
+        "bur1016", 
+        "col1025", 
+        "cro445", 
+        "dav1018", 
+        "dav1019", 
+        "bur1014", 
+        "dir1020", 
+        "fin1023", 
+        "gar1048", 
+        "gar1049", 
+        "gla1046", 
+        "gla1047", 
+        "gre1024", 
+        "hen1026", 
+        "het1012", 
+        "het1557", 
+        "het1007", 
+        "hen1034", 
+        "kau54", 
+        "ker48", 
+        "mar1027", 
+        "eng1021", 
+        "nat1028", 
+        "rea1031", 
+        "rem1030", 
+        "ren1032", 
+        "ric1033", 
+        "sau1036", 
+        "sau1035", 
+        "sco1045", 
+        "sti1037", 
+        "sti1038", 
+        "sti1039", 
+        "tho451", 
+        "war1042", 
+        "wor1043", 
+        "you1044"
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "id": "DMU.Cosi.V.ii.6", 
+    "city": "Durham", 
+    "repository": "University Library", 
+    "collection": "Cosin", 
+    "shelfmark": "V. ii. 6", 
+    "ker": "110*", 
+    "content": "Bede's Death Song", 
+    "location": "Durham", 
+    "date": "s.xii^{in}", 
+    "summary": "Old English text of Bede\u2019s <span class=\"italics\">Death Song</span> is part of Cuthbert\u2019s letter <span class=\"italics\">De obitu Bed\u00e6</span>, icorporated into Symeon of Duharam's history of the church of Durham. Written in Durham.", 
+    "items": [
+        {
+            "locus": "p. 57", 
+            "text": "A.33.3", 
+            "notes": [
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "arn697", 
+                    "page": "i, p. 44"
+                }, 
+                {
+                    "work": "dob699", 
+                    "page": "p. 86"
+                }, 
+                {
+                    "work": "ker44", 
+                    "page": "item 110*"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Described by Takako Kato, with reference to published scholarship (2013).", 
+    "surrogate": false, 
+    "bib": [
+        "#arn697", 
+        "#dob699", 
+        "#ker44"
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "id": "BL.Juli.A.ii", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Cotton", 
+    "shelfmark": "Julius A. ii", 
+    "ker": "158; 159", 
+    "content": "Ælfric's Grammar; Dialogue of Adrian and Ritheus, Distichs of Cato, etc.", 
+    "location": "Unknown", 
+    "date": "s.xi^{med}", 
+    "summary": "A composite manuscript made up of three units, which now contains six items. Part 1, item 1: fols 1-9, a fragment of Bede's <span class=\"italics\">De Temporibus</span>, datable to s. xi<span class=\"sup\">med</span>. Part 2, item 2: fols 10- 135, Ã†lfric's Grammar and Ã†lfric's Glossary, datable to s. xi<span class=\"sup\">med</span>.\n\nPart 3, Item 3, fols 136-37, a prayer beginning 'Ã†la drihten leof. Ã¦la dema god' (<a href=\"#dob617\">Dobbie</a> 1942, p. 94; <a href=\"#gre962\">Grein &amp; WÃ¼lcker</a> 1881-98, ii, p. 211). Lines 15-22 on fol. 137 are blank. Item 4, fols 137v-40, <span class=\"italics\">Dialogue of Adrian and Ritheus</span>, beginning 'Adrianus cwÃ¦Ã° to Ritheus. Saga me hu lange wÃ¦s Adam on neorxnaÆ¿ange' (<a href=\"#kem930\">Kemble</a> 1848, p. 198; <a href=\"#for963\">FÃ¶rster</a> 1897, p. 433). Lines 21-22 on fol. 140 are blank. Item 5, fol. 140v, notes on two thieves, Note on Noah's Ark, the church of St. Peter, the temple of Solomon, the world and the number of bones etc. in the human body, beginning 'Her sagaÃ° embe Ã¾a twegen sceÃ°an' (<a href=\"#nap964\">Napier</a> 1889, p. 5; <a href=\"#for963\">FÃ¶rster</a> 1897, p. 433). Item 6, fols 141- 4v, a translation of some of the <span class=\"italics\">Distichs of Cato</span> , beginning '[N]e beo Ã¾u to slapor. ne to idelgeorn' followed by some apophthegms that are independent of the Distichs (<a href=\"#for923\">FÃ¶rster</a> 1897, p. 342), ending imperfectly 'Ã¾Ã¦t Ã°e lycaÃ°' (<a href=\"#kem930\">Kemble</a> 1848, p. 258). The four items in the third part are datable to s. xii<span class=\"sup\">med</span>.",
+    "items": [
+        {
+            "locus": "fols 136r-37r", 
+            "text": "A.28", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(136r/1) Æla drihten leof. \u00e6la dema god"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(137r/14) herian heofonas god. haligum reorde. \u00e1 butan ende. amen"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Other versions of the text", 
+                    "body": "Also in London, Lambeth Palace 427, fol. 183v"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "dob617", 
+                    "page": "1942, pp. 94-96"
+                }, 
+                {
+                    "work": "gre962", 
+                    "page": "1881-98, ii, p. 211"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 137v-40r", 
+            "text": "B.5.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(137v/1) ADRIANVS cw\u00e6\u00f0 to Ritheus. Saga me hu lange w\u00e6s Adam on neorxnawange"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(140r/20) \u02e5 bi\u00f0 gewiten \u00ferim dagum"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cro1571", 
+                    "page": "1982, pp. 35-40, 127-60"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 140v", 
+            "text": "B.24.12.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(140v/1) Her saga\u00f0 embe \u00fea twegen sce\u00f0an"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(140v/21) Mana hafa\u00f0 bana twa hundred \u02e5 nigontine... \u00feritti \u00feusend daga \u02e5 six hundred"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "nap964", 
+                    "page": "1889, pp. 5-6"
+                }, 
+                {
+                    "work": "for963", 
+                    "page": "1897, pp. 433-34"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 141r-44v", 
+            "text": "B.7.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(141r/1) Ne beo \u00feu to sla\u00feor"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(144v/22) Gyf \u00f0u wylt habbe \u00e6t monigum men \u00fe\u00e6t \u00f0e lyca\u00f0"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "Ends imperfectly"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "cox572", 
+                    "page": "1972, pp. 5-17"
+                }, 
+                {
+                    "work": "mul932", 
+                    "page": "1835, pp. 28-48"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "220 mm x 142 mm (dimensions of fols 2-9 - size of leaves).\n198 mm x 100 mm (dimensions of fols 2-9 - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "binding": "Nineteenth-century binding.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown.", 
+        "provenance": "Acquired by <span class=\"name\">Sir Thomas Cotton</span>, possibly in three unbound units whose content is catalogued on fol. 14r of London, British Library, Add. 36683. On loan to <span class=\"name\">Henry Spelman</span> around 1615 (London, British Library, Harley 6018, fol. 159r; See <a href=\"#doa1195\">Doane</a> 2007, p. 11).", 
+        "acquisition": "Acquired by the British Museum along with the rest of the <a href=\"http://www.bl.uk/reshelp/findhelprestype/manuscripts/cottonmss/cottonmss.html\">Cotton collection </a>."
+    }, 
+    "admin": "Manuscript described by Orietta Da Rold with the assistance of Hollie Morgan, Owen Roberson and George Younge (2012).", 
+    "surrogate": true, 
+    "bib": [
+        "cox572", 
+        "cro1571", 
+        "doa1195", 
+        "dob617", 
+        "for963", 
+        "gne146", 
+        "gre962", 
+        "kem930", 
+        "ker44", 
+        "lai45", 
+        "bri1165", 
+        "pla1170", 
+        "mul932", 
+        "nap964", 
+        "neh965", 
+        "scr565", 
+        "wan470", 
+        "wri449"
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "id": "BL.Burn.277", 
+    "city": "London", 
+    "repository": "British Library", 
+    "collection": "Burney", 
+    "shelfmark": "277", 
+    "ker": "136", 
+    "content": "Laws of Alfred and Ine", 
+    "location": "Kentish", 
+    "date": "s.xi^{2}", 
+    "summary": "A fragment of the Alfred-Ine, which opens 'æfter þ<span class=\"expanded\">am</span> &nbsp;ƿ<span class=\"expanded\">ære awen</span>-dende' (chapter 44) and ends 'sunu oððe mæges' (chapter 47) (see <a href=\"#lie471\">Liebermann</a> 1903, pp. 88-98, who refers to this copy as Bu). Chapter numbering matches that in other copies.",
+    "items": [
+        {
+            "locus": "fol. 42",
+            "text": "B.14.4",
+            "notes": [
+                {
+                    "head": "Incipit",
+                    "body": "\u00e6fter \u00feam \u01bf\u00e6re a\u01bfedende \u00feas ure domas."
+                },
+                {
+                    "head": "Explicit",
+                    "body": "Gif mon el\u00feeodigne ofslea se kining an c\u01bfa\u00f0 ne d\u00e6l \u01bferes \u00f0riddan d\u00e6l sunu o\u00f0\u00f0e m\u00e6ges"
+                },
+                {
+                    "head": "Text Language",
+                    "body": "English"
+                }
+            ],
+            "bib": [
+                {
+                    "work": "ker44",
+                    "page": "1957, item 136"
+                }
+            ]
+        }
+    ],
+    "objectDesc": {
+        "form": "A central bifolium, now laid flat as a single sheet, bound in sideways.",
+        "support": null, 
+        "extent": "203 mm x 130 mm (dimensions of all - size of leaves).\n154 mm x 108 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": "25 long lines; top line is written on. Double bounding lines at both margins. Both sides of the bifolium, but especially fol. 42r, which formed the outside of the wrapper, are damaged and stained and in places illegible. The bifolium must have been detached from its original codex and used as a wrapper. <a href=\"#ker44\">Ker</a> (1957) notes that this probably happened in or before s. xiii, and refers to the Latin marginal notes and pen trials of this date. The area in the centre of the vertical fold in the bifolium will have formed the spine of the wrapper, and here there are traces of large upper-case letters, presumably from a title for the wrapper. Now only an upper-case <span class=\"c\">S</span> is clearly legible."
+    }, 
+    "handDesc": {
+        "number": "1", 
+        "summary": null,
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 136", 
+                "description": "fol. 42. 'A rough, ill-formed hand' (", 
+                "summary": "", 
+                "characters": [
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span>: often nearly the same size as <span class=\"c\">\u00f0</span>."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span>: quite often high (<a href=\"#ker44\">Ker</a> (1957) suggests that this is perhaps following the exemplar)."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span>: elongated on the last line of each page."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "The ligatures of <span class=\"c\">e</span> and a following letter are described by Ker as \u2018clumsy\u2019 (<a href=\"#ker44\">Ker</a> 1957)."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": ["Initials are black or red."],
+    "binding": null, 
+    "accompanying": null, 
+    "history": {
+        "origin": "<a href=\"#ker44\">Ker</a> (1957) reports Liebermann noting that the language and orthography suggest a <span class=\"name\">Kentish</span> origin (<a href=\"\">Liebermann</a> 1903, p. xx)", 
+        "provenance": null, 
+        "acquisition": "Now part of a bound volume of fragments which belonged to <span class=\"name\">Charles Burney</span> (d. 1814). This and other <span class=\"name\">Burney</span> manuscripts acquired by the <span class=\"name\">British Museum</span> in 1818."
+    }, 
+    "admin": "Manuscript described and encoded by Mary Swan with the assistance of Hollie Morgan, Orietta Da Rold and Thom Gobbitt, and with reference to published scholarship (August 2010; September 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "gne146", 
+        "ker44", 
+        "lie471", 
+        "bri1165", 
+        "scr565"
+    ]
+}

@@ -1,0 +1,81 @@
+{
+    "id": "Ox.Laud.Misc.413", 
+    "city": "Oxford", 
+    "repository": "Bodleian Library", 
+    "collection": "Laud Misc.", 
+    "shelfmark": "413", 
+    "ker": "342", 
+    "content": "Verses of St Godric", 
+    "location": "Durham", 
+    "date": "s.xii^{2}", 
+    "summary": "Some of the verses, in Latin and English, are part of the text of Reginald\u2019s <span class=\"italics\">Vita Sancti Godrici</span>. Others are added by a roughly contemporary hand which also added, in a margin, a note transcribed by <a href=\"#ker44\">Ker</a> (1957, p. 419) as follows: 'Caracalla est uestis uillosa. Que anglice dicitur. Bratt uel hakel'. Manuscript from <span class=\"name\">Durham</span>.", 
+    "items": [
+        {
+            "locus": "fol. 39v", 
+            "text": "A.46", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 39v) Sainte marie uirgine"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 39v) in godes riche"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker 1957, the verses on this folio are 'incorporated into the text by a nearly contemporary hand', which also added some Latin passages. [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 413"
+                }
+            ]
+        }, 
+        {
+            "locus": "fol. 47", 
+            "text": "A.46.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 47) Crist and Seinte Marie"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 47) bare fot itreide"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "According to Ker 1957, these verses are an original part of the text of Reginald's \"Vita Sancti Godrici\". [HM]"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "item 413"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": null, 
+    "handDesc": null, 
+    "decoration": null, 
+    "binding": null, 
+    "accompanying": null, 
+    "history": null, 
+    "admin": "Manuscript described by Mary Swan and Owen Roberson with the assistant of Hollie Morgan, with reference to published scholarship.", 
+    "surrogate": false, 
+    "bib": [
+        "#ker44"
+    ]
+}

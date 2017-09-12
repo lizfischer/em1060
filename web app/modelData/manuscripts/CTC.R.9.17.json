@@ -1,0 +1,291 @@
+{
+    "id": "CTC.R.9.17", 
+    "city": "Cambridge", 
+    "repository": "Trinity College", 
+    "collection": "", 
+    "shelfmark": "R. 9. 17 (819)", 
+    "ker": "89", 
+    "content": "\u00c6lfric's Grammar, Dicts of Cato, Glosses", 
+    "location": "Unknown", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 1-2", 
+            "text": "B.1.9.1.9.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 1) EGO \u00c6LFRICUS ut minus sapiens has excer | ptiones de prisciano minore"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 2) Gyf he nele his who gerihtan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }, 
+                {
+                    "work": "luc934"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 3-44", 
+            "text": "B.1.9.1.10.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 3) \u00e6hta d\u00e6las synd"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 44) O\u00f0re syndon englisce inter | iectiones"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English and Latin"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }, 
+                {
+                    "work": "luc934"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 44v-45r", 
+            "text": "B.1.9.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "Incipit (Latin): (fol. 44v) SECUNDUM DONATUM. Omnis uox aut articulata est"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 45r) uocales | 7 \u00fea six (ends imperfectly)"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "Latin and English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }, 
+                {
+                    "work": "luc934"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 45r-48r", 
+            "text": "B.7.1", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 45r) NE beo \u00feu to sl\u00e6por ne to idelgeorn"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 48r) Sc\u00fafan \u00f0eah simle \u00f0one | hl\u00e1ford beforan"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }, 
+                {
+                    "work": "luc934"
+                }
+            ]
+        }, 
+        {
+            "locus": "fols 48-65", 
+            "text": "B.7.1.1.EM", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 48) AC sanctus agustinus s\u00e6de swi\u00f0e swutul bispell by \u00f0y"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 65) \u00f0eah | he m\u00f3nigne f\u00f3t h\u00e6bbe"
+                }, 
+                {
+                    "head": "Text Language", 
+                    "body": "English"
+                }, 
+                {
+                    "head": "Note", 
+                    "body": "New paragraph but connected in subject to item 3."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "pp. 134-35"
+                }, 
+                {
+                    "work": "luc934"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment. Fols ii + 46. Fols 1, 2 are supply leaves, s. xvi.", 
+        "extent": "210 mm x 150 mm (dimensions of all - size of leaves).\n192 mm x 130 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "handDesc": {
+        "number": "1 in Booklet B", 
+        "summary": "These folios are written in an emulative Caroline minuscule and an emulative round late Anglo-Saxon insular minuscule.", 
+        "hands": [
+            {
+                "name": "main text", 
+                "scope": "sole", 
+                "script": "English Vernacular Minuscule", 
+                "scribe": "Ker 89 SC1", 
+                "description": "Fols 3-48.", 
+                "summary": "Latin and Old English are distinguished in the script.", 
+                "characters": [
+                    {
+                        "char": "a", 
+                        "note": "<span class=\"c\">a</span> is generally single compartment, but sometimes has a small head in the English, just as it does in the Latin."
+                    }, 
+                    {
+                        "char": "\u00e6", 
+                        "note": "After fol. 45, <span class=\"c\">\u00e6</span> often has a high <span class=\"c\">e</span>."
+                    }, 
+                    {
+                        "char": "d", 
+                        "note": "<span class=\"c\">d</span> is low and round-backed, with a slightly angular right side of to the bowl. The graph is straight-backed in Latin."
+                    }, 
+                    {
+                        "char": "e", 
+                        "note": "<span class=\"c\">e</span> has a long tongue. After fol. 45r, note horned <span class=\"c\">e</span> appears. Also after fol. 45r, there are many high <span class=\"c\">e</span> forms here in this quire: e.g., 'wenen', fol. 47v/26, where the <span class=\"c\">e</span> is like an <span class=\"c\">i</span> with a bulbous circle above it."
+                    }, 
+                    {
+                        "char": "f", 
+                        "note": "The medial stroke of <span class=\"c\">f</span> is on the line and almost straight. The upper shoulder curves slightly under to the left."
+                    }, 
+                    {
+                        "char": "g", 
+                        "note": "<span class=\"c\">g</span> in the Latin is almost eight-shaped, but the tail is not closed. Insular <span class=\"c\">g</span> in the English begins from the right of the headstroke and swoops down with a slight angularity to the curved and usually closed tail. Sometimes the onstroke of <span class=\"c\">g</span> and <span class=\"c\">t</span> begins with a tiny oblique attack line."
+                    }, 
+                    {
+                        "char": "h", 
+                        "note": "<span class=\"c\">h</span> is often caroline in both Latin and Old English. The ascender has an oblique tag to left and right of stem."
+                    }, 
+                    {
+                        "char": "l", 
+                        "note": "By fol. 34r, tops of ascenders of <span class=\"c\">l</span> have elaborate flags to the right at oblique angle."
+                    }, 
+                    {
+                        "char": "p", 
+                        "note": "<span class=\"c\">p</span> has a distinctive flat foot across the bottom of the descender. This is quite distinctive by the latter folios."
+                    }, 
+                    {
+                        "char": "r", 
+                        "note": "<span class=\"c\">r</span> is insular throughout but, after fol. 45r, the shoulder of the graph curves round very close to the descender, such that it resembles a <span class=\"c\">p</span> that is not quite closed."
+                    }, 
+                    {
+                        "char": "s", 
+                        "note": "<span class=\"c\">s</span> is low, long and high in form. As the manuscript progresses, the top of <span class=\"c\">s</span> begins to loop at little (not closed, but certainly looped). In Latin, suprascript <span class=\"c\">s</span> is used at the end of a line (fol. 12/14)."
+                    }, 
+                    {
+                        "char": "\u00f0", 
+                        "note": "<span class=\"c\">\u00f0</span> the crossbar, which is relatively close to the bowl, does not transect the upstroke. The crossbar flicks down at the end. The upstroke frequently ends with a tag down to the left, which becomes more prominent by fol. 44v."
+                    }, 
+                    {
+                        "char": "y", 
+                        "note": "<span class=\"c\">y</span> is straight-limbed, always dotted in middle, with a tail that flicks round to the right. After fol. 45r, round-limbed <span class=\"c\">y</span> appears."
+                    }, 
+                    {
+                        "char": "ascenders", 
+                        "note": "<span class=\"c\">ascenders</span> are tagged to the left often."
+                    }, 
+                    {
+                        "char": "descenders", 
+                        "note": "<span class=\"c\">descenders</span> are straight until a sudden flick to left at end. At fols 47v and 48r, the descenders at the last line extend into the lower margin."
+                    }, 
+                    {
+                        "char": "ligatures", 
+                        "note": "<span class=\"c\">ligatures</span> include an infrequent <span class=\"c\">st</span> ligature and a <span class=\"c\">ct</span> ligature in the Latin."
+                    }, 
+                    {
+                        "char": "accents", 
+                        "note": "<span class=\"c\">accents</span> on diphthongs and doubled vowels, 'iudic\u00ed\u00ed', '\u00fe\u00e9\u00f3d', 'g\u00f3\u00f3d'. These are placed at 30\u00b0, and are usually hairline and straight."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "The mark of abbreviation is cupped."
+                    }, 
+                    {
+                        "char": "hyphens", 
+                        "note": "<span class=\"c\">hyphens</span> at the beginning and end of lines are straight and at medial height (and quite notable). <span class=\"c\">Runover marks</span> are curved brackets with red decoration. Punctuation at the end of a section is akin to a colon followed by a <span class=\"c\">j</span>. <span class=\"c\">Punctus elevatus</span> occurs after fol. 45r."
+                    }, 
+                    {
+                        "char": "correction", 
+                        "note": "<span class=\"c\">correction</span> by insertion mark and interlinear emendation. Or, as at bottom of fol. 3v, 'wordu\u2019' corrected to 'word\u2019e\u2019' by subpunctus under <span class=\"c\">u</span> and actually a hairline stroke through it diagonally. Also some corrections by the miniator who came along to decorate the letters, because these are written with a red ink. e.g. fol. 6r/10 and 11, 'Englic' corrected to 'Engli\u2019s\u2019c' with red <span class=\"c\">s</span>."
+                    }
+                ], 
+                "date": null
+            }
+        ]
+    }, 
+    "decoration": null, 
+    "binding": "The binding is early nineteenth-century and is very tight, so that the frame rule and text go right in to the spine. There was heavy cropping so that in Booklet B the quire letters in red ochre crayon and some marginal additions only survive in part (<a href=\"#luc934\">Lucas 1997</a>, p. 35). Brown, plain leather binding measuring 217mm x 155mm. The edge is rather neatly finished with a tooled zig-zag all around the very fore-edges of the binding. On the spine are seven tooled sets of triple lines (no gold) and at the top, black <span class=\"c\">R</span> on white sticker, and at bottom '17' on white sticker. Red small leather square on spine and tooled in gold \u201cAlfrici / Grammat / Saxon / etc.\u201d in small caps. Foredge of the leaves all round are dyed red.", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown. According to <a href=\"#luc934\">Lucas 1997</a>, the fact that fol. 131 is a sixteenth-century cancel, having a paper pastedown (now lifted) imprinted with part of a statute relating to wages in <span class=\"name\">Southampton</span>, suggests that the booklets were brought together for the first time in the sixteenth century.", 
+        "provenance": "Unknown.", 
+        "acquisition": "Belonged to <span class=\"name\">John Parker</span>, <span class=\"name\">Archbishop Parker</span>'s son: part of number 40 in the list of his manuscripts in Lambeth Palace MS. 737 (<a href=\"#wan470\">Wanley 1705</a>, p. 167)."
+    }, 
+    "admin": "Manuscript described by Elaine Treharne with the assistance of Hollie Morgan and Sanne van der Schee (2010; 2013).", 
+    "surrogate": true, 
+    "bib": [
+        "alt921", 
+        "coc922", 
+        "cox572", 
+        "for923", 
+        "fri924", 
+        "gne146", 
+        "gre925", 
+        "har926", 
+        "hol927", 
+        "hol928", 
+        "jaf929", 
+        "kem930", 
+        "ker44", 
+        "loe931", 
+        "luc934", 
+        "mul932", 
+        "pen933", 
+        "str473", 
+        "tre107", 
+        "wan470", 
+        "zup447"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "id": "DCL.B.IV.24", 
+    "city": "Durham", 
+    "repository": "Cathedral Library", 
+    "collection": "", 
+    "shelfmark": "B. IV. 24", 
+    "ker": "109", 
+    "content": "Bilingual Rule of St. Benedict", 
+    "location": "Unknown", 
+    "date": "s.xi^{2}", 
+    "summary": null, 
+    "items": [
+        {
+            "locus": "fols 98v-123v", 
+            "text": "B.10.3.2", 
+            "notes": [
+                {
+                    "head": "Incipit", 
+                    "body": "(fol. 98v) Gehyr \u00feu min bearn geboda \u00feines lareowes"
+                }, 
+                {
+                    "head": "Explicit", 
+                    "body": "(fol. 123v) eallum\u00f0am \u00fee\u00f0issumregole fylia\u00f0. Amen."
+                }
+            ], 
+            "bib": [
+                {
+                    "work": "ker44", 
+                    "page": "1957, item 109"
+                }, 
+                {
+                    "work": "car879", 
+                    "page": "1898, p.161"
+                }
+            ]
+        }
+    ], 
+    "objectDesc": {
+        "form": "Codex", 
+        "support": "Parchment", 
+        "extent": "ca. 265 mm x ca. 180 mm (dimensions of all - size of page).\nca. 215 mm x ca. 140 mm (dimensions of all - size of written space).", 
+        "foliation": null, 
+        "collation": null, 
+        "layoutDescription": null, 
+        "note": null
+    }, 
+    "decoration": null, 
+    "binding": "Nineteenth-century binding (<a href=\"#ker44\">Ker</a> 1957, p. 149).", 
+    "accompanying": null, 
+    "history": {
+        "origin": "Unknown. <a href=\"#kef895\">Keefer</a> suggests that <span class=\"italics\">Rule of St Benedict</span> has 'a form better suited to a <span class=\"name\">Canterbury</span> origin in the 1080s than it does to <span class=\"name\">Durham Cathedral Priory</span>' (2007, p. 99).", 
+        "provenance": "<p>According to <a href=\"#sur786\">B[otfield]</a>, <span class=\"italics\">Rule of St Benedict</span> (fols 74-127) was at <span class=\"name\">Durham</span> by s. xi/xii and bound with fols 1-73 at least by 1391 (1838, p. 30). </p><p><a href=\"#ker44\">Ker</a> (1957) suggests that they were bound together much earlier, and that the whole manuscript is likely to be the 'Martyrologium et Regula' given to <span class=\"name\">Durham</span> by <span class=\"name\">Bishop William of St Carilef</span> (d. 1096). See also <a href=\"#sur786\">B[otfield]</a> 1838, p. 118. The Old English text is named as 'regula Sancti benedicti in gallico' by a late-fifteenth-century cataloguer of <span class=\"name\">Durham Cathedral Library </span>Durham (fol. 12). </p>", 
+        "acquisition": null
+    }, 
+    "admin": "Manuscript described by Owen Roberson and Takako Kato with the assistance of Hollie Morgan and Johanna Green (September 2012).", 
+    "surrogate": true, 
+    "bib": [
+        "sur786", 
+        "bar878", 
+        "bro204", 
+        "car879", 
+        "cow880", 
+        "dub881", 
+        "gne146", 
+        "gre882", 
+        "gul794", 
+        "gul883", 
+        "gul700", 
+        "han884", 
+        "kef895", 
+        "ker44", 
+        "kno885", 
+        "lec886", 
+        "moo887", 
+        "myn182", 
+        "pip888", 
+        "pip889", 
+        "pip384", 
+        "rol231", 
+        "rol890", 
+        "rol705", 
+        "rol230", 
+        "san891", 
+        "sch892", 
+        "scr565", 
+        "tur893", 
+        "894"
+    ]
+}
