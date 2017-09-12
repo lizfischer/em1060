@@ -11,9 +11,9 @@
     var mss = [];
     var fs = require('fs');
     var msFiles = [];
-    fs.readdir('./modelData/manuscripts/', function (err, items) {
+    fs.readdir('./data/manuscripts/', function (err, items) {
         for (var i = 0; i < items.length; i++) {
-            var file = './manuscripts/' + items[i];
+            var file = '../data/manuscripts/' + items[i];
             mss[i] = require(file);
         }
     });
@@ -32,7 +32,7 @@
         return null;
     };
 
-    var bibEntries = require("./bib.json");
+    var bibEntries = require("../data/bib.json");
     var bibListModel = function(){
         return bibEntries;
     };
@@ -45,6 +45,11 @@
         return null;
     };
 
+    var texts = require("../data/texts.json");
+    var textModel = function () {
+        return texts;
+    };
+    
     var schemaModel = function (){
         return schemaInfo;
     };
@@ -53,6 +58,7 @@
         manuscriptListModel: manuscriptListModel,
         manuscriptModel: manuscriptModel,
         bibListModel: bibListModel,
+        textListModel: textModel,
         bibModel: bibModel,
         schemaInfo: schemaModel
     };

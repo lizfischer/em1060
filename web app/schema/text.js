@@ -7,9 +7,9 @@
 var mongoose = require('mongoose');
 
 var textSchema = new mongoose.Schema({
-    id: String,
     cameron: String,
-    title: String
+    title: String,
+    supplied: Boolean
 });
 
 

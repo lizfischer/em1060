@@ -2,511 +2,221 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb2c11ee-bb91-41fa-a406-6024b1f3d19c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/LO1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/LO2.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/LO3.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/LO4.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/LO5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/LO6.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/diagram/CULIi1.33_di.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/down-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/up-arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._dateBar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xi.2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xi.med.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xi.xii-xii.in.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xii.1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xii.2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xii.ex-xiii.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/._date_xii.med.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/dateBar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xi.2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xi.med.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xi.xii-xii.in.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xii.1.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xii.2.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xii.ex-xiii.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexChronology/date_xii.med.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Bede.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Biblical.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Boethius.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Cartularies.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Chronicles.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Documents.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Ecclesiastical.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Gloss.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Gospels.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Grammar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Gregory.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Hagiographies.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Herbal.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Hexateuch.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Homilies.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Laws.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Manumissions.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Other_Religious.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Others.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Pontifical.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Prayers.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Rules.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Scientific.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/._Sermons.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Bede.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Biblical.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Boethius.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Cartularies.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Chronicles.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Documents.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Ecclesiastical.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Gloss.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Gospels.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Grammar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Gregory.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Hagiographies.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Herbal.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Hexateuch.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Homilies.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Laws.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Manumissions.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Other_Religious.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Others.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Pontifical.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Prayers.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Rules.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Scientific.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexContents/Sermons.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexFrench.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexItems.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexLocalisation.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexLocalisationMap.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexMss.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexNames.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexOrg.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexPlaces.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/IndexTexts.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/Layout_PDF/catalogueBar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/ack.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/catalogueBar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/desc.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/editorial.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/facsimiles.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/guid.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/indecesBar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/indices.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/indicesBar.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/intro.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/mss.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/msslist.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/mssportal.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/principles.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/surrogates.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/catalogue/templates.htm" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/escapeQuotes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/manuscripts.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/getDetails.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/python/tidy.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/desc.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/emtemplate.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/emtemplate_print.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/fixed-nav-bar-narrow.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/fixed-nav-bar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/map.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/presentation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/printer.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/styles/table_sort.css" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.28188.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.37517.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.40000.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.46204.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Arun.155.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Arun.60.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Burn.277.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Cali.A.xiv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Cali.A.xv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Clau.B.iv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Clau.D.iii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Cleo.B.xiii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Domi.ix.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Domi.vii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Domi.viii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.ix.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.v.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.A.x.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Faus.B.iii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.1005.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.107.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.2110.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.2961.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.3013.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.3667.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.55.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.6258B.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Harl.863.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Juli.A.ii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Juli.A.vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Nero.A.i.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Nero.E.i.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.A.xiii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.B.x.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.C.i.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Otho.C.i.2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.1.A.xiv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.A.viii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.10.C.v.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.12.G.xii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.15.B.xxii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.2.B.v.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.4.A.xiv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.5.E.xi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.6.B.vii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.7.C.iv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Roya.7.D.ii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.104.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.57.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Stow.944.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.ii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.iii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.A.xiii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.B.i.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.B.iv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.C.i.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Tibe.C.vi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Titu.A.iv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Titu.D.xxiv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.A.xxii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xiv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vesp.D.xxi.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.A.xii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.A.xv.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.C.iii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xvii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.D.xx.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/BL.Vite.E.xviii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Bodm.2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Br.BR8558-63.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.111.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.140.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.173.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.178.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.183.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.190.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.191.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.196.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.198.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.201.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.23.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.265.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.302.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.303.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.321.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.322.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.367.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.383.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.391.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.421.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.422.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.473.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.557.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CCCC.9.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.302.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.312.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.82.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CPem.83.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CSSC.100.ii.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.B.11.2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.B.14.52.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.B.15.34.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.O.2.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.15.32.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.17.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.7.28.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CTC.R.9.17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Add.3206.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ff.1.23.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ff.1.27.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Hh.1.10.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.1.33.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.11.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.2.4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Ii.4.6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Kk.3.18.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Kk.5.32.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CUL.Mm.4.28.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/CanCL.Add.20.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/D.Hunt.100.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/DCL.B.IV.24.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/DMU.Cosi.V.ii.6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Dr.Sach.DC187.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ely.Cat.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/G.Hunt.229.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/GCL.35.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Haarlem.188.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/HerCL.P.i.17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/HerCL.P.i.2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/HerCL.P.v.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/LCL.298.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/LSA.60.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.173.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.204.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.427.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.487.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Lamb.489.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/NY.PML.G.63.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/No.BH.6864.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.ASC.38.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Ashm.1431.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Ashm.328.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.D.2.14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.D.2.16.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.1.15.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.2.14.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.3.6.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Auct.F.4.32.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.130.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.155.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.163.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.180.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.297.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.340.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.343.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.579.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.708.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Bodl.730.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.CCC.197.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Digb.146.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Digb.211.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.113.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.114.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.115.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.116.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.20.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.38.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.43.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Hatt.76.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.JC.26.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.121.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.85.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Juni.86.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.LC.Lat.31.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Lat.Misc.d.13.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.243.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.413.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.482.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.509.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.567.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Laud.Misc.636.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.MC.Lat.105.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Nor.81.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Rawl.C.641.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.Rawl.G.57.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ox.SJ.17.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/P.BN.Lat.8824.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/P.BN.Lat.8846.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Pryc.C2.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Pryc.C2.2.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/RCL.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Ro.BM.l.49.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/SCL.131.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/SCL.150.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Schloss.HS.Br.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Stonyh.69.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/TCD.174(B.4.3).json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/TCD.492.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Taunton.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/To.BM.134.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/Well.CL.7.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/WorcCL.F.174.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/python/manuscripts/YM.1.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/angular-messages.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/angular-messages.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/angular-messages.min.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/angular-messages/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/lib/read.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/lib/types/json.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/lib/types/raw.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/lib/types/text.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/lib/types/urlencoded.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/bytes/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/bytes/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/bytes/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/bytes/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/bytes/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/content-type/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/content-type/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/content-type/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/content-type/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/content-type/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/.jshintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/Makefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/debug.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node_modules/ms/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node_modules/ms/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node_modules/ms/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node_modules/ms/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node_modules/ms/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/node_modules/ms/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/debug/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/lib/browser/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/lib/compat/buffer-concat.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/lib/compat/callsite-tostring.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/lib/compat/event-listener-count.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/lib/compat/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/depd/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/inherits.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/inherits_browser.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/inherits/test.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/codes.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/node_modules/statuses/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/http-errors/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/Changelog.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/dbcs-codec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/dbcs-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/internal.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-codec.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-data-generated.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/sbcs-data.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/big5-added.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp936.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp949.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/cp950.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/eucjp.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gb18030-ranges.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/gbk-added.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/tables/shiftjis.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/utf16.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/encodings/utf7.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/lib/bom-handling.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/lib/extend-node.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/lib/streams.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/iconv-lite/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/node_modules/ee-first/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/on-finished/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/.eslintignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/.eslintrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/CHANGELOG.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/CONTRIBUTING.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/bower.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/component.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/dist/qs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/lib/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/lib/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/lib/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/lib/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/test/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/test/parse.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/test/stringify.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/qs/test/utils.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/node_modules/unpipe/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/raw-body/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/media-typer/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/node_modules/mime-types/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/node_modules/type-is/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/body-parser/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie-signature/.npmignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie-signature/History.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie-signature/Readme.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie-signature/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie-signature/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie/HISTORY.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/node_modules/cookie/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/node_modules/cookie-parser/package.json" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/em1060.iml" afterPath="$PROJECT_DIR$/.idea/em1060.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/python/items.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/bib.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.28188.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.34652.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.40000.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.46204.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.9381.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Arun.155.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Arun.60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Burn.277.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Cali.A.xiv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Cali.A.xv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Clau.B.iv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Clau.D.iii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Cleo.B.xiii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Domi.ix.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Domi.vii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Domi.viii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Faus.A.ix.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Faus.A.v.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Faus.A.x.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Faus.B.iii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.1005.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.107.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.2110.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.2961.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.3013.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.3667.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.55.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.6258B.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.863.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Juli.A.ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Juli.A.vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Nero.A.i.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Nero.E.i.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Otho.A.xiii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Otho.B.x.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Otho.C.i.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Otho.C.i.2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.1.A.xiv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.10.A.viii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.10.C.v.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.12.G.xii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.15.B.xxii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.2.B.v.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.4.A.xiv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.5.E.xi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.6.B.vii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.7.C.iv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.7.D.ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Stow.104.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Stow.2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Stow.57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Stow.944.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.A.ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.A.iii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.A.xiii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.B.i.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.B.iv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.C.i.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Tibe.C.vi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Titu.A.iv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Titu.D.xxiv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vesp.A.xxii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vesp.D.xii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vesp.D.xiv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vesp.D.xxi.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vite.A.xii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vite.A.xv.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vite.C.iii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vite.D.xvii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vite.D.xx.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/BL.Vite.E.xviii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Bodm.2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Br.BR8558-63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.111.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.140.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.173.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.178.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.183.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.190.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.191.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.196.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.198.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.201.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.265.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.302.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.303.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.321.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.322.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.367.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.383.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.391.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.421.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.422.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.473.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.557.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CCCC.9.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CPem.302.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CPem.312.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CPem.82.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CPem.83.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CSSC.100.ii.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.B.11.2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.B.14.52.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.B.15.34.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.O.2.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.R.15.32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.R.17.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.R.7.28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CTC.R.9.17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Add.3206.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ff.1.23.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ff.1.27.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Hh.1.10.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ii.1.33.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ii.2.11.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ii.2.4.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ii.4.6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Kk.3.18.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Kk.5.32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Mm.4.28.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/CanCL.Add.20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/D.Hunt.100.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/DCL.B.IV.24.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/DMU.Cosi.V.ii.6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Dr.Sach.DC187.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ely.Cat.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/G.Hunt.229.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/GCL.35.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Haarlem.188.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/HerCL.P.i.17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/HerCL.P.i.2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/HerCL.P.v.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/LCL.298.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/LSA.60.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Lamb.173.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Lamb.204.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Lamb.427.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Lamb.487.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Lamb.489.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/NY.PML.G.63.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/No.BH.6864.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.ASC.38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Ashm.1431.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Ashm.328.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Auct.D.2.14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Auct.D.2.16.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Auct.F.1.15.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Auct.F.2.14.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Auct.F.3.6.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Auct.F.4.32.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.130.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.155.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.163.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.180.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.297.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.340.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.343.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.579.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.708.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Bodl.730.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.CCC.197.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Digb.146.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Digb.211.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.113.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.114.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.115.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.116.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.20.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.38.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.43.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Hatt.76.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.JC.26.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Juni.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Juni.121.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Juni.85.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Juni.86.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.LC.Lat.31.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Lat.Misc.d.13.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Laud.Misc.243.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Laud.Misc.413.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Laud.Misc.482.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Laud.Misc.509.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Laud.Misc.567.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Laud.Misc.636.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.MC.Lat.105.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Nor.81.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Rawl.C.641.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.Rawl.G.57.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ox.SJ.17.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/P.BN.Lat.8824.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/P.BN.Lat.8846.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Pryc.C2.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Pryc.C2.2.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/RCL.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Ro.BM.l.49.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/SCL.131.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/SCL.150.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Schloss.HS.Br.1.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Stonyh.69.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/TCD.174(B.4.3).json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/TCD.492.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Taunton.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/To.BM.134.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/Well.CL.7.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/WorcCL.F.174.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/web app/modelData/manuscripts/YM.1.json" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EM 1060 Info.docx" afterPath="$PROJECT_DIR$/EM 1060 Info.docx" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/data/texts.json" afterPath="$PROJECT_DIR$/web app/data/texts.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/loadDatabase.js" afterPath="$PROJECT_DIR$/web app/loadDatabase.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/modelData/em1060Data.js" afterPath="$PROJECT_DIR$/web app/modelData/em1060Data.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/schema/manuscript.js" afterPath="$PROJECT_DIR$/web app/schema/manuscript.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/web app/schema/text.js" afterPath="$PROJECT_DIR$/web app/schema/text.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -524,99 +234,58 @@
     <favorites_list name="em1060" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5767659">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="loadDatabase.js" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web app/loadDatabase.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="578">
-                  <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BL.Add.9381.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.9381.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BL.Add.28188.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.28188.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="368">
-                  <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bib.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web app/modelData/bib.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BL.Burn.277.json" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Burn.277.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="459">
-                  <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="manuscript.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web app/schema/manuscript.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="bib.js" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/web app/schema/bib.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="289">
-                  <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="BL.Arun.60.json" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Arun.60.json">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
-                  <folding>
-                    <element signature="e#881#4121#0" expanded="false" />
-                    <element signature="n#!!block;n#handDesc#0;n#!!top" expanded="false" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="loadDatabase.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web app/loadDatabase.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="text.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web app/schema/text.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="em1060Data.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web app/modelData/em1060Data.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainController.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web app/mainController.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="349">
+              <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="texts.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web app/data/texts.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -647,13 +316,21 @@
         <option value="$PROJECT_DIR$/manuscripts/CUL.Hh.1.10.json" />
         <option value="$PROJECT_DIR$/web app/schema/manuscript.js" />
         <option value="$PROJECT_DIR$/web app/schema/bib.js" />
-        <option value="$PROJECT_DIR$/web app/loadDatabase.js" />
         <option value="$PROJECT_DIR$/web app/modelData/em1060Data.js" />
+        <option value="$PROJECT_DIR$/web app/schema/text.js" />
+        <option value="$PROJECT_DIR$/web app/loadDatabase.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
   </component>
@@ -774,11 +451,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="modelData" />
+              <option name="myItemId" value="data" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="em1060" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="em1060" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="manuscripts" />
+              <option name="myItemId" value="python" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -797,6 +484,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Liz\Desktop\em1060\web app\data" />
       <recent name="C:\Users\Liz\Desktop\em1060\web app\modelData" />
       <recent name="C:\Users\Liz\Desktop\em1060" />
       <recent name="C:\Users\Liz\Desktop\em1060\python" />
@@ -817,6 +505,24 @@
   <component name="RunManager" selected="Node.js.loadDatabase.js">
     <configuration default="false" name="em1060Data.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="em1060Data.js" working-dir="$PROJECT_DIR$/web app/modelData">
       <method />
+    </configuration>
+    <configuration name="getItems" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="em1060" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python/getItems.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
     <configuration default="false" name="loadDatabase.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="loadDatabase.js" working-dir="$PROJECT_DIR$/web app">
       <method />
@@ -883,10 +589,8 @@
       <item index="2" class="java.lang.String" itemvalue="Node.js.manuscript.js" />
     </list>
     <recent_temporary>
-      <list size="3">
+      <list size="1">
         <item index="0" class="java.lang.String" itemvalue="Node.js.loadDatabase.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.manuscript.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.em1060Data.js" />
       </list>
     </recent_temporary>
   </component>
@@ -905,12 +609,12 @@
       <updated>1503370239527</updated>
       <workItem from="1503372238034" duration="10323000" />
       <workItem from="1504326882689" duration="4109000" />
-      <workItem from="1505086887599" duration="6602000" />
+      <workItem from="1505086887599" duration="9265000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21034000" />
+    <option name="totallyTimeSpent" value="24862000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -960,57 +664,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/web app/loadDatabase.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="748">
-          <caret line="44" column="7" selection-start-line="44" selection-start-column="7" selection-end-line="44" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Burn.277.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/schema/manuscript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/em1060Data.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/loadDatabase.js">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
           <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Burn.277.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Burn.277.json" />
     <entry file="file://$PROJECT_DIR$/web app/schema/manuscript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,13 +686,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.7.D.ii.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.7.D.ii.json" />
     <entry file="file://$PROJECT_DIR$/escapeQuotes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1036,69 +694,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.15.B.xxii.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1582">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/YM.1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.4.A.xiv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.5.E.xi.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.6.B.vii.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.55.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-357">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Harl.1005.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Otho.C.i.1.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Otho.C.i.2.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.15.B.xxii.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/YM.1.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.4.A.xiv.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.5.E.xi.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.6.B.vii.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Harl.55.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Harl.1005.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Otho.C.i.1.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Otho.C.i.2.json" />
     <entry file="file://$PROJECT_DIR$/escapeQuotes">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1106,69 +710,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Clau.D.iii.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.7.C.iv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="242" column="18" selection-start-line="242" selection-start-column="18" selection-end-line="242" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Cleo.B.xiii.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-408">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Roya.7.D.ii.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.46204.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="402" column="329" selection-start-line="402" selection-start-column="329" selection-end-line="402" selection-end-column="329" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ff.1.27.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Ii.2.11.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Hh.1.10.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="1" selection-start-line="0" selection-start-column="1" selection-end-line="0" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/CUL.Add.3206.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Clau.D.iii.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.7.C.iv.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Cleo.B.xiii.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Roya.7.D.ii.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Add.46204.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/CUL.Ff.1.27.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/CUL.Ii.2.11.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/CUL.Hh.1.10.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/CUL.Add.3206.json" />
     <entry file="file://$PROJECT_DIR$/web app/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1176,132 +726,116 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Cali.A.xiv.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Burn.277.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/webServer.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Cali.A.xiv.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Burn.277.json" />
     <entry file="file://$PROJECT_DIR$/web app/schema/author.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/errors.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/errors.json" />
     <entry file="file://$PROJECT_DIR$/manuscripts.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-805">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/tidy.py">
+    <entry file="file://$PROJECT_DIR$/python/tidy.py" />
+    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/bib.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Add.9381.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Add.28188.json" />
+    <entry file="file://$PROJECT_DIR$/web app/data/manuscripts/BL.Arun.60.json" />
+    <entry file="file://$PROJECT_DIR$/web app/webServer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="323">
+          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/python/manuscripts/BL.Add.9381.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/schema/bib.js" />
     <entry file="file://$PROJECT_DIR$/web app/schema/manuscript.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/components/static/preface.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/python/manuscripts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/components/static/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/texts.json" />
+    <entry file="file://$PROJECT_DIR$/web app/mainController.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="349">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/schema/bib.js">
+    <entry file="file://$PROJECT_DIR$/python/getItems.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        <state relative-caret-position="306">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web app/data/texts.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web app/modelData/em1060Data.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="36" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
+        <state relative-caret-position="612">
+          <caret line="60" column="33" selection-start-line="60" selection-start-column="33" selection-end-line="60" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/bib.json">
+    <entry file="file://$PROJECT_DIR$/web app/schema/text.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.9381.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Arun.60.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="127" column="40" selection-start-line="127" selection-start-column="40" selection-end-line="127" selection-end-column="40" />
-          <folding>
-            <element signature="e#881#4121#0" expanded="false" />
-            <element signature="n#!!block;n#handDesc#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web app/modelData/manuscripts/BL.Add.28188.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="114" column="12" selection-start-line="114" selection-start-column="12" selection-end-line="114" selection-end-column="12" />
+        <state relative-caret-position="136">
+          <caret line="8" column="38" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/web app/loadDatabase.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="34" column="36" selection-start-line="34" selection-start-column="36" selection-end-line="34" selection-end-column="36" />
+        <state relative-caret-position="357">
+          <caret line="21" column="64" selection-start-line="21" selection-start-column="64" selection-end-line="21" selection-end-column="64" />
           <folding />
         </state>
       </provider>
